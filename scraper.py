@@ -15,9 +15,9 @@ import time
 
 # ── Cấu hình ─────────────────────────────────────────────────────────────────
 OUTPUT_FILE   = "streams.json"
-SOURCE_NAME   = "Bún Chả TV"          # tên nguồn hiển thị trong monplayer
-PLAYLIST_ID   = "buncha"              # id playlist trong monplayer
-PLAYLIST_NAME = "Bún Chả TV"
+SOURCE_NAME   = "Bánh Bao TV"          # tên nguồn hiển thị trong monplayer
+PLAYLIST_ID   = "banhbao"              # id playlist trong monplayer
+PLAYLIST_NAME = "Bánh Bao TV"
 
 # ⚠️  QUAN TRỌNG: Điền URL GitHub Pages của bạn vào đây sau khi deploy!
 # Monplayer dùng URL này để tự động refresh playlist (lấy link m3u8 mới).
@@ -25,7 +25,7 @@ PLAYLIST_NAME = "Bún Chả TV"
 # Ví dụ: "https://YOUR_USERNAME.github.io/Get-IPTV/streams.json"
 PLAYLIST_URL  = "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/streams.json"
 
-LOGO_URL      = "https://kaytee1012.github.io/buncha_logo.png"
+LOGO_URL      = "https://scontent.fhan5-10.fna.fbcdn.net/v/t39.30808-6/580821357_1151084077132266_6103102651618107715_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=dd6889&_nc_eui2=AeHUhbo5R5NFXmgOsxANQC8gQnG2fAweQLJCcbZ8DB5AspcyzbUEI3Fnt2SR9nPUCJIxSOvjCFwBmURc4-UcM0m7&_nc_ohc=NfNQg-r-20MQ7kNvwFQH_Hs&_nc_oc=Adlx7DDa7esB8i9ImfAcuFbsTHFW6crNh8CbWHDzXj4R7GOrWtSFEJCjwlWjihJRg9OdDKehAdO6jiKBcpo7NaXa&_nc_zt=23&_nc_ht=scontent.fhan5-10.fna&_nc_gid=hYKh8Di3yDWxq5OwpW28nQ&_nc_ss=8&oh=00_AfwW4Se45di6s_O1g06AmqYWNCKGt41h8Gv5LClCaWpo8g&oe=69B4B51E"
 # ─────────────────────────────────────────────────────────────────────────────
 
 SPORT_EMOJI = {
@@ -186,6 +186,9 @@ class BunchaTVScraper:
             resp.raise_for_status()
             html = resp.text
 
+            # Lấy og:image làm thumbnail composite (ảnh ghép 2 đội)
+            # (bỡ qua - trang detail không có og:image)
+
             # Tìm tất cả m3u8 từ jwplayer file: "..."
             found = re.findall(
                 r"""['"']file['"']\s*:\s*['"']\s*(https?://[^'"']+\.m3u8[^'"']*)['"]\s*""",
@@ -207,11 +210,11 @@ class BunchaTVScraper:
                     seen_urls.add(u)
                     unique.append(u)
 
-            return unique
+            return unique, ""
 
         except Exception as e:
             print(f"    ✗ Lỗi trang detail ({url}): {e}")
-            return []
+            return [], ""
 
     # ── Bước 3: Xuất JSON định dạng monplayer ────────────────────────────────
 
@@ -233,7 +236,6 @@ class BunchaTVScraper:
             page_url   = m["page_url"]
             logo_a     = m["logo_a"]
             logo_b     = m["logo_b"]
-            # Dùng logo_a làm thumbnail card
             thumbnail  = logo_a
 
             emoji = _sport_emoji(league)
@@ -361,8 +363,9 @@ def main():
     # Bước 2: Lấy stream links cho từng trận
     print(f"\nĐang lấy stream links cho {len(matches)} trận...")
     for m in matches:
-        stream_links = scraper.get_stream_links(m)
+        stream_links, _ = scraper.get_stream_links(m)
         m["stream_links"] = stream_links
+        m["og_image"] = ""
         status = f"{len(stream_links)} link(s)" if stream_links else "✗ không có stream"
         print(f"  [{status}] {m['title']} ({m['match_time']})")
         time.sleep(0.4)   # tránh spam
