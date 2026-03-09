@@ -40,7 +40,8 @@ jobs:
     - name: Check if streams.json changed
       id: check_changes
       run: |
-        if git diff --quiet streams.json; then
+        git add streams.json thumbs/ 2>/dev/null || true
+        if git diff --cached --quiet; then
           echo "changed=false" >> $GITHUB_OUTPUT
         else
           echo "changed=true" >> $GITHUB_OUTPUT
@@ -51,7 +52,6 @@ jobs:
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git add streams.json
         git commit -m "🔄 Auto update streams - $(date '+%Y-%m-%d %H:%M:%S UTC')"
         git push
       env:

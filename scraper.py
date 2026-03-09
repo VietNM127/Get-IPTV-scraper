@@ -9,9 +9,12 @@ import requests
 import json
 import re
 import hashlib
+import os
+import io
 from datetime import datetime
 from bs4 import BeautifulSoup
 import time
+from PIL import Image, ImageDraw, ImageFont
 
 # ── Cấu hình ─────────────────────────────────────────────────────────────────
 OUTPUT_FILE   = "streams.json"
@@ -54,6 +57,53 @@ def _channel_id(match_id: str) -> str:
 def _link_id(url: str) -> str:
     """Tạo link ID dạng lnk-XXXXXXXXXX (10 hex chars)"""
     return f"lnk-{_short_id(url, 10)}"
+
+
+def generate_thumb(logo_a_url: str, logo_b_url: str, channel_id: str, session) -> str:
+    """
+    Tạo ảnh composite 800x600: [logo A] VS [logo B]
+    Lưu vào thumbs/CHANNEL_ID.png, trả về đường dẫn file.
+    """
+    W, H = 800, 600
+    BG = (236, 236, 236)
+    img = Image.new("RGB", (W, H), BG)
+
+    def paste_logo(url, center_x):
+        if not url:
+            return
+        try:
+            r = session.get(url, timeout=8)
+            r.raise_for_status()
+            logo = Image.open(io.BytesIO(r.content)).convert("RGBA")
+            logo.thumbnail((260, 260), Image.LANCZOS)
+            # Tạo nền trắng mờ cho logo
+            bg = Image.new("RGBA", logo.size, (236, 236, 236, 255))
+            bg.paste(logo, mask=logo.split()[3])
+            final = bg.convert("RGB")
+            x = center_x - final.width // 2
+            y = H // 2 - final.height // 2
+            img.paste(final, (x, y))
+        except Exception:
+            pass
+
+    paste_logo(logo_a_url, W // 4)        # Logo A: 1/4 từ trái
+    paste_logo(logo_b_url, 3 * W // 4)   # Logo B: 3/4 từ trái
+
+    # Vẽ chữ "VS" ở giữa
+    draw = ImageDraw.Draw(img)
+    try:
+        font = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", 90)
+    except Exception:
+        try:
+            font = ImageFont.truetype("arial.ttf", 90)
+        except Exception:
+            font = ImageFont.load_default()
+    draw.text((W // 2, H // 2), "VS", fill="#e84545", font=font, anchor="mm")
+
+    os.makedirs("thumbs", exist_ok=True)
+    path = f"thumbs/{channel_id}.png"
+    img.save(path, "PNG", optimize=True)
+    return path
 
 
 class BunchaTVScraper:
@@ -236,7 +286,16 @@ class BunchaTVScraper:
             page_url   = m["page_url"]
             logo_a     = m["logo_a"]
             logo_b     = m["logo_b"]
-            thumbnail  = logo_a
+
+            # Tạo ảnh composite 2 logo
+            uid = _channel_id(match_id)
+            thumb_path = generate_thumb(logo_a, logo_b, uid, self.session)
+            # URL public trên GitHub raw
+            thumb_url = (
+                f"https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/{thumb_path}"
+                if thumb_path else logo_a
+            )
+            thumbnail = thumb_url
 
             emoji = _sport_emoji(league)
             label_text  = "● Live"       if is_live else "⏳ Sắp Live"
@@ -257,21 +316,20 @@ class BunchaTVScraper:
                     ],
                 })
 
-            uid = _channel_id(match_id)
             thumb_key = f"thumbs/{uid}.webp"
             channel = {
                 "id":             uid,
                 "name":           f"{emoji} {title} | {match_time}",
                 "type":           "single",
-                "display":        "thumbnail-only",
+                "display":        "vertical",
                 "enable_detail":  False,
                 "image": {
-                    "padding":          1,
+                    "padding":          0,
                     "background_color": "#ececec",
                     "display":          "contain",
                     "url":              thumbnail,
-                    "width":            1600,
-                    "height":           1200,
+                    "width":            800,
+                    "height":           600,
                 },
                 "labels": [{
                     "text":       label_text,

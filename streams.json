@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://scontent.fhan5-10.fna.fbcdn.net/v/t39.30808-6/580821357_1151084077132266_6103102651618107715_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=dd6889&_nc_eui2=AeHUhbo5R5NFXmgOsxANQC8gQnG2fAweQLJCcbZ8DB5AspcyzbUEI3Fnt2SR9nPUCJIxSOvjCFwBmURc4-UcM0m7&_nc_ohc=NfNQg-r-20MQ7kNvwFQH_Hs&_nc_oc=Adlx7DDa7esB8i9ImfAcuFbsTHFW6crNh8CbWHDzXj4R7GOrWtSFEJCjwlWjihJRg9OdDKehAdO6jiKBcpo7NaXa&_nc_zt=23&_nc_ht=scontent.fhan5-10.fna&_nc_gid=hYKh8Di3yDWxq5OwpW28nQ&_nc_ss=8&oh=00_AfwW4Se45di6s_O1g06AmqYWNCKGt41h8Gv5LClCaWpo8g&oe=69B4B51E"
   },
-  "updated_at": "2026-03-09T22:37:20.444067",
+  "updated_at": "2026-03-09T23:03:15.891686",
   "groups": [
     {
       "id": "live",
@@ -18,104 +18,18 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-8aacd78fcab2",
-          "name": "⚽ Punjab FC vs Northeast United | 21:00 09/03",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://cdn.rapid-api.icu/football/team/4e120222885562430b61627e85374a80.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601293433",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601293433",
-                  "name": "Punjab FC vs Northeast United",
-                  "streams": [
-                    {
-                      "id": "st-601293433",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-dcb08a8b24",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69aeca2170a67_79/index.m3u8?expire=1773667489&sign=0d857aacee4c91f5f72011ee7803fab2",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/punjab-fc-vs-northeast-united-2100-09-03-2026/601293433"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-52703fa36a",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/4d988aabf8b5e50f12b3960e4f1e9fda/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/punjab-fc-vs-northeast-united-2100-09-03-2026/601293433"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Indian Super League",
-            "team_a": "Punjab FC",
-            "team_b": "Northeast United",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/4e120222885562430b61627e85374a80.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/b019c0b2f14edb23e5c9a10a37a2e548.png",
-            "thumb": "https://cdn.rapid-api.icu/football/team/4e120222885562430b61627e85374a80.png",
-            "thumb_key": "thumbs/kaytee-8aacd78fcab2.webp"
-          }
-        },
-        {
           "id": "kaytee-a7b0fae60688",
           "name": "⚽ Arsenal Tula vs Volga Ulyanovsk | 21:00 09/03",
           "type": "single",
-          "display": "thumbnail-only",
+          "display": "vertical",
           "enable_detail": false,
           "image": {
-            "padding": 1,
+            "padding": 0,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://cdn.rapid-api.icu/football/team/cd338eefa3f2d8f275a952bd55d06b6b.png",
-            "width": 1600,
-            "height": 1200
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a7b0fae60688.png",
+            "width": 800,
+            "height": 600
           },
           "labels": [
             {
@@ -185,7 +99,7 @@
             "team_b": "Volga Ulyanovsk",
             "logo_a": "https://cdn.rapid-api.icu/football/team/cd338eefa3f2d8f275a952bd55d06b6b.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/ae7b34750e76cbf545c4f36abf550829.png",
-            "thumb": "https://cdn.rapid-api.icu/football/team/cd338eefa3f2d8f275a952bd55d06b6b.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a7b0fae60688.png",
             "thumb_key": "thumbs/kaytee-a7b0fae60688.webp"
           }
         },
@@ -193,15 +107,15 @@
           "id": "kaytee-1efe9054131a",
           "name": "⚽ Zira FK vs FK Kapaz Ganca | 21:30 09/03",
           "type": "single",
-          "display": "thumbnail-only",
+          "display": "vertical",
           "enable_detail": false,
           "image": {
-            "padding": 1,
+            "padding": 0,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://cdn.rapid-api.icu/football/team/78d040926970a0ccc54c3b1f13a6d568.png",
-            "width": 1600,
-            "height": 1200
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1efe9054131a.png",
+            "width": 800,
+            "height": 600
           },
           "labels": [
             {
@@ -271,7 +185,7 @@
             "team_b": "FK Kapaz Ganca",
             "logo_a": "https://cdn.rapid-api.icu/football/team/78d040926970a0ccc54c3b1f13a6d568.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/6e7d0a85acba4a7748913610852cc9cc.png",
-            "thumb": "https://cdn.rapid-api.icu/football/team/78d040926970a0ccc54c3b1f13a6d568.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1efe9054131a.png",
             "thumb_key": "thumbs/kaytee-1efe9054131a.webp"
           }
         },
@@ -279,15 +193,15 @@
           "id": "kaytee-3a9876e6be96",
           "name": "⚽ Estrela FC U23 vs Uniao Leiria U23 | 22:00 09/03",
           "type": "single",
-          "display": "thumbnail-only",
+          "display": "vertical",
           "enable_detail": false,
           "image": {
-            "padding": 1,
+            "padding": 0,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://cdn.rapid-api.icu/football/team/09645e4b4538fcbe06e5a64ecfd40fd5.png",
-            "width": 1600,
-            "height": 1200
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3a9876e6be96.png",
+            "width": 800,
+            "height": 600
           },
           "labels": [
             {
@@ -357,23 +271,23 @@
             "team_b": "Uniao Leiria U23",
             "logo_a": "https://cdn.rapid-api.icu/football/team/09645e4b4538fcbe06e5a64ecfd40fd5.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/0dcf33de2f32bb2d72fe50250c612c31.png",
-            "thumb": "https://cdn.rapid-api.icu/football/team/09645e4b4538fcbe06e5a64ecfd40fd5.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3a9876e6be96.png",
             "thumb_key": "thumbs/kaytee-3a9876e6be96.webp"
           }
         },
         {
-          "id": "kaytee-ed64a9908846",
-          "name": "⚽ Cesena U20 vs AC Milan U20 | 21:00 09/03",
+          "id": "kaytee-b69e02fe4876",
+          "name": "⚽ Gil Vicente U23 vs Vizela U23 | 22:00 09/03",
           "type": "single",
-          "display": "thumbnail-only",
+          "display": "vertical",
           "enable_detail": false,
           "image": {
-            "padding": 1,
+            "padding": 0,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://cdn.rapid-api.icu/football/team/87253ad073f688e6f06b92c663eec68b.png",
-            "width": 1600,
-            "height": 1200
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b69e02fe4876.png",
+            "width": 800,
+            "height": 600
           },
           "labels": [
             {
@@ -385,27 +299,44 @@
           ],
           "sources": [
             {
-              "id": "src-601285194",
+              "id": "src-601293448",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601285194",
-                  "name": "Cesena U20 vs AC Milan U20",
+                  "id": "ct-601293448",
+                  "name": "Gil Vicente U23 vs Vizela U23",
                   "streams": [
                     {
-                      "id": "st-601285194",
+                      "id": "st-601293448",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-4952914fcb",
+                          "id": "lnk-828e1eec59",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live.alilicloud.com/live/bb8d97466bc316e807f94d4aa2cf2a2a/playlist.m3u8",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69aee04c70a67_72787/index.m3u8?expire=1773673164&sign=81debf5a74b8b746eb24ef9b226f875b",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/cesena-u20-vs-ac-milan-u20-2100-09-03-2026/601285194"
+                              "value": "https://bunchatv1.net/truc-tiep/gil-vicente-u23-vs-vizela-u23-2200-09-03-2026/601293448"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-7e27ddfc5d",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/7bfbb110c9c4925a409580fbe13b8785/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/gil-vicente-u23-vs-vizela-u23-2200-09-03-2026/601293448"
                             },
                             {
                               "key": "User-Agent",
@@ -421,82 +352,13 @@
             }
           ],
           "org_metadata": {
-            "league": "",
-            "team_a": "Cesena U20",
-            "team_b": "AC Milan U20",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/87253ad073f688e6f06b92c663eec68b.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/f5ba4b2e365f97788217773698d9ac75.png",
-            "thumb": "https://cdn.rapid-api.icu/football/team/87253ad073f688e6f06b92c663eec68b.png",
-            "thumb_key": "thumbs/kaytee-ed64a9908846.webp"
-          }
-        },
-        {
-          "id": "kaytee-9f36b20fdf83",
-          "name": "⚽ Jedinstvo UB vs Semendrija 1924 | 21:00 09/03",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://cdn.rapid-api.icu/football/team/97e79cf4fc688c8f52dd367a83436cc0.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601293427",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601293427",
-                  "name": "Jedinstvo UB vs Semendrija 1924",
-                  "streams": [
-                    {
-                      "id": "st-601293427",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4c2cf174dc",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/419eb14c1143444b697173495f139fbb/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/jedinstvo-ub-vs-semendrija-1924-2100-09-03-2026/601293427"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "",
-            "team_a": "Jedinstvo UB",
-            "team_b": "Semendrija 1924",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/97e79cf4fc688c8f52dd367a83436cc0.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/d9ae56f63b122c74872ff70542ed3c2b.png",
-            "thumb": "https://cdn.rapid-api.icu/football/team/97e79cf4fc688c8f52dd367a83436cc0.png",
-            "thumb_key": "thumbs/kaytee-9f36b20fdf83.webp"
+            "league": "Portuguese U23 League",
+            "team_a": "Gil Vicente U23",
+            "team_b": "Vizela U23",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/cafffa2ecdd4dcd266fd406ef8491265.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/dc067cd47969d48c3b6001d9350be407.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b69e02fe4876.png",
+            "thumb_key": "thumbs/kaytee-b69e02fe4876.webp"
           }
         }
       ]
