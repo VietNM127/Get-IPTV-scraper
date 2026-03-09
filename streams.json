@@ -1,6 +1,6 @@
 {
   "id": "buncha",
-  "url": "",
+  "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/streams.json",
   "name": "Bún Chả TV",
   "color": "#1cb57a",
   "grid_number": 3,
@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://kaytee1012.github.io/buncha_logo.png"
   },
-  "updated_at": "2026-03-09T18:45:12.756823",
+  "updated_at": "2026-03-09T14:50:22.809182",
   "groups": [
     {
       "id": "live",
@@ -18,8 +18,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-cfdd1f8233a2",
-          "name": "🎱 Palazon vs Kim Jae-geun | 17:00 09/03",
+          "id": "kaytee-8e5fcd0e5538",
+          "name": "⚽ Eyupspor vs Kocaelispor | ",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://cdn-live.taoxanh.biz/live-dev/cms/b5568ccb853b46c430d6f907216cee0f.jpg",
+            "url": "https://cdn.rapid-api.icu/football/team/5a15fbeafbace6653cf789b2a252615f.png",
             "width": 1600,
             "height": 1200
           },
@@ -41,96 +41,27 @@
           ],
           "sources": [
             {
-              "id": "src-601299460",
+              "id": "src-601293394",
               "name": "Bún Chả TV",
               "contents": [
                 {
-                  "id": "ct-601299460",
-                  "name": "Palazon vs Kim Jae-geun",
+                  "id": "ct-601293394",
+                  "name": "Eyupspor vs Kocaelispor",
                   "streams": [
                     {
-                      "id": "st-601299460",
+                      "id": "st-601293394",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-e89a70a270",
+                          "id": "lnk-e573b9dfc1",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69ae70ef326d7_142246/index.m3u8?expire=1773644655&sign=fb2406a047150d1ebb3f0fdfa5edc2ac",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69aeb667326d7_72787/index.m3u8?expire=1773662439&sign=91de9e4aff1000dc3baddb5eea30ee85",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/palazon-vs-kim-jaegeun-1700-09-03-2026/601299460"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "PBA-LPBA World Championship 2026",
-            "team_a": "Palazon",
-            "team_b": "Kim Jae-geun",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/b5568ccb853b46c430d6f907216cee0f.jpg",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/2bc5221d5c071b6fe7b3ee7f043f4e2a.jpg",
-            "thumb": "https://cdn-live.taoxanh.biz/live-dev/cms/b5568ccb853b46c430d6f907216cee0f.jpg",
-            "thumb_key": "thumbs/kaytee-cfdd1f8233a2.webp"
-          }
-        },
-        {
-          "id": "kaytee-7f17da6619a6",
-          "name": "⚽ Rotor Volgograd vs Ural Yekaterinburg | ",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://cdn.rapid-api.icu/football/team/6ae485ecee17acfc249fa06c8500d0a0.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601293364",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601293364",
-                  "name": "Rotor Volgograd vs Ural Yekaterinburg",
-                  "streams": [
-                    {
-                      "id": "st-601293364",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6df55a32dd",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69aea21a70a67_6308/index.m3u8?expire=1773657242&sign=99a0f6c7120295c280dbf404bf97865b",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/rotor-volgograd-vs-ural-yekaterinburg-1800-09-03-2026/601293364"
+                              "value": "https://bunchatv1.net/truc-tiep/eyupspor-vs-kocaelispor-2000-09-03-2026/601293394"
                             },
                             {
                               "key": "User-Agent",
@@ -139,15 +70,15 @@
                           ]
                         },
                         {
-                          "id": "lnk-17cbeb5371",
+                          "id": "lnk-60f9a598ac",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://live.alilicloud.com/live/70238a939e17479992fe9b3a75a51c7c/playlist.m3u8",
+                          "url": "https://live.alilicloud.com/live/851f1a180195db964408cb21e20900e6/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/rotor-volgograd-vs-ural-yekaterinburg-1800-09-03-2026/601293364"
+                              "value": "https://bunchatv1.net/truc-tiep/eyupspor-vs-kocaelispor-2000-09-03-2026/601293394"
                             },
                             {
                               "key": "User-Agent",
@@ -163,18 +94,18 @@
             }
           ],
           "org_metadata": {
-            "league": "Russian National Football League",
-            "team_a": "Rotor Volgograd",
-            "team_b": "Ural Yekaterinburg",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/6ae485ecee17acfc249fa06c8500d0a0.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/c44580753ff5e1f47b7784d28b10af2f.png",
-            "thumb": "https://cdn.rapid-api.icu/football/team/6ae485ecee17acfc249fa06c8500d0a0.png",
-            "thumb_key": "thumbs/kaytee-7f17da6619a6.webp"
+            "league": "Turkish Super League",
+            "team_a": "Eyupspor",
+            "team_b": "Kocaelispor",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/5a15fbeafbace6653cf789b2a252615f.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/8dfbbd630a401d819054748332f33849.png",
+            "thumb": "https://cdn.rapid-api.icu/football/team/5a15fbeafbace6653cf789b2a252615f.png",
+            "thumb_key": "thumbs/kaytee-8e5fcd0e5538.webp"
           }
         },
         {
-          "id": "kaytee-684b39ffa7ee",
-          "name": "⚽ FC Pyunik vs Shirak | ",
+          "id": "kaytee-067b4c152771",
+          "name": "⚽ Lokomotiv Moscow vs Akhmat Grozny | ",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -182,7 +113,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://cdn.rapid-api.icu/football/team/73bbf9f60325dd616ffed763f958f36d.png",
+            "url": "https://cdn.rapid-api.icu/football/team/5517b8865aa5280667bd899f6810d466.png",
             "width": 1600,
             "height": 1200
           },
@@ -196,27 +127,27 @@
           ],
           "sources": [
             {
-              "id": "src-601293367",
+              "id": "src-601293412",
               "name": "Bún Chả TV",
               "contents": [
                 {
-                  "id": "ct-601293367",
-                  "name": "FC Pyunik vs Shirak",
+                  "id": "ct-601293412",
+                  "name": "Lokomotiv Moscow vs Akhmat Grozny",
                   "streams": [
                     {
-                      "id": "st-601293367",
+                      "id": "st-601293412",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-a693961a23",
+                          "id": "lnk-5da6ba1959",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69ae9dbc70a67_88642/index.m3u8?expire=1773656124&sign=e802f5443e6b758553b53d40bbb9bb9e",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69aec366326d7_88642/index.m3u8?expire=1773665766&sign=c823fad2e849e9be925120b44ddc6d98",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/fc-pyunik-vs-shirak-1800-09-03-2026/601293367"
+                              "value": "https://bunchatv1.net/truc-tiep/lokomotiv-moscow-vs-akhmat-grozny-2030-09-03-2026/601293412"
                             },
                             {
                               "key": "User-Agent",
@@ -225,15 +156,15 @@
                           ]
                         },
                         {
-                          "id": "lnk-806486f216",
+                          "id": "lnk-1e2f64896a",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://live.alilicloud.com/live/e7e8ae588d1b34e2266e51c1e482ffeb/playlist.m3u8",
+                          "url": "https://live.alilicloud.com/live/7c3e24206e49f5d98ac713e97f379824/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/fc-pyunik-vs-shirak-1800-09-03-2026/601293367"
+                              "value": "https://bunchatv1.net/truc-tiep/lokomotiv-moscow-vs-akhmat-grozny-2030-09-03-2026/601293412"
                             },
                             {
                               "key": "User-Agent",
@@ -249,27 +180,18 @@
             }
           ],
           "org_metadata": {
-            "league": "Armenian Premier League",
-            "team_a": "FC Pyunik",
-            "team_b": "Shirak",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/73bbf9f60325dd616ffed763f958f36d.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/079bdbf302d4831bbbd8d623d25f27ff.png",
-            "thumb": "https://cdn.rapid-api.icu/football/team/73bbf9f60325dd616ffed763f958f36d.png",
-            "thumb_key": "thumbs/kaytee-684b39ffa7ee.webp"
+            "league": "Russian Premier League",
+            "team_a": "Lokomotiv Moscow",
+            "team_b": "Akhmat Grozny",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/5517b8865aa5280667bd899f6810d466.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/dfb637acd761b88a27e200393e29319f.png",
+            "thumb": "https://cdn.rapid-api.icu/football/team/5517b8865aa5280667bd899f6810d466.png",
+            "thumb_key": "thumbs/kaytee-067b4c152771.webp"
           }
-        }
-      ]
-    },
-    {
-      "id": "upcoming",
-      "name": "⏳ Sắp Live",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
+        },
         {
-          "id": "kaytee-a0c80b8ac9f8",
-          "name": "⚽ Shinnik Yaroslavl vs FK Ufa | 19:00 09/03",
+          "id": "kaytee-3f944c8ae30a",
+          "name": "⚽ Persib Bandung vs Persik Kediri | ",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -277,41 +199,58 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://cdn.rapid-api.icu/football/team/8ff8e5218c38396cd890d2669f165841.png",
+            "url": "https://cdn.rapid-api.icu/football/team/b2004093bf25a5a8d1768970d6e49d71.png",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "⏳ Sắp Live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
             {
-              "id": "src-601293385",
+              "id": "src-601293418",
               "name": "Bún Chả TV",
               "contents": [
                 {
-                  "id": "ct-601293385",
-                  "name": "Shinnik Yaroslavl vs FK Ufa",
+                  "id": "ct-601293418",
+                  "name": "Persib Bandung vs Persik Kediri",
                   "streams": [
                     {
-                      "id": "st-601293385",
+                      "id": "st-601293418",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-c5355d48d6",
+                          "id": "lnk-87051c0462",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69aeaef470a67_79/index.m3u8?expire=1773660532&sign=8b94e87d49d3d41b12111417a683fea6",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69aebd42326d7_44731/index.m3u8?expire=1773664194&sign=4c6848506ca1295f8675b6bb8d65eb42",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/shinnik-yaroslavl-vs-fk-ufa-1900-09-03-2026/601293385"
+                              "value": "https://bunchatv1.net/truc-tiep/persib-bandung-vs-persik-kediri-2030-09-03-2026/601293418"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-ed743c7ff9",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/70e6c2fdc03908f7539cb2e964cd3af4/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/persib-bandung-vs-persik-kediri-2030-09-03-2026/601293418"
                             },
                             {
                               "key": "User-Agent",
@@ -327,13 +266,99 @@
             }
           ],
           "org_metadata": {
-            "league": "Russian National Football League",
-            "team_a": "Shinnik Yaroslavl",
-            "team_b": "FK Ufa",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/8ff8e5218c38396cd890d2669f165841.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/bed3e0e7e7677fc51f43b2e6b33dd040.png",
-            "thumb": "https://cdn.rapid-api.icu/football/team/8ff8e5218c38396cd890d2669f165841.png",
-            "thumb_key": "thumbs/kaytee-a0c80b8ac9f8.webp"
+            "league": "Indonesian Liga 1",
+            "team_a": "Persib Bandung",
+            "team_b": "Persik Kediri",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/b2004093bf25a5a8d1768970d6e49d71.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/c80d70c62b8f67dd121a1be0d574bfd5.png",
+            "thumb": "https://cdn.rapid-api.icu/football/team/b2004093bf25a5a8d1768970d6e49d71.png",
+            "thumb_key": "thumbs/kaytee-3f944c8ae30a.webp"
+          }
+        },
+        {
+          "id": "kaytee-7e9c52fe7d95",
+          "name": "⚽ PFK Montana vs Ludogorets Razgrad | ",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://cdn.rapid-api.icu/football/team/555ed40ede7fc6f2879993bc058fb8ac.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601293424",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601293424",
+                  "name": "PFK Montana vs Ludogorets Razgrad",
+                  "streams": [
+                    {
+                      "id": "st-601293424",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-81e19a68ff",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69aec01b326d7_128756/index.m3u8?expire=1773664923&sign=8821dbf6a6159d9003b7cb8c47141f61",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/pfk-montana-vs-ludogorets-razgrad-2030-09-03-2026/601293424"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-7a524644d1",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/1717795250a309cb465b5e3bb20acf05/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/pfk-montana-vs-ludogorets-razgrad-2030-09-03-2026/601293424"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Bulgarian First League",
+            "team_a": "PFK Montana",
+            "team_b": "Ludogorets Razgrad",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/555ed40ede7fc6f2879993bc058fb8ac.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/3cd0dc57966a8b1f8536dd0016179664.png",
+            "thumb": "https://cdn.rapid-api.icu/football/team/555ed40ede7fc6f2879993bc058fb8ac.png",
+            "thumb_key": "thumbs/kaytee-7e9c52fe7d95.webp"
           }
         }
       ]
