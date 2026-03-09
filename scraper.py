@@ -112,8 +112,19 @@ class BunchaTVScraper:
             if not href.startswith("http"):
                 href = self.base_url + href
 
+            # Lấy giờ thi đấu từ URL (đáng tin hơn CSS selector)
+            # VD: .../eyupspor-vs-kocaelispor-2000-09-03-2026/601293394 → "20:00 09/03"
+            time_from_url = ""
+            url_time = re.search(r'-(\d{4})-(\d{2})-(\d{2})-\d{4}/', href)
+            if url_time:
+                hhmm, dd, mm = url_time.group(1), url_time.group(2), url_time.group(3)
+                time_from_url = f"{hhmm[:2]}:{hhmm[2:]} {dd}/{mm}"
+
             info = self._extract_card_info(container, link_tag, match_id, is_live)
             info["page_url"] = href
+            # Dùng giờ từ URL nếu selector CSS không tìm được
+            if not info["match_time"] and time_from_url:
+                info["match_time"] = time_from_url
             matches.append(info)
 
         print(f"  → {sum(1 for m in matches if m['is_live'])} live  |  "
@@ -170,7 +181,7 @@ class BunchaTVScraper:
 
             # Tìm tất cả m3u8 từ jwplayer file: "..."
             found = re.findall(
-                r"""['"]file['"]\s*:\s*['"]( https?://[^'"]+\.m3u8[^'"]*)['"]\s*""",
+                r"""['"']file['"']\s*:\s*['"']\s*(https?://[^'"']+\.m3u8[^'"']*)['"]\s*""",
                 html
             )
             # Fallback nếu regex trên không khớp (do khoảng trắng)
