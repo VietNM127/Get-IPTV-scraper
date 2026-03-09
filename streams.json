@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://scontent.fhan5-10.fna.fbcdn.net/v/t39.30808-6/580821357_1151084077132266_6103102651618107715_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=dd6889&_nc_eui2=AeHUhbo5R5NFXmgOsxANQC8gQnG2fAweQLJCcbZ8DB5AspcyzbUEI3Fnt2SR9nPUCJIxSOvjCFwBmURc4-UcM0m7&_nc_ohc=NfNQg-r-20MQ7kNvwFQH_Hs&_nc_oc=Adlx7DDa7esB8i9ImfAcuFbsTHFW6crNh8CbWHDzXj4R7GOrWtSFEJCjwlWjihJRg9OdDKehAdO6jiKBcpo7NaXa&_nc_zt=23&_nc_ht=scontent.fhan5-10.fna&_nc_gid=hYKh8Di3yDWxq5OwpW28nQ&_nc_ss=8&oh=00_AfwW4Se45di6s_O1g06AmqYWNCKGt41h8Gv5LClCaWpo8g&oe=69B4B51E"
   },
-  "updated_at": "2026-03-09T16:40:43.625797",
+  "updated_at": "2026-03-09T17:37:29.210546",
   "groups": [
     {
       "id": "live",
@@ -17,178 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-3a9876e6be96",
-          "name": "⚽ Estrela FC U23 vs Uniao Leiria U23 | 22:00 09/03",
-          "type": "single",
-          "display": "vertical",
-          "enable_detail": false,
-          "image": {
-            "padding": 0,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3a9876e6be96.png",
-            "width": 800,
-            "height": 600
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601293445",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601293445",
-                  "name": "Estrela FC U23 vs Uniao Leiria U23",
-                  "streams": [
-                    {
-                      "id": "st-601293445",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-77b29b277d",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69aedddf326d7_73445/index.m3u8?expire=1773672543&sign=15a6b28e91e0c8308f4d0c2cea8cef0b",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/estrela-fc-u23-vs-uniao-leiria-u23-2200-09-03-2026/601293445"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-2a523f3f6c",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/f1ab0096ac968c037127d4474e810019/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/estrela-fc-u23-vs-uniao-leiria-u23-2200-09-03-2026/601293445"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Portuguese U23 League",
-            "team_a": "Estrela FC U23",
-            "team_b": "Uniao Leiria U23",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/09645e4b4538fcbe06e5a64ecfd40fd5.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/0dcf33de2f32bb2d72fe50250c612c31.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3a9876e6be96.png",
-            "thumb_key": "thumbs/kaytee-3a9876e6be96.webp"
-          }
-        },
-        {
-          "id": "kaytee-b69e02fe4876",
-          "name": "⚽ Gil Vicente U23 vs Vizela U23 | 22:00 09/03",
-          "type": "single",
-          "display": "vertical",
-          "enable_detail": false,
-          "image": {
-            "padding": 0,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b69e02fe4876.png",
-            "width": 800,
-            "height": 600
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601293448",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601293448",
-                  "name": "Gil Vicente U23 vs Vizela U23",
-                  "streams": [
-                    {
-                      "id": "st-601293448",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-828e1eec59",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69aee04c70a67_72787/index.m3u8?expire=1773673164&sign=81debf5a74b8b746eb24ef9b226f875b",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/gil-vicente-u23-vs-vizela-u23-2200-09-03-2026/601293448"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-7e27ddfc5d",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/7bfbb110c9c4925a409580fbe13b8785/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/gil-vicente-u23-vs-vizela-u23-2200-09-03-2026/601293448"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Portuguese U23 League",
-            "team_a": "Gil Vicente U23",
-            "team_b": "Vizela U23",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/cafffa2ecdd4dcd266fd406ef8491265.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/dc067cd47969d48c3b6001d9350be407.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b69e02fe4876.png",
-            "thumb_key": "thumbs/kaytee-b69e02fe4876.webp"
-          }
-        },
         {
           "id": "kaytee-88e01ebded9e",
           "name": "⚽ Veres vs LNZ Cherkasy | 23:00 09/03",
@@ -230,23 +58,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://cdn-hls.taoxanh.biz/live/69aee697326d7_128756/index.m3u8?expire=1773674775&sign=af47f5a1a418131cfbcdf3be59968bc0",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/veres-vs-lnz-cherkasy-2300-09-03-2026/601293472"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-5d055b9164",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/4313a17a8b0d289c800b277d72c06b6d/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -359,6 +170,92 @@
             "logo_b": "https://cdn.rapid-api.icu/football/team/940bb92f83d40985137748d0d3aeb213.png",
             "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-177b6b142362.png",
             "thumb_key": "thumbs/kaytee-177b6b142362.webp"
+          }
+        },
+        {
+          "id": "kaytee-f3ba1857b1ef",
+          "name": "⚽ FC Neftci Baku vs Turan Tovuz | 23:30 09/03",
+          "type": "single",
+          "display": "vertical",
+          "enable_detail": false,
+          "image": {
+            "padding": 0,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f3ba1857b1ef.png",
+            "width": 800,
+            "height": 600
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601296481",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601296481",
+                  "name": "FC Neftci Baku vs Turan Tovuz",
+                  "streams": [
+                    {
+                      "id": "st-601296481",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-014e9a426a",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69aef498326d7_74012/index.m3u8?expire=1773678360&sign=1b0cc1a60b62dd31b5b7238f040872b2",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/fc-neftci-baku-vs-turan-tovuz-2330-09-03-2026/601296481"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-191a8b3bce",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/79368144f10575a344ac0df1452d3055/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/fc-neftci-baku-vs-turan-tovuz-2330-09-03-2026/601296481"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Azerbaijan Premier League",
+            "team_a": "FC Neftci Baku",
+            "team_b": "Turan Tovuz",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/2d9ea2234c3ada82b3d0355791c45669.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/14215ad91a839ba1b4f216001eb02d91.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f3ba1857b1ef.png",
+            "thumb_key": "thumbs/kaytee-f3ba1857b1ef.webp"
           }
         },
         {
