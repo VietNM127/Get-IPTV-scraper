@@ -88,22 +88,6 @@ class BunchaTVScraper:
         for container in all_containers:
             classes = " ".join(container.get("class", []))
 
-            # Lấy match_id từ class tbs2_XXXXXXXXX
-            id_match = re.search(r"tbs2_(\d+)", classes)
-            if not id_match:
-                continue
-            match_id = id_match.group(1)
-
-            if match_id in seen_ids:
-                continue
-            seen_ids.add(match_id)
-
-            # Phân loại trạng thái
-            is_live    = "stream_m_live" in classes
-            is_today   = "stream_m_today" in classes
-            if not (is_live or is_today):
-                continue
-
             link_tag = container.find("a", class_="grid-match__body", href=True)
             if not link_tag:
                 continue
@@ -111,6 +95,29 @@ class BunchaTVScraper:
             href = link_tag["href"]
             if not href.startswith("http"):
                 href = self.base_url + href
+
+            # Chỉ lấy trận HÔM NAY (kiểm tra ngày trong URL)
+            today_str = datetime.now().strftime("%d-%m-%Y")
+            if today_str not in href:
+                continue
+
+            # Lấy match_id từ class tbs2_XXXXXXXXX (HOT section)
+            # hoặc từ cuối URL (SÓNG QUỐC TẾ section không có class tbs2_)
+            id_match = re.search(r"tbs2_(\d+)", classes)
+            if id_match:
+                match_id = id_match.group(1)
+            else:
+                url_id = re.search(r"/(\d+)/?$", href)
+                if not url_id:
+                    continue
+                match_id = url_id.group(1)
+
+            if match_id in seen_ids:
+                continue
+            seen_ids.add(match_id)
+
+            # Phân loại live/sắp live từ CSS class
+            is_live = "stream_m_live" in classes
 
             # Lấy giờ thi đấu từ URL (đáng tin hơn CSS selector)
             # VD: .../eyupspor-vs-kocaelispor-2000-09-03-2026/601293394 → "20:00 09/03"

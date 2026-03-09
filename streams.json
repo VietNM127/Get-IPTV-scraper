@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://kaytee1012.github.io/buncha_logo.png"
   },
-  "updated_at": "2026-03-09T22:14:57.655007",
+  "updated_at": "2026-03-09T22:25:28.332125",
   "groups": [
     {
       "id": "live",
@@ -359,6 +359,75 @@
             "logo_b": "https://cdn.rapid-api.icu/football/team/b019c0b2f14edb23e5c9a10a37a2e548.png",
             "thumb": "https://cdn.rapid-api.icu/football/team/4e120222885562430b61627e85374a80.png",
             "thumb_key": "thumbs/kaytee-8aacd78fcab2.webp"
+          }
+        },
+        {
+          "id": "kaytee-141e60acef48",
+          "name": "⚽ Rukh Vynnyky vs Metalist 1925 Kharkiv | 20:30 09/03",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://cdn.rapid-api.icu/football/team/51364b029a936a7e4aa277656f4f043b.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601293415",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601293415",
+                  "name": "Rukh Vynnyky vs Metalist 1925 Kharkiv",
+                  "streams": [
+                    {
+                      "id": "st-601293415",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-10d725508e",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/719c61bd8f31ffaaa00e5eafd2391fc0/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/rukh-vynnyky-vs-metalist-1925-kharkiv-2030-09-03-2026/601293415"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "",
+            "team_a": "Rukh Vynnyky",
+            "team_b": "Metalist 1925 Kharkiv",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/51364b029a936a7e4aa277656f4f043b.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/67b269a993b1e92fa9b6d786426a60a0.png",
+            "thumb": "https://cdn.rapid-api.icu/football/team/51364b029a936a7e4aa277656f4f043b.png",
+            "thumb_key": "thumbs/kaytee-141e60acef48.webp"
           }
         }
       ]
