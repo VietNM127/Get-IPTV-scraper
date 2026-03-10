@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-10T12:01:26.511923",
+  "updated_at": "2026-03-10T13:22:00.509265",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,385 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-7d3832f1bf85",
-          "name": "⚽ Boris Ivanovski vs Megzon Klaiqi | 17:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7d3832f1bf85.png?v=1773144075",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601308346",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601308346",
-                  "name": "Boris Ivanovski vs Megzon Klaiqi",
-                  "streams": [
-                    {
-                      "id": "st-601308346",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-48c1c4b737",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69afec7d326d7_142246/index.m3u8?expire=1773741821&sign=ba1d82a229fa3147a406baf451d94550",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/boris-ivanovski-vs-megzon-klaiqi-1700-10-03-2026/601308346"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "European Open Pool Championship 2026",
-            "team_a": "Boris Ivanovski",
-            "team_b": "Megzon Klaiqi",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/94e47528ff8287a2be5bd34e8c1f21fd.jpg",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/cd580ce075b5d1934c14a3ba9f68ba4d.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7d3832f1bf85.png?v=1773144075",
-            "thumb_key": "thumbs/kaytee-7d3832f1bf85.webp"
-          }
-        },
-        {
-          "id": "kaytee-8b19d1395674",
-          "name": "⚽ Belediye Vanspor vs Adana Demirspor | 17:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8b19d1395674.png?v=1773144078",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601293694",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601293694",
-                  "name": "Belediye Vanspor vs Adana Demirspor",
-                  "streams": [
-                    {
-                      "id": "st-601293694",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8a389f1748",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69afedf570a68_6308/index.m3u8?expire=1773742197&sign=9a1f1533919f302c67046699520966ed",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/belediye-vanspor-vs-adana-demirspor-1730-10-03-2026/601293694"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-2779dd2247",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/47311af9d47da1789e83bffc7f0c4579/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/belediye-vanspor-vs-adana-demirspor-1730-10-03-2026/601293694"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Turkish First League",
-            "team_a": "Belediye Vanspor",
-            "team_b": "Adana Demirspor",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/1775a3cc03d54d5cee9731d9df7c4e87.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/66d75e0aaf620c7364ecf8a604e77fd5.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8b19d1395674.png?v=1773144078",
-            "thumb_key": "thumbs/kaytee-8b19d1395674.webp"
-          }
-        },
-        {
-          "id": "kaytee-d9a8542c3a55",
-          "name": "⚽ Farense U23 vs Rio Ave U23 | 18:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d9a8542c3a55.png?v=1773144079",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601293697",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601293697",
-                  "name": "Farense U23 vs Rio Ave U23",
-                  "streams": [
-                    {
-                      "id": "st-601293697",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-238e67a6ea",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69aff07b326d7_28/index.m3u8?expire=1773742843&sign=e2bcd876e96ae866edc0b9cd9b0aa8a7",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/farense-u23-vs-rio-ave-u23-1800-10-03-2026/601293697"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-ed4172a8e8",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/c24a56e9e7017b9a28c1e02c7b45f3fe/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/farense-u23-vs-rio-ave-u23-1800-10-03-2026/601293697"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Portuguese U23 League",
-            "team_a": "Farense U23",
-            "team_b": "Rio Ave U23",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/edc92b9e77bc242d84f4d1332d09d311.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/a1b575c2f233dee47380d00718eb5091.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d9a8542c3a55.png?v=1773144079",
-            "thumb_key": "thumbs/kaytee-d9a8542c3a55.webp"
-          }
-        },
-        {
-          "id": "kaytee-7e53c000915d",
-          "name": "⚽ Leixoes U23 vs Famalicao U23 | 18:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7e53c000915d.png?v=1773144081",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601293700",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601293700",
-                  "name": "Leixoes U23 vs Famalicao U23",
-                  "streams": [
-                    {
-                      "id": "st-601293700",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a543da9c26",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/650f31d18dcc907ae5a342ceea6b3bee/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/leixoes-u23-vs-famalicao-u23-1800-10-03-2026/601293700"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Portuguese U23 League",
-            "team_a": "Leixoes U23",
-            "team_b": "Famalicao U23",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/d5db95a6441ae92e5dd150663f89dc64.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/f529ef530687fa527658bf93035bddd0.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7e53c000915d.png?v=1773144081",
-            "thumb_key": "thumbs/kaytee-7e53c000915d.webp"
-          }
-        },
-        {
-          "id": "kaytee-087cdcf4219e",
-          "name": "⚽ Yuta WATANABE/Maya TAGUCH vs ZHU Yi Jun/LI Qian | 18:20",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-087cdcf4219e.png?v=1773144082",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601308331",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601308331",
-                  "name": "Yuta WATANABE/Maya TAGUCH vs ZHU Yi Jun/LI Qian",
-                  "streams": [
-                    {
-                      "id": "st-601308331",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e6c8236e10",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69afdc46326d7_110198/index.m3u8?expire=1773737670&sign=a8963d379787df728435183b885c8d4d",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/yuta-watanabemaya-taguch-vs-zhu-yi-junli-qian-1820-10-03-2026/601308331"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Sân 1 - YONEX Swiss Open 2026",
-            "team_a": "Yuta WATANABE/Maya TAGUCH",
-            "team_b": "ZHU Yi Jun/LI Qian",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/32ede39a0b59f9a912482add5e476b08.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/0339115a23d6c29668640d7ed6e1f279.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-087cdcf4219e.png?v=1773144082",
-            "thumb_key": "thumbs/kaytee-087cdcf4219e.webp"
-          }
-        },
         {
           "id": "kaytee-2d8c958cb457",
           "name": "⚽ Piotr Likowski vs Pius Baier | 18:30",
@@ -406,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2d8c958cb457.png?v=1773144083",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2d8c958cb457.png?v=1773148911",
             "width": 1600,
             "height": 1200
           },
@@ -461,175 +82,10 @@
             "team_b": "Pius Baier",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/65c0fb3df79ff7a5050efa6f17bba74c.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/301bbb716d7b4a089db6bb744572c860.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2d8c958cb457.png?v=1773144083",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2d8c958cb457.png?v=1773148911",
             "thumb_key": "thumbs/kaytee-2d8c958cb457.webp"
           }
-        }
-      ]
-    },
-    {
-      "id": "live_bóng_chuyền",
-      "name": "🔴 Live 🏐 Bóng Chuyền",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-24e3b7954798",
-          "name": "🏐 Hungkuk W vs IBK W | 17:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-24e3b7954798.png?v=1773144076",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601299223",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601299223",
-                  "name": "Hungkuk W vs IBK W",
-                  "streams": [
-                    {
-                      "id": "st-601299223",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-de651cc299",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69afe3af70a68_88642/index.m3u8?expire=1773739567&sign=1e8d8319ed8a0cc44e45d4ccfe370071",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/hungkuk-w-vs-ibk-w-1700-10-03-2026/601299223"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Volleyball League Women",
-            "team_a": "Hungkuk W",
-            "team_b": "IBK W",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/378258933a4dd77acb1a9413ef01bc0b.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/a25d1fc24aa85e0580b4c7881f232646.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-24e3b7954798.png?v=1773144076",
-            "thumb_key": "thumbs/kaytee-24e3b7954798.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "live_bóng_bàn",
-      "name": "🔴 Live 🏓 Bóng Bàn",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-489268188edc",
-          "name": "🏓 Flavien COTON vs Wen Rubo | 18:45",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-489268188edc.png?v=1773144084",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601299595",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601299595",
-                  "name": "Flavien COTON vs Wen Rubo",
-                  "streams": [
-                    {
-                      "id": "st-601299595",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9f5d1ca2dd",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b0056c326d7_142210/index.m3u8?expire=1773748204&sign=919696d85d3d508fb8f538752127a1cd",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/flavien-coton-vs-wen-rubo-1845-10-03-2026/601299595"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "WTT Champions Chongqing 2026 Presented",
-            "team_a": "Flavien COTON",
-            "team_b": "Wen Rubo",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/edcc74e656b92f6a1e2d214a68a25ee6.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/9e7627c9288a8596f3db3b306e824e52.webp",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-489268188edc.png?v=1773144084",
-            "thumb_key": "thumbs/kaytee-489268188edc.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "upcoming_bóng_đá",
-      "name": "⏳ Sắp Live ⚽ Bóng Đá",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
+        },
         {
           "id": "kaytee-ea8225c827e7",
           "name": "⚽ Santa Clara U23 vs Braga U23 | 19:00",
@@ -640,16 +96,16 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ea8225c827e7.png?v=1773144086",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ea8225c827e7.png?v=1773148913",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "⏳ Sắp Live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -681,6 +137,23 @@
                               "value": "Mozilla/5.0"
                             }
                           ]
+                        },
+                        {
+                          "id": "lnk-d6a2ca47dd",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/45993da3d1d92e0672da5d0712f5196e/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/santa-clara-u23-vs-braga-u23-1900-10-03-2026/601293703"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
                         }
                       ]
                     }
@@ -695,8 +168,474 @@
             "team_b": "Braga U23",
             "logo_a": "https://cdn.rapid-api.icu/football/team/e7f496f594add2954bb58b2132e1e788.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/b6a144b441bfd3ff6d4179d4b04b9693.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ea8225c827e7.png?v=1773144086",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ea8225c827e7.png?v=1773148913",
             "thumb_key": "thumbs/kaytee-ea8225c827e7.webp"
+          }
+        },
+        {
+          "id": "kaytee-087cdcf4219e",
+          "name": "⚽ Milena SCHNIDER vs Anna Siess RYBERG | 19:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-087cdcf4219e.png?v=1773148914",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601308331",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601308331",
+                  "name": "Milena SCHNIDER vs Anna Siess RYBERG",
+                  "streams": [
+                    {
+                      "id": "st-601308331",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e6c8236e10",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69afdc46326d7_110198/index.m3u8?expire=1773737670&sign=a8963d379787df728435183b885c8d4d",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/milena-schnider-vs-anna-siess-ryberg-1900-10-03-2026/601308331"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sân 1 - YONEX Swiss Open 2026",
+            "team_a": "Milena SCHNIDER",
+            "team_b": "Anna Siess RYBERG",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/46ba49690435888e201c068db624b12d.jpg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/62157776d46fe9ed216033cf7d1a3ef6.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-087cdcf4219e.png?v=1773148914",
+            "thumb_key": "thumbs/kaytee-087cdcf4219e.webp"
+          }
+        },
+        {
+          "id": "kaytee-14b216a4b1d2",
+          "name": "⚽ Buriram United vs Melbourne City | 19:15",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-14b216a4b1d2.png?v=1773148915",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601293706",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601293706",
+                  "name": "Buriram United vs Melbourne City",
+                  "streams": [
+                    {
+                      "id": "st-601293706",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bc5ae696d2",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69affd37326d7_44731/index.m3u8?expire=1773746103&sign=162c3b22e862c420e951036539eb767e",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/buriram-united-vs-melbourne-city-1915-10-03-2026/601293706"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-0e1e5357b4",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/fac3316179c35cc0bbf0fc201c9c2cae/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/buriram-united-vs-melbourne-city-1915-10-03-2026/601293706"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC Champions League Elite",
+            "team_a": "Buriram United",
+            "team_b": "Melbourne City",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/649a85f258f62ec83a62983488e4b347.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/c24f327d053d80fe6584b4c42d5cca13.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-14b216a4b1d2.png?v=1773148915",
+            "thumb_key": "thumbs/kaytee-14b216a4b1d2.webp"
+          }
+        },
+        {
+          "id": "kaytee-c200203df4c3",
+          "name": "⚽ Serik Belediyespor vs Pendikspor | 20:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c200203df4c3.png?v=1773148918",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601293709",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601293709",
+                  "name": "Serik Belediyespor vs Pendikspor",
+                  "streams": [
+                    {
+                      "id": "st-601293709",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-725f957ac5",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b009b0326d7_95554/index.m3u8?expire=1773749296&sign=e15fef41b5d49081f64055b1be7bab49",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/serik-belediyespor-vs-pendikspor-2000-10-03-2026/601293709"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-5e40f388f9",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/447e7c5cdbda25b7b5d163a8a444a58b/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/serik-belediyespor-vs-pendikspor-2000-10-03-2026/601293709"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Turkish First League",
+            "team_a": "Serik Belediyespor",
+            "team_b": "Pendikspor",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/97fe3ae85a2bc3840972911fb2d15d45.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/9a07394b2cdca16ac436a056d2acd4c9.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c200203df4c3.png?v=1773148918",
+            "thumb_key": "thumbs/kaytee-c200203df4c3.webp"
+          }
+        },
+        {
+          "id": "kaytee-52511f0ceb68",
+          "name": "⚽ Adama City vs Arba Minch | 20:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-52511f0ceb68.png?v=1773148919",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601293727",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601293727",
+                  "name": "Adama City vs Arba Minch",
+                  "streams": [
+                    {
+                      "id": "st-601293727",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ec2d4b5a98",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/743ed35435520dce7a5f3da3dc004d04/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/adama-city-vs-arba-minch-2000-10-03-2026/601293727"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ethiopia Premier League",
+            "team_a": "Adama City",
+            "team_b": "Arba Minch",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/1f628687971ba8f54e1b10a69ffdbf5c.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/a4d258acc703851ed1b08271c908dcb2.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-52511f0ceb68.png?v=1773148919",
+            "thumb_key": "thumbs/kaytee-52511f0ceb68.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_bóng_bàn",
+      "name": "🔴 Live 🏓 Bóng Bàn",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-489268188edc",
+          "name": "🏓 Anders LIND vs Truls MOREGARD | 19:55",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-489268188edc.png?v=1773148916",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601299595",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601299595",
+                  "name": "Anders LIND vs Truls MOREGARD",
+                  "streams": [
+                    {
+                      "id": "st-601299595",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9f5d1ca2dd",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b0056c326d7_142210/index.m3u8?expire=1773748204&sign=919696d85d3d508fb8f538752127a1cd",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/anders-lind-vs-truls-moregard-1955-10-03-2026/601299595"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "WTT Champions Chongqing 2026 Presented",
+            "team_a": "Anders LIND",
+            "team_b": "Truls MOREGARD",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/adfeb41e0d4b2818d2c8ace145cb2a24.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/126918af5658785519324e2b8eb33da2.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-489268188edc.png?v=1773148916",
+            "thumb_key": "thumbs/kaytee-489268188edc.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_billiard",
+      "name": "⏳ Sắp Live 🎱 Billiard",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-54236aa9dfc2",
+          "name": "🎱 Nguyễn Huỳnh Phương Linh vs Choi Sung-won | 21:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-54236aa9dfc2.png?v=1773148920",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601308421",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601308421",
+                  "name": "Nguyễn Huỳnh Phương Linh vs Choi Sung-won",
+                  "streams": [
+                    {
+                      "id": "st-601308421",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e14e014153",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69afc7e3326d7_144313/index.m3u8?expire=1773732451&sign=1863f987e1710d7a0f8ebed0567e079f",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/nguyen-huynh-phuong-linh-vs-choi-sungwon-2100-10-03-2026/601308421"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "PBA-LPBA World Championship 2026",
+            "team_a": "Nguyễn Huỳnh Phương Linh",
+            "team_b": "Choi Sung-won",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/51f783ef492c6c263c37e25e825556c4.jpg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/6de8c9248ac82fb97d00fe9639cd2322.jpg",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-54236aa9dfc2.png?v=1773148920",
+            "thumb_key": "thumbs/kaytee-54236aa9dfc2.webp"
           }
         }
       ]
