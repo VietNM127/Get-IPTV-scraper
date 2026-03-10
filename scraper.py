@@ -147,6 +147,7 @@ def generate_thumb(logo_a_url: str, logo_b_url: str, channel_id: str, session,
 
     # ── Paste logo vào ô vuông cố định 360x360 ────────────────────────────────
     SLOT = 360       # kích thước ô vuông cố định cho mỗi logo
+    LOGO_TARGET = 250  # cạnh tối đa logo thực tế trong ô (có upscale)
     LOGO_CY = 390    # tâm dọc của ô logo
 
     def paste_logo(url, cx):
@@ -157,7 +158,20 @@ def generate_thumb(logo_a_url: str, logo_b_url: str, channel_id: str, session,
                 r = session.get(url, timeout=8)
                 r.raise_for_status()
                 logo = Image.open(io.BytesIO(r.content)).convert("RGBA")
-                logo.thumbnail((SLOT, SLOT), Image.LANCZOS)   # thu nhỏ vừa ô
+                # Cắt viền trong suốt để logo không bị nhỏ do padding nguồn
+                alpha = logo.split()[3]
+                bbox = alpha.getbbox()
+                if bbox:
+                    logo = logo.crop(bbox)
+
+                # Resize có upscale để logo 36x36 cũng phóng to được
+                w, h = logo.size
+                if w > 0 and h > 0:
+                    scale = min(LOGO_TARGET / w, LOGO_TARGET / h)
+                    nw = max(1, int(w * scale))
+                    nh = max(1, int(h * scale))
+                    logo = logo.resize((nw, nh), Image.LANCZOS)
+
                 bg = Image.new("RGBA", logo.size, (*BG, 255))
                 bg.paste(logo, mask=logo.split()[3])
                 logo_rgb = bg.convert("RGB")
