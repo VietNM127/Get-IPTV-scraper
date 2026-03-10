@@ -605,6 +605,84 @@
           }
         }
       ]
+    },
+    {
+      "id": "upcoming",
+      "name": "⏳ Sắp Live",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-e29ad6bf4c4c",
+          "name": "⚽ Elizabeta SAMARA vs KUAI Man | 10:00 10/03",
+          "type": "single",
+          "display": "vertical",
+          "enable_detail": false,
+          "image": {
+            "padding": 0,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e29ad6bf4c4c.png",
+            "width": 800,
+            "height": 600
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601299550",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601299550",
+                  "name": "Elizabeta SAMARA vs KUAI Man",
+                  "streams": [
+                    {
+                      "id": "st-601299550",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-dcaecfe833",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69af867470a68_18754/index.m3u8?expire=1773715700&sign=25eb441d48eb4ec3c19bcbc753fde7a0",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/elizabeta-samara-vs-kuai-man-1000-10-03-2026/601299550"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "",
+            "team_a": "Elizabeta SAMARA",
+            "team_b": "KUAI Man",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/f4dab7b5bc0dcb0fc76ea378c84ad907.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/fc0d7d70f5a03c6fec75ceb733e65f6d.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e29ad6bf4c4c.png",
+            "thumb_key": "thumbs/kaytee-e29ad6bf4c4c.webp"
+          }
+        }
+      ]
     }
   ]
 }
