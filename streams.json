@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-10T16:14:07.970634",
+  "updated_at": "2026-03-10T16:42:34.884526",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-784088e643fa.png?v=1773159236",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-784088e643fa.png?v=1773160943",
             "width": 1600,
             "height": 1200
           },
@@ -99,8 +99,94 @@
             "team_b": "Qizilqum Zarafshon",
             "logo_a": "https://cdn.rapid-api.icu/football/team/566fc8eae03f834a8221bedabf677c5d.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/709463bd62119aff6f7da0b20b4e1034.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-784088e643fa.png?v=1773159236",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-784088e643fa.png?v=1773160943",
             "thumb_key": "thumbs/kaytee-784088e643fa.webp"
+          }
+        },
+        {
+          "id": "kaytee-346de63b2fa3",
+          "name": "⚽ Maritimo U23 vs Portimonense U23 | 22:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-346de63b2fa3.png?v=1773160945",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601293745",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601293745",
+                  "name": "Maritimo U23 vs Portimonense U23",
+                  "streams": [
+                    {
+                      "id": "st-601293745",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-dbe6b66d8d",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b0258d326d8_88186/index.m3u8?expire=1773756429&sign=1374f07b2cfb4d08198675f37bc2258b",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/maritimo-u23-vs-portimonense-u23-2200-10-03-2026/601293745"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-2a2a47a4ef",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/d99ccdd0064e64a4de0a280741e30317/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/maritimo-u23-vs-portimonense-u23-2200-10-03-2026/601293745"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Portuguese U23 League",
+            "team_a": "Maritimo U23",
+            "team_b": "Portimonense U23",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/1200b6dfbb0a5c057c0eb833fc675606.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/2204e8ba30d8257e51c73945acb01dff.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-346de63b2fa3.png?v=1773160945",
+            "thumb_key": "thumbs/kaytee-346de63b2fa3.webp"
           }
         },
         {
@@ -113,7 +199,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4b1e1f3a2684.png?v=1773159238",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4b1e1f3a2684.png?v=1773160947",
             "width": 1600,
             "height": 1200
           },
@@ -168,77 +254,8 @@
             "team_b": "Sporting CP U23",
             "logo_a": "https://cdn.rapid-api.icu/football/team/d48bf087cac6d7c3f62fb7c8d55f89b5.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/9ae229e8442ff8cacac077b40f499022.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4b1e1f3a2684.png?v=1773159238",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4b1e1f3a2684.png?v=1773160947",
             "thumb_key": "thumbs/kaytee-4b1e1f3a2684.webp"
-          }
-        },
-        {
-          "id": "kaytee-346de63b2fa3",
-          "name": "⚽ Maritimo U23 vs Portimonense U23 | 22:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-346de63b2fa3.png?v=1773159240",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601293745",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601293745",
-                  "name": "Maritimo U23 vs Portimonense U23",
-                  "streams": [
-                    {
-                      "id": "st-601293745",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-dbe6b66d8d",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b0258d326d8_88186/index.m3u8?expire=1773756429&sign=1374f07b2cfb4d08198675f37bc2258b",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/maritimo-u23-vs-portimonense-u23-2200-10-03-2026/601293745"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Portuguese U23 League",
-            "team_a": "Maritimo U23",
-            "team_b": "Portimonense U23",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/1200b6dfbb0a5c057c0eb833fc675606.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/2204e8ba30d8257e51c73945acb01dff.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-346de63b2fa3.png?v=1773159240",
-            "thumb_key": "thumbs/kaytee-346de63b2fa3.webp"
           }
         },
         {
@@ -251,7 +268,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-96fc53df0a9c.png?v=1773159242",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-96fc53df0a9c.png?v=1773160950",
             "width": 1600,
             "height": 1200
           },
@@ -306,7 +323,7 @@
             "team_b": "Holger Vier",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/b9be024d33da0f0ed05f0f9a8c3500be.webp",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/cfcc4497709c58514c2932333187da34.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-96fc53df0a9c.png?v=1773159242",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-96fc53df0a9c.png?v=1773160950",
             "thumb_key": "thumbs/kaytee-96fc53df0a9c.webp"
           }
         },
@@ -320,7 +337,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d54fe7962582.png?v=1773159244",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d54fe7962582.png?v=1773160951",
             "width": 1600,
             "height": 1200
           },
@@ -392,7 +409,7 @@
             "team_b": "FK Gilan Gabala",
             "logo_a": "https://cdn.rapid-api.icu/football/team/44cc5a54d7859b9d062a6f56a39819f8.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/01b36d0eae3771391455661b45834805.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d54fe7962582.png?v=1773159244",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d54fe7962582.png?v=1773160951",
             "thumb_key": "thumbs/kaytee-d54fe7962582.webp"
           }
         },
@@ -406,7 +423,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-573880231cdc.png?v=1773159246",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-573880231cdc.png?v=1773160953",
             "width": 1600,
             "height": 1200
           },
@@ -447,6 +464,23 @@
                               "value": "Mozilla/5.0"
                             }
                           ]
+                        },
+                        {
+                          "id": "lnk-93651f1503",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/9d6083b297b5fc2dcf86845557ba17ac/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/slaven-belupo-vs-nk-lokomotiva-zagreb-2230-10-03-2026/601293751"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
                         }
                       ]
                     }
@@ -461,7 +495,7 @@
             "team_b": "NK Lokomotiva Zagreb",
             "logo_a": "https://cdn.rapid-api.icu/football/team/a491b4d6a330910fa354ff60a65bb615.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/3a628a345b4aefdab4111cf683ec36d6.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-573880231cdc.png?v=1773159246",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-573880231cdc.png?v=1773160953",
             "thumb_key": "thumbs/kaytee-573880231cdc.webp"
           }
         },
@@ -475,7 +509,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2d8c958cb457.png?v=1773159247",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2d8c958cb457.png?v=1773160954",
             "width": 1600,
             "height": 1200
           },
@@ -530,13 +564,13 @@
             "team_b": "Phuong Nam Pham",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/8091436e58e40736632d5a378d3e9475.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/2b9284f83fdde8bfbc1009aa1d4fde3a.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2d8c958cb457.png?v=1773159247",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2d8c958cb457.png?v=1773160954",
             "thumb_key": "thumbs/kaytee-2d8c958cb457.webp"
           }
         },
         {
           "id": "kaytee-087cdcf4219e",
-          "name": "⚽ BAO Li Jing /  LUO Xu Min vs R. A. ROSE /  F. SETIANINGRUM | 22:30",
+          "name": "⚽ LAI / TSAI vs R. A. ROSE /  F. SETIANINGRUM | 23:15",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -544,7 +578,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-087cdcf4219e.png?v=1773159247",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-087cdcf4219e.png?v=1773160954",
             "width": 1600,
             "height": 1200
           },
@@ -563,7 +597,7 @@
               "contents": [
                 {
                   "id": "ct-601308331",
-                  "name": "BAO Li Jing /  LUO Xu Min vs R. A. ROSE /  F. SETIANINGRUM",
+                  "name": "LAI / TSAI vs R. A. ROSE /  F. SETIANINGRUM",
                   "streams": [
                     {
                       "id": "st-601308331",
@@ -578,7 +612,7 @@
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/bao-li-jing---luo-xu-min-vs-r-a-rose---f-setianingrum-2230-10-03-2026/601308331"
+                              "value": "https://bunchatv1.net/truc-tiep/lai--tsai-vs-r-a-rose---f-setianingrum-2315-10-03-2026/601308331"
                             },
                             {
                               "key": "User-Agent",
@@ -595,11 +629,11 @@
           ],
           "org_metadata": {
             "league": "Sân 1 - YONEX Swiss Open 2026",
-            "team_a": "BAO Li Jing /  LUO Xu Min",
+            "team_a": "LAI / TSAI",
             "team_b": "R. A. ROSE /  F. SETIANINGRUM",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/553bf6bdabe3cb5f75a97e9bd0431813.png",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/d4e8fb4a22dcb75fd3d2583f81ea3b1f.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/e724a7ecab8f389ff729d0851ae0962b.webp",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-087cdcf4219e.png?v=1773159247",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-087cdcf4219e.png?v=1773160954",
             "thumb_key": "thumbs/kaytee-087cdcf4219e.webp"
           }
         }
