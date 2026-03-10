@@ -26,7 +26,7 @@ PLAYLIST_NAME = "Bánh Bao TV"
 # Monplayer dùng URL này để tự động refresh playlist (lấy link m3u8 mới).
 # Nếu để trống, stream sẽ bị lỗi sau khi link hết hạn (~vài tiếng).
 # Ví dụ: "https://YOUR_USERNAME.github.io/Get-IPTV/streams.json"
-PLAYLIST_URL  = "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/streams.json"
+PLAYLIST_URL  = "https://bom.so/banhbaotv"
 
 LOGO_URL      = "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
 # ─────────────────────────────────────────────────────────────────────────────
