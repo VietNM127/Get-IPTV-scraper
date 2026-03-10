@@ -148,7 +148,7 @@ def generate_thumb(logo_a_url: str, logo_b_url: str, channel_id: str, session,
     # ── Paste logo vào ô vuông cố định 360x360 ────────────────────────────────
     SLOT = 400       # kích thước ô vuông cố định cho mỗi logo
     LOGO_TARGET = 320  # cạnh tối đa logo thực tế trong ô (có upscale)
-    LOGO_CY = 390    # tâm dọc của ô logo
+    LOGO_CY = 500    # tâm dọc của ô logo (hạ xuống để cân giữa khung hiển thị)
 
     def paste_logo(url, cx):
         """Đặt logo vào ô vuông SLOT×SLOT căn giữa tại (cx, LOGO_CY)."""
