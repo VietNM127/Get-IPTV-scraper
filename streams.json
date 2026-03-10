@@ -8,8 +8,86 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-10T06:29:18.531417",
+  "updated_at": "2026-03-10T07:05:31.991029",
   "groups": [
+    {
+      "id": "live_bóng_đá",
+      "name": "🔴 Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-cc646698d3ed",
+          "name": "⚽ Persipani Paniai vs Persidei Deiyai | 13:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cc646698d3ed.png?v=1773126328",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601308499",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601308499",
+                  "name": "Persipani Paniai vs Persidei Deiyai",
+                  "streams": [
+                    {
+                      "id": "st-601308499",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8bbf92e403",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/f82dd8f5cc6358a5c3d608a206cf1aba/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/persipani-paniai-vs-persidei-deiyai-1300-10-03-2026/601308499"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Indo D4",
+            "team_a": "Persipani Paniai",
+            "team_b": "Persidei Deiyai",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/f39deb3854873661e38e28b00cf169ac.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/13fa1aa92297424da1c868d878f30860.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cc646698d3ed.png?v=1773126328",
+            "thumb_key": "thumbs/kaytee-cc646698d3ed.webp"
+          }
+        }
+      ]
+    },
     {
       "id": "live_billiard",
       "name": "🔴 Live 🎱 Billiard",
@@ -27,7 +105,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-eb4b01925b58.png?v=1773124152",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-eb4b01925b58.png?v=1773126326",
             "width": 1600,
             "height": 1200
           },
@@ -82,7 +160,7 @@
             "team_b": "Kim Min-a",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/e8aac4a244483be6a5d785a8885385cb.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/cefb239246222d9c5665ce89c49e3c65.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-eb4b01925b58.png?v=1773124152",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-eb4b01925b58.png?v=1773126326",
             "thumb_key": "thumbs/kaytee-eb4b01925b58.webp"
           }
         },
@@ -96,7 +174,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f431a36e667b.png?v=1773124153",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f431a36e667b.png?v=1773126327",
             "width": 1600,
             "height": 1200
           },
@@ -151,7 +229,7 @@
             "team_b": "Kwon Bal-hae",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/98e0513e210c4fa117843d9dcb3da287.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/97b369592d9201703993d78f7ed785a6.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f431a36e667b.png?v=1773124153",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f431a36e667b.png?v=1773126327",
             "thumb_key": "thumbs/kaytee-f431a36e667b.webp"
           }
         }
@@ -166,7 +244,7 @@
       "channels": [
         {
           "id": "kaytee-e29ad6bf4c4c",
-          "name": "🏓 Malaysia vs Nhật Bản | 13:17",
+          "name": "🏓 Kanak JHA vs Sora MATSUSHIMA | 13:17",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -174,7 +252,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e29ad6bf4c4c.png?v=1773124153",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e29ad6bf4c4c.png?v=1773126329",
             "width": 1600,
             "height": 1200
           },
@@ -193,7 +271,7 @@
               "contents": [
                 {
                   "id": "ct-601299550",
-                  "name": "Malaysia vs Nhật Bản",
+                  "name": "Kanak JHA vs Sora MATSUSHIMA",
                   "streams": [
                     {
                       "id": "st-601299550",
@@ -208,7 +286,24 @@
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/malaysia-vs-nhat-ban-1317-10-03-2026/601299550"
+                              "value": "https://bunchatv1.net/truc-tiep/kanak-jha-vs-sora-matsushima-1317-10-03-2026/601299550"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-0f5e424c27",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69afc0b2326d7_110198/index.m3u8?expire=1773730610&sign=c0cef899c2993a7db9011f115ca99aeb",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/kanak-jha-vs-sora-matsushima-1317-10-03-2026/601299550"
                             },
                             {
                               "key": "User-Agent",
@@ -225,11 +320,11 @@
           ],
           "org_metadata": {
             "league": "WTT Champions Chongqing 2026 Presented",
-            "team_a": "Malaysia",
-            "team_b": "Nhật Bản",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/bff7c453d46440550a862a70055a91a0.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/c3409751c10e3c3fd1b81c67003ddc1a.webp",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e29ad6bf4c4c.png?v=1773124153",
+            "team_a": "Kanak JHA",
+            "team_b": "Sora MATSUSHIMA",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/12f786c951ad7be855ce18b182cf135c.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/90099d7df2532eb23c3eab77c657516f.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e29ad6bf4c4c.png?v=1773126329",
             "thumb_key": "thumbs/kaytee-e29ad6bf4c4c.webp"
           }
         }
@@ -252,7 +347,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1f4e4b50f304.png?v=1773124155",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1f4e4b50f304.png?v=1773126330",
             "width": 1600,
             "height": 1200
           },
@@ -307,7 +402,7 @@
             "team_b": "Chinese Taipei (w)",
             "logo_a": "https://cdn.rapid-api.icu/football/team/55351f435dfe7620bade0d4e64da16c4.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/74eb0c64d3d5eb724d982a8b150d8943.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1f4e4b50f304.png?v=1773124155",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1f4e4b50f304.png?v=1773126330",
             "thumb_key": "thumbs/kaytee-1f4e4b50f304.webp"
           }
         },
@@ -321,7 +416,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1a8fc70d61ae.png?v=1773124156",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1a8fc70d61ae.png?v=1773126331",
             "width": 1600,
             "height": 1200
           },
@@ -393,77 +488,8 @@
             "team_b": "Việt Nam (Nữ)",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/511ce5ccb966e3fd16d3a8c1b99cc01a.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/93d98772ab37ea73fdc725f94d3cb65b.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1a8fc70d61ae.png?v=1773124156",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1a8fc70d61ae.png?v=1773126331",
             "thumb_key": "thumbs/kaytee-1a8fc70d61ae.webp"
-          }
-        },
-        {
-          "id": "kaytee-ff7f0fcdc62e",
-          "name": "⚽ Machida Zelvia vs Gangwon Football Club | 17:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ff7f0fcdc62e.png?v=1773124158",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Sắp Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601293688",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601293688",
-                  "name": "Machida Zelvia vs Gangwon Football Club",
-                  "streams": [
-                    {
-                      "id": "st-601293688",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-41464f825a",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/951da1731ab30304f1b1d906903002dc/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/machida-zelvia-vs-gangwon-football-club-1700-10-03-2026/601293688"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Champions League Elite",
-            "team_a": "Machida Zelvia",
-            "team_b": "Gangwon Football Club",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/771a93ae7f62b1a47a71c3d62b89dca3.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ff7f0fcdc62e.png?v=1773124158",
-            "thumb_key": "thumbs/kaytee-ff7f0fcdc62e.webp"
           }
         }
       ]
