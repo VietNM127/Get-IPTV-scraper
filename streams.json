@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-10T17:09:24.403831",
+  "updated_at": "2026-03-10T17:35:50.200846",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-96fc53df0a9c.png?v=1773162556",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-96fc53df0a9c.png?v=1773164141",
             "width": 1600,
             "height": 1200
           },
@@ -82,163 +82,8 @@
             "team_b": "Holger Vier",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/b9be024d33da0f0ed05f0f9a8c3500be.webp",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/cfcc4497709c58514c2932333187da34.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-96fc53df0a9c.png?v=1773162556",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-96fc53df0a9c.png?v=1773164141",
             "thumb_key": "thumbs/kaytee-96fc53df0a9c.webp"
-          }
-        },
-        {
-          "id": "kaytee-573880231cdc",
-          "name": "⚽ Slaven Belupo vs NK Lokomotiva Zagreb | 22:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-573880231cdc.png?v=1773162557",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601293751",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601293751",
-                  "name": "Slaven Belupo vs NK Lokomotiva Zagreb",
-                  "streams": [
-                    {
-                      "id": "st-601293751",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-721fc61047",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b0315d70a68_133172/index.m3u8?expire=1773759453&sign=9c797985b08a2b212d2341839af6f58a",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/slaven-belupo-vs-nk-lokomotiva-zagreb-2230-10-03-2026/601293751"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-93651f1503",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/9d6083b297b5fc2dcf86845557ba17ac/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/slaven-belupo-vs-nk-lokomotiva-zagreb-2230-10-03-2026/601293751"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Croatian Cup",
-            "team_a": "Slaven Belupo",
-            "team_b": "NK Lokomotiva Zagreb",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/a491b4d6a330910fa354ff60a65bb615.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/3a628a345b4aefdab4111cf683ec36d6.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-573880231cdc.png?v=1773162557",
-            "thumb_key": "thumbs/kaytee-573880231cdc.webp"
-          }
-        },
-        {
-          "id": "kaytee-2d8c958cb457",
-          "name": "⚽ Amar Sinanovic vs Phuong Nam Pham | 22:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2d8c958cb457.png?v=1773162558",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601308343",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601308343",
-                  "name": "Amar Sinanovic vs Phuong Nam Pham",
-                  "streams": [
-                    {
-                      "id": "st-601308343",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b937481e69",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69afe457326d7_103/index.m3u8?expire=1773739735&sign=950b8ee39d1769af9395e6b90122ec65",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/amar-sinanovic-vs-phuong-nam-pham-2230-10-03-2026/601308343"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "European Open Pool Championship 2026",
-            "team_a": "Amar Sinanovic",
-            "team_b": "Phuong Nam Pham",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/8091436e58e40736632d5a378d3e9475.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/2b9284f83fdde8bfbc1009aa1d4fde3a.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2d8c958cb457.png?v=1773162558",
-            "thumb_key": "thumbs/kaytee-2d8c958cb457.webp"
           }
         },
         {
@@ -251,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f47d4ae3cbca.png?v=1773162560",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f47d4ae3cbca.png?v=1773164143",
             "width": 1600,
             "height": 1200
           },
@@ -323,7 +168,7 @@
             "team_b": "Navbahor Namangan",
             "logo_a": "https://cdn.rapid-api.icu/football/team/78dd333913352de8fc4e8b0834636245.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/38282bbb6c7407024187ae929dab2274.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f47d4ae3cbca.png?v=1773162560",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f47d4ae3cbca.png?v=1773164143",
             "thumb_key": "thumbs/kaytee-f47d4ae3cbca.webp"
           }
         },
@@ -337,7 +182,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0a49ae1ad9b0.png?v=1773162561",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0a49ae1ad9b0.png?v=1773164146",
             "width": 1600,
             "height": 1200
           },
@@ -392,8 +237,77 @@
             "team_b": "FC Nomme United",
             "logo_a": "https://cdn.rapid-api.icu/football/team/5b9c9b4f40414f2be603cf1dac1bdad6.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/348b05307188e5ba081db3e659b7ba0d.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0a49ae1ad9b0.png?v=1773162561",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0a49ae1ad9b0.png?v=1773164146",
             "thumb_key": "thumbs/kaytee-0a49ae1ad9b0.webp"
+          }
+        },
+        {
+          "id": "kaytee-58d258ea83ca",
+          "name": "⚽ AS Douanes Ouagadougou vs Sporting Football des Cascades | 23:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-58d258ea83ca.png?v=1773164148",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601296538",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601296538",
+                  "name": "AS Douanes Ouagadougou vs Sporting Football des Cascades",
+                  "streams": [
+                    {
+                      "id": "st-601296538",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-80ba20f7ec",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/cb74c228ccc267a4e421b4bcdaa9b678/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/as-douanes-ouagadougou-vs-sporting-football-des-cascades-2300-10-03-2026/601296538"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Burkina Faso Division 1",
+            "team_a": "AS Douanes Ouagadougou",
+            "team_b": "Sporting Football des Cascades",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/02e905e8f407b78d24c8ee895d7dce8e.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/db8a84992b024e8260c4b350a4d9f95d.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-58d258ea83ca.png?v=1773164148",
+            "thumb_key": "thumbs/kaytee-58d258ea83ca.webp"
           }
         },
         {
@@ -406,7 +320,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-37614386ed02.png?v=1773162563",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-37614386ed02.png?v=1773164150",
             "width": 1600,
             "height": 1200
           },
@@ -461,77 +375,8 @@
             "team_b": "RC Kadiogo",
             "logo_a": "https://cdn.rapid-api.icu/football/team/832bbcc8557920f488673c1b47e764c8.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/29c72f8d82b67e446dea00ab4669c26e.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-37614386ed02.png?v=1773162563",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-37614386ed02.png?v=1773164150",
             "thumb_key": "thumbs/kaytee-37614386ed02.webp"
-          }
-        },
-        {
-          "id": "kaytee-087cdcf4219e",
-          "name": "⚽ LAI / TSAI vs Jiri Kral/Ondrej KraL | 23:15",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-087cdcf4219e.png?v=1773162564",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601308331",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601308331",
-                  "name": "LAI / TSAI vs Jiri Kral/Ondrej KraL",
-                  "streams": [
-                    {
-                      "id": "st-601308331",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4107c49387",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b03d0f70a68_19013/index.m3u8?expire=1773762447&sign=8bb51a7f5b6cb77817965167c41f61df",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/lai--tsai-vs-jiri-kralondrej-kral-2315-10-03-2026/601308331"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Sân 1 - YONEX Swiss Open 2026",
-            "team_a": "LAI / TSAI",
-            "team_b": "Jiri Kral/Ondrej KraL",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/d4e8fb4a22dcb75fd3d2583f81ea3b1f.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/f9e36c84d4904351fae13499da6e7d61.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-087cdcf4219e.png?v=1773162564",
-            "thumb_key": "thumbs/kaytee-087cdcf4219e.webp"
           }
         }
       ]
