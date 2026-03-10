@@ -28,7 +28,7 @@ PLAYLIST_NAME = "Bánh Bao TV"
 # Ví dụ: "https://YOUR_USERNAME.github.io/Get-IPTV/streams.json"
 PLAYLIST_URL  = "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/streams.json"
 
-LOGO_URL      = "https://scontent.fhan5-10.fna.fbcdn.net/v/t39.30808-6/580821357_1151084077132266_6103102651618107715_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=dd6889&_nc_eui2=AeHUhbo5R5NFXmgOsxANQC8gQnG2fAweQLJCcbZ8DB5AspcyzbUEI3Fnt2SR9nPUCJIxSOvjCFwBmURc4-UcM0m7&_nc_ohc=NfNQg-r-20MQ7kNvwFQH_Hs&_nc_oc=Adlx7DDa7esB8i9ImfAcuFbsTHFW6crNh8CbWHDzXj4R7GOrWtSFEJCjwlWjihJRg9OdDKehAdO6jiKBcpo7NaXa&_nc_zt=23&_nc_ht=scontent.fhan5-10.fna&_nc_gid=hYKh8Di3yDWxq5OwpW28nQ&_nc_ss=8&oh=00_AfwW4Se45di6s_O1g06AmqYWNCKGt41h8Gv5LClCaWpo8g&oe=69B4B51E"
+LOGO_URL      = "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
 # ─────────────────────────────────────────────────────────────────────────────
 
 SPORT_EMOJI = {
