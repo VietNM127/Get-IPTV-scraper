@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://scontent.fhan5-10.fna.fbcdn.net/v/t39.30808-6/580821357_1151084077132266_6103102651618107715_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=dd6889&_nc_eui2=AeHUhbo5R5NFXmgOsxANQC8gQnG2fAweQLJCcbZ8DB5AspcyzbUEI3Fnt2SR9nPUCJIxSOvjCFwBmURc4-UcM0m7&_nc_ohc=NfNQg-r-20MQ7kNvwFQH_Hs&_nc_oc=Adlx7DDa7esB8i9ImfAcuFbsTHFW6crNh8CbWHDzXj4R7GOrWtSFEJCjwlWjihJRg9OdDKehAdO6jiKBcpo7NaXa&_nc_zt=23&_nc_ht=scontent.fhan5-10.fna&_nc_gid=hYKh8Di3yDWxq5OwpW28nQ&_nc_ss=8&oh=00_AfwW4Se45di6s_O1g06AmqYWNCKGt41h8Gv5LClCaWpo8g&oe=69B4B51E"
   },
-  "updated_at": "2026-03-10T10:56:12.397567",
+  "updated_at": "2026-03-10T11:05:28.206257",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,144 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-c33995342c6c",
-          "name": "⚽ Municipal Liberia vs Guadalupe FC | 09:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c33995342c6c.png?v=1773114970",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601289566",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601289566",
-                  "name": "Municipal Liberia vs Guadalupe FC",
-                  "streams": [
-                    {
-                      "id": "st-601289566",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4add1bbd12",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69af7818326d7_128756/index.m3u8?expire=1773712024&sign=004a054cd2fd4509fc91663f5ad45f88",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/municipal-liberia-vs-guadalupe-fc-0900-10-03-2026/601289566"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Costa Rica Primera Division",
-            "team_a": "Municipal Liberia",
-            "team_b": "Guadalupe FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/0a1d3d73704ecc48431dd48677ec90ab.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/4316421ac63df6a85a3805ca3ea90303.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c33995342c6c.png?v=1773114970",
-            "thumb_key": "thumbs/kaytee-c33995342c6c.webp"
-          }
-        },
-        {
-          "id": "kaytee-cb11d0996a37",
-          "name": "⚽ Dalian Football School(w) vs Sichuan (w) | 09:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cb11d0996a37.png?v=1773114971",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601308382",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601308382",
-                  "name": "Dalian Football School(w) vs Sichuan (w)",
-                  "streams": [
-                    {
-                      "id": "st-601308382",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1d109b46b1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/b728cf94601fb1f47079d1f1ba7d94d8/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/dalian-football-schoolw-vs-sichuan-w-0900-10-03-2026/601308382"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "",
-            "team_a": "Dalian Football School(w)",
-            "team_b": "Sichuan (w)",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/39b7e4362d2046a9fd140e613c4c00ed.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/ec012880bc18aecbb240023b8f2fe779.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cb11d0996a37.png?v=1773114971",
-            "thumb_key": "thumbs/kaytee-cb11d0996a37.webp"
-          }
-        },
         {
           "id": "kaytee-9b6a5edd3c63",
           "name": "⚽ Tapachula Soconusco FC vs Montaneses FC | 09:05",
@@ -165,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9b6a5edd3c63.png?v=1773114971",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9b6a5edd3c63.png?v=1773115527",
             "width": 1600,
             "height": 1200
           },
@@ -215,12 +77,12 @@
             }
           ],
           "org_metadata": {
-            "league": "",
+            "league": "MEX LT",
             "team_a": "Tapachula Soconusco FC",
             "team_b": "Montaneses FC",
             "logo_a": "https://cdn.rapid-api.icu/football/team/6faa57faf6641ffc2ec6a7aa8e05d71a.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/9e6783e160297606fdcf508806102d11.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9b6a5edd3c63.png?v=1773114971",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9b6a5edd3c63.png?v=1773115527",
             "thumb_key": "thumbs/kaytee-9b6a5edd3c63.webp"
           }
         }
@@ -243,7 +105,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5eed31c66e63.png?v=1773114971",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5eed31c66e63.png?v=1773115526",
             "width": 1600,
             "height": 1200
           },
@@ -293,12 +155,12 @@
             }
           ],
           "org_metadata": {
-            "league": "",
+            "league": "NBA",
             "team_a": "Los Angeles Clippers",
             "team_b": "New York Knicks",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/166d854bec894fccec7fec32048f4094.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/c970d7df9c0cf1411c1322724ca253d9.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5eed31c66e63.png?v=1773114971",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5eed31c66e63.png?v=1773115526",
             "thumb_key": "thumbs/kaytee-5eed31c66e63.webp"
           }
         }
@@ -321,7 +183,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f36cde058d70.png?v=1773114970",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f36cde058d70.png?v=1773115526",
             "width": 1600,
             "height": 1200
           },
@@ -371,12 +233,12 @@
             }
           ],
           "org_metadata": {
-            "league": "",
+            "league": "ATP Indian Wells",
             "team_a": "Alcaraz C.",
             "team_b": "Rinderknech A.",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/fceebcdaefca43b1c27f75a1e60d418d.webp",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/d2780434ce12c323ad7feb27eeac3e2c.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f36cde058d70.png?v=1773114970",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f36cde058d70.png?v=1773115526",
             "thumb_key": "thumbs/kaytee-f36cde058d70.webp"
           }
         },
@@ -390,7 +252,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-027c84b86261.png?v=1773114972",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-027c84b86261.png?v=1773115527",
             "width": 1600,
             "height": 1200
           },
@@ -440,12 +302,12 @@
             }
           ],
           "org_metadata": {
-            "league": "",
+            "league": "WTA Indian Wells",
             "team_a": "Daniil Medvedev",
             "team_b": "Sebastian Baez",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/c46b1d9156fa8d048adbcae4c9e7cd07.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/bb36585c3afe36500333067f73ea72be.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-027c84b86261.png?v=1773114972",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-027c84b86261.png?v=1773115527",
             "thumb_key": "thumbs/kaytee-027c84b86261.webp"
           }
         }
@@ -468,7 +330,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e29ad6bf4c4c.png?v=1773114971",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e29ad6bf4c4c.png?v=1773115527",
             "width": 1600,
             "height": 1200
           },
@@ -518,12 +380,12 @@
             }
           ],
           "org_metadata": {
-            "league": "",
+            "league": "WTT Champions Chongqing 2026 Presented",
             "team_a": "ZHOU Qihao",
             "team_b": "HUANG Youzheng",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a1f6febf6655aee2782b9094b09c0b53.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/ac3426fd6ac963a116ad09b64bb52552.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e29ad6bf4c4c.png?v=1773114971",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e29ad6bf4c4c.png?v=1773115527",
             "thumb_key": "thumbs/kaytee-e29ad6bf4c4c.webp"
           }
         }
@@ -546,7 +408,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1f4e4b50f304.png?v=1773114972",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1f4e4b50f304.png?v=1773115528",
             "width": 1600,
             "height": 1200
           },
@@ -601,7 +463,7 @@
             "team_b": "Chinese Taipei (w)",
             "logo_a": "https://cdn.rapid-api.icu/football/team/55351f435dfe7620bade0d4e64da16c4.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/74eb0c64d3d5eb724d982a8b150d8943.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1f4e4b50f304.png?v=1773114972",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1f4e4b50f304.png?v=1773115528",
             "thumb_key": "thumbs/kaytee-1f4e4b50f304.webp"
           }
         },
@@ -615,7 +477,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1a8fc70d61ae.png?v=1773114972",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1a8fc70d61ae.png?v=1773115528",
             "width": 1600,
             "height": 1200
           },
@@ -670,7 +532,7 @@
             "team_b": "Việt Nam (Nữ)",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/511ce5ccb966e3fd16d3a8c1b99cc01a.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/93d98772ab37ea73fdc725f94d3cb65b.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1a8fc70d61ae.png?v=1773114972",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1a8fc70d61ae.png?v=1773115528",
             "thumb_key": "thumbs/kaytee-1a8fc70d61ae.webp"
           }
         }

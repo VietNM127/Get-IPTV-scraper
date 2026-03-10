@@ -330,8 +330,18 @@ class BunchaTVScraper:
     def _extract_card_info(self, container, link_tag, match_id, is_live):
         """Trích xuất metadata từ card HTML trên trang chủ."""
         # League
-        league_el = container.find("span", class_="text-ellipsis")
-        league = league_el.get_text(strip=True) if league_el else ""
+        league = ""
+        league_el = (
+            container.find("span", class_="text-ellipsis")
+            or container.find("span", class_="text-ellipsis-max")
+            or container.select_one("div.grid-match__league span")
+        )
+        if league_el:
+            league = league_el.get_text(strip=True)
+        if not league:
+            league_img = container.select_one("div.grid-match__league img")
+            if league_img:
+                league = (league_img.get("alt") or "").strip()
 
         # Tên 2 đội
         home_el = container.find("span", class_=re.compile(r"team--home-name"))
