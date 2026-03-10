@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-10T07:26:23.557153",
+  "updated_at": "2026-03-10T07:51:13.803844",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cc646698d3ed.png?v=1773127580",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cc646698d3ed.png?v=1773129068",
             "width": 1600,
             "height": 1200
           },
@@ -82,8 +82,155 @@
             "team_b": "Persidei Deiyai",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/f39deb3854873661e38e28b00cf169ac.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/13fa1aa92297424da1c868d878f30860.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cc646698d3ed.png?v=1773127580",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cc646698d3ed.png?v=1773129068",
             "thumb_key": "thumbs/kaytee-cc646698d3ed.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_billiard",
+      "name": "🔴 Live 🎱 Billiard",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-54236aa9dfc2",
+          "name": "🎱 Kim Young-won vs Kim Jun-tae | 14:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-54236aa9dfc2.png?v=1773129070",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601308421",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601308421",
+                  "name": "Kim Young-won vs Kim Jun-tae",
+                  "streams": [
+                    {
+                      "id": "st-601308421",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e14e014153",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69afc7e3326d7_144313/index.m3u8?expire=1773732451&sign=1863f987e1710d7a0f8ebed0567e079f",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/kim-youngwon-vs-kim-juntae-1430-10-03-2026/601308421"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "PBA-LPBA World Championship 2026",
+            "team_a": "Kim Young-won",
+            "team_b": "Kim Jun-tae",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/810eb61673c3d74fc757b37bb3167104.jpg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/bf5ce46ec488015930d36cea6392631d.jpg",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-54236aa9dfc2.png?v=1773129070",
+            "thumb_key": "thumbs/kaytee-54236aa9dfc2.webp"
+          }
+        },
+        {
+          "id": "kaytee-1235ec4faa3b",
+          "name": "🎱 Lee Seung-jin vs Kim Im-gwon | 14:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1235ec4faa3b.png?v=1773129071",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601308424",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601308424",
+                  "name": "Lee Seung-jin vs Kim Im-gwon",
+                  "streams": [
+                    {
+                      "id": "st-601308424",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3c161b6ed0",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69afc7c1326d7_142246/index.m3u8?expire=1773732417&sign=f76278a804b79187b6c91c9563227760",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/lee-seungjin-vs-kim-imgwon-1430-10-03-2026/601308424"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "PBA-LPBA World Championship 2026",
+            "team_a": "Lee Seung-jin",
+            "team_b": "Kim Im-gwon",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/337bd983dc29223711946a2bc7d33dbf.jpg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/4c87577d6db11e3e92044f16c5c6aa5d.jpg",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1235ec4faa3b.png?v=1773129071",
+            "thumb_key": "thumbs/kaytee-1235ec4faa3b.webp"
           }
         }
       ]
@@ -105,7 +252,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e29ad6bf4c4c.png?v=1773127581",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e29ad6bf4c4c.png?v=1773129070",
             "width": 1600,
             "height": 1200
           },
@@ -131,27 +278,10 @@
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-dcaecfe833",
+                          "id": "lnk-0f5e424c27",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69af867470a68_18754/index.m3u8?expire=1773715700&sign=25eb441d48eb4ec3c19bcbc753fde7a0",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/kanak-jha-vs-sora-matsushima-1317-10-03-2026/601299550"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-0f5e424c27",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
                           "url": "https://cdn-hls.taoxanh.biz/live/69afc0b2326d7_110198/index.m3u8?expire=1773730610&sign=c0cef899c2993a7db9011f115ca99aeb",
                           "request_headers": [
                             {
@@ -177,7 +307,7 @@
             "team_b": "Sora MATSUSHIMA",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/12f786c951ad7be855ce18b182cf135c.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/90099d7df2532eb23c3eab77c657516f.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e29ad6bf4c4c.png?v=1773127581",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e29ad6bf4c4c.png?v=1773129070",
             "thumb_key": "thumbs/kaytee-e29ad6bf4c4c.webp"
           }
         }
@@ -200,7 +330,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1f4e4b50f304.png?v=1773127582",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1f4e4b50f304.png?v=1773129072",
             "width": 1600,
             "height": 1200
           },
@@ -255,7 +385,7 @@
             "team_b": "Chinese Taipei (w)",
             "logo_a": "https://cdn.rapid-api.icu/football/team/55351f435dfe7620bade0d4e64da16c4.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/74eb0c64d3d5eb724d982a8b150d8943.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1f4e4b50f304.png?v=1773127582",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1f4e4b50f304.png?v=1773129072",
             "thumb_key": "thumbs/kaytee-1f4e4b50f304.webp"
           }
         },
@@ -269,7 +399,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1a8fc70d61ae.png?v=1773127583",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1a8fc70d61ae.png?v=1773129073",
             "width": 1600,
             "height": 1200
           },
@@ -341,7 +471,7 @@
             "team_b": "Việt Nam (Nữ)",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/511ce5ccb966e3fd16d3a8c1b99cc01a.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/93d98772ab37ea73fdc725f94d3cb65b.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1a8fc70d61ae.png?v=1773127583",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1a8fc70d61ae.png?v=1773129073",
             "thumb_key": "thumbs/kaytee-1a8fc70d61ae.webp"
           }
         }
