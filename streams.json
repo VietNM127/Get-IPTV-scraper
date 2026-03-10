@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://scontent.fhan5-10.fna.fbcdn.net/v/t39.30808-6/580821357_1151084077132266_6103102651618107715_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=dd6889&_nc_eui2=AeHUhbo5R5NFXmgOsxANQC8gQnG2fAweQLJCcbZ8DB5AspcyzbUEI3Fnt2SR9nPUCJIxSOvjCFwBmURc4-UcM0m7&_nc_ohc=NfNQg-r-20MQ7kNvwFQH_Hs&_nc_oc=Adlx7DDa7esB8i9ImfAcuFbsTHFW6crNh8CbWHDzXj4R7GOrWtSFEJCjwlWjihJRg9OdDKehAdO6jiKBcpo7NaXa&_nc_zt=23&_nc_ht=scontent.fhan5-10.fna&_nc_gid=hYKh8Di3yDWxq5OwpW28nQ&_nc_ss=8&oh=00_AfwW4Se45di6s_O1g06AmqYWNCKGt41h8Gv5LClCaWpo8g&oe=69B4B51E"
   },
-  "updated_at": "2026-03-10T09:16:51.550910",
+  "updated_at": "2026-03-10T09:31:10.917843",
   "groups": [
     {
       "id": "live",
@@ -173,75 +173,6 @@
           }
         },
         {
-          "id": "kaytee-c4ed8e6f09ba",
-          "name": "⚽ Waterhouse FC vs Montego Bay Utd | 07:30 10/03",
-          "type": "single",
-          "display": "vertical",
-          "enable_detail": false,
-          "image": {
-            "padding": 0,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c4ed8e6f09ba.png",
-            "width": 800,
-            "height": 600
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601293334",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601293334",
-                  "name": "Waterhouse FC vs Montego Bay Utd",
-                  "streams": [
-                    {
-                      "id": "st-601293334",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-aa92a7c844",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/014f84c763f3da753888a806811df7f7/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/waterhouse-fc-vs-montego-bay-utd-0730-10-03-2026/601293334"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "",
-            "team_a": "Waterhouse FC",
-            "team_b": "Montego Bay Utd",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/49795d03e912a2fba9f26f2fb294695f.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/ac96fe7fc9b7f370a318b00c980eb323.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c4ed8e6f09ba.png",
-            "thumb_key": "thumbs/kaytee-c4ed8e6f09ba.webp"
-          }
-        },
-        {
           "id": "kaytee-956049e0cc7d",
           "name": "⚽ Orense SC vs Manta FC | 07:30 10/03",
           "type": "single",
@@ -377,6 +308,75 @@
             "logo_b": "https://cdn.rapid-api.icu/football/team/74b3e5af08e5c6245a9d158fe3c52e31.png",
             "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3c0a096c04ca.png",
             "thumb_key": "thumbs/kaytee-3c0a096c04ca.webp"
+          }
+        },
+        {
+          "id": "kaytee-898a10fb218d",
+          "name": "⚽ Alianza Lima vs FBC Melgar | 08:30 10/03",
+          "type": "single",
+          "display": "vertical",
+          "enable_detail": false,
+          "image": {
+            "padding": 0,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-898a10fb218d.png",
+            "width": 800,
+            "height": 600
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601293670",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601293670",
+                  "name": "Alianza Lima vs FBC Melgar",
+                  "streams": [
+                    {
+                      "id": "st-601293670",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-998cd74ea6",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/5fbb6c312f3a35f24b85fd295bcab560/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/alianza-lima-vs-fbc-melgar-0830-10-03-2026/601293670"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "",
+            "team_a": "Alianza Lima",
+            "team_b": "FBC Melgar",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/8941e026a8debbd82633b019552e1515.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/215f986a8d6da00e35a2b1011922ca0d.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-898a10fb218d.png",
+            "thumb_key": "thumbs/kaytee-898a10fb218d.webp"
           }
         },
         {
