@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-10T11:37:48.703061",
+  "updated_at": "2026-03-10T11:57:30.072285",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,144 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-087cdcf4219e",
-          "name": "⚽ Riki TAKEI vs Joakim OLDORFF | 15:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-087cdcf4219e.png?v=1773142659",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601308331",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601308331",
-                  "name": "Riki TAKEI vs Joakim OLDORFF",
-                  "streams": [
-                    {
-                      "id": "st-601308331",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e6c8236e10",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69afdc46326d7_110198/index.m3u8?expire=1773737670&sign=a8963d379787df728435183b885c8d4d",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/riki-takei-vs-joakim-oldorff-1530-10-03-2026/601308331"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Sân 1 - YONEX Swiss Open 2026",
-            "team_a": "Riki TAKEI",
-            "team_b": "Joakim OLDORFF",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/29cf08bdd2c7eedec2a740a6e68b110a.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/101f39e01bf5fe36f690f7a313e373ca.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-087cdcf4219e.png?v=1773142659",
-            "thumb_key": "thumbs/kaytee-087cdcf4219e.webp"
-          }
-        },
-        {
-          "id": "kaytee-2d8c958cb457",
-          "name": "⚽ Ivo Pandza vs Semir Zavitan | 17:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2d8c958cb457.png?v=1773142660",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601308343",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601308343",
-                  "name": "Ivo Pandza vs Semir Zavitan",
-                  "streams": [
-                    {
-                      "id": "st-601308343",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b937481e69",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69afe457326d7_103/index.m3u8?expire=1773739735&sign=950b8ee39d1769af9395e6b90122ec65",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/ivo-pandza-vs-semir-zavitan-1700-10-03-2026/601308343"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "European Open Pool Championship 2026",
-            "team_a": "Ivo Pandza",
-            "team_b": "Semir Zavitan",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/cee6de1e5eadc785e7e2503f00966864.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/bd857f90a6eb40dc076e3938a64eac69.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2d8c958cb457.png?v=1773142660",
-            "thumb_key": "thumbs/kaytee-2d8c958cb457.webp"
-          }
-        },
         {
           "id": "kaytee-7d3832f1bf85",
           "name": "⚽ Boris Ivanovski vs Megzon Klaiqi | 17:00",
@@ -165,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7d3832f1bf85.png?v=1773142660",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7d3832f1bf85.png?v=1773143838",
             "width": 1600,
             "height": 1200
           },
@@ -220,7 +82,7 @@
             "team_b": "Megzon Klaiqi",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/94e47528ff8287a2be5bd34e8c1f21fd.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/cd580ce075b5d1934c14a3ba9f68ba4d.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7d3832f1bf85.png?v=1773142660",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7d3832f1bf85.png?v=1773143838",
             "thumb_key": "thumbs/kaytee-7d3832f1bf85.webp"
           }
         },
@@ -234,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ff7f0fcdc62e.png?v=1773142662",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ff7f0fcdc62e.png?v=1773143840",
             "width": 1600,
             "height": 1200
           },
@@ -306,77 +168,8 @@
             "team_b": "Gangwon Football Club",
             "logo_a": "https://cdn.rapid-api.icu/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/771a93ae7f62b1a47a71c3d62b89dca3.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ff7f0fcdc62e.png?v=1773142662",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ff7f0fcdc62e.png?v=1773143840",
             "thumb_key": "thumbs/kaytee-ff7f0fcdc62e.webp"
-          }
-        },
-        {
-          "id": "kaytee-f468be31ac93",
-          "name": "⚽ Dynamo Ceske Budejovice U19 vs Slavia Praha U19 | 17:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f468be31ac93.png?v=1773142663",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601293691",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601293691",
-                  "name": "Dynamo Ceske Budejovice U19 vs Slavia Praha U19",
-                  "streams": [
-                    {
-                      "id": "st-601293691",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-616681d39a",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/c65649f7788bd6f81a1acfe85551c7f9/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/dynamo-ceske-budejovice-u19-vs-slavia-praha-u19-1700-10-03-2026/601293691"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Czech U19 League",
-            "team_a": "Dynamo Ceske Budejovice U19",
-            "team_b": "Slavia Praha U19",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/00e729c874287d089bc4d1bbbe3a138d.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/e750f364d4222211ff6928fa18243b91.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f468be31ac93.png?v=1773142663",
-            "thumb_key": "thumbs/kaytee-f468be31ac93.webp"
           }
         },
         {
@@ -389,7 +182,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8b19d1395674.png?v=1773142667",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8b19d1395674.png?v=1773143842",
             "width": 1600,
             "height": 1200
           },
@@ -461,7 +254,7 @@
             "team_b": "Adana Demirspor",
             "logo_a": "https://cdn.rapid-api.icu/football/team/1775a3cc03d54d5cee9731d9df7c4e87.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/66d75e0aaf620c7364ecf8a604e77fd5.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8b19d1395674.png?v=1773142667",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8b19d1395674.png?v=1773143842",
             "thumb_key": "thumbs/kaytee-8b19d1395674.webp"
           }
         },
@@ -475,7 +268,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d9a8542c3a55.png?v=1773142668",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d9a8542c3a55.png?v=1773143846",
             "width": 1600,
             "height": 1200
           },
@@ -547,22 +340,13 @@
             "team_b": "Rio Ave U23",
             "logo_a": "https://cdn.rapid-api.icu/football/team/edc92b9e77bc242d84f4d1332d09d311.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/a1b575c2f233dee47380d00718eb5091.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d9a8542c3a55.png?v=1773142668",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d9a8542c3a55.png?v=1773143846",
             "thumb_key": "thumbs/kaytee-d9a8542c3a55.webp"
           }
-        }
-      ]
-    },
-    {
-      "id": "live_bóng_chuyền",
-      "name": "🔴 Live 🏐 Bóng Chuyền",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
+        },
         {
-          "id": "kaytee-37131dc5b6d4",
-          "name": "🏐 Hyundai Skywalkers vs Woori | 17:00",
+          "id": "kaytee-7e53c000915d",
+          "name": "⚽ Leixoes U23 vs Famalicao U23 | 18:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -570,7 +354,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-37131dc5b6d4.png?v=1773142664",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7e53c000915d.png?v=1773143848",
             "width": 1600,
             "height": 1200
           },
@@ -584,27 +368,27 @@
           ],
           "sources": [
             {
-              "id": "src-601299220",
+              "id": "src-601293700",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601299220",
-                  "name": "Hyundai Skywalkers vs Woori",
+                  "id": "ct-601293700",
+                  "name": "Leixoes U23 vs Famalicao U23",
                   "streams": [
                     {
-                      "id": "st-601299220",
+                      "id": "st-601293700",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-0a87eaf902",
+                          "id": "lnk-a543da9c26",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69afe25b326d7_128756/index.m3u8?expire=1773739227&sign=d5b94d64b7c903aa4d7b1315596d091a",
+                          "url": "https://live.alilicloud.com/live/650f31d18dcc907ae5a342ceea6b3bee/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/hyundai-skywalkers-vs-woori-1700-10-03-2026/601299220"
+                              "value": "https://bunchatv1.net/truc-tiep/leixoes-u23-vs-famalicao-u23-1800-10-03-2026/601293700"
                             },
                             {
                               "key": "User-Agent",
@@ -620,15 +404,162 @@
             }
           ],
           "org_metadata": {
-            "league": "Volleyball League",
-            "team_a": "Hyundai Skywalkers",
-            "team_b": "Woori",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/c375e5d271b7cc9b6f39043cd75b29ba.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/244ebe83a326615e6863e3555c09e69e.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-37131dc5b6d4.png?v=1773142664",
-            "thumb_key": "thumbs/kaytee-37131dc5b6d4.webp"
+            "league": "Portuguese U23 League",
+            "team_a": "Leixoes U23",
+            "team_b": "Famalicao U23",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/d5db95a6441ae92e5dd150663f89dc64.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/f529ef530687fa527658bf93035bddd0.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7e53c000915d.png?v=1773143848",
+            "thumb_key": "thumbs/kaytee-7e53c000915d.webp"
           }
         },
+        {
+          "id": "kaytee-087cdcf4219e",
+          "name": "⚽ Yuta WATANABE/Maya TAGUCH vs ZHU Yi Jun/LI Qian | 18:20",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-087cdcf4219e.png?v=1773143849",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601308331",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601308331",
+                  "name": "Yuta WATANABE/Maya TAGUCH vs ZHU Yi Jun/LI Qian",
+                  "streams": [
+                    {
+                      "id": "st-601308331",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e6c8236e10",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69afdc46326d7_110198/index.m3u8?expire=1773737670&sign=a8963d379787df728435183b885c8d4d",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/yuta-watanabemaya-taguch-vs-zhu-yi-junli-qian-1820-10-03-2026/601308331"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sân 1 - YONEX Swiss Open 2026",
+            "team_a": "Yuta WATANABE/Maya TAGUCH",
+            "team_b": "ZHU Yi Jun/LI Qian",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/32ede39a0b59f9a912482add5e476b08.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/0339115a23d6c29668640d7ed6e1f279.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-087cdcf4219e.png?v=1773143849",
+            "thumb_key": "thumbs/kaytee-087cdcf4219e.webp"
+          }
+        },
+        {
+          "id": "kaytee-2d8c958cb457",
+          "name": "⚽ Piotr Likowski vs Pius Baier | 18:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2d8c958cb457.png?v=1773143850",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601308343",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601308343",
+                  "name": "Piotr Likowski vs Pius Baier",
+                  "streams": [
+                    {
+                      "id": "st-601308343",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b937481e69",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69afe457326d7_103/index.m3u8?expire=1773739735&sign=950b8ee39d1769af9395e6b90122ec65",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/piotr-likowski-vs-pius-baier-1830-10-03-2026/601308343"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "European Open Pool Championship 2026",
+            "team_a": "Piotr Likowski",
+            "team_b": "Pius Baier",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/65c0fb3df79ff7a5050efa6f17bba74c.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/301bbb716d7b4a089db6bb744572c860.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2d8c958cb457.png?v=1773143850",
+            "thumb_key": "thumbs/kaytee-2d8c958cb457.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_bóng_chuyền",
+      "name": "🔴 Live 🏐 Bóng Chuyền",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
         {
           "id": "kaytee-24e3b7954798",
           "name": "🏐 Hungkuk W vs IBK W | 17:00",
@@ -639,7 +570,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-24e3b7954798.png?v=1773142665",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-24e3b7954798.png?v=1773143840",
             "width": 1600,
             "height": 1200
           },
@@ -694,8 +625,86 @@
             "team_b": "IBK W",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/378258933a4dd77acb1a9413ef01bc0b.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/a25d1fc24aa85e0580b4c7881f232646.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-24e3b7954798.png?v=1773142665",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-24e3b7954798.png?v=1773143840",
             "thumb_key": "thumbs/kaytee-24e3b7954798.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_bóng_bàn",
+      "name": "🔴 Live 🏓 Bóng Bàn",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-489268188edc",
+          "name": "🏓 Quadri ARUNA vs Felix LEBRUN | 17:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-489268188edc.png?v=1773143844",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601299595",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601299595",
+                  "name": "Quadri ARUNA vs Felix LEBRUN",
+                  "streams": [
+                    {
+                      "id": "st-601299595",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9f5d1ca2dd",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b0056c326d7_142210/index.m3u8?expire=1773748204&sign=919696d85d3d508fb8f538752127a1cd",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/quadri-aruna-vs-felix-lebrun-1730-10-03-2026/601299595"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "WTT Champions Chongqing 2026 Presented",
+            "team_a": "Quadri ARUNA",
+            "team_b": "Felix LEBRUN",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/b0f10fa30c45ce41c9b123e7b68d4f4b.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/127e13a1128bf5a04e1afa31906b66ff.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-489268188edc.png?v=1773143844",
+            "thumb_key": "thumbs/kaytee-489268188edc.webp"
           }
         }
       ]
