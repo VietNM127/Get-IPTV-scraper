@@ -8,6 +8,792 @@
     "type": "cover",
     "url": "https://scontent.fhan5-10.fna.fbcdn.net/v/t39.30808-6/580821357_1151084077132266_6103102651618107715_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=dd6889&_nc_eui2=AeHUhbo5R5NFXmgOsxANQC8gQnG2fAweQLJCcbZ8DB5AspcyzbUEI3Fnt2SR9nPUCJIxSOvjCFwBmURc4-UcM0m7&_nc_ohc=NfNQg-r-20MQ7kNvwFQH_Hs&_nc_oc=Adlx7DDa7esB8i9ImfAcuFbsTHFW6crNh8CbWHDzXj4R7GOrWtSFEJCjwlWjihJRg9OdDKehAdO6jiKBcpo7NaXa&_nc_zt=23&_nc_ht=scontent.fhan5-10.fna&_nc_gid=hYKh8Di3yDWxq5OwpW28nQ&_nc_ss=8&oh=00_AfwW4Se45di6s_O1g06AmqYWNCKGt41h8Gv5LClCaWpo8g&oe=69B4B51E"
   },
-  "updated_at": "2026-03-09T23:46:04.381956",
-  "groups": []
+  "updated_at": "2026-03-10T00:01:22.935654",
+  "groups": [
+    {
+      "id": "live",
+      "name": "🔴 Live",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-a395c5e6a892",
+          "name": "⚽ Millonarios vs Cucuta Deportivo | 06:20 10/03",
+          "type": "single",
+          "display": "vertical",
+          "enable_detail": false,
+          "image": {
+            "padding": 0,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a395c5e6a892.png",
+            "width": 800,
+            "height": 600
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601282266",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601282266",
+                  "name": "Millonarios vs Cucuta Deportivo",
+                  "streams": [
+                    {
+                      "id": "st-601282266",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8a7c965e6d",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69af4d3b326d7_74012/index.m3u8?expire=1773701051&sign=18ba512469fd89d1553914e03fdc1876",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/millonarios-vs-cucuta-deportivo-0620-10-03-2026/601282266"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-3357116ae4",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/4596bc8e1065edc8ecd902e120abdd49/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/millonarios-vs-cucuta-deportivo-0620-10-03-2026/601282266"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Categoría Primera A",
+            "team_a": "Millonarios",
+            "team_b": "Cucuta Deportivo",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/88bf2a10fe7e8d3f9a21b73f3f77fcde.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/972c2e951d1ba7680faee53a342bd0a2.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a395c5e6a892.png",
+            "thumb_key": "thumbs/kaytee-a395c5e6a892.webp"
+          }
+        },
+        {
+          "id": "kaytee-c80974d8663a",
+          "name": "⚽ Belgrano U20 vs LDU Quito U20 | 05:00 10/03",
+          "type": "single",
+          "display": "vertical",
+          "enable_detail": false,
+          "image": {
+            "padding": 0,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c80974d8663a.png",
+            "width": 800,
+            "height": 600
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601296490",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601296490",
+                  "name": "Belgrano U20 vs LDU Quito U20",
+                  "streams": [
+                    {
+                      "id": "st-601296490",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e7434c34a8",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/7d19bc2d334568f06aae1b70abd9ed05/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/belgrano-u20-vs-ldu-quito-u20-0500-10-03-2026/601296490"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "",
+            "team_a": "Belgrano U20",
+            "team_b": "LDU Quito U20",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/8dce7d103f355dc0167c2458f5ae9a17.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/af8181ede871c63f74616b9000c79b1d.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c80974d8663a.png",
+            "thumb_key": "thumbs/kaytee-c80974d8663a.webp"
+          }
+        },
+        {
+          "id": "kaytee-d1dc78773b63",
+          "name": "⚽ Cienciano vs Sport Boys | 05:30 10/03",
+          "type": "single",
+          "display": "vertical",
+          "enable_detail": false,
+          "image": {
+            "padding": 0,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d1dc78773b63.png",
+            "width": 800,
+            "height": 600
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601293634",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601293634",
+                  "name": "Cienciano vs Sport Boys",
+                  "streams": [
+                    {
+                      "id": "st-601293634",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7a63f69982",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/25b2c1e75feba552968cd89cc5f7c634/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/cienciano-vs-sport-boys-0530-10-03-2026/601293634"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "",
+            "team_a": "Cienciano",
+            "team_b": "Sport Boys",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/e868bb2eac1923c5aecaddd492860b32.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/a50c3c04722ce6ef1516f6b984b94e07.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d1dc78773b63.png",
+            "thumb_key": "thumbs/kaytee-d1dc78773b63.webp"
+          }
+        },
+        {
+          "id": "kaytee-f0675b35587c",
+          "name": "⚽ Universidad de Chile vs Universidad de Concepcion | 06:00 10/03",
+          "type": "single",
+          "display": "vertical",
+          "enable_detail": false,
+          "image": {
+            "padding": 0,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f0675b35587c.png",
+            "width": 800,
+            "height": 600
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601293640",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601293640",
+                  "name": "Universidad de Chile vs Universidad de Concepcion",
+                  "streams": [
+                    {
+                      "id": "st-601293640",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1d8860d3a0",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/14aa11371b334fc14cae80d501f1aeca/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/universidad-de-chile-vs-universidad-de-concepcion-0600-10-03-2026/601293640"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "",
+            "team_a": "Universidad de Chile",
+            "team_b": "Universidad de Concepcion",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/731ea9512aeffe6fd2896bc1a7a60662.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/acd383efbc225b6eb9eaf03b7bd37fbf.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f0675b35587c.png",
+            "thumb_key": "thumbs/kaytee-f0675b35587c.webp"
+          }
+        },
+        {
+          "id": "kaytee-d9b3df37063e",
+          "name": "⚽ Bath United vs Circle Newtown United | 06:00 10/03",
+          "type": "single",
+          "display": "vertical",
+          "enable_detail": false,
+          "image": {
+            "padding": 0,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d9b3df37063e.png",
+            "width": 800,
+            "height": 600
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601299343",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601299343",
+                  "name": "Bath United vs Circle Newtown United",
+                  "streams": [
+                    {
+                      "id": "st-601299343",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ea0b6967ec",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/f2df260e96f9720df336fedb70a5640e/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/bath-united-vs-circle-newtown-united-0600-10-03-2026/601299343"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "",
+            "team_a": "Bath United",
+            "team_b": "Circle Newtown United",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/4c1c4e8c6a6c1188d8f7ffa4c5946c52.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/9046c266280abb9a4149b603a313f55d.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d9b3df37063e.png",
+            "thumb_key": "thumbs/kaytee-d9b3df37063e.webp"
+          }
+        },
+        {
+          "id": "kaytee-f928d38c1144",
+          "name": "⚽ Cleveland Cavaliers vs Philadelphia 76ers | 06:00 10/03",
+          "type": "single",
+          "display": "vertical",
+          "enable_detail": false,
+          "image": {
+            "padding": 0,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f928d38c1144.png",
+            "width": 800,
+            "height": 600
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601291681",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601291681",
+                  "name": "Cleveland Cavaliers vs Philadelphia 76ers",
+                  "streams": [
+                    {
+                      "id": "st-601291681",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fdb758a9de",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69af5032326d7_4439/index.m3u8?expire=1773701810&sign=e3089b86e830050b0dc05057a8af5ddb",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/cleveland-cavaliers-vs-philadelphia-76ers-0600-10-03-2026/601291681"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "",
+            "team_a": "Cleveland Cavaliers",
+            "team_b": "Philadelphia 76ers",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/6a622d89b1921efe3b8700ae976b59dc.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/0f99bfb04f15e140367c7014698a2cd0.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f928d38c1144.png",
+            "thumb_key": "thumbs/kaytee-f928d38c1144.webp"
+          }
+        },
+        {
+          "id": "kaytee-70f23d457a88",
+          "name": "⚽ Brooklyn Nets vs Memphis Grizzlies | 06:30 10/03",
+          "type": "single",
+          "display": "vertical",
+          "enable_detail": false,
+          "image": {
+            "padding": 0,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-70f23d457a88.png",
+            "width": 800,
+            "height": 600
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601291684",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601291684",
+                  "name": "Brooklyn Nets vs Memphis Grizzlies",
+                  "streams": [
+                    {
+                      "id": "st-601291684",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f057125795",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69af5ae3326d7_85714/index.m3u8?expire=1773704547&sign=30bddc9569b211ad165af650d2252bdf",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/brooklyn-nets-vs-memphis-grizzlies-0630-10-03-2026/601291684"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "",
+            "team_a": "Brooklyn Nets",
+            "team_b": "Memphis Grizzlies",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/5415962da94fa796f30cf36dcaab4898.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/972e287aa6940c9b032b0af3028a299b.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-70f23d457a88.png",
+            "thumb_key": "thumbs/kaytee-70f23d457a88.webp"
+          }
+        },
+        {
+          "id": "kaytee-13155a46289a",
+          "name": "⚽ Oklahoma City Thunder vs Denver Nuggets | 06:30 10/03",
+          "type": "single",
+          "display": "vertical",
+          "enable_detail": false,
+          "image": {
+            "padding": 0,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-13155a46289a.png",
+            "width": 800,
+            "height": 600
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601291702",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601291702",
+                  "name": "Oklahoma City Thunder vs Denver Nuggets",
+                  "streams": [
+                    {
+                      "id": "st-601291702",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3fb802faa3",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69af55a9326d7_72787/index.m3u8?expire=1773703209&sign=92f86f939b0906a2b3a85def11ae62ee",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/oklahoma-city-thunder-vs-denver-nuggets-0630-10-03-2026/601291702"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "",
+            "team_a": "Oklahoma City Thunder",
+            "team_b": "Denver Nuggets",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/4fe44502af5fe078532e6d7f968ef76e.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/d734dd7151e82d5c185ed20968505758.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-13155a46289a.png",
+            "thumb_key": "thumbs/kaytee-13155a46289a.webp"
+          }
+        },
+        {
+          "id": "kaytee-0a2cf43c4ca1",
+          "name": "⚽ Valentin Vacherot vs Ruud C. | 06:00 10/03",
+          "type": "single",
+          "display": "vertical",
+          "enable_detail": false,
+          "image": {
+            "padding": 0,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0a2cf43c4ca1.png",
+            "width": 800,
+            "height": 600
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601299520",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601299520",
+                  "name": "Valentin Vacherot vs Ruud C.",
+                  "streams": [
+                    {
+                      "id": "st-601299520",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c2edb004a8",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69af4ca3326d7_110198/index.m3u8?expire=1773700899&sign=5fed4af9057c3da9d69dae8ada87c8ef",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/valentin-vacherot-vs-ruud-c-0600-10-03-2026/601299520"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "",
+            "team_a": "Valentin Vacherot",
+            "team_b": "Ruud C.",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/7f37873c3f931b24e2584837756a463c.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/98e8579d1e2bc4fb0dba8274afd761f3.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0a2cf43c4ca1.png",
+            "thumb_key": "thumbs/kaytee-0a2cf43c4ca1.webp"
+          }
+        },
+        {
+          "id": "kaytee-a42067155406",
+          "name": "⚽ Krueger A. vs Svitolina E. | 06:00 10/03",
+          "type": "single",
+          "display": "vertical",
+          "enable_detail": false,
+          "image": {
+            "padding": 0,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a42067155406.png",
+            "width": 800,
+            "height": 600
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601299607",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601299607",
+                  "name": "Krueger A. vs Svitolina E.",
+                  "streams": [
+                    {
+                      "id": "st-601299607",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-dec81f625c",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69af5294326d7_142210/index.m3u8?expire=1773702420&sign=9340c6b188416ebd80b777941244a5a0",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/krueger-a-vs-svitolina-e-0600-10-03-2026/601299607"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "",
+            "team_a": "Krueger A.",
+            "team_b": "Svitolina E.",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/fb5bba1bbdbd34a52feead6f7a9f75ad.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/a401191cb5da5d27db5b927043ca1471.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a42067155406.png",
+            "thumb_key": "thumbs/kaytee-a42067155406.webp"
+          }
+        },
+        {
+          "id": "kaytee-7d58cc7bd995",
+          "name": "⚽ Sakkari M. vs Swiatek I. | 06:40 10/03",
+          "type": "single",
+          "display": "vertical",
+          "enable_detail": false,
+          "image": {
+            "padding": 0,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7d58cc7bd995.png",
+            "width": 800,
+            "height": 600
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601299604",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601299604",
+                  "name": "Sakkari M. vs Swiatek I.",
+                  "streams": [
+                    {
+                      "id": "st-601299604",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e41b07f2a3",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69af592b70a68_85706/index.m3u8?expire=1773704107&sign=953aa5a8fc104fe948a243bf94b99b22",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/sakkari-m-vs-swiatek-i-0640-10-03-2026/601299604"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "",
+            "team_a": "Sakkari M.",
+            "team_b": "Swiatek I.",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/d94c25381c183b1ca2516ff26e4197d6.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/fe55c5a418fce31c525e8f35f56540cd.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7d58cc7bd995.png",
+            "thumb_key": "thumbs/kaytee-7d58cc7bd995.webp"
+          }
+        }
+      ]
+    }
+  ]
 }
