@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://scontent.fhan5-10.fna.fbcdn.net/v/t39.30808-6/580821357_1151084077132266_6103102651618107715_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=dd6889&_nc_eui2=AeHUhbo5R5NFXmgOsxANQC8gQnG2fAweQLJCcbZ8DB5AspcyzbUEI3Fnt2SR9nPUCJIxSOvjCFwBmURc4-UcM0m7&_nc_ohc=NfNQg-r-20MQ7kNvwFQH_Hs&_nc_oc=Adlx7DDa7esB8i9ImfAcuFbsTHFW6crNh8CbWHDzXj4R7GOrWtSFEJCjwlWjihJRg9OdDKehAdO6jiKBcpo7NaXa&_nc_zt=23&_nc_ht=scontent.fhan5-10.fna&_nc_gid=hYKh8Di3yDWxq5OwpW28nQ&_nc_ss=8&oh=00_AfwW4Se45di6s_O1g06AmqYWNCKGt41h8Gv5LClCaWpo8g&oe=69B4B51E"
   },
-  "updated_at": "2026-03-10T02:31:00.321309",
+  "updated_at": "2026-03-10T02:49:24.615012",
   "groups": [
     {
       "id": "live",
@@ -170,75 +170,6 @@
             "logo_b": "https://cdn.rapid-api.icu/football/team/4316421ac63df6a85a3805ca3ea90303.png",
             "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c33995342c6c.png",
             "thumb_key": "thumbs/kaytee-c33995342c6c.webp"
-          }
-        },
-        {
-          "id": "kaytee-956049e0cc7d",
-          "name": "⚽ Orense SC vs Manta FC | 07:30 10/03",
-          "type": "single",
-          "display": "vertical",
-          "enable_detail": false,
-          "image": {
-            "padding": 0,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-956049e0cc7d.png",
-            "width": 800,
-            "height": 600
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601293652",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601293652",
-                  "name": "Orense SC vs Manta FC",
-                  "streams": [
-                    {
-                      "id": "st-601293652",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0380a9bdbe",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/a784937c4fd75e4b5ef01c0b8884dbd3/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/orense-sc-vs-manta-fc-0730-10-03-2026/601293652"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "",
-            "team_a": "Orense SC",
-            "team_b": "Manta FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/6aee0e3c4adf0a133ff26dd20c7ea29f.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/3679dc2a79876fe397c5a7e96c844e0e.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-956049e0cc7d.png",
-            "thumb_key": "thumbs/kaytee-956049e0cc7d.webp"
           }
         },
         {
@@ -653,6 +584,84 @@
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/c07272489fa7fb5cf0fc9fae20a063e7.png",
             "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-027c84b86261.png",
             "thumb_key": "thumbs/kaytee-027c84b86261.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming",
+      "name": "⏳ Sắp Live",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-e29ad6bf4c4c",
+          "name": "⚽ Elizabeta SAMARA vs KUAI Man | 10:00 10/03",
+          "type": "single",
+          "display": "vertical",
+          "enable_detail": false,
+          "image": {
+            "padding": 0,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e29ad6bf4c4c.png",
+            "width": 800,
+            "height": 600
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601299550",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601299550",
+                  "name": "Elizabeta SAMARA vs KUAI Man",
+                  "streams": [
+                    {
+                      "id": "st-601299550",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-dcaecfe833",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69af867470a68_18754/index.m3u8?expire=1773715700&sign=25eb441d48eb4ec3c19bcbc753fde7a0",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/elizabeta-samara-vs-kuai-man-1000-10-03-2026/601299550"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "",
+            "team_a": "Elizabeta SAMARA",
+            "team_b": "KUAI Man",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/f4dab7b5bc0dcb0fc76ea378c84ad907.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/fc0d7d70f5a03c6fec75ceb733e65f6d.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e29ad6bf4c4c.png",
+            "thumb_key": "thumbs/kaytee-e29ad6bf4c4c.webp"
           }
         }
       ]
