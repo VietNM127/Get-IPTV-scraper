@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-10T08:24:57.869126",
+  "updated_at": "2026-03-10T08:59:46.468654",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7833ef99bb8e.png?v=1773131093",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7833ef99bb8e.png?v=1773133180",
             "width": 1600,
             "height": 1200
           },
@@ -82,8 +82,146 @@
             "team_b": "Shandong Jsff(W)",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/69b57bf85b223fc09bdeb5768bff90bb.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/563ea9a0da488aaf3e046961e2c3dc99.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7833ef99bb8e.png?v=1773131093",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7833ef99bb8e.png?v=1773133180",
             "thumb_key": "thumbs/kaytee-7833ef99bb8e.webp"
+          }
+        },
+        {
+          "id": "kaytee-087cdcf4219e",
+          "name": "⚽ Riki TAKEI vs Joakim OLDORFF | 15:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-087cdcf4219e.png?v=1773133181",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601308331",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601308331",
+                  "name": "Riki TAKEI vs Joakim OLDORFF",
+                  "streams": [
+                    {
+                      "id": "st-601308331",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e6c8236e10",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69afdc46326d7_110198/index.m3u8?expire=1773737670&sign=a8963d379787df728435183b885c8d4d",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/riki-takei-vs-joakim-oldorff-1530-10-03-2026/601308331"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sân 1 - YONEX Swiss Open 2026",
+            "team_a": "Riki TAKEI",
+            "team_b": "Joakim OLDORFF",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/29cf08bdd2c7eedec2a740a6e68b110a.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/101f39e01bf5fe36f690f7a313e373ca.jpg",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-087cdcf4219e.png?v=1773133181",
+            "thumb_key": "thumbs/kaytee-087cdcf4219e.webp"
+          }
+        },
+        {
+          "id": "kaytee-51fa226bc39e",
+          "name": "⚽ Adelaide vs South East Melbourne | 15:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-51fa226bc39e.png?v=1773133182",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601299499",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601299499",
+                  "name": "Adelaide vs South East Melbourne",
+                  "streams": [
+                    {
+                      "id": "st-601299499",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-37202650b8",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69afd178326d7_4439/index.m3u8?expire=1773734904&sign=9ab98ef3220367bfeba13dc4eedf910d",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/adelaide-vs-south-east-melbourne-1530-10-03-2026/601299499"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NBL",
+            "team_a": "Adelaide",
+            "team_b": "South East Melbourne",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/21f9c0700d2402e93d4a9c49bd4854e7.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/7c169cd0be437260821ef33aa8dd29c6.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-51fa226bc39e.png?v=1773133182",
+            "thumb_key": "thumbs/kaytee-51fa226bc39e.webp"
           }
         }
       ]
@@ -105,7 +243,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-54236aa9dfc2.png?v=1773131090",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-54236aa9dfc2.png?v=1773133178",
             "width": 1600,
             "height": 1200
           },
@@ -160,7 +298,7 @@
             "team_b": "Kim Jun-tae",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/810eb61673c3d74fc757b37bb3167104.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/bf5ce46ec488015930d36cea6392631d.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-54236aa9dfc2.png?v=1773131090",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-54236aa9dfc2.png?v=1773133178",
             "thumb_key": "thumbs/kaytee-54236aa9dfc2.webp"
           }
         },
@@ -174,7 +312,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1235ec4faa3b.png?v=1773131090",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1235ec4faa3b.png?v=1773133179",
             "width": 1600,
             "height": 1200
           },
@@ -229,86 +367,8 @@
             "team_b": "Kim Im-gwon",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/337bd983dc29223711946a2bc7d33dbf.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/4c87577d6db11e3e92044f16c5c6aa5d.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1235ec4faa3b.png?v=1773131090",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1235ec4faa3b.png?v=1773133179",
             "thumb_key": "thumbs/kaytee-1235ec4faa3b.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "live_bóng_bàn",
-      "name": "🔴 Live 🏓 Bóng Bàn",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-e29ad6bf4c4c",
-          "name": "🏓 Anton KALLBERG vs Tomokazu HARIMOTO | 14:45",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e29ad6bf4c4c.png?v=1773131092",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601299550",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601299550",
-                  "name": "Anton KALLBERG vs Tomokazu HARIMOTO",
-                  "streams": [
-                    {
-                      "id": "st-601299550",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0f5e424c27",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69afc0b2326d7_110198/index.m3u8?expire=1773730610&sign=c0cef899c2993a7db9011f115ca99aeb",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/anton-kallberg-vs-tomokazu-harimoto-1445-10-03-2026/601299550"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "WTT Champions Chongqing 2026 Presented",
-            "team_a": "Anton KALLBERG",
-            "team_b": "Tomokazu HARIMOTO",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/8cd34e1a3155bbc07dc5701935a93e25.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/896d75fae4391fe42ef5793abba43342.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e29ad6bf4c4c.png?v=1773131092",
-            "thumb_key": "thumbs/kaytee-e29ad6bf4c4c.webp"
           }
         }
       ]
@@ -321,75 +381,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-51fa226bc39e",
-          "name": "⚽ Adelaide vs South East Melbourne | 15:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-51fa226bc39e.png?v=1773131093",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Sắp Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601299499",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601299499",
-                  "name": "Adelaide vs South East Melbourne",
-                  "streams": [
-                    {
-                      "id": "st-601299499",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-37202650b8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69afd178326d7_4439/index.m3u8?expire=1773734904&sign=9ab98ef3220367bfeba13dc4eedf910d",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/adelaide-vs-south-east-melbourne-1530-10-03-2026/601299499"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "NBL",
-            "team_a": "Adelaide",
-            "team_b": "South East Melbourne",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/21f9c0700d2402e93d4a9c49bd4854e7.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/7c169cd0be437260821ef33aa8dd29c6.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-51fa226bc39e.png?v=1773131093",
-            "thumb_key": "thumbs/kaytee-51fa226bc39e.webp"
-          }
-        },
-        {
           "id": "kaytee-1a8fc70d61ae",
           "name": "⚽ Japan Women vs Việt Nam (Nữ) | 16:00",
           "type": "single",
@@ -399,7 +390,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1a8fc70d61ae.png?v=1773131095",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1a8fc70d61ae.png?v=1773133183",
             "width": 1600,
             "height": 1200
           },
@@ -442,8 +433,25 @@
                           ]
                         },
                         {
-                          "id": "lnk-04be4da77e",
+                          "id": "lnk-6ba892a810",
                           "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69afd6c070a68_72787/index.m3u8?expire=1773736256&sign=484a4c66428a9570882a5cd282945ede",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/japan-women-vs-viet-nam-nu-1600-10-03-2026/601293685"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-04be4da77e",
+                          "name": "Link 3",
                           "type": "hls",
                           "default": false,
                           "url": "https://live.alilicloud.com/live/d46d48f76b691acabd1183c309da87a3/playlist.m3u8",
@@ -471,7 +479,7 @@
             "team_b": "Việt Nam (Nữ)",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/511ce5ccb966e3fd16d3a8c1b99cc01a.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/93d98772ab37ea73fdc725f94d3cb65b.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1a8fc70d61ae.png?v=1773131095",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1a8fc70d61ae.png?v=1773133183",
             "thumb_key": "thumbs/kaytee-1a8fc70d61ae.webp"
           }
         },
@@ -485,7 +493,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1f4e4b50f304.png?v=1773131096",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1f4e4b50f304.png?v=1773133184",
             "width": 1600,
             "height": 1200
           },
@@ -511,10 +519,27 @@
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-3615487325",
+                          "id": "lnk-5415ec8fa1",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69afdab4326d7_73445/index.m3u8?expire=1773737268&sign=4ed42a4fbc5448b9d8f022d465bf2a4f",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/india-w-vs-chinese-taipei-w-1600-10-03-2026/601293682"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-3615487325",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
                           "url": "https://live.alilicloud.com/live/1d8d71dc254ab02b94c7debe944dedff/playlist.m3u8",
                           "request_headers": [
                             {
@@ -540,7 +565,7 @@
             "team_b": "Chinese Taipei (w)",
             "logo_a": "https://cdn.rapid-api.icu/football/team/55351f435dfe7620bade0d4e64da16c4.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/74eb0c64d3d5eb724d982a8b150d8943.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1f4e4b50f304.png?v=1773131096",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1f4e4b50f304.png?v=1773133184",
             "thumb_key": "thumbs/kaytee-1f4e4b50f304.webp"
           }
         },
@@ -554,7 +579,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-55840c497449.png?v=1773131097",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-55840c497449.png?v=1773133186",
             "width": 1600,
             "height": 1200
           },
@@ -609,7 +634,7 @@
             "team_b": "Yangon United",
             "logo_a": "https://cdn.rapid-api.icu/football/team/d1bba4fe3e0e715cf55d89f74aa65bd2.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/545790121cf7b80b0f02caec40a31ea6.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-55840c497449.png?v=1773131097",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-55840c497449.png?v=1773133186",
             "thumb_key": "thumbs/kaytee-55840c497449.webp"
           }
         }
