@@ -70,9 +70,11 @@ def _sport_category(league: str, title: str = "") -> tuple:
     if any(k in combined for k in NBA_KW):
         return "🏀", "Bóng Rổ"
 
-    # Tennis: tên giải hoặc dạng "Họ T. vs Họ T." (viết tắt)
+    # Tennis: tên giải hoặc dạng "Họ T. vs Họ T." (viết tắt) hoặc tên tay vợt nổi tiếng
     TENNIS_KW = ["tennis", "atp", "wta", "indian wells", "roland garros",
-                 "wimbledon", "us open", "australian open", "davis cup"]
+                 "wimbledon", "us open", "australian open", "davis cup",
+                 "medvedev", "djokovic", "nadal", "federer", "alcaraz", 
+                 "sinner", "rybakina", "sabalenka"]
     if any(k in combined for k in TENNIS_KW):
         return "🎾", "Tennis"
     # Detect từ dạng tên viết tắt: "Họ X. vs Họ Y." → có khả năng là tennis/cầu lông
@@ -87,6 +89,12 @@ def _sport_category(league: str, title: str = "") -> tuple:
         return "🥊", "Võ Thuật"
     if any(k in combined for k in ["bóng bàn", "table tennis", "ittf", "wtt"]):
         return "🏓", "Bóng Bàn"
+    
+    # Detect tên người châu Á viết hoa toàn bộ họ (pattern bóng bàn/cầu lông)
+    # VD: "ZHOU Qihao vs HUANG Youzheng" → cả 2 đều có HỌ VIẾT HOA
+    if re.search(r'\b[A-Z]{2,}\s+[A-Z][a-z]+\s+vs\s+[A-Z]{2,}\s+[A-Z][a-z]+', title):
+        return "🏓", "Bóng Bàn"
+    
     return "⚽", "Bóng Đá"
 
 def _short_id(text: str, length: int = 12) -> str:
@@ -283,6 +291,14 @@ class BunchaTVScraper:
                 continue
             seen_ids.add(match_id)
 
+            # Lấy giờ thi đấu từ URL trước (cần để check is_live fallback)
+            # VD: .../eyupspor-vs-kocaelispor-2000-09-03-2026/601293394 → "20:00 09/03"
+            time_from_url = ""
+            url_time = re.search(r'-(\d{4})-(\d{2})-(\d{2})-\d{4}/', href)
+            if url_time:
+                hhmm, dd, mm = url_time.group(1), url_time.group(2), url_time.group(3)
+                time_from_url = f"{hhmm[:2]}:{hhmm[2:]} {dd}/{mm}"
+
             # Phân loại live/sắp live từ CSS class
             is_live = "stream_m_live" in classes
 
@@ -294,18 +310,11 @@ class BunchaTVScraper:
                     now = datetime.now()
                     match_start = now.replace(hour=hh, minute=mm_t, second=0, microsecond=0)
                     elapsed = (now - match_start).total_seconds()
-                    if 0 <= elapsed <= 14400:   # đã qua 0..4h
+                    # Chỉ set live nếu ĐÃ QUA giờ bắt đầu (elapsed > 0) và trong vòng 4h
+                    if 0 < elapsed <= 14400:
                         is_live = True
                 except Exception:
                     pass
-
-            # Lấy giờ thi đấu từ URL (đáng tin hơn CSS selector)
-            # VD: .../eyupspor-vs-kocaelispor-2000-09-03-2026/601293394 → "20:00 09/03"
-            time_from_url = ""
-            url_time = re.search(r'-(\d{4})-(\d{2})-(\d{2})-\d{4}/', href)
-            if url_time:
-                hhmm, dd, mm = url_time.group(1), url_time.group(2), url_time.group(3)
-                time_from_url = f"{hhmm[:2]}:{hhmm[2:]} {dd}/{mm}"
 
             info = self._extract_card_info(container, link_tag, match_id, is_live)
             info["page_url"] = href
