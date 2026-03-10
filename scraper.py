@@ -105,13 +105,13 @@ def generate_thumb(logo_a_url: str, logo_b_url: str, channel_id: str, session,
                    team_a: str = "", team_b: str = "",
                    match_time: str = "", league: str = "") -> str:
     """
-    Tạo ảnh composite 800x600:
+    Tạo ảnh composite 1600x1200 (khớp với reference):
       [Logo A]     VS      [Logo B]
       [Tên A]    [Giờ]     [Tên B]
                [Tên giải]
-    Lưu vào thumbs/CHANNEL_ID.png, trả về đường dẫn file.
+    Logo mỗi đội được đặt trong ô vuông cố định → kích thước đồng đều.
     """
-    W, H = 800, 600
+    W, H = 1600, 1200
     BG = (245, 245, 245)
     img = Image.new("RGB", (W, H), BG)
     draw = ImageDraw.Draw(img)
@@ -132,48 +132,53 @@ def generate_thumb(logo_a_url: str, logo_b_url: str, channel_id: str, session,
                 pass
         return ImageFont.load_default()
 
-    font_vs     = load_font(80, bold=False)
-    font_time   = load_font(40, bold=False)
-    font_team   = load_font(32, bold=False)
-    font_league = load_font(26, bold=False)
+    font_vs     = load_font(160, bold=False)
+    font_time   = load_font(80,  bold=False)
+    font_team   = load_font(64,  bold=False)
+    font_league = load_font(52,  bold=False)
 
-    # ── Paste logo ────────────────────────────────────────────────────────────
-    LOGO_MAX = 210
-    LOGO_CY  = 190   # tâm dọc của logo
+    # ── Paste logo vào ô vuông cố định 360x360 ────────────────────────────────
+    SLOT = 360       # kích thước ô vuông cố định cho mỗi logo
+    LOGO_CY = 390    # tâm dọc của ô logo
 
     def paste_logo(url, cx):
-        """Paste logo tại tâm (cx, LOGO_CY), trả về y dưới cùng của logo."""
-        if not url:
-            return LOGO_CY + LOGO_MAX // 2
-        try:
-            r = session.get(url, timeout=8)
-            r.raise_for_status()
-            logo = Image.open(io.BytesIO(r.content)).convert("RGBA")
-            logo.thumbnail((LOGO_MAX, LOGO_MAX), Image.LANCZOS)
-            bg = Image.new("RGBA", logo.size, (*BG, 255))
-            bg.paste(logo, mask=logo.split()[3])
-            final = bg.convert("RGB")
-            x = cx - final.width // 2
-            y = LOGO_CY - final.height // 2
-            img.paste(final, (x, y))
-            return y + final.height
-        except Exception:
-            return LOGO_CY + LOGO_MAX // 2
+        """Đặt logo vào ô vuông SLOT×SLOT căn giữa tại (cx, LOGO_CY)."""
+        slot_img = Image.new("RGB", (SLOT, SLOT), BG)  # ô vuông nền
+        if url:
+            try:
+                r = session.get(url, timeout=8)
+                r.raise_for_status()
+                logo = Image.open(io.BytesIO(r.content)).convert("RGBA")
+                logo.thumbnail((SLOT, SLOT), Image.LANCZOS)   # thu nhỏ vừa ô
+                bg = Image.new("RGBA", logo.size, (*BG, 255))
+                bg.paste(logo, mask=logo.split()[3])
+                logo_rgb = bg.convert("RGB")
+                # Căn giữa logo trong ô vuông
+                ox = (SLOT - logo_rgb.width)  // 2
+                oy = (SLOT - logo_rgb.height) // 2
+                slot_img.paste(logo_rgb, (ox, oy))
+            except Exception:
+                pass
+        # Dán ô vuông vào canvas chính
+        x = cx - SLOT // 2
+        y = LOGO_CY - SLOT // 2
+        img.paste(slot_img, (x, y))
+        return y + SLOT   # y dưới cùng của ô
 
-    bottom_a = paste_logo(logo_a_url, W // 4)       # x=200
-    bottom_b = paste_logo(logo_b_url, 3 * W // 4)   # x=600
+    bottom_a = paste_logo(logo_a_url, W // 4)        # x=400
+    bottom_b = paste_logo(logo_b_url, 3 * W // 4)   # x=1200
 
     # ── VS + Giờ ở trung tâm ─────────────────────────────────────────────────
-    draw.text((W // 2, LOGO_CY - 10), "VS",
+    draw.text((W // 2, LOGO_CY - 20), "VS",
               fill="#e84545", font=font_vs, anchor="mm")
     if match_time:
-        time_display = match_time.split()[0]   # chỉ lấy "HH:MM", bỏ ngày
-        draw.text((W // 2, LOGO_CY + 58), time_display,
+        time_display = match_time.split()[0]   # chỉ lấy "HH:MM"
+        draw.text((W // 2, LOGO_CY + 115), time_display,
                   fill="#ff8000", font=font_time, anchor="mm")
 
     # ── Tên 2 đội bên dưới logo ───────────────────────────────────────────────
-    team_y = max(bottom_a, bottom_b) + 22
-    ZONE_W = W // 2 - 30   # ~370px chiều rộng mỗi vùng
+    team_y = max(bottom_a, bottom_b) + 44
+    ZONE_W = W // 2 - 60
 
     def draw_team_name(name, cx, y):
         if not name:
@@ -191,7 +196,7 @@ def generate_thumb(logo_a_url: str, logo_b_url: str, channel_id: str, session,
                 cur = word
         if cur:
             lines.append(cur)
-        lh = 38
+        lh = 76
         for i, line in enumerate(lines[:2]):
             draw.text((cx, y + i * lh), line,
                       fill="#222222", font=font_team, anchor="mm")
@@ -202,15 +207,14 @@ def generate_thumb(logo_a_url: str, logo_b_url: str, channel_id: str, session,
     # ── Tên giải đấu ở dưới cùng ─────────────────────────────────────────────
     if league:
         league_disp = league
-        league_y = H - 38
         bb = draw.textbbox((0, 0), league_disp, font=font_league)
-        while bb[2] - bb[0] > W - 60 and len(league_disp) > 4:
+        while bb[2] - bb[0] > W - 120:
             league_disp = league_disp[:-1]
             bb = draw.textbbox((0, 0), league_disp + "…", font=font_league)
-        if draw.textbbox((0, 0), league_disp, font=font_league)[2] - \
-           draw.textbbox((0, 0), league_disp, font=font_league)[0] > W - 60:
-            league_disp += "…"
-        draw.text((W // 2, league_y), league_disp,
+            league_disp_show = league_disp + "…"
+        else:
+            league_disp_show = league_disp
+        draw.text((W // 2, H - 60), league_disp_show,
                   fill="#888888", font=font_league, anchor="mm")
 
     os.makedirs("thumbs", exist_ok=True)
@@ -447,15 +451,15 @@ class BunchaTVScraper:
                 "id":             uid,
                 "name":           f"{sport_emoji} {title} | {time_hhmm}",
                 "type":           "single",
-                "display":        "vertical",
+                "display":        "thumbnail-only",
                 "enable_detail":  False,
                 "image": {
-                    "padding":          0,
+                    "padding":          1,
                     "background_color": "#ececec",
                     "display":          "contain",
                     "url":              thumb_url,
-                    "width":            800,
-                    "height":           600,
+                    "width":            1600,
+                    "height":           1200,
                 },
                 "labels": [{
                     "text":       label_text,
