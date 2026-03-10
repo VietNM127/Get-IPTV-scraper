@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-10T17:35:50.200846",
+  "updated_at": "2026-03-10T18:00:10.290821",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,161 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-96fc53df0a9c",
-          "name": "⚽ Robbie Capito vs Holger Vier | 22:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-96fc53df0a9c.png?v=1773164141",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601308613",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601308613",
-                  "name": "Robbie Capito vs Holger Vier",
-                  "streams": [
-                    {
-                      "id": "st-601308613",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a9c746218a",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b03cf1326d8_142210/index.m3u8?expire=1773762417&sign=a1866962434734bfd10dc7476d7710d2",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/robbie-capito-vs-holger-vier-2200-10-03-2026/601308613"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "European Open Pool Championship 2026",
-            "team_a": "Robbie Capito",
-            "team_b": "Holger Vier",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/b9be024d33da0f0ed05f0f9a8c3500be.webp",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/cfcc4497709c58514c2932333187da34.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-96fc53df0a9c.png?v=1773164141",
-            "thumb_key": "thumbs/kaytee-96fc53df0a9c.webp"
-          }
-        },
-        {
-          "id": "kaytee-f47d4ae3cbca",
-          "name": "⚽ Pakhtakor vs Navbahor Namangan | 22:50",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f47d4ae3cbca.png?v=1773164143",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601293760",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601293760",
-                  "name": "Pakhtakor vs Navbahor Namangan",
-                  "streams": [
-                    {
-                      "id": "st-601293760",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8c5434d4bf",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b02b1170a68_136682/index.m3u8?expire=1773757841&sign=7e84f94b54068da99ad9d7314cc77fe4",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/pakhtakor-vs-navbahor-namangan-2250-10-03-2026/601293760"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-9e353d8093",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/9c2495ffb2b04de8983e531184332e92/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/pakhtakor-vs-navbahor-namangan-2250-10-03-2026/601293760"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Uzbekistan Super League",
-            "team_a": "Pakhtakor",
-            "team_b": "Navbahor Namangan",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/78dd333913352de8fc4e8b0834636245.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/38282bbb6c7407024187ae929dab2274.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f47d4ae3cbca.png?v=1773164143",
-            "thumb_key": "thumbs/kaytee-f47d4ae3cbca.webp"
-          }
-        },
         {
           "id": "kaytee-0a49ae1ad9b0",
           "name": "⚽ FC Flora Tallinn vs FC Nomme United | 23:00",
@@ -182,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0a49ae1ad9b0.png?v=1773164146",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0a49ae1ad9b0.png?v=1773165606",
             "width": 1600,
             "height": 1200
           },
@@ -237,77 +82,8 @@
             "team_b": "FC Nomme United",
             "logo_a": "https://cdn.rapid-api.icu/football/team/5b9c9b4f40414f2be603cf1dac1bdad6.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/348b05307188e5ba081db3e659b7ba0d.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0a49ae1ad9b0.png?v=1773164146",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0a49ae1ad9b0.png?v=1773165606",
             "thumb_key": "thumbs/kaytee-0a49ae1ad9b0.webp"
-          }
-        },
-        {
-          "id": "kaytee-58d258ea83ca",
-          "name": "⚽ AS Douanes Ouagadougou vs Sporting Football des Cascades | 23:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-58d258ea83ca.png?v=1773164148",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601296538",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601296538",
-                  "name": "AS Douanes Ouagadougou vs Sporting Football des Cascades",
-                  "streams": [
-                    {
-                      "id": "st-601296538",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-80ba20f7ec",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/cb74c228ccc267a4e421b4bcdaa9b678/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/as-douanes-ouagadougou-vs-sporting-football-des-cascades-2300-10-03-2026/601296538"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Burkina Faso Division 1",
-            "team_a": "AS Douanes Ouagadougou",
-            "team_b": "Sporting Football des Cascades",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/02e905e8f407b78d24c8ee895d7dce8e.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/db8a84992b024e8260c4b350a4d9f95d.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-58d258ea83ca.png?v=1773164148",
-            "thumb_key": "thumbs/kaytee-58d258ea83ca.webp"
           }
         },
         {
@@ -320,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-37614386ed02.png?v=1773164150",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-37614386ed02.png?v=1773165608",
             "width": 1600,
             "height": 1200
           },
@@ -375,8 +151,77 @@
             "team_b": "RC Kadiogo",
             "logo_a": "https://cdn.rapid-api.icu/football/team/832bbcc8557920f488673c1b47e764c8.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/29c72f8d82b67e446dea00ab4669c26e.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-37614386ed02.png?v=1773164150",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-37614386ed02.png?v=1773165608",
             "thumb_key": "thumbs/kaytee-37614386ed02.webp"
+          }
+        },
+        {
+          "id": "kaytee-1ec23e99afbf",
+          "name": "⚽ Kauno Zalgiris vs FK Panevezys | 23:45",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1ec23e99afbf.png?v=1773165610",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601293772",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601293772",
+                  "name": "Kauno Zalgiris vs FK Panevezys",
+                  "streams": [
+                    {
+                      "id": "st-601293772",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-24fb58845b",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/c91ad4ca400405fd7efb7085e1969458/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/kauno-zalgiris-vs-fk-panevezys-2345-10-03-2026/601293772"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Lithuanian A Lyga",
+            "team_a": "Kauno Zalgiris",
+            "team_b": "FK Panevezys",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/da6a0f9acc877204e8bc526a922066d6.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/120f24dadbb90aea10ca5c0c0cde76b4.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1ec23e99afbf.png?v=1773165610",
+            "thumb_key": "thumbs/kaytee-1ec23e99afbf.webp"
           }
         }
       ]
