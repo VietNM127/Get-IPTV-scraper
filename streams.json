@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-10T15:40:39.579897",
+  "updated_at": "2026-03-10T16:14:07.970634",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,247 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-3ce7e0633a10",
-          "name": "⚽ Bhayangkara Presisi Indonesia FC vs Arema FC | 20:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3ce7e0633a10.png?v=1773157232",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601293733",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601293733",
-                  "name": "Bhayangkara Presisi Indonesia FC vs Arema FC",
-                  "streams": [
-                    {
-                      "id": "st-601293733",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2143d3825c",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b00d41326d7_85514/index.m3u8?expire=1773750209&sign=3d3dc0f018c97cb642fc5ed4e21555c8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/bhayangkara-presisi-indonesia-fc-vs-arema-fc-2030-10-03-2026/601293733"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-002f7117cc",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/54935cecf743def7fddd63257637f7e2/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/bhayangkara-presisi-indonesia-fc-vs-arema-fc-2030-10-03-2026/601293733"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Indonesian Liga 1",
-            "team_a": "Bhayangkara Presisi Indonesia FC",
-            "team_b": "Arema FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/837cf9a178940067578b7343018e003a.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/55cba4a142146e2cdc317d21eb4daf76.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3ce7e0633a10.png?v=1773157232",
-            "thumb_key": "thumbs/kaytee-3ce7e0633a10.webp"
-          }
-        },
-        {
-          "id": "kaytee-0b0ad973a227",
-          "name": "⚽ Neftchi Fargona vs FK Andijon | 21:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0b0ad973a227.png?v=1773157233",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601293757",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601293757",
-                  "name": "Neftchi Fargona vs FK Andijon",
-                  "streams": [
-                    {
-                      "id": "st-601293757",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-977e186f1b",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b019de70a68_79/index.m3u8?expire=1773753438&sign=91db7134f37a85a76c5e3213673ace79",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/neftchi-fargona-vs-fk-andijon-2100-10-03-2026/601293757"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-4826a15342",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/c47a5d3c4d48a933f6175e2918bd49d4/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/neftchi-fargona-vs-fk-andijon-2100-10-03-2026/601293757"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Uzbekistan Super League",
-            "team_a": "Neftchi Fargona",
-            "team_b": "FK Andijon",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/f414775655a79c5a471b2103a4164df4.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/d639bb3f26ed6f1600de1e55885fa4be.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0b0ad973a227.png?v=1773157233",
-            "thumb_key": "thumbs/kaytee-0b0ad973a227.webp"
-          }
-        },
-        {
-          "id": "kaytee-2d8c958cb457",
-          "name": "⚽ Zeljko Skoric vs Moritz Neuhausen | 21:20",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2d8c958cb457.png?v=1773157236",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601308343",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601308343",
-                  "name": "Zeljko Skoric vs Moritz Neuhausen",
-                  "streams": [
-                    {
-                      "id": "st-601308343",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b937481e69",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69afe457326d7_103/index.m3u8?expire=1773739735&sign=950b8ee39d1769af9395e6b90122ec65",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/zeljko-skoric-vs-moritz-neuhausen-2120-10-03-2026/601308343"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "European Open Pool Championship 2026",
-            "team_a": "Zeljko Skoric",
-            "team_b": "Moritz Neuhausen",
-            "logo_a": "/img/soccer.svg",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/980f2ebfacd7f306e0ae3c10a0005812.webp",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2d8c958cb457.png?v=1773157236",
-            "thumb_key": "thumbs/kaytee-2d8c958cb457.webp"
-          }
-        },
         {
           "id": "kaytee-784088e643fa",
           "name": "⚽ Mashal Muborak vs Qizilqum Zarafshon | 21:45",
@@ -268,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-784088e643fa.png?v=1773157237",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-784088e643fa.png?v=1773159236",
             "width": 1600,
             "height": 1200
           },
@@ -340,8 +99,77 @@
             "team_b": "Qizilqum Zarafshon",
             "logo_a": "https://cdn.rapid-api.icu/football/team/566fc8eae03f834a8221bedabf677c5d.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/709463bd62119aff6f7da0b20b4e1034.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-784088e643fa.png?v=1773157237",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-784088e643fa.png?v=1773159236",
             "thumb_key": "thumbs/kaytee-784088e643fa.webp"
+          }
+        },
+        {
+          "id": "kaytee-4b1e1f3a2684",
+          "name": "⚽ Academico Viseu U23 vs Sporting CP U23 | 22:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4b1e1f3a2684.png?v=1773159238",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601293748",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601293748",
+                  "name": "Academico Viseu U23 vs Sporting CP U23",
+                  "streams": [
+                    {
+                      "id": "st-601293748",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f7d26ddd3d",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/3ec5f6b523ff9ec88065db07882bd922/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/academico-viseu-u23-vs-sporting-cp-u23-2200-10-03-2026/601293748"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Portuguese U23 League",
+            "team_a": "Academico Viseu U23",
+            "team_b": "Sporting CP U23",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/d48bf087cac6d7c3f62fb7c8d55f89b5.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/9ae229e8442ff8cacac077b40f499022.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4b1e1f3a2684.png?v=1773159238",
+            "thumb_key": "thumbs/kaytee-4b1e1f3a2684.webp"
           }
         },
         {
@@ -354,7 +182,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-346de63b2fa3.png?v=1773157239",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-346de63b2fa3.png?v=1773159240",
             "width": 1600,
             "height": 1200
           },
@@ -395,17 +223,69 @@
                               "value": "Mozilla/5.0"
                             }
                           ]
-                        },
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Portuguese U23 League",
+            "team_a": "Maritimo U23",
+            "team_b": "Portimonense U23",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/1200b6dfbb0a5c057c0eb833fc675606.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/2204e8ba30d8257e51c73945acb01dff.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-346de63b2fa3.png?v=1773159240",
+            "thumb_key": "thumbs/kaytee-346de63b2fa3.webp"
+          }
+        },
+        {
+          "id": "kaytee-96fc53df0a9c",
+          "name": "⚽ Robbie Capito vs Holger Vier | 22:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-96fc53df0a9c.png?v=1773159242",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601308613",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601308613",
+                  "name": "Robbie Capito vs Holger Vier",
+                  "streams": [
+                    {
+                      "id": "st-601308613",
+                      "name": "KT",
+                      "stream_links": [
                         {
-                          "id": "lnk-2a2a47a4ef",
-                          "name": "Link 2",
+                          "id": "lnk-a9c746218a",
+                          "name": "Link 1",
                           "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/d99ccdd0064e64a4de0a280741e30317/playlist.m3u8",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b03cf1326d8_142210/index.m3u8?expire=1773762417&sign=a1866962434734bfd10dc7476d7710d2",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/maritimo-u23-vs-portimonense-u23-2200-10-03-2026/601293745"
+                              "value": "https://bunchatv1.net/truc-tiep/robbie-capito-vs-holger-vier-2200-10-03-2026/601308613"
                             },
                             {
                               "key": "User-Agent",
@@ -421,13 +301,306 @@
             }
           ],
           "org_metadata": {
-            "league": "Portuguese U23 League",
-            "team_a": "Maritimo U23",
-            "team_b": "Portimonense U23",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/1200b6dfbb0a5c057c0eb833fc675606.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/2204e8ba30d8257e51c73945acb01dff.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-346de63b2fa3.png?v=1773157239",
-            "thumb_key": "thumbs/kaytee-346de63b2fa3.webp"
+            "league": "European Open Pool Championship 2026",
+            "team_a": "Robbie Capito",
+            "team_b": "Holger Vier",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/b9be024d33da0f0ed05f0f9a8c3500be.webp",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/cfcc4497709c58514c2932333187da34.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-96fc53df0a9c.png?v=1773159242",
+            "thumb_key": "thumbs/kaytee-96fc53df0a9c.webp"
+          }
+        },
+        {
+          "id": "kaytee-d54fe7962582",
+          "name": "⚽ Sabah Baku vs FK Gilan Gabala | 22:15",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d54fe7962582.png?v=1773159244",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601299289",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601299289",
+                  "name": "Sabah Baku vs FK Gilan Gabala",
+                  "streams": [
+                    {
+                      "id": "st-601299289",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-618ea77717",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b02b0d70a68_124958/index.m3u8?expire=1773757837&sign=6a79043be395b998049d2cfe4e85e8a5",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/sabah-baku-vs-fk-gilan-gabala-2215-10-03-2026/601299289"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-51a1acfd47",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/c113afc0bddd31a1dc1c0312a0b54c16/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/sabah-baku-vs-fk-gilan-gabala-2215-10-03-2026/601299289"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Azerbaijan Premier League",
+            "team_a": "Sabah Baku",
+            "team_b": "FK Gilan Gabala",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/44cc5a54d7859b9d062a6f56a39819f8.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/01b36d0eae3771391455661b45834805.jpg",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d54fe7962582.png?v=1773159244",
+            "thumb_key": "thumbs/kaytee-d54fe7962582.webp"
+          }
+        },
+        {
+          "id": "kaytee-573880231cdc",
+          "name": "⚽ Slaven Belupo vs NK Lokomotiva Zagreb | 22:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-573880231cdc.png?v=1773159246",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601293751",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601293751",
+                  "name": "Slaven Belupo vs NK Lokomotiva Zagreb",
+                  "streams": [
+                    {
+                      "id": "st-601293751",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-721fc61047",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b0315d70a68_133172/index.m3u8?expire=1773759453&sign=9c797985b08a2b212d2341839af6f58a",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/slaven-belupo-vs-nk-lokomotiva-zagreb-2230-10-03-2026/601293751"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Croatian Cup",
+            "team_a": "Slaven Belupo",
+            "team_b": "NK Lokomotiva Zagreb",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/a491b4d6a330910fa354ff60a65bb615.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/3a628a345b4aefdab4111cf683ec36d6.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-573880231cdc.png?v=1773159246",
+            "thumb_key": "thumbs/kaytee-573880231cdc.webp"
+          }
+        },
+        {
+          "id": "kaytee-2d8c958cb457",
+          "name": "⚽ Amar Sinanovic vs Phuong Nam Pham | 22:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2d8c958cb457.png?v=1773159247",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601308343",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601308343",
+                  "name": "Amar Sinanovic vs Phuong Nam Pham",
+                  "streams": [
+                    {
+                      "id": "st-601308343",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b937481e69",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69afe457326d7_103/index.m3u8?expire=1773739735&sign=950b8ee39d1769af9395e6b90122ec65",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/amar-sinanovic-vs-phuong-nam-pham-2230-10-03-2026/601308343"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "European Open Pool Championship 2026",
+            "team_a": "Amar Sinanovic",
+            "team_b": "Phuong Nam Pham",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/8091436e58e40736632d5a378d3e9475.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/2b9284f83fdde8bfbc1009aa1d4fde3a.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2d8c958cb457.png?v=1773159247",
+            "thumb_key": "thumbs/kaytee-2d8c958cb457.webp"
+          }
+        },
+        {
+          "id": "kaytee-087cdcf4219e",
+          "name": "⚽ BAO Li Jing /  LUO Xu Min vs R. A. ROSE /  F. SETIANINGRUM | 22:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-087cdcf4219e.png?v=1773159247",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601308331",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601308331",
+                  "name": "BAO Li Jing /  LUO Xu Min vs R. A. ROSE /  F. SETIANINGRUM",
+                  "streams": [
+                    {
+                      "id": "st-601308331",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4107c49387",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b03d0f70a68_19013/index.m3u8?expire=1773762447&sign=8bb51a7f5b6cb77817965167c41f61df",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/bao-li-jing---luo-xu-min-vs-r-a-rose---f-setianingrum-2230-10-03-2026/601308331"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sân 1 - YONEX Swiss Open 2026",
+            "team_a": "BAO Li Jing /  LUO Xu Min",
+            "team_b": "R. A. ROSE /  F. SETIANINGRUM",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/553bf6bdabe3cb5f75a97e9bd0431813.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/e724a7ecab8f389ff729d0851ae0962b.webp",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-087cdcf4219e.png?v=1773159247",
+            "thumb_key": "thumbs/kaytee-087cdcf4219e.webp"
           }
         }
       ]
