@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-10T14:30:10.863441",
+  "updated_at": "2026-03-10T15:09:55.335996",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,230 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-c200203df4c3",
-          "name": "⚽ Serik Belediyespor vs Pendikspor | 20:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c200203df4c3.png?v=1773152999",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601293709",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601293709",
-                  "name": "Serik Belediyespor vs Pendikspor",
-                  "streams": [
-                    {
-                      "id": "st-601293709",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-725f957ac5",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b009b0326d7_95554/index.m3u8?expire=1773749296&sign=e15fef41b5d49081f64055b1be7bab49",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/serik-belediyespor-vs-pendikspor-2000-10-03-2026/601293709"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-5e40f388f9",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/447e7c5cdbda25b7b5d163a8a444a58b/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/serik-belediyespor-vs-pendikspor-2000-10-03-2026/601293709"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Turkish First League",
-            "team_a": "Serik Belediyespor",
-            "team_b": "Pendikspor",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/97fe3ae85a2bc3840972911fb2d15d45.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/9a07394b2cdca16ac436a056d2acd4c9.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c200203df4c3.png?v=1773152999",
-            "thumb_key": "thumbs/kaytee-c200203df4c3.webp"
-          }
-        },
-        {
-          "id": "kaytee-52511f0ceb68",
-          "name": "⚽ Adama City vs Arba Minch | 20:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-52511f0ceb68.png?v=1773153000",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601293727",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601293727",
-                  "name": "Adama City vs Arba Minch",
-                  "streams": [
-                    {
-                      "id": "st-601293727",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ec2d4b5a98",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/743ed35435520dce7a5f3da3dc004d04/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/adama-city-vs-arba-minch-2000-10-03-2026/601293727"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Ethiopia Premier League",
-            "team_a": "Adama City",
-            "team_b": "Arba Minch",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/1f628687971ba8f54e1b10a69ffdbf5c.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/a4d258acc703851ed1b08271c908dcb2.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-52511f0ceb68.png?v=1773153000",
-            "thumb_key": "thumbs/kaytee-52511f0ceb68.webp"
-          }
-        },
-        {
-          "id": "kaytee-45ef5e917c07",
-          "name": "⚽ Hawassa City vs Mekelle 70 Enderta | 20:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-45ef5e917c07.png?v=1773153002",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601293730",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601293730",
-                  "name": "Hawassa City vs Mekelle 70 Enderta",
-                  "streams": [
-                    {
-                      "id": "st-601293730",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a5f7e4dc40",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/d2f701b65d89319a38f43ba8b3d4007d/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/hawassa-city-vs-mekelle-70-enderta-2000-10-03-2026/601293730"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Ethiopia Premier League",
-            "team_a": "Hawassa City",
-            "team_b": "Mekelle 70 Enderta",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/2dd456663646544ea5909e8822c3eff8.jpg",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/6d0595baa23dc7a876c0b60e8e4a9064.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-45ef5e917c07.png?v=1773153002",
-            "thumb_key": "thumbs/kaytee-45ef5e917c07.webp"
-          }
-        },
         {
           "id": "kaytee-3ce7e0633a10",
           "name": "⚽ Bhayangkara Presisi Indonesia FC vs Arema FC | 20:30",
@@ -251,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3ce7e0633a10.png?v=1773153005",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3ce7e0633a10.png?v=1773155385",
             "width": 1600,
             "height": 1200
           },
@@ -323,7 +99,7 @@
             "team_b": "Arema FC",
             "logo_a": "https://cdn.rapid-api.icu/football/team/837cf9a178940067578b7343018e003a.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/55cba4a142146e2cdc317d21eb4daf76.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3ce7e0633a10.png?v=1773153005",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3ce7e0633a10.png?v=1773155385",
             "thumb_key": "thumbs/kaytee-3ce7e0633a10.webp"
           }
         },
@@ -337,7 +113,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2d8c958cb457.png?v=1773153008",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2d8c958cb457.png?v=1773155388",
             "width": 1600,
             "height": 1200
           },
@@ -392,7 +168,7 @@
             "team_b": "Joshua Filler",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/21959de2daea2f72f881ea820466b792.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/678b542f54374d34c84d5ada71346cf4.webp",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2d8c958cb457.png?v=1773153008",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2d8c958cb457.png?v=1773155388",
             "thumb_key": "thumbs/kaytee-2d8c958cb457.webp"
           }
         },
@@ -406,7 +182,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0b0ad973a227.png?v=1773153009",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0b0ad973a227.png?v=1773155391",
             "width": 1600,
             "height": 1200
           },
@@ -478,22 +254,13 @@
             "team_b": "FK Andijon",
             "logo_a": "https://cdn.rapid-api.icu/football/team/f414775655a79c5a471b2103a4164df4.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/d639bb3f26ed6f1600de1e55885fa4be.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0b0ad973a227.png?v=1773153009",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0b0ad973a227.png?v=1773155391",
             "thumb_key": "thumbs/kaytee-0b0ad973a227.webp"
           }
-        }
-      ]
-    },
-    {
-      "id": "live_billiard",
-      "name": "🔴 Live 🎱 Billiard",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
+        },
         {
-          "id": "kaytee-54236aa9dfc2",
-          "name": "🎱 Nguyễn Huỳnh Phương Linh vs Choi Sung-won | 21:00",
+          "id": "kaytee-784088e643fa",
+          "name": "⚽ Mashal Muborak vs Qizilqum Zarafshon | 21:45",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -501,7 +268,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-54236aa9dfc2.png?v=1773153010",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-784088e643fa.png?v=1773155393",
             "width": 1600,
             "height": 1200
           },
@@ -515,27 +282,44 @@
           ],
           "sources": [
             {
-              "id": "src-601308421",
+              "id": "src-601293754",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601308421",
-                  "name": "Nguyễn Huỳnh Phương Linh vs Choi Sung-won",
+                  "id": "ct-601293754",
+                  "name": "Mashal Muborak vs Qizilqum Zarafshon",
                   "streams": [
                     {
-                      "id": "st-601308421",
+                      "id": "st-601293754",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-e14e014153",
+                          "id": "lnk-a3bb6610ab",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69afc7e3326d7_144313/index.m3u8?expire=1773732451&sign=1863f987e1710d7a0f8ebed0567e079f",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b027ef326d8_72787/index.m3u8?expire=1773757039&sign=d43739c864bdbbd2b607f70b3a49cc8d",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/nguyen-huynh-phuong-linh-vs-choi-sungwon-2100-10-03-2026/601308421"
+                              "value": "https://bunchatv1.net/truc-tiep/mashal-muborak-vs-qizilqum-zarafshon-2145-10-03-2026/601293754"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-54020a38c8",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/69e4f8bd5ef451f4fcfce69a333522a9/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/mashal-muborak-vs-qizilqum-zarafshon-2145-10-03-2026/601293754"
                             },
                             {
                               "key": "User-Agent",
@@ -551,13 +335,13 @@
             }
           ],
           "org_metadata": {
-            "league": "PBA-LPBA World Championship 2026",
-            "team_a": "Nguyễn Huỳnh Phương Linh",
-            "team_b": "Choi Sung-won",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/51f783ef492c6c263c37e25e825556c4.jpg",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/6de8c9248ac82fb97d00fe9639cd2322.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-54236aa9dfc2.png?v=1773153010",
-            "thumb_key": "thumbs/kaytee-54236aa9dfc2.webp"
+            "league": "Uzbekistan Super League",
+            "team_a": "Mashal Muborak",
+            "team_b": "Qizilqum Zarafshon",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/566fc8eae03f834a8221bedabf677c5d.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/709463bd62119aff6f7da0b20b4e1034.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-784088e643fa.png?v=1773155393",
+            "thumb_key": "thumbs/kaytee-784088e643fa.webp"
           }
         }
       ]
@@ -570,8 +354,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-087cdcf4219e",
-          "name": "⚽ Anthony Sinisuka GINTING vs Julien CARRAGGI | 21:30",
+          "id": "kaytee-f47d4ae3cbca",
+          "name": "⚽ Pakhtakor vs Navbahor Namangan | 22:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -579,7 +363,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-087cdcf4219e.png?v=1773153010",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f47d4ae3cbca.png?v=1773155395",
             "width": 1600,
             "height": 1200
           },
@@ -593,27 +377,44 @@
           ],
           "sources": [
             {
-              "id": "src-601308331",
+              "id": "src-601293760",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601308331",
-                  "name": "Anthony Sinisuka GINTING vs Julien CARRAGGI",
+                  "id": "ct-601293760",
+                  "name": "Pakhtakor vs Navbahor Namangan",
                   "streams": [
                     {
-                      "id": "st-601308331",
+                      "id": "st-601293760",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-e6c8236e10",
+                          "id": "lnk-8c5434d4bf",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69afdc46326d7_110198/index.m3u8?expire=1773737670&sign=a8963d379787df728435183b885c8d4d",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b02b1170a68_136682/index.m3u8?expire=1773757841&sign=7e84f94b54068da99ad9d7314cc77fe4",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/anthony-sinisuka-ginting-vs-julien-carraggi-2130-10-03-2026/601308331"
+                              "value": "https://bunchatv1.net/truc-tiep/pakhtakor-vs-navbahor-namangan-2200-10-03-2026/601293760"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-9e353d8093",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/9c2495ffb2b04de8983e531184332e92/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/pakhtakor-vs-navbahor-namangan-2200-10-03-2026/601293760"
                             },
                             {
                               "key": "User-Agent",
@@ -629,13 +430,13 @@
             }
           ],
           "org_metadata": {
-            "league": "Sân 1 - YONEX Swiss Open 2026",
-            "team_a": "Anthony Sinisuka GINTING",
-            "team_b": "Julien CARRAGGI",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/ffc3a493f27ba8205b18206d3264f041.jpg",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/9801a76e8ba19493375d0d9aa2f9e8de.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-087cdcf4219e.png?v=1773153010",
-            "thumb_key": "thumbs/kaytee-087cdcf4219e.webp"
+            "league": "Uzbekistan Super League",
+            "team_a": "Pakhtakor",
+            "team_b": "Navbahor Namangan",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/78dd333913352de8fc4e8b0834636245.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/38282bbb6c7407024187ae929dab2274.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f47d4ae3cbca.png?v=1773155395",
+            "thumb_key": "thumbs/kaytee-f47d4ae3cbca.webp"
           }
         }
       ]
