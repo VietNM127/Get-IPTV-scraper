@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-10T18:00:10.290821",
+  "updated_at": "2026-03-10T18:28:43.609831",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,144 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-0a49ae1ad9b0",
-          "name": "⚽ FC Flora Tallinn vs FC Nomme United | 23:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0a49ae1ad9b0.png?v=1773165606",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601293766",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601293766",
-                  "name": "FC Flora Tallinn vs FC Nomme United",
-                  "streams": [
-                    {
-                      "id": "st-601293766",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-74277c48f0",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/914dbcdf9132a2817092c489f755ee60/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/fc-flora-tallinn-vs-fc-nomme-united-2300-10-03-2026/601293766"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Estonian Cup",
-            "team_a": "FC Flora Tallinn",
-            "team_b": "FC Nomme United",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/5b9c9b4f40414f2be603cf1dac1bdad6.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/348b05307188e5ba081db3e659b7ba0d.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0a49ae1ad9b0.png?v=1773165606",
-            "thumb_key": "thumbs/kaytee-0a49ae1ad9b0.webp"
-          }
-        },
-        {
-          "id": "kaytee-37614386ed02",
-          "name": "⚽ Etoile Filante de Ouagadougou vs RC Kadiogo | 23:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-37614386ed02.png?v=1773165608",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601296541",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601296541",
-                  "name": "Etoile Filante de Ouagadougou vs RC Kadiogo",
-                  "streams": [
-                    {
-                      "id": "st-601296541",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8a502155d0",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/dbe4deaa3a744d6a45ff1d4b7cb1bd36/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/etoile-filante-de-ouagadougou-vs-rc-kadiogo-2300-10-03-2026/601296541"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Burkina Faso Division 1",
-            "team_a": "Etoile Filante de Ouagadougou",
-            "team_b": "RC Kadiogo",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/832bbcc8557920f488673c1b47e764c8.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/29c72f8d82b67e446dea00ab4669c26e.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-37614386ed02.png?v=1773165608",
-            "thumb_key": "thumbs/kaytee-37614386ed02.webp"
-          }
-        },
         {
           "id": "kaytee-1ec23e99afbf",
           "name": "⚽ Kauno Zalgiris vs FK Panevezys | 23:45",
@@ -165,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1ec23e99afbf.png?v=1773165610",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1ec23e99afbf.png?v=1773167323",
             "width": 1600,
             "height": 1200
           },
@@ -220,7 +82,7 @@
             "team_b": "FK Panevezys",
             "logo_a": "https://cdn.rapid-api.icu/football/team/da6a0f9acc877204e8bc526a922066d6.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/120f24dadbb90aea10ca5c0c0cde76b4.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1ec23e99afbf.png?v=1773165610",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1ec23e99afbf.png?v=1773167323",
             "thumb_key": "thumbs/kaytee-1ec23e99afbf.webp"
           }
         }
