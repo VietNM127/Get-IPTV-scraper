@@ -85,7 +85,7 @@ def _sport_category(league: str, title: str = "") -> tuple:
         return "🏐", "Bóng Chuyền"
     if any(k in combined for k in ["võ thuật", "mma", "boxing", "one championship", "ufc"]):
         return "🥊", "Võ Thuật"
-    if any(k in combined for k in ["bóng bàn", "table tennis", "ittf"]):
+    if any(k in combined for k in ["bóng bàn", "table tennis", "ittf", "wtt"]):
         return "🏓", "Bóng Bàn"
     return "⚽", "Bóng Đá"
 
@@ -286,6 +286,19 @@ class BunchaTVScraper:
             # Phân loại live/sắp live từ CSS class
             is_live = "stream_m_live" in classes
 
+            # Fallback: nếu giờ hiện tại đã qua giờ bắt đầu (trong vòng 4h) → coi là live
+            if not is_live and time_from_url:
+                try:
+                    hh = int(time_from_url[:2])
+                    mm_t = int(time_from_url[3:5])
+                    now = datetime.now()
+                    match_start = now.replace(hour=hh, minute=mm_t, second=0, microsecond=0)
+                    elapsed = (now - match_start).total_seconds()
+                    if 0 <= elapsed <= 14400:   # đã qua 0..4h
+                        is_live = True
+                except Exception:
+                    pass
+
             # Lấy giờ thi đấu từ URL (đáng tin hơn CSS selector)
             # VD: .../eyupspor-vs-kocaelispor-2000-09-03-2026/601293394 → "20:00 09/03"
             time_from_url = ""
@@ -424,7 +437,7 @@ class BunchaTVScraper:
                 match_time=match_time, league=league,
             )
             thumb_url = (
-                f"https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/{thumb_path}"
+                f"https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/{thumb_path}?v={int(datetime.now().timestamp())}"
                 if thumb_path else logo_a
             )
 

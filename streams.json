@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://scontent.fhan5-10.fna.fbcdn.net/v/t39.30808-6/580821357_1151084077132266_6103102651618107715_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=dd6889&_nc_eui2=AeHUhbo5R5NFXmgOsxANQC8gQnG2fAweQLJCcbZ8DB5AspcyzbUEI3Fnt2SR9nPUCJIxSOvjCFwBmURc4-UcM0m7&_nc_ohc=NfNQg-r-20MQ7kNvwFQH_Hs&_nc_oc=Adlx7DDa7esB8i9ImfAcuFbsTHFW6crNh8CbWHDzXj4R7GOrWtSFEJCjwlWjihJRg9OdDKehAdO6jiKBcpo7NaXa&_nc_zt=23&_nc_ht=scontent.fhan5-10.fna&_nc_gid=hYKh8Di3yDWxq5OwpW28nQ&_nc_ss=8&oh=00_AfwW4Se45di6s_O1g06AmqYWNCKGt41h8Gv5LClCaWpo8g&oe=69B4B51E"
   },
-  "updated_at": "2026-03-10T09:58:02.802754",
+  "updated_at": "2026-03-10T10:42:19.083590",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,230 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-3c0a096c04ca",
-          "name": "⚽ Santa  Ana vs AD Cariari Pococi | 08:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3c0a096c04ca.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601293661",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601293661",
-                  "name": "Santa  Ana vs AD Cariari Pococi",
-                  "streams": [
-                    {
-                      "id": "st-601293661",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d9a241700f",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/deeba0358330ea495c5259beeb625de4/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/santa--ana-vs-ad-cariari-pococi-0800-10-03-2026/601293661"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "",
-            "team_a": "Santa  Ana",
-            "team_b": "AD Cariari Pococi",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/fdb2ee34724121ce275b7d8af74f2a2b.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/74b3e5af08e5c6245a9d158fe3c52e31.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3c0a096c04ca.png",
-            "thumb_key": "thumbs/kaytee-3c0a096c04ca.webp"
-          }
-        },
-        {
-          "id": "kaytee-99a991233046",
-          "name": "⚽ Deportivo Pasto vs America de Cali | 08:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-99a991233046.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601293664",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601293664",
-                  "name": "Deportivo Pasto vs America de Cali",
-                  "streams": [
-                    {
-                      "id": "st-601293664",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c3a3097b1f",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69af6e0070a68_88642/index.m3u8?expire=1773709440&sign=0471f0d41a7fc72199030a5167028c77",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/deportivo-pasto-vs-america-de-cali-0830-10-03-2026/601293664"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-abe62815fa",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/af4e082ef5d8d7b78283a984f781eb0d/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/deportivo-pasto-vs-america-de-cali-0830-10-03-2026/601293664"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Categoría Primera A",
-            "team_a": "Deportivo Pasto",
-            "team_b": "America de Cali",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/9fbd48de1577477753873c539c3ab106.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/ed6ae7fa894cb5bdbccfd605d1d6ad04.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-99a991233046.png",
-            "thumb_key": "thumbs/kaytee-99a991233046.webp"
-          }
-        },
-        {
-          "id": "kaytee-898a10fb218d",
-          "name": "⚽ Alianza Lima vs FBC Melgar | 08:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-898a10fb218d.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601293670",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601293670",
-                  "name": "Alianza Lima vs FBC Melgar",
-                  "streams": [
-                    {
-                      "id": "st-601293670",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-998cd74ea6",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/5fbb6c312f3a35f24b85fd295bcab560/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/alianza-lima-vs-fbc-melgar-0830-10-03-2026/601293670"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "",
-            "team_a": "Alianza Lima",
-            "team_b": "FBC Melgar",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/8941e026a8debbd82633b019552e1515.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/215f986a8d6da00e35a2b1011922ca0d.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-898a10fb218d.png",
-            "thumb_key": "thumbs/kaytee-898a10fb218d.webp"
-          }
-        },
         {
           "id": "kaytee-c33995342c6c",
           "name": "⚽ Municipal Liberia vs Guadalupe FC | 09:00",
@@ -251,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c33995342c6c.png",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c33995342c6c.png?v=1773114137",
             "width": 1600,
             "height": 1200
           },
@@ -306,22 +82,13 @@
             "team_b": "Guadalupe FC",
             "logo_a": "https://cdn.rapid-api.icu/football/team/0a1d3d73704ecc48431dd48677ec90ab.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/4316421ac63df6a85a3805ca3ea90303.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c33995342c6c.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c33995342c6c.png?v=1773114137",
             "thumb_key": "thumbs/kaytee-c33995342c6c.webp"
           }
-        }
-      ]
-    },
-    {
-      "id": "live_bóng_rổ",
-      "name": "🔴 Live 🏀 Bóng Rổ",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
+        },
         {
-          "id": "kaytee-809cac83a865",
-          "name": "🏀 Utah Jazz vs Golden State Warriors | 08:00",
+          "id": "kaytee-cb11d0996a37",
+          "name": "⚽ Dalian Football School(w) vs Sichuan (w) | 09:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -329,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-809cac83a865.png",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cb11d0996a37.png?v=1773114138",
             "width": 1600,
             "height": 1200
           },
@@ -343,27 +110,27 @@
           ],
           "sources": [
             {
-              "id": "src-601291705",
+              "id": "src-601308382",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601291705",
-                  "name": "Utah Jazz vs Golden State Warriors",
+                  "id": "ct-601308382",
+                  "name": "Dalian Football School(w) vs Sichuan (w)",
                   "streams": [
                     {
-                      "id": "st-601291705",
+                      "id": "st-601308382",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-091a3369c9",
+                          "id": "lnk-1d109b46b1",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69af72c470a68_4439/index.m3u8?expire=1773710660&sign=191cf284990182629367e6222e2b0af7",
+                          "url": "https://live.alilicloud.com/live/b728cf94601fb1f47079d1f1ba7d94d8/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/utah-jazz-vs-golden-state-warriors-0800-10-03-2026/601291705"
+                              "value": "https://bunchatv1.net/truc-tiep/dalian-football-schoolw-vs-sichuan-w-0900-10-03-2026/601308382"
                             },
                             {
                               "key": "User-Agent",
@@ -380,14 +147,161 @@
           ],
           "org_metadata": {
             "league": "",
-            "team_a": "Utah Jazz",
-            "team_b": "Golden State Warriors",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/457b7c6f4725217747436c334085dfb5.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/b3dc6e4d6bc132806433f66a408d25c7.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-809cac83a865.png",
-            "thumb_key": "thumbs/kaytee-809cac83a865.webp"
+            "team_a": "Dalian Football School(w)",
+            "team_b": "Sichuan (w)",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/39b7e4362d2046a9fd140e613c4c00ed.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/ec012880bc18aecbb240023b8f2fe779.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cb11d0996a37.png?v=1773114138",
+            "thumb_key": "thumbs/kaytee-cb11d0996a37.webp"
           }
         },
+        {
+          "id": "kaytee-e29ad6bf4c4c",
+          "name": "⚽ ZHOU Qihao vs HUANG Youzheng | 10:20",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e29ad6bf4c4c.png?v=1773114138",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601299550",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601299550",
+                  "name": "ZHOU Qihao vs HUANG Youzheng",
+                  "streams": [
+                    {
+                      "id": "st-601299550",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-dcaecfe833",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69af867470a68_18754/index.m3u8?expire=1773715700&sign=25eb441d48eb4ec3c19bcbc753fde7a0",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/zhou-qihao-vs-huang-youzheng-1020-10-03-2026/601299550"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "",
+            "team_a": "ZHOU Qihao",
+            "team_b": "HUANG Youzheng",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a1f6febf6655aee2782b9094b09c0b53.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/ac3426fd6ac963a116ad09b64bb52552.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e29ad6bf4c4c.png?v=1773114138",
+            "thumb_key": "thumbs/kaytee-e29ad6bf4c4c.webp"
+          }
+        },
+        {
+          "id": "kaytee-1f4e4b50f304",
+          "name": "⚽ India (w) vs Chinese Taipei (w) | 16:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1f4e4b50f304.png?v=1773114138",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601293682",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601293682",
+                  "name": "India (w) vs Chinese Taipei (w)",
+                  "streams": [
+                    {
+                      "id": "st-601293682",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3615487325",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/1d8d71dc254ab02b94c7debe944dedff/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/india-w-vs-chinese-taipei-w-1600-10-03-2026/601293682"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC Women’s Asian Cup",
+            "team_a": "India (w)",
+            "team_b": "Chinese Taipei (w)",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/55351f435dfe7620bade0d4e64da16c4.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/74eb0c64d3d5eb724d982a8b150d8943.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1f4e4b50f304.png?v=1773114138",
+            "thumb_key": "thumbs/kaytee-1f4e4b50f304.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_bóng_rổ",
+      "name": "🔴 Live 🏀 Bóng Rổ",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
         {
           "id": "kaytee-5eed31c66e63",
           "name": "🏀 Los Angeles Clippers vs New York Knicks | 09:00",
@@ -398,7 +312,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5eed31c66e63.png",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5eed31c66e63.png?v=1773114138",
             "width": 1600,
             "height": 1200
           },
@@ -453,7 +367,7 @@
             "team_b": "New York Knicks",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/166d854bec894fccec7fec32048f4094.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/c970d7df9c0cf1411c1322724ca253d9.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5eed31c66e63.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5eed31c66e63.png?v=1773114138",
             "thumb_key": "thumbs/kaytee-5eed31c66e63.webp"
           }
         }
@@ -476,7 +390,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f36cde058d70.png",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f36cde058d70.png?v=1773114136",
             "width": 1600,
             "height": 1200
           },
@@ -531,77 +445,8 @@
             "team_b": "Rinderknech A.",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/fceebcdaefca43b1c27f75a1e60d418d.webp",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/d2780434ce12c323ad7feb27eeac3e2c.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f36cde058d70.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f36cde058d70.png?v=1773114136",
             "thumb_key": "thumbs/kaytee-f36cde058d70.webp"
-          }
-        },
-        {
-          "id": "kaytee-027c84b86261",
-          "name": "🎾 Keys M. vs Kartal S. | 08:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-027c84b86261.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601299610",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601299610",
-                  "name": "Keys M. vs Kartal S.",
-                  "streams": [
-                    {
-                      "id": "st-601299610",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-69699fdb51",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69af7115326d7_142210/index.m3u8?expire=1773710229&sign=f221ab9febb224b4d1646815d2cb6968",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/keys-m-vs-kartal-s-0800-10-03-2026/601299610"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "",
-            "team_a": "Keys M.",
-            "team_b": "Kartal S.",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/2fb4f7d629c8d86199bf35bd569ce997.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/c07272489fa7fb5cf0fc9fae20a063e7.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-027c84b86261.png",
-            "thumb_key": "thumbs/kaytee-027c84b86261.webp"
           }
         }
       ]
@@ -614,8 +459,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-e29ad6bf4c4c",
-          "name": "⚽ Elizabeta SAMARA vs KUAI Man | 10:00",
+          "id": "kaytee-1a8fc70d61ae",
+          "name": "⚽ Japan Women vs Việt Nam (Nữ) | 16:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -623,7 +468,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e29ad6bf4c4c.png",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1a8fc70d61ae.png?v=1773114139",
             "width": 1600,
             "height": 1200
           },
@@ -637,27 +482,27 @@
           ],
           "sources": [
             {
-              "id": "src-601299550",
+              "id": "src-601293685",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601299550",
-                  "name": "Elizabeta SAMARA vs KUAI Man",
+                  "id": "ct-601293685",
+                  "name": "Japan Women vs Việt Nam (Nữ)",
                   "streams": [
                     {
-                      "id": "st-601299550",
+                      "id": "st-601293685",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-dcaecfe833",
+                          "id": "lnk-04be4da77e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69af867470a68_18754/index.m3u8?expire=1773715700&sign=25eb441d48eb4ec3c19bcbc753fde7a0",
+                          "url": "https://live.alilicloud.com/live/d46d48f76b691acabd1183c309da87a3/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/elizabeta-samara-vs-kuai-man-1000-10-03-2026/601299550"
+                              "value": "https://bunchatv1.net/truc-tiep/japan-women-vs-viet-nam-nu-1600-10-03-2026/601293685"
                             },
                             {
                               "key": "User-Agent",
@@ -673,13 +518,13 @@
             }
           ],
           "org_metadata": {
-            "league": "",
-            "team_a": "Elizabeta SAMARA",
-            "team_b": "KUAI Man",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/f4dab7b5bc0dcb0fc76ea378c84ad907.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/fc0d7d70f5a03c6fec75ceb733e65f6d.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e29ad6bf4c4c.png",
-            "thumb_key": "thumbs/kaytee-e29ad6bf4c4c.webp"
+            "league": "AFC Women’s Asian Cup",
+            "team_a": "Japan Women",
+            "team_b": "Việt Nam (Nữ)",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/511ce5ccb966e3fd16d3a8c1b99cc01a.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/93d98772ab37ea73fdc725f94d3cb65b.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1a8fc70d61ae.png?v=1773114139",
+            "thumb_key": "thumbs/kaytee-1a8fc70d61ae.webp"
           }
         }
       ]
