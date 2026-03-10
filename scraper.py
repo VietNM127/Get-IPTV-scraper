@@ -47,6 +47,48 @@ def _sport_emoji(league: str) -> str:
             return emoji
     return "⚽"
 
+# Thứ tự ưu tiên hiển thị nhóm môn thể thao
+SPORT_ORDER = [
+    "⚽ Bóng Đá", "🏀 Bóng Rổ", "🎾 Tennis", "🏸 Cầu Lông",
+    "🏐 Bóng Chuyền", "🎱 Billiard", "🥊 Võ Thuật", "🏓 Bóng Bàn",
+]
+
+def _sport_category(league: str, title: str = "") -> tuple:
+    """Trả về (emoji, tên_môn) dựa vào tên giải đấu và tên đội/vận động viên."""
+    combined = (league + " " + title).lower()
+
+    if any(k in combined for k in ["billiard", "bida", "pba", "lpba"]):
+        return "🎱", "Billiard"
+
+    # Bóng rổ: tên giải + tên câu lạc bộ NBA
+    NBA_KW = ["nba", "basket", "bóng rổ",
+              "jazz", "warriors", "lakers", "celtics", "knicks", "clippers",
+              "bulls", "nets", "heat", "spurs", "bucks", "suns", "nuggets",
+              "cavaliers", "sixers", "raptors", "magic", "pistons", "pacers",
+              "hornets", "hawks", "wizards", "kings", "thunder", "blazers",
+              "timberwolves", "pelicans", "rockets", "grizzlies", "mavericks"]
+    if any(k in combined for k in NBA_KW):
+        return "🏀", "Bóng Rổ"
+
+    # Tennis: tên giải hoặc dạng "Họ T. vs Họ T." (viết tắt)
+    TENNIS_KW = ["tennis", "atp", "wta", "indian wells", "roland garros",
+                 "wimbledon", "us open", "australian open", "davis cup"]
+    if any(k in combined for k in TENNIS_KW):
+        return "🎾", "Tennis"
+    # Detect từ dạng tên viết tắt: "Họ X. vs Họ Y." → có khả năng là tennis/cầu lông
+    if re.match(r'^[a-z]+ [a-z]\. vs [a-z]+ [a-z]\.', title.lower()):
+        return "🎾", "Tennis"
+
+    if any(k in combined for k in ["cầu lông", "badminton", "bwf"]):
+        return "🏸", "Cầu Lông"
+    if any(k in combined for k in ["bóng chuyền", "volleyball"]):
+        return "🏐", "Bóng Chuyền"
+    if any(k in combined for k in ["võ thuật", "mma", "boxing", "one championship", "ufc"]):
+        return "🥊", "Võ Thuật"
+    if any(k in combined for k in ["bóng bàn", "table tennis", "ittf"]):
+        return "🏓", "Bóng Bàn"
+    return "⚽", "Bóng Đá"
+
 def _short_id(text: str, length: int = 12) -> str:
     return hashlib.md5(text.encode()).hexdigest()[:length]
 
@@ -59,46 +101,117 @@ def _link_id(url: str) -> str:
     return f"lnk-{_short_id(url, 10)}"
 
 
-def generate_thumb(logo_a_url: str, logo_b_url: str, channel_id: str, session) -> str:
+def generate_thumb(logo_a_url: str, logo_b_url: str, channel_id: str, session,
+                   team_a: str = "", team_b: str = "",
+                   match_time: str = "", league: str = "") -> str:
     """
-    Tạo ảnh composite 800x600: [logo A] VS [logo B]
+    Tạo ảnh composite 800x600:
+      [Logo A]     VS      [Logo B]
+      [Tên A]    [Giờ]     [Tên B]
+               [Tên giải]
     Lưu vào thumbs/CHANNEL_ID.png, trả về đường dẫn file.
     """
     W, H = 800, 600
-    BG = (236, 236, 236)
+    BG = (245, 245, 245)
     img = Image.new("RGB", (W, H), BG)
+    draw = ImageDraw.Draw(img)
 
-    def paste_logo(url, center_x):
+    # ── Load font ─────────────────────────────────────────────────────────────
+    def load_font(size, bold=False):
+        candidates = (
+            ["/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
+             "C:/Windows/Fonts/arialbd.ttf", "arialbd.ttf"]
+            if bold else
+            ["/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
+             "C:/Windows/Fonts/arial.ttf", "arial.ttf"]
+        )
+        for p in candidates:
+            try:
+                return ImageFont.truetype(p, size)
+            except Exception:
+                pass
+        return ImageFont.load_default()
+
+    font_vs     = load_font(80, bold=False)
+    font_time   = load_font(40, bold=False)
+    font_team   = load_font(32, bold=False)
+    font_league = load_font(26, bold=False)
+
+    # ── Paste logo ────────────────────────────────────────────────────────────
+    LOGO_MAX = 210
+    LOGO_CY  = 190   # tâm dọc của logo
+
+    def paste_logo(url, cx):
+        """Paste logo tại tâm (cx, LOGO_CY), trả về y dưới cùng của logo."""
         if not url:
-            return
+            return LOGO_CY + LOGO_MAX // 2
         try:
             r = session.get(url, timeout=8)
             r.raise_for_status()
             logo = Image.open(io.BytesIO(r.content)).convert("RGBA")
-            logo.thumbnail((260, 260), Image.LANCZOS)
-            # Tạo nền trắng mờ cho logo
-            bg = Image.new("RGBA", logo.size, (236, 236, 236, 255))
+            logo.thumbnail((LOGO_MAX, LOGO_MAX), Image.LANCZOS)
+            bg = Image.new("RGBA", logo.size, (*BG, 255))
             bg.paste(logo, mask=logo.split()[3])
             final = bg.convert("RGB")
-            x = center_x - final.width // 2
-            y = H // 2 - final.height // 2
+            x = cx - final.width // 2
+            y = LOGO_CY - final.height // 2
             img.paste(final, (x, y))
+            return y + final.height
         except Exception:
-            pass
+            return LOGO_CY + LOGO_MAX // 2
 
-    paste_logo(logo_a_url, W // 4)        # Logo A: 1/4 từ trái
-    paste_logo(logo_b_url, 3 * W // 4)   # Logo B: 3/4 từ trái
+    bottom_a = paste_logo(logo_a_url, W // 4)       # x=200
+    bottom_b = paste_logo(logo_b_url, 3 * W // 4)   # x=600
 
-    # Vẽ chữ "VS" ở giữa
-    draw = ImageDraw.Draw(img)
-    try:
-        font = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", 90)
-    except Exception:
-        try:
-            font = ImageFont.truetype("arial.ttf", 90)
-        except Exception:
-            font = ImageFont.load_default()
-    draw.text((W // 2, H // 2), "VS", fill="#e84545", font=font, anchor="mm")
+    # ── VS + Giờ ở trung tâm ─────────────────────────────────────────────────
+    draw.text((W // 2, LOGO_CY - 10), "VS",
+              fill="#e84545", font=font_vs, anchor="mm")
+    if match_time:
+        time_display = match_time.split()[0]   # chỉ lấy "HH:MM", bỏ ngày
+        draw.text((W // 2, LOGO_CY + 58), time_display,
+                  fill="#ff8000", font=font_time, anchor="mm")
+
+    # ── Tên 2 đội bên dưới logo ───────────────────────────────────────────────
+    team_y = max(bottom_a, bottom_b) + 22
+    ZONE_W = W // 2 - 30   # ~370px chiều rộng mỗi vùng
+
+    def draw_team_name(name, cx, y):
+        if not name:
+            return
+        words = name.split()
+        lines, cur = [], ""
+        for word in words:
+            test = (cur + " " + word).strip()
+            bb = draw.textbbox((0, 0), test, font=font_team)
+            if bb[2] - bb[0] <= ZONE_W:
+                cur = test
+            else:
+                if cur:
+                    lines.append(cur)
+                cur = word
+        if cur:
+            lines.append(cur)
+        lh = 38
+        for i, line in enumerate(lines[:2]):
+            draw.text((cx, y + i * lh), line,
+                      fill="#222222", font=font_team, anchor="mm")
+
+    draw_team_name(team_a, W // 4, team_y)
+    draw_team_name(team_b, 3 * W // 4, team_y)
+
+    # ── Tên giải đấu ở dưới cùng ─────────────────────────────────────────────
+    if league:
+        league_disp = league
+        league_y = H - 38
+        bb = draw.textbbox((0, 0), league_disp, font=font_league)
+        while bb[2] - bb[0] > W - 60 and len(league_disp) > 4:
+            league_disp = league_disp[:-1]
+            bb = draw.textbbox((0, 0), league_disp + "…", font=font_league)
+        if draw.textbbox((0, 0), league_disp, font=font_league)[2] - \
+           draw.textbbox((0, 0), league_disp, font=font_league)[0] > W - 60:
+            league_disp += "…"
+        draw.text((W // 2, league_y), league_disp,
+                  fill="#888888", font=font_league, anchor="mm")
 
     os.makedirs("thumbs", exist_ok=True)
     path = f"thumbs/{channel_id}.png"
@@ -270,10 +383,19 @@ class BunchaTVScraper:
 
     def build_monplayer_json(self, matches_with_streams):
         """Tạo cấu trúc JSON chuẩn monplayer."""
-        channels_live    = []
-        channels_upcoming = []
+        from collections import defaultdict
 
-        for m in matches_with_streams:
+        # Sắp xếp tất cả trận theo giờ bắt đầu (HH:MM)
+        sorted_matches = sorted(
+            matches_with_streams,
+            key=lambda m: m.get("match_time", "").split()[0] if m.get("match_time") else "99:99"
+        )
+
+        # live_groups / upcoming_groups: (emoji, sport_name) → [channels]
+        live_groups     = defaultdict(list)
+        upcoming_groups = defaultdict(list)
+
+        for m in sorted_matches:
             stream_links = m.get("stream_links", [])
             if not stream_links:
                 continue
@@ -287,21 +409,25 @@ class BunchaTVScraper:
             logo_a     = m["logo_a"]
             logo_b     = m["logo_b"]
 
-            # Tạo ảnh composite 2 logo
+            # Chỉ dùng HH:MM trong tên kênh
+            time_hhmm = match_time.split()[0] if match_time else ""
+
+            # Tạo ảnh composite: logo A + VS + giờ + logo B + tên đội + tên giải
             uid = _channel_id(match_id)
-            thumb_path = generate_thumb(logo_a, logo_b, uid, self.session)
-            # URL public trên GitHub raw
+            thumb_path = generate_thumb(
+                logo_a, logo_b, uid, self.session,
+                team_a=m["team_a"], team_b=m["team_b"],
+                match_time=match_time, league=league,
+            )
             thumb_url = (
                 f"https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/{thumb_path}"
                 if thumb_path else logo_a
             )
-            thumbnail = thumb_url
 
-            emoji = _sport_emoji(league)
-            label_text  = "● Live"       if is_live else "⏳ Sắp Live"
-            label_color = "#ff0000"      if is_live else "#d54f1a"
+            sport_emoji, sport_name = _sport_category(league, title)
+            label_text  = "● Live"  if is_live else "⏳ Sắp Live"
+            label_color = "#ff0000" if is_live else "#d54f1a"
 
-            # Tạo danh sách stream_links
             links_list = []
             for i, url in enumerate(stream_links):
                 links_list.append({
@@ -319,7 +445,7 @@ class BunchaTVScraper:
             thumb_key = f"thumbs/{uid}.webp"
             channel = {
                 "id":             uid,
-                "name":           f"{emoji} {title} | {match_time}",
+                "name":           f"{sport_emoji} {title} | {time_hhmm}",
                 "type":           "single",
                 "display":        "vertical",
                 "enable_detail":  False,
@@ -327,7 +453,7 @@ class BunchaTVScraper:
                     "padding":          0,
                     "background_color": "#ececec",
                     "display":          "contain",
-                    "url":              thumbnail,
+                    "url":              thumb_url,
                     "width":            800,
                     "height":           600,
                 },
@@ -356,34 +482,45 @@ class BunchaTVScraper:
                     "team_b":    m["team_b"],
                     "logo_a":    logo_a,
                     "logo_b":    logo_b,
-                    "thumb":     thumbnail,
+                    "thumb":     thumb_url,
                     "thumb_key": thumb_key,
                 },
             }
 
+            sport_key = (sport_emoji, sport_name)
             if is_live:
-                channels_live.append(channel)
+                live_groups[sport_key].append(channel)
             else:
-                channels_upcoming.append(channel)
+                upcoming_groups[sport_key].append(channel)
+
+        # Sắp xếp nhóm theo thứ tự ưu tiên môn thể thao
+        def _sport_sort(key):
+            label = f"{key[0]} {key[1]}"
+            try:
+                return SPORT_ORDER.index(label)
+            except ValueError:
+                return 99
 
         groups = []
-        if channels_live:
+        for sport_key in sorted(live_groups.keys(), key=_sport_sort):
+            e, name = sport_key
             groups.append({
-                "id":            "live",
-                "name":          "🔴 Live",
+                "id":            f"live_{name.lower().replace(' ', '_')}",
+                "name":          f"🔴 Live {e} {name}",
                 "display":       "vertical",
                 "grid_number":   2,
                 "enable_detail": False,
-                "channels":      channels_live,
+                "channels":      live_groups[sport_key],
             })
-        if channels_upcoming:
+        for sport_key in sorted(upcoming_groups.keys(), key=_sport_sort):
+            e, name = sport_key
             groups.append({
-                "id":            "upcoming",
-                "name":          "⏳ Sắp Live",
+                "id":            f"upcoming_{name.lower().replace(' ', '_')}",
+                "name":          f"⏳ Sắp Live {e} {name}",
                 "display":       "vertical",
                 "grid_number":   2,
                 "enable_detail": False,
-                "channels":      channels_upcoming,
+                "channels":      upcoming_groups[sport_key],
             })
 
         return {
