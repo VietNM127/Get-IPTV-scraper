@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-10T07:05:31.991029",
+  "updated_at": "2026-03-10T07:26:23.557153",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cc646698d3ed.png?v=1773126328",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cc646698d3ed.png?v=1773127580",
             "width": 1600,
             "height": 1200
           },
@@ -82,155 +82,8 @@
             "team_b": "Persidei Deiyai",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/f39deb3854873661e38e28b00cf169ac.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/13fa1aa92297424da1c868d878f30860.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cc646698d3ed.png?v=1773126328",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cc646698d3ed.png?v=1773127580",
             "thumb_key": "thumbs/kaytee-cc646698d3ed.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "live_billiard",
-      "name": "🔴 Live 🎱 Billiard",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-eb4b01925b58",
-          "name": "🎱 A Sakai vs Kim Min-a | 12:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-eb4b01925b58.png?v=1773126326",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601308415",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601308415",
-                  "name": "A Sakai vs Kim Min-a",
-                  "streams": [
-                    {
-                      "id": "st-601308415",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-95ed816bed",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69afa04e70a68_144313/index.m3u8?expire=1773722318&sign=6c10205ba90c17d669cb620239cf2bda",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/a-sakai-vs-kim-mina-1200-10-03-2026/601308415"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "PBA-LPBA World Championship 2026",
-            "team_a": "A Sakai",
-            "team_b": "Kim Min-a",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/e8aac4a244483be6a5d785a8885385cb.jpg",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/cefb239246222d9c5665ce89c49e3c65.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-eb4b01925b58.png?v=1773126326",
-            "thumb_key": "thumbs/kaytee-eb4b01925b58.webp"
-          }
-        },
-        {
-          "id": "kaytee-f431a36e667b",
-          "name": "🎱 Han Seul-gi vs Kwon Bal-hae | 12:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f431a36e667b.png?v=1773126327",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601308418",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601308418",
-                  "name": "Han Seul-gi vs Kwon Bal-hae",
-                  "streams": [
-                    {
-                      "id": "st-601308418",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-823fc4d941",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69af9be5326d7_142246/index.m3u8?expire=1773721189&sign=f7525ed2493bd3108c3d594680279fb9",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/han-seulgi-vs-kwon-balhae-1200-10-03-2026/601308418"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "PBA-LPBA World Championship 2026",
-            "team_a": "Han Seul-gi",
-            "team_b": "Kwon Bal-hae",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/98e0513e210c4fa117843d9dcb3da287.jpg",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/97b369592d9201703993d78f7ed785a6.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f431a36e667b.png?v=1773126327",
-            "thumb_key": "thumbs/kaytee-f431a36e667b.webp"
           }
         }
       ]
@@ -252,7 +105,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e29ad6bf4c4c.png?v=1773126329",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e29ad6bf4c4c.png?v=1773127581",
             "width": 1600,
             "height": 1200
           },
@@ -324,7 +177,7 @@
             "team_b": "Sora MATSUSHIMA",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/12f786c951ad7be855ce18b182cf135c.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/90099d7df2532eb23c3eab77c657516f.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e29ad6bf4c4c.png?v=1773126329",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e29ad6bf4c4c.png?v=1773127581",
             "thumb_key": "thumbs/kaytee-e29ad6bf4c4c.webp"
           }
         }
@@ -347,7 +200,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1f4e4b50f304.png?v=1773126330",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1f4e4b50f304.png?v=1773127582",
             "width": 1600,
             "height": 1200
           },
@@ -402,7 +255,7 @@
             "team_b": "Chinese Taipei (w)",
             "logo_a": "https://cdn.rapid-api.icu/football/team/55351f435dfe7620bade0d4e64da16c4.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/74eb0c64d3d5eb724d982a8b150d8943.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1f4e4b50f304.png?v=1773126330",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1f4e4b50f304.png?v=1773127582",
             "thumb_key": "thumbs/kaytee-1f4e4b50f304.webp"
           }
         },
@@ -416,7 +269,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1a8fc70d61ae.png?v=1773126331",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1a8fc70d61ae.png?v=1773127583",
             "width": 1600,
             "height": 1200
           },
@@ -488,7 +341,7 @@
             "team_b": "Việt Nam (Nữ)",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/511ce5ccb966e3fd16d3a8c1b99cc01a.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/93d98772ab37ea73fdc725f94d3cb65b.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1a8fc70d61ae.png?v=1773126331",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1a8fc70d61ae.png?v=1773127583",
             "thumb_key": "thumbs/kaytee-1a8fc70d61ae.webp"
           }
         }
