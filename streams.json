@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-10T14:11:02.571955",
+  "updated_at": "2026-03-10T14:30:10.863441",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,161 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-087cdcf4219e",
-          "name": "⚽ Milena SCHNIDER vs Anna Siess RYBERG | 19:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-087cdcf4219e.png?v=1773151852",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601308331",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601308331",
-                  "name": "Milena SCHNIDER vs Anna Siess RYBERG",
-                  "streams": [
-                    {
-                      "id": "st-601308331",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e6c8236e10",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69afdc46326d7_110198/index.m3u8?expire=1773737670&sign=a8963d379787df728435183b885c8d4d",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/milena-schnider-vs-anna-siess-ryberg-1900-10-03-2026/601308331"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Sân 1 - YONEX Swiss Open 2026",
-            "team_a": "Milena SCHNIDER",
-            "team_b": "Anna Siess RYBERG",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/46ba49690435888e201c068db624b12d.jpg",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/62157776d46fe9ed216033cf7d1a3ef6.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-087cdcf4219e.png?v=1773151852",
-            "thumb_key": "thumbs/kaytee-087cdcf4219e.webp"
-          }
-        },
-        {
-          "id": "kaytee-14b216a4b1d2",
-          "name": "⚽ Buriram United vs Melbourne City | 19:15",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-14b216a4b1d2.png?v=1773151853",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601293706",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601293706",
-                  "name": "Buriram United vs Melbourne City",
-                  "streams": [
-                    {
-                      "id": "st-601293706",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bc5ae696d2",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69affd37326d7_44731/index.m3u8?expire=1773746103&sign=162c3b22e862c420e951036539eb767e",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/buriram-united-vs-melbourne-city-1915-10-03-2026/601293706"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-0e1e5357b4",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/fac3316179c35cc0bbf0fc201c9c2cae/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/buriram-united-vs-melbourne-city-1915-10-03-2026/601293706"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Champions League Elite",
-            "team_a": "Buriram United",
-            "team_b": "Melbourne City",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/649a85f258f62ec83a62983488e4b347.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/c24f327d053d80fe6584b4c42d5cca13.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-14b216a4b1d2.png?v=1773151853",
-            "thumb_key": "thumbs/kaytee-14b216a4b1d2.webp"
-          }
-        },
         {
           "id": "kaytee-c200203df4c3",
           "name": "⚽ Serik Belediyespor vs Pendikspor | 20:00",
@@ -182,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c200203df4c3.png?v=1773151856",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c200203df4c3.png?v=1773152999",
             "width": 1600,
             "height": 1200
           },
@@ -254,7 +99,7 @@
             "team_b": "Pendikspor",
             "logo_a": "https://cdn.rapid-api.icu/football/team/97fe3ae85a2bc3840972911fb2d15d45.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/9a07394b2cdca16ac436a056d2acd4c9.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c200203df4c3.png?v=1773151856",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c200203df4c3.png?v=1773152999",
             "thumb_key": "thumbs/kaytee-c200203df4c3.webp"
           }
         },
@@ -268,7 +113,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-52511f0ceb68.png?v=1773151857",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-52511f0ceb68.png?v=1773153000",
             "width": 1600,
             "height": 1200
           },
@@ -323,7 +168,7 @@
             "team_b": "Arba Minch",
             "logo_a": "https://cdn.rapid-api.icu/football/team/1f628687971ba8f54e1b10a69ffdbf5c.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/a4d258acc703851ed1b08271c908dcb2.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-52511f0ceb68.png?v=1773151857",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-52511f0ceb68.png?v=1773153000",
             "thumb_key": "thumbs/kaytee-52511f0ceb68.webp"
           }
         },
@@ -337,7 +182,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-45ef5e917c07.png?v=1773151859",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-45ef5e917c07.png?v=1773153002",
             "width": 1600,
             "height": 1200
           },
@@ -392,77 +237,8 @@
             "team_b": "Mekelle 70 Enderta",
             "logo_a": "https://cdn.rapid-api.icu/football/team/2dd456663646544ea5909e8822c3eff8.jpg",
             "logo_b": "https://cdn.rapid-api.icu/football/team/6d0595baa23dc7a876c0b60e8e4a9064.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-45ef5e917c07.png?v=1773151859",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-45ef5e917c07.png?v=1773153002",
             "thumb_key": "thumbs/kaytee-45ef5e917c07.webp"
-          }
-        },
-        {
-          "id": "kaytee-2d8c958cb457",
-          "name": "⚽ Jani Siekkinen vs Joshua Filler | 20:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2d8c958cb457.png?v=1773151860",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601308343",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601308343",
-                  "name": "Jani Siekkinen vs Joshua Filler",
-                  "streams": [
-                    {
-                      "id": "st-601308343",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b937481e69",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69afe457326d7_103/index.m3u8?expire=1773739735&sign=950b8ee39d1769af9395e6b90122ec65",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/jani-siekkinen-vs-joshua-filler-2030-10-03-2026/601308343"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "European Open Pool Championship 2026",
-            "team_a": "Jani Siekkinen",
-            "team_b": "Joshua Filler",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/21959de2daea2f72f881ea820466b792.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/678b542f54374d34c84d5ada71346cf4.webp",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2d8c958cb457.png?v=1773151860",
-            "thumb_key": "thumbs/kaytee-2d8c958cb457.webp"
           }
         },
         {
@@ -475,7 +251,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3ce7e0633a10.png?v=1773151861",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3ce7e0633a10.png?v=1773153005",
             "width": 1600,
             "height": 1200
           },
@@ -547,8 +323,163 @@
             "team_b": "Arema FC",
             "logo_a": "https://cdn.rapid-api.icu/football/team/837cf9a178940067578b7343018e003a.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/55cba4a142146e2cdc317d21eb4daf76.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3ce7e0633a10.png?v=1773151861",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3ce7e0633a10.png?v=1773153005",
             "thumb_key": "thumbs/kaytee-3ce7e0633a10.webp"
+          }
+        },
+        {
+          "id": "kaytee-2d8c958cb457",
+          "name": "⚽ Jani Siekkinen vs Joshua Filler | 20:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2d8c958cb457.png?v=1773153008",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601308343",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601308343",
+                  "name": "Jani Siekkinen vs Joshua Filler",
+                  "streams": [
+                    {
+                      "id": "st-601308343",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b937481e69",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69afe457326d7_103/index.m3u8?expire=1773739735&sign=950b8ee39d1769af9395e6b90122ec65",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/jani-siekkinen-vs-joshua-filler-2030-10-03-2026/601308343"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "European Open Pool Championship 2026",
+            "team_a": "Jani Siekkinen",
+            "team_b": "Joshua Filler",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/21959de2daea2f72f881ea820466b792.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/678b542f54374d34c84d5ada71346cf4.webp",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2d8c958cb457.png?v=1773153008",
+            "thumb_key": "thumbs/kaytee-2d8c958cb457.webp"
+          }
+        },
+        {
+          "id": "kaytee-0b0ad973a227",
+          "name": "⚽ Neftchi Fargona vs FK Andijon | 21:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0b0ad973a227.png?v=1773153009",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601293757",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601293757",
+                  "name": "Neftchi Fargona vs FK Andijon",
+                  "streams": [
+                    {
+                      "id": "st-601293757",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-977e186f1b",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b019de70a68_79/index.m3u8?expire=1773753438&sign=91db7134f37a85a76c5e3213673ace79",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/neftchi-fargona-vs-fk-andijon-2100-10-03-2026/601293757"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-4826a15342",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/c47a5d3c4d48a933f6175e2918bd49d4/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/neftchi-fargona-vs-fk-andijon-2100-10-03-2026/601293757"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Uzbekistan Super League",
+            "team_a": "Neftchi Fargona",
+            "team_b": "FK Andijon",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/f414775655a79c5a471b2103a4164df4.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/d639bb3f26ed6f1600de1e55885fa4be.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0b0ad973a227.png?v=1773153009",
+            "thumb_key": "thumbs/kaytee-0b0ad973a227.webp"
           }
         }
       ]
@@ -570,7 +501,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-54236aa9dfc2.png?v=1773151862",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-54236aa9dfc2.png?v=1773153010",
             "width": 1600,
             "height": 1200
           },
@@ -625,22 +556,22 @@
             "team_b": "Choi Sung-won",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/51f783ef492c6c263c37e25e825556c4.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/6de8c9248ac82fb97d00fe9639cd2322.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-54236aa9dfc2.png?v=1773151862",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-54236aa9dfc2.png?v=1773153010",
             "thumb_key": "thumbs/kaytee-54236aa9dfc2.webp"
           }
         }
       ]
     },
     {
-      "id": "live_bóng_bàn",
-      "name": "🔴 Live 🏓 Bóng Bàn",
+      "id": "upcoming_bóng_đá",
+      "name": "⏳ Sắp Live ⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-489268188edc",
-          "name": "🏓 Anders LIND vs Truls MOREGARD | 19:55",
+          "id": "kaytee-087cdcf4219e",
+          "name": "⚽ Anthony Sinisuka GINTING vs Julien CARRAGGI | 21:30",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -648,41 +579,41 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-489268188edc.png?v=1773151854",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-087cdcf4219e.png?v=1773153010",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "● Live",
+              "text": "⏳ Sắp Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#ff0000"
+              "text_color": "#d54f1a"
             }
           ],
           "sources": [
             {
-              "id": "src-601299595",
+              "id": "src-601308331",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601299595",
-                  "name": "Anders LIND vs Truls MOREGARD",
+                  "id": "ct-601308331",
+                  "name": "Anthony Sinisuka GINTING vs Julien CARRAGGI",
                   "streams": [
                     {
-                      "id": "st-601299595",
+                      "id": "st-601308331",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-9f5d1ca2dd",
+                          "id": "lnk-e6c8236e10",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b0056c326d7_142210/index.m3u8?expire=1773748204&sign=919696d85d3d508fb8f538752127a1cd",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69afdc46326d7_110198/index.m3u8?expire=1773737670&sign=a8963d379787df728435183b885c8d4d",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/anders-lind-vs-truls-moregard-1955-10-03-2026/601299595"
+                              "value": "https://bunchatv1.net/truc-tiep/anthony-sinisuka-ginting-vs-julien-carraggi-2130-10-03-2026/601308331"
                             },
                             {
                               "key": "User-Agent",
@@ -698,13 +629,13 @@
             }
           ],
           "org_metadata": {
-            "league": "WTT Champions Chongqing 2026 Presented",
-            "team_a": "Anders LIND",
-            "team_b": "Truls MOREGARD",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/adfeb41e0d4b2818d2c8ace145cb2a24.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/126918af5658785519324e2b8eb33da2.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-489268188edc.png?v=1773151854",
-            "thumb_key": "thumbs/kaytee-489268188edc.webp"
+            "league": "Sân 1 - YONEX Swiss Open 2026",
+            "team_a": "Anthony Sinisuka GINTING",
+            "team_b": "Julien CARRAGGI",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/ffc3a493f27ba8205b18206d3264f041.jpg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/9801a76e8ba19493375d0d9aa2f9e8de.jpg",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-087cdcf4219e.png?v=1773153010",
+            "thumb_key": "thumbs/kaytee-087cdcf4219e.webp"
           }
         }
       ]
