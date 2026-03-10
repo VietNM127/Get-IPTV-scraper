@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-10T16:42:34.884526",
+  "updated_at": "2026-03-10T17:09:24.403831",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,247 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-784088e643fa",
-          "name": "⚽ Mashal Muborak vs Qizilqum Zarafshon | 21:45",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-784088e643fa.png?v=1773160943",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601293754",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601293754",
-                  "name": "Mashal Muborak vs Qizilqum Zarafshon",
-                  "streams": [
-                    {
-                      "id": "st-601293754",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a3bb6610ab",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b027ef326d8_72787/index.m3u8?expire=1773757039&sign=d43739c864bdbbd2b607f70b3a49cc8d",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/mashal-muborak-vs-qizilqum-zarafshon-2145-10-03-2026/601293754"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-54020a38c8",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/69e4f8bd5ef451f4fcfce69a333522a9/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/mashal-muborak-vs-qizilqum-zarafshon-2145-10-03-2026/601293754"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Uzbekistan Super League",
-            "team_a": "Mashal Muborak",
-            "team_b": "Qizilqum Zarafshon",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/566fc8eae03f834a8221bedabf677c5d.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/709463bd62119aff6f7da0b20b4e1034.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-784088e643fa.png?v=1773160943",
-            "thumb_key": "thumbs/kaytee-784088e643fa.webp"
-          }
-        },
-        {
-          "id": "kaytee-346de63b2fa3",
-          "name": "⚽ Maritimo U23 vs Portimonense U23 | 22:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-346de63b2fa3.png?v=1773160945",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601293745",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601293745",
-                  "name": "Maritimo U23 vs Portimonense U23",
-                  "streams": [
-                    {
-                      "id": "st-601293745",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-dbe6b66d8d",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b0258d326d8_88186/index.m3u8?expire=1773756429&sign=1374f07b2cfb4d08198675f37bc2258b",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/maritimo-u23-vs-portimonense-u23-2200-10-03-2026/601293745"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-2a2a47a4ef",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/d99ccdd0064e64a4de0a280741e30317/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/maritimo-u23-vs-portimonense-u23-2200-10-03-2026/601293745"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Portuguese U23 League",
-            "team_a": "Maritimo U23",
-            "team_b": "Portimonense U23",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/1200b6dfbb0a5c057c0eb833fc675606.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/2204e8ba30d8257e51c73945acb01dff.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-346de63b2fa3.png?v=1773160945",
-            "thumb_key": "thumbs/kaytee-346de63b2fa3.webp"
-          }
-        },
-        {
-          "id": "kaytee-4b1e1f3a2684",
-          "name": "⚽ Academico Viseu U23 vs Sporting CP U23 | 22:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4b1e1f3a2684.png?v=1773160947",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601293748",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601293748",
-                  "name": "Academico Viseu U23 vs Sporting CP U23",
-                  "streams": [
-                    {
-                      "id": "st-601293748",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f7d26ddd3d",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/3ec5f6b523ff9ec88065db07882bd922/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/academico-viseu-u23-vs-sporting-cp-u23-2200-10-03-2026/601293748"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Portuguese U23 League",
-            "team_a": "Academico Viseu U23",
-            "team_b": "Sporting CP U23",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/d48bf087cac6d7c3f62fb7c8d55f89b5.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/9ae229e8442ff8cacac077b40f499022.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4b1e1f3a2684.png?v=1773160947",
-            "thumb_key": "thumbs/kaytee-4b1e1f3a2684.webp"
-          }
-        },
         {
           "id": "kaytee-96fc53df0a9c",
           "name": "⚽ Robbie Capito vs Holger Vier | 22:00",
@@ -268,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-96fc53df0a9c.png?v=1773160950",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-96fc53df0a9c.png?v=1773162556",
             "width": 1600,
             "height": 1200
           },
@@ -323,94 +82,8 @@
             "team_b": "Holger Vier",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/b9be024d33da0f0ed05f0f9a8c3500be.webp",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/cfcc4497709c58514c2932333187da34.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-96fc53df0a9c.png?v=1773160950",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-96fc53df0a9c.png?v=1773162556",
             "thumb_key": "thumbs/kaytee-96fc53df0a9c.webp"
-          }
-        },
-        {
-          "id": "kaytee-d54fe7962582",
-          "name": "⚽ Sabah Baku vs FK Gilan Gabala | 22:15",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d54fe7962582.png?v=1773160951",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601299289",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601299289",
-                  "name": "Sabah Baku vs FK Gilan Gabala",
-                  "streams": [
-                    {
-                      "id": "st-601299289",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-618ea77717",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b02b0d70a68_124958/index.m3u8?expire=1773757837&sign=6a79043be395b998049d2cfe4e85e8a5",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/sabah-baku-vs-fk-gilan-gabala-2215-10-03-2026/601299289"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-51a1acfd47",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/c113afc0bddd31a1dc1c0312a0b54c16/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/sabah-baku-vs-fk-gilan-gabala-2215-10-03-2026/601299289"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Azerbaijan Premier League",
-            "team_a": "Sabah Baku",
-            "team_b": "FK Gilan Gabala",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/44cc5a54d7859b9d062a6f56a39819f8.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/01b36d0eae3771391455661b45834805.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d54fe7962582.png?v=1773160951",
-            "thumb_key": "thumbs/kaytee-d54fe7962582.webp"
           }
         },
         {
@@ -423,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-573880231cdc.png?v=1773160953",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-573880231cdc.png?v=1773162557",
             "width": 1600,
             "height": 1200
           },
@@ -495,7 +168,7 @@
             "team_b": "NK Lokomotiva Zagreb",
             "logo_a": "https://cdn.rapid-api.icu/football/team/a491b4d6a330910fa354ff60a65bb615.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/3a628a345b4aefdab4111cf683ec36d6.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-573880231cdc.png?v=1773160953",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-573880231cdc.png?v=1773162557",
             "thumb_key": "thumbs/kaytee-573880231cdc.webp"
           }
         },
@@ -509,7 +182,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2d8c958cb457.png?v=1773160954",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2d8c958cb457.png?v=1773162558",
             "width": 1600,
             "height": 1200
           },
@@ -564,13 +237,13 @@
             "team_b": "Phuong Nam Pham",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/8091436e58e40736632d5a378d3e9475.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/2b9284f83fdde8bfbc1009aa1d4fde3a.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2d8c958cb457.png?v=1773160954",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2d8c958cb457.png?v=1773162558",
             "thumb_key": "thumbs/kaytee-2d8c958cb457.webp"
           }
         },
         {
-          "id": "kaytee-087cdcf4219e",
-          "name": "⚽ LAI / TSAI vs R. A. ROSE /  F. SETIANINGRUM | 23:15",
+          "id": "kaytee-f47d4ae3cbca",
+          "name": "⚽ Pakhtakor vs Navbahor Namangan | 22:50",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -578,7 +251,231 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-087cdcf4219e.png?v=1773160954",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f47d4ae3cbca.png?v=1773162560",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601293760",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601293760",
+                  "name": "Pakhtakor vs Navbahor Namangan",
+                  "streams": [
+                    {
+                      "id": "st-601293760",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8c5434d4bf",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b02b1170a68_136682/index.m3u8?expire=1773757841&sign=7e84f94b54068da99ad9d7314cc77fe4",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/pakhtakor-vs-navbahor-namangan-2250-10-03-2026/601293760"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-9e353d8093",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/9c2495ffb2b04de8983e531184332e92/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/pakhtakor-vs-navbahor-namangan-2250-10-03-2026/601293760"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Uzbekistan Super League",
+            "team_a": "Pakhtakor",
+            "team_b": "Navbahor Namangan",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/78dd333913352de8fc4e8b0834636245.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/38282bbb6c7407024187ae929dab2274.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f47d4ae3cbca.png?v=1773162560",
+            "thumb_key": "thumbs/kaytee-f47d4ae3cbca.webp"
+          }
+        },
+        {
+          "id": "kaytee-0a49ae1ad9b0",
+          "name": "⚽ FC Flora Tallinn vs FC Nomme United | 23:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0a49ae1ad9b0.png?v=1773162561",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601293766",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601293766",
+                  "name": "FC Flora Tallinn vs FC Nomme United",
+                  "streams": [
+                    {
+                      "id": "st-601293766",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-74277c48f0",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/914dbcdf9132a2817092c489f755ee60/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/fc-flora-tallinn-vs-fc-nomme-united-2300-10-03-2026/601293766"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Estonian Cup",
+            "team_a": "FC Flora Tallinn",
+            "team_b": "FC Nomme United",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/5b9c9b4f40414f2be603cf1dac1bdad6.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/348b05307188e5ba081db3e659b7ba0d.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0a49ae1ad9b0.png?v=1773162561",
+            "thumb_key": "thumbs/kaytee-0a49ae1ad9b0.webp"
+          }
+        },
+        {
+          "id": "kaytee-37614386ed02",
+          "name": "⚽ Etoile Filante de Ouagadougou vs RC Kadiogo | 23:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-37614386ed02.png?v=1773162563",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601296541",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601296541",
+                  "name": "Etoile Filante de Ouagadougou vs RC Kadiogo",
+                  "streams": [
+                    {
+                      "id": "st-601296541",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8a502155d0",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/dbe4deaa3a744d6a45ff1d4b7cb1bd36/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/etoile-filante-de-ouagadougou-vs-rc-kadiogo-2300-10-03-2026/601296541"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Burkina Faso Division 1",
+            "team_a": "Etoile Filante de Ouagadougou",
+            "team_b": "RC Kadiogo",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/832bbcc8557920f488673c1b47e764c8.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/29c72f8d82b67e446dea00ab4669c26e.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-37614386ed02.png?v=1773162563",
+            "thumb_key": "thumbs/kaytee-37614386ed02.webp"
+          }
+        },
+        {
+          "id": "kaytee-087cdcf4219e",
+          "name": "⚽ LAI / TSAI vs Jiri Kral/Ondrej KraL | 23:15",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-087cdcf4219e.png?v=1773162564",
             "width": 1600,
             "height": 1200
           },
@@ -597,7 +494,7 @@
               "contents": [
                 {
                   "id": "ct-601308331",
-                  "name": "LAI / TSAI vs R. A. ROSE /  F. SETIANINGRUM",
+                  "name": "LAI / TSAI vs Jiri Kral/Ondrej KraL",
                   "streams": [
                     {
                       "id": "st-601308331",
@@ -612,7 +509,7 @@
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/lai--tsai-vs-r-a-rose---f-setianingrum-2315-10-03-2026/601308331"
+                              "value": "https://bunchatv1.net/truc-tiep/lai--tsai-vs-jiri-kralondrej-kral-2315-10-03-2026/601308331"
                             },
                             {
                               "key": "User-Agent",
@@ -630,10 +527,10 @@
           "org_metadata": {
             "league": "Sân 1 - YONEX Swiss Open 2026",
             "team_a": "LAI / TSAI",
-            "team_b": "R. A. ROSE /  F. SETIANINGRUM",
+            "team_b": "Jiri Kral/Ondrej KraL",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/d4e8fb4a22dcb75fd3d2583f81ea3b1f.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/e724a7ecab8f389ff729d0851ae0962b.webp",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-087cdcf4219e.png?v=1773160954",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/f9e36c84d4904351fae13499da6e7d61.jpg",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-087cdcf4219e.png?v=1773162564",
             "thumb_key": "thumbs/kaytee-087cdcf4219e.webp"
           }
         }
