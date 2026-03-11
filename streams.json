@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-11T16:33:05.133638",
+  "updated_at": "2026-03-11T17:05:11.365515",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,161 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-6847eb34a9b0",
-          "name": "⚽ Buxoro FK vs Xorazm Urganch | 21:45",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6847eb34a9b0.png?v=1773246771",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601294831",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601294831",
-                  "name": "Buxoro FK vs Xorazm Urganch",
-                  "streams": [
-                    {
-                      "id": "st-601294831",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f1f317cc9c",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b167a470a68_85514/index.m3u8?expire=1773838884&sign=a50275160d45dad5ab6a181767b253a6",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/buxoro-fk-vs-xorazm-urganch-2145-11-03-2026/601294831"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-bd325e70aa",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/94def252130679136ccb2bd242596450/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/buxoro-fk-vs-xorazm-urganch-2145-11-03-2026/601294831"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Uzbekistan Super League",
-            "team_a": "Buxoro FK",
-            "team_b": "Xorazm Urganch",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/fe138ef80fc8e5cb7a6ac6ebe754cd98.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/cb045077b1cf7fa3c7a1aec74546bb15.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6847eb34a9b0.png?v=1773246771",
-            "thumb_key": "thumbs/kaytee-6847eb34a9b0.webp"
-          }
-        },
-        {
-          "id": "kaytee-5112c0f396cd",
-          "name": "⚽ Dinamo Tbilisi vs FC Metalurgi Rustavi | 22:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5112c0f396cd.png?v=1773246773",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601294804",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601294804",
-                  "name": "Dinamo Tbilisi vs FC Metalurgi Rustavi",
-                  "streams": [
-                    {
-                      "id": "st-601294804",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9b79bc2b43",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/9d8a74c512d7de7b02fb717145d75ea6/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/dinamo-tbilisi-vs-fc-metalurgi-rustavi-2200-11-03-2026/601294804"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Georgia Erovnuli Liga",
-            "team_a": "Dinamo Tbilisi",
-            "team_b": "FC Metalurgi Rustavi",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/ad24ca32a65ee246b1c20af06f4acb97.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/cc6d0105f751057a74ad7580822737f7.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5112c0f396cd.png?v=1773246773",
-            "thumb_key": "thumbs/kaytee-5112c0f396cd.webp"
-          }
-        },
         {
           "id": "kaytee-42bcb921c9a9",
           "name": "⚽ Paris FC (w) vs Strasbourg (w) | 22:15",
@@ -182,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-42bcb921c9a9.png?v=1773246775",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-42bcb921c9a9.png?v=1773248698",
             "width": 1600,
             "height": 1200
           },
@@ -254,7 +99,7 @@
             "team_b": "Strasbourg (w)",
             "logo_a": "https://cdn.rapid-api.icu/football/team/fabc3fa7f297e32d91291693eb8c1404.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/9fa223c58fb85925ddbd7f126c790019.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-42bcb921c9a9.png?v=1773246775",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-42bcb921c9a9.png?v=1773248698",
             "thumb_key": "thumbs/kaytee-42bcb921c9a9.webp"
           }
         },
@@ -268,7 +113,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b9774e53ec0b.png?v=1773246777",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b9774e53ec0b.png?v=1773248700",
             "width": 1600,
             "height": 1200
           },
@@ -340,8 +185,77 @@
             "team_b": "Marseille (w)",
             "logo_a": "https://cdn.rapid-api.icu/football/team/9b531be11cb41d4f7999fc91a943c75f.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/189dab98170eda462708ded34cdcf6fa.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b9774e53ec0b.png?v=1773246777",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b9774e53ec0b.png?v=1773248700",
             "thumb_key": "thumbs/kaytee-b9774e53ec0b.webp"
+          }
+        },
+        {
+          "id": "kaytee-e15c4e15d1b3",
+          "name": "⚽ FK Buducnost Podgorica vs Jedinstvo Bijelo Polje | 22:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e15c4e15d1b3.png?v=1773248702",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601294780",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601294780",
+                  "name": "FK Buducnost Podgorica vs Jedinstvo Bijelo Polje",
+                  "streams": [
+                    {
+                      "id": "st-601294780",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-616f496145",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/009953ef6bc832bd5f54bbb7af11069c/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/fk-buducnost-podgorica-vs-jedinstvo-bijelo-polje-2230-11-03-2026/601294780"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Montenegro First League",
+            "team_a": "FK Buducnost Podgorica",
+            "team_b": "Jedinstvo Bijelo Polje",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/cea35f13ded5a6afa114d1d2b9fe993f.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/82cdda9478d04ff7768ab90bc2439979.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e15c4e15d1b3.png?v=1773248702",
+            "thumb_key": "thumbs/kaytee-e15c4e15d1b3.webp"
           }
         },
         {
@@ -354,7 +268,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0379afd3efc8.png?v=1773246778",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0379afd3efc8.png?v=1773248704",
             "width": 1600,
             "height": 1200
           },
@@ -409,77 +323,8 @@
             "team_b": "Jimmy WONG /  LAI Pei Jing",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/7b9249f7396163af2a663a6e52b4f31f.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/4c1700d4eb4d72875675e0d4babc564f.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0379afd3efc8.png?v=1773246778",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0379afd3efc8.png?v=1773248704",
             "thumb_key": "thumbs/kaytee-0379afd3efc8.webp"
-          }
-        },
-        {
-          "id": "kaytee-806e0d13bdb4",
-          "name": "⚽ Hải Long Lê vs Revo Maimre | 23:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-806e0d13bdb4.png?v=1773246779",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601309543",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601309543",
-                  "name": "Hải Long Lê vs Revo Maimre",
-                  "streams": [
-                    {
-                      "id": "st-601309543",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-96e1b5ccd6",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b130be70a68_103/index.m3u8?expire=1773824830&sign=1b08b4c9064d9abecc542cb02890d5ed",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/hai-long-le-vs-revo-maimre-2300-11-03-2026/601309543"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "European Open Pool Championship 2026",
-            "team_a": "Hải Long Lê",
-            "team_b": "Revo Maimre",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/45720b130462d4ecd1d80df693220e89.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/7eec2e6b484254cddf2b561028f5cab7.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-806e0d13bdb4.png?v=1773246779",
-            "thumb_key": "thumbs/kaytee-806e0d13bdb4.webp"
           }
         },
         {
@@ -492,7 +337,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-80c18ea098bf.png?v=1773246781",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-80c18ea098bf.png?v=1773248706",
             "width": 1600,
             "height": 1200
           },
@@ -564,7 +409,7 @@
             "team_b": "Hartford Athletic",
             "logo_a": "https://cdn.rapid-api.icu/football/team/c3c17ec375bc22a7138c863ee91a3858.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/78febf9c2b8c7c5bff95797b00c90459.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-80c18ea098bf.png?v=1773246781",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-80c18ea098bf.png?v=1773248706",
             "thumb_key": "thumbs/kaytee-80c18ea098bf.webp"
           }
         },
@@ -578,7 +423,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-988b3fa2e19b.png?v=1773246783",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-988b3fa2e19b.png?v=1773248708",
             "width": 1600,
             "height": 1200
           },
@@ -650,8 +495,77 @@
             "team_b": "Spaeri FC",
             "logo_a": "https://cdn.rapid-api.icu/football/team/e450729cae3ba8210e9a08134b9258a1.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/432c13e823ffcc46ee9255384e525629.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-988b3fa2e19b.png?v=1773246783",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-988b3fa2e19b.png?v=1773248708",
             "thumb_key": "thumbs/kaytee-988b3fa2e19b.webp"
+          }
+        },
+        {
+          "id": "kaytee-806e0d13bdb4",
+          "name": "⚽ Hải Long Lê vs Revo Maimre | 23:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-806e0d13bdb4.png?v=1773248709",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601309543",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601309543",
+                  "name": "Hải Long Lê vs Revo Maimre",
+                  "streams": [
+                    {
+                      "id": "st-601309543",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-96e1b5ccd6",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b130be70a68_103/index.m3u8?expire=1773824830&sign=1b08b4c9064d9abecc542cb02890d5ed",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/hai-long-le-vs-revo-maimre-2300-11-03-2026/601309543"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "European Open Pool Championship 2026",
+            "team_a": "Hải Long Lê",
+            "team_b": "Revo Maimre",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/45720b130462d4ecd1d80df693220e89.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/7eec2e6b484254cddf2b561028f5cab7.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-806e0d13bdb4.png?v=1773248709",
+            "thumb_key": "thumbs/kaytee-806e0d13bdb4.webp"
           }
         },
         {
@@ -664,7 +578,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-087cdcf4219e.png?v=1773246783",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-087cdcf4219e.png?v=1773248709",
             "width": 1600,
             "height": 1200
           },
@@ -719,77 +633,8 @@
             "team_b": "Line CHRISTOPHERSEN",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/82ba8852fbe295950542346df54e5d72.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/74bbcff4848212bcc31b887f4a99e24f.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-087cdcf4219e.png?v=1773246783",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-087cdcf4219e.png?v=1773248709",
             "thumb_key": "thumbs/kaytee-087cdcf4219e.webp"
-          }
-        },
-        {
-          "id": "kaytee-08fb21f8f1dd",
-          "name": "⚽ C. HEMMING / E, Van LEEUWEN vs J. HIDAYATULLAH / F. A. N. PASARIBU | 23:15",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-08fb21f8f1dd.png?v=1773246784",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601308334",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601308334",
-                  "name": "C. HEMMING / E, Van LEEUWEN vs J. HIDAYATULLAH / F. A. N. PASARIBU",
-                  "streams": [
-                    {
-                      "id": "st-601308334",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1f2f74d152",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b176cb70a68_19013/index.m3u8?expire=1773842763&sign=34088578944ce9ad9ed34c24cfa80e99",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/c-hemming--e-van-leeuwen-vs-j-hidayatullah--f-a-n-pasaribu-2315-11-03-2026/601308334"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Sân 2 - YONEX Swiss Open 2026",
-            "team_a": "C. HEMMING / E, Van LEEUWEN",
-            "team_b": "J. HIDAYATULLAH / F. A. N. PASARIBU",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/25a60344f0739fce2521cf8a3e112a7f.svg",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/3c897dcf2cb2cb121c56a5f4491b6748.webp",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-08fb21f8f1dd.png?v=1773246784",
-            "thumb_key": "thumbs/kaytee-08fb21f8f1dd.webp"
           }
         },
         {
@@ -802,7 +647,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9e405c07e3ca.png?v=1773246785",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9e405c07e3ca.png?v=1773248710",
             "width": 1600,
             "height": 1200
           },
@@ -857,8 +702,77 @@
             "team_b": "Tomoka MIYAZAKI",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/12fd23a748ebb8241e113939f4f28a2c.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/772e2eff2e5357d2c68f4cc6467eccef.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9e405c07e3ca.png?v=1773246785",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9e405c07e3ca.png?v=1773248710",
             "thumb_key": "thumbs/kaytee-9e405c07e3ca.webp"
+          }
+        },
+        {
+          "id": "kaytee-08fb21f8f1dd",
+          "name": "⚽ Su Li Yang vs Julien CARRAGGI | 23:50",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-08fb21f8f1dd.png?v=1773248711",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601308334",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601308334",
+                  "name": "Su Li Yang vs Julien CARRAGGI",
+                  "streams": [
+                    {
+                      "id": "st-601308334",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1f2f74d152",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b176cb70a68_19013/index.m3u8?expire=1773842763&sign=34088578944ce9ad9ed34c24cfa80e99",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/su-li-yang-vs-julien-carraggi-2350-11-03-2026/601308334"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sân 2 - YONEX Swiss Open 2026",
+            "team_a": "Su Li Yang",
+            "team_b": "Julien CARRAGGI",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/3e74abe743af6f64542bb57ea80c91d2.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/9801a76e8ba19493375d0d9aa2f9e8de.jpg",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-08fb21f8f1dd.png?v=1773248711",
+            "thumb_key": "thumbs/kaytee-08fb21f8f1dd.webp"
           }
         }
       ]
