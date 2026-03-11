@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-11T02:49:07.550280",
+  "updated_at": "2026-03-11T04:24:29.624120",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -18,8 +18,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-0593e710974c",
-          "name": "⚽ Monterrey vs Cruz Azul | 08:00",
+          "id": "kaytee-a2c065ea98a0",
+          "name": "⚽ Los Angeles FC vs Alajuelense | 10:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0593e710974c.png?v=1773197339",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a2c065ea98a0.png?v=1773203065",
             "width": 1600,
             "height": 1200
           },
@@ -41,27 +41,27 @@
           ],
           "sources": [
             {
-              "id": "src-601294681",
+              "id": "src-601294690",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601294681",
-                  "name": "Monterrey vs Cruz Azul",
+                  "id": "ct-601294690",
+                  "name": "Los Angeles FC vs Alajuelense",
                   "streams": [
                     {
-                      "id": "st-601294681",
+                      "id": "st-601294690",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-3803755442",
+                          "id": "lnk-31102f83b4",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b0bf9770a68_88642/index.m3u8?expire=1773795863&sign=2e46c068408326204ced3def16b82d12",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b0d0fb326d8_74012/index.m3u8?expire=1773800315&sign=b9deaffda2afbe1d6677ad8f9a6d9f63",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/monterrey-vs-cruz-azul-0800-11-03-2026/601294681"
+                              "value": "https://bunchatv1.net/truc-tiep/los-angeles-fc-vs-alajuelense-1000-11-03-2026/601294690"
                             },
                             {
                               "key": "User-Agent",
@@ -70,15 +70,15 @@
                           ]
                         },
                         {
-                          "id": "lnk-f45f71c27b",
+                          "id": "lnk-47607ab799",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://live.alilicloud.com/live/2f12835871f4f0e9186143479d86e631/playlist.m3u8",
+                          "url": "https://live.alilicloud.com/live/d87baa55527fdd6b1fa4ffbdfe0396e3/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/monterrey-vs-cruz-azul-0800-11-03-2026/601294681"
+                              "value": "https://bunchatv1.net/truc-tiep/los-angeles-fc-vs-alajuelense-1000-11-03-2026/601294690"
                             },
                             {
                               "key": "User-Agent",
@@ -95,253 +95,12 @@
           ],
           "org_metadata": {
             "league": "CNCF CHL",
-            "team_a": "Monterrey",
-            "team_b": "Cruz Azul",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/5c3f819a35454f424d85df5757650f8b.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/2addd50487c8f61276d5fff8714f6a5c.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0593e710974c.png?v=1773197339",
-            "thumb_key": "thumbs/kaytee-0593e710974c.webp"
-          }
-        },
-        {
-          "id": "kaytee-2d912ba41476",
-          "name": "⚽ Sarmiento Junin vs Racing Club de Avellaneda | 08:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2d912ba41476.png?v=1773197341",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601294678",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601294678",
-                  "name": "Sarmiento Junin vs Racing Club de Avellaneda",
-                  "streams": [
-                    {
-                      "id": "st-601294678",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-000bdcc661",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b0b7dd70a68_133172/index.m3u8?expire=1773793885&sign=e59d573bafabf88cd068047a8259e9d8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/sarmiento-junin-vs-racing-club-de-avellaneda-0800-11-03-2026/601294678"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-81981b80b5",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/c89f4a7cf4bad2b83594f6f08722b5aa/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/sarmiento-junin-vs-racing-club-de-avellaneda-0800-11-03-2026/601294678"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Argentine Division 1",
-            "team_a": "Sarmiento Junin",
-            "team_b": "Racing Club de Avellaneda",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/173f9983cdfd064d8bdd1a341e1bd8e4.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/cb3c7e99e401d3ff83eeb36c53996d79.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2d912ba41476.png?v=1773197341",
-            "thumb_key": "thumbs/kaytee-2d912ba41476.webp"
-          }
-        },
-        {
-          "id": "kaytee-9113ae31b27a",
-          "name": "⚽ Club Atlético Newell's Old Boys vs CA Platense | 08:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9113ae31b27a.png?v=1773197342",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601294645",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601294645",
-                  "name": "Club Atlético Newell's Old Boys vs CA Platense",
-                  "streams": [
-                    {
-                      "id": "st-601294645",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3d40443640",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b0bc1f70a68_44731/index.m3u8?expire=1773794975&sign=a761f93c968bba21c5ed79821289261e",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/club-atletico-newells-old-boys-vs-ca-platense-0800-11-03-2026/601294645"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-8214a5e863",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/c54a819549949c785f0df89a2bcc497f/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/club-atletico-newells-old-boys-vs-ca-platense-0800-11-03-2026/601294645"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Argentine Division 1",
-            "team_a": "Club Atlético Newell's Old Boys",
-            "team_b": "CA Platense",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/845eed665066a19144dad9f96e550b50.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/df9d41a492e324ad411a3e39c7935352.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9113ae31b27a.png?v=1773197342",
-            "thumb_key": "thumbs/kaytee-9113ae31b27a.webp"
-          }
-        },
-        {
-          "id": "kaytee-1c8bb6934235",
-          "name": "⚽ UWI Blackbirds vs St Andrew Lions | 08:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1c8bb6934235.png?v=1773197343",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601309228",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601309228",
-                  "name": "UWI Blackbirds vs St Andrew Lions",
-                  "streams": [
-                    {
-                      "id": "st-601309228",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2516390ac0",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/8476fba572a549de30f8a8222fef4557/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/uwi-blackbirds-vs-st-andrew-lions-0800-11-03-2026/601309228"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Barbados Premier League",
-            "team_a": "UWI Blackbirds",
-            "team_b": "St Andrew Lions",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/2caa94b94970f564bf927a027651714d.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/6c037297b654a36f6932ce46980f0451.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1c8bb6934235.png?v=1773197343",
-            "thumb_key": "thumbs/kaytee-1c8bb6934235.webp"
+            "team_a": "Los Angeles FC",
+            "team_b": "Alajuelense",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/9c5ad5227377e12b87f77790d3d88c1c.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a2c065ea98a0.png?v=1773203065",
+            "thumb_key": "thumbs/kaytee-a2c065ea98a0.webp"
           }
         }
       ]
@@ -354,75 +113,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-19e72645037e",
-          "name": "🏀 Milwaukee Bucks vs Phoenix Suns | 07:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-19e72645037e.png?v=1773197338",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601298734",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601298734",
-                  "name": "Milwaukee Bucks vs Phoenix Suns",
-                  "streams": [
-                    {
-                      "id": "st-601298734",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6047378a74",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b0b45270a68_142210/index.m3u8?expire=1773792978&sign=21de40231454ac335f21091188f76cca",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/milwaukee-bucks-vs-phoenix-suns-0700-11-03-2026/601298734"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "NBA",
-            "team_a": "Milwaukee Bucks",
-            "team_b": "Phoenix Suns",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/bf9a265694807935ea3714ba60fd0121.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/4eacc3f1b4114a379187c9c2892a4d8a.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-19e72645037e.png?v=1773197338",
-            "thumb_key": "thumbs/kaytee-19e72645037e.webp"
-          }
-        },
-        {
           "id": "kaytee-a53b5798bce2",
           "name": "🏀 Portland Trail Blazers vs Charlotte Hornets | 09:00",
           "type": "single",
@@ -432,7 +122,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a53b5798bce2.png?v=1773197345",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a53b5798bce2.png?v=1773203063",
             "width": 1600,
             "height": 1200
           },
@@ -487,7 +177,7 @@
             "team_b": "Charlotte Hornets",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/f6ca7c9e0db3a6efb4753c3a1e3629ed.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/895412f016798df5a1f6bc83b210d614.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a53b5798bce2.png?v=1773197345",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a53b5798bce2.png?v=1773203063",
             "thumb_key": "thumbs/kaytee-a53b5798bce2.webp"
           }
         },
@@ -501,7 +191,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6b6ae3094fd1.png?v=1773197346",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6b6ae3094fd1.png?v=1773203063",
             "width": 1600,
             "height": 1200
           },
@@ -556,22 +246,13 @@
             "team_b": "Indiana Pacers",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/1c1bdb90a0592bc8f82c42c0448fc4d2.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/5257ef2bea4400b9b0b46c638a87e229.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6b6ae3094fd1.png?v=1773197346",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6b6ae3094fd1.png?v=1773203063",
             "thumb_key": "thumbs/kaytee-6b6ae3094fd1.webp"
           }
-        }
-      ]
-    },
-    {
-      "id": "live_tennis",
-      "name": "🔴 Live 🎾 Tennis",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
+        },
         {
-          "id": "kaytee-29912f4f5010",
-          "name": "🎾 Fonseca J. vs Sinner J. | 08:00",
+          "id": "kaytee-46c2b3ae3a29",
+          "name": "🏀 Los Angeles Lakers vs Minnesota Timberwolves | 10:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -579,7 +260,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-29912f4f5010.png?v=1773197344",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-46c2b3ae3a29.png?v=1773203066",
             "width": 1600,
             "height": 1200
           },
@@ -593,27 +274,27 @@
           ],
           "sources": [
             {
-              "id": "src-601308565",
+              "id": "src-601298749",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601308565",
-                  "name": "Fonseca J. vs Sinner J.",
+                  "id": "ct-601298749",
+                  "name": "Los Angeles Lakers vs Minnesota Timberwolves",
                   "streams": [
                     {
-                      "id": "st-601308565",
+                      "id": "st-601298749",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-154cae2587",
+                          "id": "lnk-f28b726ffc",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b0b537326d8_4733/index.m3u8?expire=1773793207&sign=095521df6fc9ef80f5ca0999f6fd500d",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b0d571326d8_110198/index.m3u8?expire=1773801457&sign=5084904e77a31c860256bd299fa80300",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/fonseca-j-vs-sinner-j-0800-11-03-2026/601308565"
+                              "value": "https://bunchatv1.net/truc-tiep/los-angeles-lakers-vs-minnesota-timberwolves-1000-11-03-2026/601298749"
                             },
                             {
                               "key": "User-Agent",
@@ -629,18 +310,27 @@
             }
           ],
           "org_metadata": {
-            "league": "ATP Indian Wells",
-            "team_a": "Fonseca J.",
-            "team_b": "Sinner J.",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/53efcc37d0c7c5ee2488c1b196cb25b3.webp",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/c39425c18a054f0f58d762b402dbb2ec.webp",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-29912f4f5010.png?v=1773197344",
-            "thumb_key": "thumbs/kaytee-29912f4f5010.webp"
+            "league": "NBA",
+            "team_a": "Los Angeles Lakers",
+            "team_b": "Minnesota Timberwolves",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/feb6335bd6d4cb2e6b6cb6cb43c0e0a1.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/5d206ae1f29b3de6ba81f7a06cc990d2.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-46c2b3ae3a29.png?v=1773203066",
+            "thumb_key": "thumbs/kaytee-46c2b3ae3a29.webp"
           }
-        },
+        }
+      ]
+    },
+    {
+      "id": "live_tennis",
+      "name": "🔴 Live 🎾 Tennis",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
         {
-          "id": "kaytee-189533d6ab8d",
-          "name": "🎾 Mboko V. vs Anisimova A. | 08:00",
+          "id": "kaytee-32e65ac4c421",
+          "name": "🎾 Eala A. vs Linda Noskova | 10:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -648,7 +338,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-189533d6ab8d.png?v=1773197345",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-32e65ac4c421.png?v=1773203066",
             "width": 1600,
             "height": 1200
           },
@@ -662,27 +352,27 @@
           ],
           "sources": [
             {
-              "id": "src-601308574",
+              "id": "src-601308577",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601308574",
-                  "name": "Mboko V. vs Anisimova A.",
+                  "id": "ct-601308577",
+                  "name": "Eala A. vs Linda Noskova",
                   "streams": [
                     {
-                      "id": "st-601308574",
+                      "id": "st-601308577",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-9ab9d06567",
+                          "id": "lnk-36d239b1d4",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b0b60c326d8_85714/index.m3u8?expire=1773793420&sign=3264f3c61392a28820e549c3a539dfc9",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b0de22326d8_4733/index.m3u8?expire=1773803682&sign=c7bbf971fa2bf912504ed241d5412e65",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/mboko-v-vs-anisimova-a-0800-11-03-2026/601308574"
+                              "value": "https://bunchatv1.net/truc-tiep/eala-a-vs-linda-noskova-1000-11-03-2026/601308577"
                             },
                             {
                               "key": "User-Agent",
@@ -699,26 +389,26 @@
           ],
           "org_metadata": {
             "league": "WTA Indian Wells",
-            "team_a": "Mboko V.",
-            "team_b": "Anisimova A.",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/8a98f1a624cafe3c5938a7522fbd8e74.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/f1acc5aa3f8fc259099b0acbafd6a2d0.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-189533d6ab8d.png?v=1773197345",
-            "thumb_key": "thumbs/kaytee-189533d6ab8d.webp"
+            "team_a": "Eala A.",
+            "team_b": "Linda Noskova",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/d1083274bf7c933bb786e439df95969f.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/7daa1d983ed81aee39c56845f5d73daa.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-32e65ac4c421.png?v=1773203066",
+            "thumb_key": "thumbs/kaytee-32e65ac4c421.webp"
           }
         }
       ]
     },
     {
-      "id": "upcoming_bóng_đá",
-      "name": "⏳ Sắp Live ⚽ Bóng Đá",
+      "id": "live_bóng_bàn",
+      "name": "🔴 Live 🏓 Bóng Bàn",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-a2c065ea98a0",
-          "name": "⚽ Los Angeles FC vs Alajuelense | 10:00",
+          "id": "kaytee-e822c2255ec1",
+          "name": "🏓 CHENG I-Ching vs DOO Hoi Kem | 10:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -726,41 +416,41 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a2c065ea98a0.png?v=1773197347",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e822c2255ec1.png?v=1773203067",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "⏳ Sắp Live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
             {
-              "id": "src-601294690",
+              "id": "src-601309231",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601294690",
-                  "name": "Los Angeles FC vs Alajuelense",
+                  "id": "ct-601309231",
+                  "name": "CHENG I-Ching vs DOO Hoi Kem",
                   "streams": [
                     {
-                      "id": "st-601294690",
+                      "id": "st-601309231",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-31102f83b4",
+                          "id": "lnk-6e727dac84",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b0d0fb326d8_74012/index.m3u8?expire=1773800315&sign=b9deaffda2afbe1d6677ad8f9a6d9f63",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b0da06326d8_142210/index.m3u8?expire=1773802630&sign=c7f57410b5a000a6a0fa354c67dd80d8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/los-angeles-fc-vs-alajuelense-1000-11-03-2026/601294690"
+                              "value": "https://bunchatv1.net/truc-tiep/cheng-iching-vs-doo-hoi-kem-1000-11-03-2026/601309231"
                             },
                             {
                               "key": "User-Agent",
@@ -776,13 +466,169 @@
             }
           ],
           "org_metadata": {
-            "league": "CNCF CHL",
-            "team_a": "Los Angeles FC",
-            "team_b": "Alajuelense",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/9c5ad5227377e12b87f77790d3d88c1c.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a2c065ea98a0.png?v=1773197347",
-            "thumb_key": "thumbs/kaytee-a2c065ea98a0.webp"
+            "league": "WTT Champions Chongqing Women",
+            "team_a": "CHENG I-Ching",
+            "team_b": "DOO Hoi Kem",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/6b84780e6dafb8749f6986c9d56da8fa.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/2e3fb61ca2812ae802a0cbad63ff064c.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e822c2255ec1.png?v=1773203067",
+            "thumb_key": "thumbs/kaytee-e822c2255ec1.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_bóng_đá",
+      "name": "⏳ Sắp Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-048e95d2d0c6",
+          "name": "⚽ Vissel Kobe vs Football Club Seoul | 17:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-048e95d2d0c6.png?v=1773203069",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601294699",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601294699",
+                  "name": "Vissel Kobe vs Football Club Seoul",
+                  "streams": [
+                    {
+                      "id": "st-601294699",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6706b3519d",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/7071c6b7acf76880f6ca4f6c27525136/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/vissel-kobe-vs-football-club-seoul-1700-11-03-2026/601294699"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC Champions League Elite",
+            "team_a": "Vissel Kobe",
+            "team_b": "Football Club Seoul",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/d85cce27ab583e5b3cead155f02b098a.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/ad010af729c420626d1865ad744168d3.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-048e95d2d0c6.png?v=1773203069",
+            "thumb_key": "thumbs/kaytee-048e95d2d0c6.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_billiard",
+      "name": "⏳ Sắp Live 🎱 Billiard",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-9745bf60d8ac",
+          "name": "🎱 Lee Woo-kyung vs Lee Shin-young | 12:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9745bf60d8ac.png?v=1773203068",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601309387",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601309387",
+                  "name": "Lee Woo-kyung vs Lee Shin-young",
+                  "streams": [
+                    {
+                      "id": "st-601309387",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-dec6b5b03f",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b0ea60326d8_144313/index.m3u8?expire=1773806816&sign=aa1aa2ae63434046758fde8a2a959be7",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/lee-wookyung-vs-lee-shinyoung-1200-11-03-2026/601309387"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "PBA-LPBA World Championship 2026",
+            "team_a": "Lee Woo-kyung",
+            "team_b": "Lee Shin-young",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/855f9296bdaa53535735b8672c648016.jpg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/119612c6e2f7e2ddb4797723aa295f4d.jpg",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9745bf60d8ac.png?v=1773203068",
+            "thumb_key": "thumbs/kaytee-9745bf60d8ac.webp"
           }
         }
       ]
