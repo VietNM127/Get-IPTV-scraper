@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-11T13:23:23.142751",
+  "updated_at": "2026-03-11T13:37:22.319061",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,75 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-50cf7e185a5c",
-          "name": "⚽ Termez Surkhon vs Kuruvchi Bunyodkor | 18:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-50cf7e185a5c.png?v=1773235388",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601294837",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601294837",
-                  "name": "Termez Surkhon vs Kuruvchi Bunyodkor",
-                  "streams": [
-                    {
-                      "id": "st-601294837",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b50db61816",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/2abd09fdc99eb6f231019eabfaf2e412/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/termez-surkhon-vs-kuruvchi-bunyodkor-1830-11-03-2026/601294837"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Uzbekistan Super League",
-            "team_a": "Termez Surkhon",
-            "team_b": "Kuruvchi Bunyodkor",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/eb2ec2a178c9c75696459e5a9c6779d7.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/6e8f68d93b3613b3d8229a1403dbb7e1.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-50cf7e185a5c.png?v=1773235388",
-            "thumb_key": "thumbs/kaytee-50cf7e185a5c.webp"
-          }
-        },
         {
           "id": "kaytee-806e0d13bdb4",
           "name": "⚽ Lương Đức Thiện vs Adi Kadrić | 19:00",
@@ -96,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-806e0d13bdb4.png?v=1773235392",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-806e0d13bdb4.png?v=1773236236",
             "width": 1600,
             "height": 1200
           },
@@ -151,7 +82,7 @@
             "team_b": "Adi Kadrić",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/225d58c131513bb200f3a7dd32323d2b.webp",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/a9d188851b56878cc943af32b23ce0b9.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-806e0d13bdb4.png?v=1773235392",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-806e0d13bdb4.png?v=1773236236",
             "thumb_key": "thumbs/kaytee-806e0d13bdb4.webp"
           }
         },
@@ -165,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-556bf8161979.png?v=1773235395",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-556bf8161979.png?v=1773236237",
             "width": 1600,
             "height": 1200
           },
@@ -220,7 +151,7 @@
             "team_b": "Siauliai",
             "logo_a": "https://cdn.rapid-api.icu/football/team/cde996f57176e1d53b5c0ae60c76e5f2.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/b325fe2175ad9945e648dbb016b1756c.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-556bf8161979.png?v=1773235395",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-556bf8161979.png?v=1773236237",
             "thumb_key": "thumbs/kaytee-556bf8161979.webp"
           }
         },
@@ -234,7 +165,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8346ab1df370.png?v=1773235397",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8346ab1df370.png?v=1773236237",
             "width": 1600,
             "height": 1200
           },
@@ -306,7 +237,7 @@
             "team_b": "Gamba Osaka",
             "logo_a": "https://cdn.rapid-api.icu/football/team/ca2b8d70931647840c78209be51763a3.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/91008a96b5de8c75376d17057f89890e.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8346ab1df370.png?v=1773235397",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8346ab1df370.png?v=1773236237",
             "thumb_key": "thumbs/kaytee-8346ab1df370.webp"
           }
         },
@@ -320,7 +251,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0379afd3efc8.png?v=1773235397",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0379afd3efc8.png?v=1773236238",
             "width": 1600,
             "height": 1200
           },
@@ -375,7 +306,7 @@
             "team_b": "Pitchamon OPATNIPUTH",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/11b3623a1fb8fd1ce0ecb848cc36199d.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/d7a14d64e4da3ddaed23b91ee57f1ba9.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0379afd3efc8.png?v=1773235397",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0379afd3efc8.png?v=1773236238",
             "thumb_key": "thumbs/kaytee-0379afd3efc8.webp"
           }
         },
@@ -389,7 +320,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9e405c07e3ca.png?v=1773235398",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9e405c07e3ca.png?v=1773236239",
             "width": 1600,
             "height": 1200
           },
@@ -444,7 +375,7 @@
             "team_b": "GAO J. X. / WU M. Y.",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/1623714575646c474033d0d90b8ee5e6.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/df08b7096aa0d43cd7e922c75b423092.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9e405c07e3ca.png?v=1773235398",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9e405c07e3ca.png?v=1773236239",
             "thumb_key": "thumbs/kaytee-9e405c07e3ca.webp"
           }
         },
@@ -458,7 +389,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a47c1109e4a3.png?v=1773235401",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a47c1109e4a3.png?v=1773236240",
             "width": 1600,
             "height": 1200
           },
@@ -530,8 +461,77 @@
             "team_b": "Erzurum BB",
             "logo_a": "https://cdn.rapid-api.icu/football/team/5704cc856fc5f1ef26cb0d08413d3799.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/1a02b3bb5ec75b6ca8430c57915ac922.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a47c1109e4a3.png?v=1773235401",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a47c1109e4a3.png?v=1773236240",
             "thumb_key": "thumbs/kaytee-a47c1109e4a3.webp"
+          }
+        },
+        {
+          "id": "kaytee-6e3cf0558484",
+          "name": "⚽ Jezero Plav vs Decic Tuzi | 20:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6e3cf0558484.png?v=1773236240",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601294783",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601294783",
+                  "name": "Jezero Plav vs Decic Tuzi",
+                  "streams": [
+                    {
+                      "id": "st-601294783",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ca7a2eedec",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/f634a279e8c9b0ef3b69651fc1e3214e/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/jezero-plav-vs-decic-tuzi-2000-11-03-2026/601294783"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Montenegro First League",
+            "team_a": "Jezero Plav",
+            "team_b": "Decic Tuzi",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/94ec2edf5a6c91a6d3d42bdf83968b53.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/5738853e412f0d9c3b36ab4696fc12e6.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6e3cf0558484.png?v=1773236240",
+            "thumb_key": "thumbs/kaytee-6e3cf0558484.webp"
           }
         },
         {
@@ -544,7 +544,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-08fb21f8f1dd.png?v=1773235402",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-08fb21f8f1dd.png?v=1773236241",
             "width": 1600,
             "height": 1200
           },
@@ -599,7 +599,7 @@
             "team_b": "Kaloyana NALBANTOVA",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/bc563bb728ffa6eba626794f0356364c.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/b6418b3c0bdde504b951102b9193655a.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-08fb21f8f1dd.png?v=1773235402",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-08fb21f8f1dd.png?v=1773236241",
             "thumb_key": "thumbs/kaytee-08fb21f8f1dd.webp"
           }
         },
@@ -613,7 +613,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-087cdcf4219e.png?v=1773235403",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-087cdcf4219e.png?v=1773236242",
             "width": 1600,
             "height": 1200
           },
@@ -668,7 +668,7 @@
             "team_b": "Moh. Zaki UBAIDILLAH",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/2a7eaccfbb46008900317ca65afa4c83.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/528a8f6cd37f62a22d3e22fd8ac54ab7.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-087cdcf4219e.png?v=1773235403",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-087cdcf4219e.png?v=1773236242",
             "thumb_key": "thumbs/kaytee-087cdcf4219e.webp"
           }
         }
@@ -691,7 +691,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9745bf60d8ac.png?v=1773235399",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9745bf60d8ac.png?v=1773236239",
             "width": 1600,
             "height": 1200
           },
@@ -746,7 +746,7 @@
             "team_b": "Kim Ga-young",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/bd49d59533854fc5853f8e138df2d054.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/59d465939819f0c24e54596de8d962ff.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9745bf60d8ac.png?v=1773235399",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9745bf60d8ac.png?v=1773236239",
             "thumb_key": "thumbs/kaytee-9745bf60d8ac.webp"
           }
         },
@@ -760,7 +760,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e0a7688c9362.png?v=1773235399",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e0a7688c9362.png?v=1773236240",
             "width": 1600,
             "height": 1200
           },
@@ -815,7 +815,7 @@
             "team_b": "Kim Sang-A",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a80c44adbb48162ca52811e925278b55.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/de211f93e93cfb33778d3893a18ddafd.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e0a7688c9362.png?v=1773235399",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e0a7688c9362.png?v=1773236240",
             "thumb_key": "thumbs/kaytee-e0a7688c9362.webp"
           }
         }
@@ -838,7 +838,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-88a64d2d3036.png?v=1773235392",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-88a64d2d3036.png?v=1773236235",
             "width": 1600,
             "height": 1200
           },
@@ -893,7 +893,7 @@
             "team_b": "Sabine WINTER",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/9612c7e8198d2558106e4002c823a989.webp",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/cb77115df8ac1b4aea81f73f16503e2b.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-88a64d2d3036.png?v=1773235392",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-88a64d2d3036.png?v=1773236235",
             "thumb_key": "thumbs/kaytee-88a64d2d3036.webp"
           }
         }
