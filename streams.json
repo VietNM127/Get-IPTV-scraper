@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-11T17:59:12.305737",
+  "updated_at": "2026-03-11T18:32:58.513038",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,471 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-0379afd3efc8",
-          "name": "⚽ ESPERSEN/KUDSK vs Jimmy WONG /  LAI Pei Jing | 22:50",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0379afd3efc8.png?v=1773251916",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601308337",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601308337",
-                  "name": "ESPERSEN/KUDSK vs Jimmy WONG /  LAI Pei Jing",
-                  "streams": [
-                    {
-                      "id": "st-601308337",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-23390e9f84",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b13a57326d8_85706/index.m3u8?expire=1773827287&sign=d8cec007b8f09ce964edd2ff6c204c1c",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/espersenkudsk-vs-jimmy-wong---lai-pei-jing-2250-11-03-2026/601308337"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Sân 3 - YONEX Swiss Open 2026",
-            "team_a": "ESPERSEN/KUDSK",
-            "team_b": "Jimmy WONG /  LAI Pei Jing",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/7b9249f7396163af2a663a6e52b4f31f.jpg",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/4c1700d4eb4d72875675e0d4babc564f.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0379afd3efc8.png?v=1773251916",
-            "thumb_key": "thumbs/kaytee-0379afd3efc8.webp"
-          }
-        },
-        {
-          "id": "kaytee-80c18ea098bf",
-          "name": "⚽ Birmingham Legion vs Hartford Athletic | 23:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-80c18ea098bf.png?v=1773251917",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601294822",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601294822",
-                  "name": "Birmingham Legion vs Hartford Athletic",
-                  "streams": [
-                    {
-                      "id": "st-601294822",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8fddd8931f",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b18a4270a68_128756/index.m3u8?expire=1773847746&sign=5db8addcdb0ae71ccec9e98035f59980",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/birmingham-legion-vs-hartford-athletic-2300-11-03-2026/601294822"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-306a854946",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/9b193e4f82c7f0d6e81c03751b676600/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/birmingham-legion-vs-hartford-athletic-2300-11-03-2026/601294822"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "USL Championship",
-            "team_a": "Birmingham Legion",
-            "team_b": "Hartford Athletic",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/c3c17ec375bc22a7138c863ee91a3858.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/78febf9c2b8c7c5bff95797b00c90459.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-80c18ea098bf.png?v=1773251917",
-            "thumb_key": "thumbs/kaytee-80c18ea098bf.webp"
-          }
-        },
-        {
-          "id": "kaytee-988b3fa2e19b",
-          "name": "⚽ Gagra Tbilisi vs Spaeri FC | 23:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-988b3fa2e19b.png?v=1773251919",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601294825",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601294825",
-                  "name": "Gagra Tbilisi vs Spaeri FC",
-                  "streams": [
-                    {
-                      "id": "st-601294825",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c45991375f",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b18b8370a68_136682/index.m3u8?expire=1773848067&sign=9fe1516105980c82c244596524fbac43",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/gagra-tbilisi-vs-spaeri-fc-2300-11-03-2026/601294825"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-0ddeca42bf",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/726f3a69a89a3434e0a6a74d59abbeab/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/gagra-tbilisi-vs-spaeri-fc-2300-11-03-2026/601294825"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Georgia Erovnuli Liga",
-            "team_a": "Gagra Tbilisi",
-            "team_b": "Spaeri FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/e450729cae3ba8210e9a08134b9258a1.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/432c13e823ffcc46ee9255384e525629.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-988b3fa2e19b.png?v=1773251919",
-            "thumb_key": "thumbs/kaytee-988b3fa2e19b.webp"
-          }
-        },
-        {
-          "id": "kaytee-2fa0e296c13a",
-          "name": "⚽ Torpedo Kutaisi vs FC Iberia 1999 Tbilisi | 23:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2fa0e296c13a.png?v=1773251920",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601294828",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601294828",
-                  "name": "Torpedo Kutaisi vs FC Iberia 1999 Tbilisi",
-                  "streams": [
-                    {
-                      "id": "st-601294828",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-27adca7ed8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b18f17326d8_72787/index.m3u8?expire=1773848983&sign=d7ea2a9a9ae82da3bd06a70ef9ba9fe0",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/torpedo-kutaisi-vs-fc-iberia-1999-tbilisi-2300-11-03-2026/601294828"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-4dd329596c",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/6fa640ea9b09cc65f2db6c9ab19f0f32/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/torpedo-kutaisi-vs-fc-iberia-1999-tbilisi-2300-11-03-2026/601294828"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Georgia Erovnuli Liga",
-            "team_a": "Torpedo Kutaisi",
-            "team_b": "FC Iberia 1999 Tbilisi",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/cad9c0e0d8ed90e53989eb85f98940fa.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/e80d49b16e8a1ea6b6d38643e1d429b0.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2fa0e296c13a.png?v=1773251920",
-            "thumb_key": "thumbs/kaytee-2fa0e296c13a.webp"
-          }
-        },
-        {
-          "id": "kaytee-bc6f9f702519",
-          "name": "⚽ Trans Narva vs Viimsi MRJK | 23:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bc6f9f702519.png?v=1773251922",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601294840",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601294840",
-                  "name": "Trans Narva vs Viimsi MRJK",
-                  "streams": [
-                    {
-                      "id": "st-601294840",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-17960a8ead",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/a14df358507f2be7cd9f1ea4ee01cfad/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/trans-narva-vs-viimsi-mrjk-2300-11-03-2026/601294840"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Estonian Cup",
-            "team_a": "Trans Narva",
-            "team_b": "Viimsi MRJK",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/f2333b25176b97fdd32a8fdc35fa5e53.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/a3eb46b363d8b6c9f72c3b3b21896e21.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bc6f9f702519.png?v=1773251922",
-            "thumb_key": "thumbs/kaytee-bc6f9f702519.webp"
-          }
-        },
-        {
-          "id": "kaytee-806e0d13bdb4",
-          "name": "⚽ Hải Long Lê vs Revo Maimre | 23:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-806e0d13bdb4.png?v=1773251923",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601309543",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601309543",
-                  "name": "Hải Long Lê vs Revo Maimre",
-                  "streams": [
-                    {
-                      "id": "st-601309543",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-96e1b5ccd6",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b130be70a68_103/index.m3u8?expire=1773824830&sign=1b08b4c9064d9abecc542cb02890d5ed",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/hai-long-le-vs-revo-maimre-2300-11-03-2026/601309543"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "European Open Pool Championship 2026",
-            "team_a": "Hải Long Lê",
-            "team_b": "Revo Maimre",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/45720b130462d4ecd1d80df693220e89.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/7eec2e6b484254cddf2b561028f5cab7.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-806e0d13bdb4.png?v=1773251923",
-            "thumb_key": "thumbs/kaytee-806e0d13bdb4.webp"
-          }
-        },
         {
           "id": "kaytee-9e405c07e3ca",
           "name": "⚽ Hina AKECHI vs Tomoka MIYAZAKI | 23:20",
@@ -492,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9e405c07e3ca.png?v=1773251929",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9e405c07e3ca.png?v=1773253976",
             "width": 1600,
             "height": 1200
           },
@@ -547,13 +82,13 @@
             "team_b": "Tomoka MIYAZAKI",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/12fd23a748ebb8241e113939f4f28a2c.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/772e2eff2e5357d2c68f4cc6467eccef.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9e405c07e3ca.png?v=1773251929",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9e405c07e3ca.png?v=1773253976",
             "thumb_key": "thumbs/kaytee-9e405c07e3ca.webp"
           }
         },
         {
-          "id": "kaytee-08fb21f8f1dd",
-          "name": "⚽ Su Li Yang vs Julien CARRAGGI | 23:50",
+          "id": "kaytee-b819440c4080",
+          "name": "⚽ Wilberforce Strikers vs SLIFA | 23:30",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -561,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-08fb21f8f1dd.png?v=1773251952",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b819440c4080.png?v=1773253978",
             "width": 1600,
             "height": 1200
           },
@@ -575,27 +110,27 @@
           ],
           "sources": [
             {
-              "id": "src-601308334",
+              "id": "src-601294846",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601308334",
-                  "name": "Su Li Yang vs Julien CARRAGGI",
+                  "id": "ct-601294846",
+                  "name": "Wilberforce Strikers vs SLIFA",
                   "streams": [
                     {
-                      "id": "st-601308334",
+                      "id": "st-601294846",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-1f2f74d152",
+                          "id": "lnk-ea2efc79f8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b176cb70a68_19013/index.m3u8?expire=1773842763&sign=34088578944ce9ad9ed34c24cfa80e99",
+                          "url": "https://live.alilicloud.com/live/54b0534f4e907ff9bd7d629f157dd6da/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/su-li-yang-vs-julien-carraggi-2350-11-03-2026/601308334"
+                              "value": "https://bunchatv1.net/truc-tiep/wilberforce-strikers-vs-slifa-2330-11-03-2026/601294846"
                             },
                             {
                               "key": "User-Agent",
@@ -611,13 +146,13 @@
             }
           ],
           "org_metadata": {
-            "league": "Sân 2 - YONEX Swiss Open 2026",
-            "team_a": "Su Li Yang",
-            "team_b": "Julien CARRAGGI",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/3e74abe743af6f64542bb57ea80c91d2.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/9801a76e8ba19493375d0d9aa2f9e8de.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-08fb21f8f1dd.png?v=1773251952",
-            "thumb_key": "thumbs/kaytee-08fb21f8f1dd.webp"
+            "league": "Sierra Leone Premier League",
+            "team_a": "Wilberforce Strikers",
+            "team_b": "SLIFA",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/22aaa7af0ef4003f157dfee77bcd64a9.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/45c70a8c377da4d45a40bc424f05fe0e.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b819440c4080.png?v=1773253978",
+            "thumb_key": "thumbs/kaytee-b819440c4080.webp"
           }
         }
       ]
