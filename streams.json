@@ -8,6 +8,801 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-10T23:58:29.992314",
-  "groups": []
+  "updated_at": "2026-03-11T00:01:24.033168",
+  "groups": [
+    {
+      "id": "live_bóng_đá",
+      "name": "🔴 Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-da8760c2a6b4",
+          "name": "⚽ Portuguesa Desportos vs Avaí FC | 05:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-da8760c2a6b4.png?v=1773187266",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601299745",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601299745",
+                  "name": "Portuguesa Desportos vs Avaí FC",
+                  "streams": [
+                    {
+                      "id": "st-601299745",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d2bdd2bb01",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/02607cccbd4c789861b50ce09243d3c3/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/portuguesa-desportos-vs-avai-fc-0500-11-03-2026/601299745"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Brazilian Cup",
+            "team_a": "Portuguesa Desportos",
+            "team_b": "Avaí FC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/0809ccd7419380bfa8026bd684f86c71.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/d790c903117459a4afb308ad63d353f9.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-da8760c2a6b4.png?v=1773187266",
+            "thumb_key": "thumbs/kaytee-da8760c2a6b4.webp"
+          }
+        },
+        {
+          "id": "kaytee-44edf16123f5",
+          "name": "⚽ Joinville SC vs Sao Bernardo | 05:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-44edf16123f5.png?v=1773187268",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601299748",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601299748",
+                  "name": "Joinville SC vs Sao Bernardo",
+                  "streams": [
+                    {
+                      "id": "st-601299748",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5559da5279",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/4fbc615201c1643b4a9928fa955f418e/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/joinville-sc-vs-sao-bernardo-0530-11-03-2026/601299748"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Brazilian Cup",
+            "team_a": "Joinville SC",
+            "team_b": "Sao Bernardo",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/7ede33b6676f902d1e6df0626c2d68d6.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/ecb3ae3505c3e0368051a4787eeed0fc.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-44edf16123f5.png?v=1773187268",
+            "thumb_key": "thumbs/kaytee-44edf16123f5.webp"
+          }
+        },
+        {
+          "id": "kaytee-681e376ebb36",
+          "name": "⚽ Club Atletico Tigre vs Velez Sarsfield | 05:45",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-681e376ebb36.png?v=1773187270",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601294660",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601294660",
+                  "name": "Club Atletico Tigre vs Velez Sarsfield",
+                  "streams": [
+                    {
+                      "id": "st-601294660",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1cb1d5d2dd",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b0958670a68_28/index.m3u8?expire=1773785094&sign=ea821b18f8e075e68e9f9120b3c095e4",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/club-atletico-tigre-vs-velez-sarsfield-0545-11-03-2026/601294660"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-74a322d288",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/d078ca57c1d2b9f45035cb1d86289f71/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/club-atletico-tigre-vs-velez-sarsfield-0545-11-03-2026/601294660"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Argentine Division 1",
+            "team_a": "Club Atletico Tigre",
+            "team_b": "Velez Sarsfield",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/95c9ef810563d777a5330b142f9ba38b.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/2e02d3f27830c7f3642e6592e6b922dd.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-681e376ebb36.png?v=1773187270",
+            "thumb_key": "thumbs/kaytee-681e376ebb36.webp"
+          }
+        },
+        {
+          "id": "kaytee-52f2884b541d",
+          "name": "⚽ CA Independiente vs Club Atlético Unión | 05:45",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-52f2884b541d.png?v=1773187272",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601294663",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601294663",
+                  "name": "CA Independiente vs Club Atlético Unión",
+                  "streams": [
+                    {
+                      "id": "st-601294663",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8fbfce5647",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b07a61326d8_44731/index.m3u8?expire=1773778145&sign=d6ac842f83a3eb85f2fc1c1787c857d9",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/ca-independiente-vs-club-atletico-union-0545-11-03-2026/601294663"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-ea7df9e446",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/040109d9d449101d93797fd0b69f4c94/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/ca-independiente-vs-club-atletico-union-0545-11-03-2026/601294663"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Argentine Division 1",
+            "team_a": "CA Independiente",
+            "team_b": "Club Atlético Unión",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/47174721b260fae6e833329c13c9f2ee.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/c5d75265caa6875d9ea84f36027312d5.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-52f2884b541d.png?v=1773187272",
+            "thumb_key": "thumbs/kaytee-52f2884b541d.webp"
+          }
+        },
+        {
+          "id": "kaytee-0805e2a50283",
+          "name": "⚽ Philadelphia Union vs Club America | 06:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0805e2a50283.png?v=1773187273",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601294669",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601294669",
+                  "name": "Philadelphia Union vs Club America",
+                  "streams": [
+                    {
+                      "id": "st-601294669",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6505c8ff4b",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b09b7470a68_88642/index.m3u8?expire=1773786612&sign=c2a4574bd98ea25b9106c3f0b8d0c975",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/philadelphia-union-vs-club-america-0600-11-03-2026/601294669"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-3d0e9f283a",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/64fc596150267a532a86d8956c31a0ca/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/philadelphia-union-vs-club-america-0600-11-03-2026/601294669"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CNCF CHL",
+            "team_a": "Philadelphia Union",
+            "team_b": "Club America",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/574f1ee560e8835e605176cac36a87db.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/775a930b77d31e8f8a6d6ba8afc17c03.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0805e2a50283.png?v=1773187273",
+            "thumb_key": "thumbs/kaytee-0805e2a50283.webp"
+          }
+        },
+        {
+          "id": "kaytee-368e044bc628",
+          "name": "⚽ Atletico Bucaramanga vs Deportivo Pereira | 06:20",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-368e044bc628.png?v=1773187279",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601282257",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601282257",
+                  "name": "Atletico Bucaramanga vs Deportivo Pereira",
+                  "streams": [
+                    {
+                      "id": "st-601282257",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9148b9c2a3",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b09385326d8_88186/index.m3u8?expire=1773784581&sign=415b422d4d03aef805e757342a5d4d6b",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/atletico-bucaramanga-vs-deportivo-pereira-0620-11-03-2026/601282257"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-9c0dac5fd9",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/0d763e6144ab1aabac0a2830e1b1b3c3/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/atletico-bucaramanga-vs-deportivo-pereira-0620-11-03-2026/601282257"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Categoría Primera A",
+            "team_a": "Atletico Bucaramanga",
+            "team_b": "Deportivo Pereira",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/70c92764e181ce7abe6176c411a93fe3.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/2a016d670dd775e37ae908540843a444.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-368e044bc628.png?v=1773187279",
+            "thumb_key": "thumbs/kaytee-368e044bc628.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_bóng_rổ",
+      "name": "🔴 Live 🏀 Bóng Rổ",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-65df7cbec357",
+          "name": "🏀 Philadelphia 76ers vs Memphis Grizzlies | 06:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-65df7cbec357.png?v=1773187277",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601298719",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601298719",
+                  "name": "Philadelphia 76ers vs Memphis Grizzlies",
+                  "streams": [
+                    {
+                      "id": "st-601298719",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9e1d0544a3",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b0a6f9326d8_85706/index.m3u8?expire=1773789561&sign=894f048840fa2ae3783398a11244cfae",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/philadelphia-76ers-vs-memphis-grizzlies-0600-11-03-2026/601298719"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NBA",
+            "team_a": "Philadelphia 76ers",
+            "team_b": "Memphis Grizzlies",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/0f99bfb04f15e140367c7014698a2cd0.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/972e287aa6940c9b032b0af3028a299b.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-65df7cbec357.png?v=1773187277",
+            "thumb_key": "thumbs/kaytee-65df7cbec357.webp"
+          }
+        },
+        {
+          "id": "kaytee-1c22c3773575",
+          "name": "🏀 Atlanta Hawks vs Dallas Mavericks | 06:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1c22c3773575.png?v=1773187282",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601298722",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601298722",
+                  "name": "Atlanta Hawks vs Dallas Mavericks",
+                  "streams": [
+                    {
+                      "id": "st-601298722",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6855756e04",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b0abc4326d8_72787/index.m3u8?expire=1773790788&sign=03c1c278cbe311ae387ab9cef3fd62a0",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/atlanta-hawks-vs-dallas-mavericks-0630-11-03-2026/601298722"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NBA",
+            "team_a": "Atlanta Hawks",
+            "team_b": "Dallas Mavericks",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/b67c5f346054d8cbb66779e320b0332c.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/f0b2aecdbf7df44720b12361bcc6494c.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1c22c3773575.png?v=1773187282",
+            "thumb_key": "thumbs/kaytee-1c22c3773575.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_tennis",
+      "name": "🔴 Live 🎾 Tennis",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-b0cb7b26a63f",
+          "name": "🎾 L. Tien vs Alejandro Davidovich Fokina | 04:55",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b0cb7b26a63f.png?v=1773187264",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601308562",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601308562",
+                  "name": "L. Tien vs Alejandro Davidovich Fokina",
+                  "streams": [
+                    {
+                      "id": "st-601308562",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8278bd87ce",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b089e7326d8_4733/index.m3u8?expire=1773782119&sign=c287484cb64289795b41e7e417e59cdd",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/l-tien-vs-alejandro-davidovich-fokina-0455-11-03-2026/601308562"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ATP Indian Wells",
+            "team_a": "L. Tien",
+            "team_b": "Alejandro Davidovich Fokina",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/097a2bdf3aa6568ea0ed7fc9ddc1bea2.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/790419d39c31ebcbcc2100b21277d165.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b0cb7b26a63f.png?v=1773187264",
+            "thumb_key": "thumbs/kaytee-b0cb7b26a63f.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_bóng_rổ",
+      "name": "⏳ Sắp Live 🏀 Bóng Rổ",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-440fb9c16002",
+          "name": "🏀 Houston Rockets vs Toronto Raptors | 07:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-440fb9c16002.png?v=1773187284",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601298731",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601298731",
+                  "name": "Houston Rockets vs Toronto Raptors",
+                  "streams": [
+                    {
+                      "id": "st-601298731",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e06049b8a0",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b09b7570a68_85514/index.m3u8?expire=1773786613&sign=d4b1ed3e9845840361b23121657bc88e",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/houston-rockets-vs-toronto-raptors-0700-11-03-2026/601298731"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NBA",
+            "team_a": "Houston Rockets",
+            "team_b": "Toronto Raptors",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/f2ccea244e52871508761dd546e14a53.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/37dcfa88b83f00183d5fd92eac098699.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-440fb9c16002.png?v=1773187284",
+            "thumb_key": "thumbs/kaytee-440fb9c16002.webp"
+          }
+        }
+      ]
+    }
+  ]
 }
