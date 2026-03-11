@@ -8,86 +8,8 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-11T05:35:29.747788",
+  "updated_at": "2026-03-11T06:09:52.030306",
   "groups": [
-    {
-      "id": "live_bóng_rổ",
-      "name": "🔴 Live 🏀 Bóng Rổ",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-46c2b3ae3a29",
-          "name": "🏀 Los Angeles Lakers vs Minnesota Timberwolves | 10:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-46c2b3ae3a29.png?v=1773207326",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601298749",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601298749",
-                  "name": "Los Angeles Lakers vs Minnesota Timberwolves",
-                  "streams": [
-                    {
-                      "id": "st-601298749",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f28b726ffc",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b0d571326d8_110198/index.m3u8?expire=1773801457&sign=5084904e77a31c860256bd299fa80300",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/los-angeles-lakers-vs-minnesota-timberwolves-1000-11-03-2026/601298749"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "NBA",
-            "team_a": "Los Angeles Lakers",
-            "team_b": "Minnesota Timberwolves",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/feb6335bd6d4cb2e6b6cb6cb43c0e0a1.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/5d206ae1f29b3de6ba81f7a06cc990d2.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-46c2b3ae3a29.png?v=1773207326",
-            "thumb_key": "thumbs/kaytee-46c2b3ae3a29.webp"
-          }
-        }
-      ]
-    },
     {
       "id": "live_billiard",
       "name": "🔴 Live 🎱 Billiard",
@@ -105,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9745bf60d8ac.png?v=1773207327",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9745bf60d8ac.png?v=1773209387",
             "width": 1600,
             "height": 1200
           },
@@ -160,7 +82,7 @@
             "team_b": "Lee Shin-young",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/855f9296bdaa53535735b8672c648016.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/119612c6e2f7e2ddb4797723aa295f4d.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9745bf60d8ac.png?v=1773207327",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9745bf60d8ac.png?v=1773209387",
             "thumb_key": "thumbs/kaytee-9745bf60d8ac.webp"
           }
         },
@@ -174,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e0a7688c9362.png?v=1773207327",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e0a7688c9362.png?v=1773209388",
             "width": 1600,
             "height": 1200
           },
@@ -229,7 +151,7 @@
             "team_b": "Han Seul-gi",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/1419593664cdff0576305071dfa54d89.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/98e0513e210c4fa117843d9dcb3da287.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e0a7688c9362.png?v=1773207327",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e0a7688c9362.png?v=1773209388",
             "thumb_key": "thumbs/kaytee-e0a7688c9362.webp"
           }
         }
@@ -244,7 +166,7 @@
       "channels": [
         {
           "id": "kaytee-e822c2255ec1",
-          "name": "🏓 Yukiya UDA vs Omar ASSAR | 12:00",
+          "name": "🏓 WANG Chuqin vs Jonathan GROTH | 13:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -252,7 +174,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e822c2255ec1.png?v=1773207328",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e822c2255ec1.png?v=1773209389",
             "width": 1600,
             "height": 1200
           },
@@ -271,7 +193,7 @@
               "contents": [
                 {
                   "id": "ct-601309231",
-                  "name": "Yukiya UDA vs Omar ASSAR",
+                  "name": "WANG Chuqin vs Jonathan GROTH",
                   "streams": [
                     {
                       "id": "st-601309231",
@@ -286,7 +208,7 @@
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/yukiya-uda-vs-omar-assar-1200-11-03-2026/601309231"
+                              "value": "https://bunchatv1.net/truc-tiep/wang-chuqin-vs-jonathan-groth-1300-11-03-2026/601309231"
                             },
                             {
                               "key": "User-Agent",
@@ -303,11 +225,11 @@
           ],
           "org_metadata": {
             "league": "WTT Champions Chongqing Women",
-            "team_a": "Yukiya UDA",
-            "team_b": "Omar ASSAR",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/1c79adcc5ee6c2e2af871bb08ad6a17c.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/36ef630284511c6b9a1e3609b00bd57b.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e822c2255ec1.png?v=1773207328",
+            "team_a": "WANG Chuqin",
+            "team_b": "Jonathan GROTH",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/10c436d093166f27c01cb70afb15634e.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/80472e2684b8d4016aa37d2f8c595a2a.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e822c2255ec1.png?v=1773209389",
             "thumb_key": "thumbs/kaytee-e822c2255ec1.webp"
           }
         }
@@ -330,7 +252,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-048e95d2d0c6.png?v=1773207329",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-048e95d2d0c6.png?v=1773209392",
             "width": 1600,
             "height": 1200
           },
@@ -385,7 +307,7 @@
             "team_b": "Football Club Seoul",
             "logo_a": "https://cdn.rapid-api.icu/football/team/d85cce27ab583e5b3cead155f02b098a.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/ad010af729c420626d1865ad744168d3.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-048e95d2d0c6.png?v=1773207329",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-048e95d2d0c6.png?v=1773209392",
             "thumb_key": "thumbs/kaytee-048e95d2d0c6.webp"
           }
         }
