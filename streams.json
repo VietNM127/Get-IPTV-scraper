@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-11T11:41:28.506040",
+  "updated_at": "2026-03-11T12:02:15.202054",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,161 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-048e95d2d0c6",
-          "name": "⚽ Vissel Kobe vs Football Club Seoul | 17:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-048e95d2d0c6.png?v=1773229279",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601294699",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601294699",
-                  "name": "Vissel Kobe vs Football Club Seoul",
-                  "streams": [
-                    {
-                      "id": "st-601294699",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6390770120",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b1361a326d8_79/index.m3u8?expire=1773826202&sign=f82536a894e32e4d6f16e6f692064d0e",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/vissel-kobe-vs-football-club-seoul-1700-11-03-2026/601294699"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-6706b3519d",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/7071c6b7acf76880f6ca4f6c27525136/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/vissel-kobe-vs-football-club-seoul-1700-11-03-2026/601294699"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Champions League Elite",
-            "team_a": "Vissel Kobe",
-            "team_b": "Football Club Seoul",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/d85cce27ab583e5b3cead155f02b098a.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/ad010af729c420626d1865ad744168d3.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-048e95d2d0c6.png?v=1773229279",
-            "thumb_key": "thumbs/kaytee-048e95d2d0c6.webp"
-          }
-        },
-        {
-          "id": "kaytee-2e6b75ff9ec7",
-          "name": "⚽ Sanfrecce Hiroshima vs Johor Darul Ta'zim FC | 17:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2e6b75ff9ec7.png?v=1773229281",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601294702",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601294702",
-                  "name": "Sanfrecce Hiroshima vs Johor Darul Ta'zim FC",
-                  "streams": [
-                    {
-                      "id": "st-601294702",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-30a1c4bded",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b1345e326d8_85514/index.m3u8?expire=1773825758&sign=4337d80814e87ca3e1b72c7ce6eabe59",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/sanfrecce-hiroshima-vs-johor-darul-tazim-fc-1700-11-03-2026/601294702"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Champions League Elite",
-            "team_a": "Sanfrecce Hiroshima",
-            "team_b": "Johor Darul Ta'zim FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/c81d5ff7a33a4f6a9312a8703f619352.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/3ab85cf20a3ed001a60a9fcd8ec09afe.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2e6b75ff9ec7.png?v=1773229281",
-            "thumb_key": "thumbs/kaytee-2e6b75ff9ec7.webp"
-          }
-        },
         {
           "id": "kaytee-184f2f320d58",
           "name": "⚽ Atakas Hatayspor vs Sivasspor | 17:30",
@@ -182,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-184f2f320d58.png?v=1773229283",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-184f2f320d58.png?v=1773230525",
             "width": 1600,
             "height": 1200
           },
@@ -237,215 +82,8 @@
             "team_b": "Sivasspor",
             "logo_a": "https://cdn.rapid-api.icu/football/team/1fee4ece0adfb61b06264aa3e87e2a50.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/228386b1b704899dc028000dbd27cac1.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-184f2f320d58.png?v=1773229283",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-184f2f320d58.png?v=1773230525",
             "thumb_key": "thumbs/kaytee-184f2f320d58.webp"
-          }
-        },
-        {
-          "id": "kaytee-9e405c07e3ca",
-          "name": "⚽ Lee Chia Hao vs WANG Po-Wei | 17:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9e405c07e3ca.png?v=1773229284",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601308340",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601308340",
-                  "name": "Lee Chia Hao vs WANG Po-Wei",
-                  "streams": [
-                    {
-                      "id": "st-601308340",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-cf05c01301",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b14a03326d8_85714/index.m3u8?expire=1773831299&sign=2f8e12f4e6285fd4adcdf241756148a7",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/lee-chia-hao-vs-wang-powei-1730-11-03-2026/601308340"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Sân 4 - YONEX Swiss Open 2026",
-            "team_a": "Lee Chia Hao",
-            "team_b": "WANG Po-Wei",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/b02e697013d42cf391d1da215e3671e3.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/29392cbd343fdb102bd508034b7681fe.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9e405c07e3ca.png?v=1773229284",
-            "thumb_key": "thumbs/kaytee-9e405c07e3ca.webp"
-          }
-        },
-        {
-          "id": "kaytee-0379afd3efc8",
-          "name": "⚽ LI Yi Jing / WANG Yi Duo vs Supak JOMKOH / Ornnicha JONGSATHAPORNPARN | 17:35",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0379afd3efc8.png?v=1773229284",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601308337",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601308337",
-                  "name": "LI Yi Jing / WANG Yi Duo vs Supak JOMKOH / Ornnicha JONGSATHAPORNPARN",
-                  "streams": [
-                    {
-                      "id": "st-601308337",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-23390e9f84",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b13a57326d8_85706/index.m3u8?expire=1773827287&sign=d8cec007b8f09ce964edd2ff6c204c1c",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/li-yi-jing--wang-yi-duo-vs-supak-jomkoh--ornnicha-jongsathapornparn-1735-11-03-2026/601308337"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Sân 3 - YONEX Swiss Open 2026",
-            "team_a": "LI Yi Jing / WANG Yi Duo",
-            "team_b": "Supak JOMKOH / Ornnicha JONGSATHAPORNPARN",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/4c096b1f95a2afdb3aa56876f572f24f.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/3463aa49c585c2799324e64837528687.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0379afd3efc8.png?v=1773229284",
-            "thumb_key": "thumbs/kaytee-0379afd3efc8.webp"
-          }
-        },
-        {
-          "id": "kaytee-08fb21f8f1dd",
-          "name": "⚽ Daniil DUBOVENKO vs Yudai OKIMOTO | 17:40",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-08fb21f8f1dd.png?v=1773229285",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601308334",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601308334",
-                  "name": "Daniil DUBOVENKO vs Yudai OKIMOTO",
-                  "streams": [
-                    {
-                      "id": "st-601308334",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-31c09d2211",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b12eec70a68_110198/index.m3u8?expire=1773824364&sign=c12a6087b864398f45d466b797fb3539",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/daniil-dubovenko-vs-yudai-okimoto-1740-11-03-2026/601308334"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Sân 2 - YONEX Swiss Open 2026",
-            "team_a": "Daniil DUBOVENKO",
-            "team_b": "Yudai OKIMOTO",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/071ca6318cb63f60a9e834bb7f637606.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/032ad96f58c825a4c5f6db6c39295ba8.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-08fb21f8f1dd.png?v=1773229285",
-            "thumb_key": "thumbs/kaytee-08fb21f8f1dd.webp"
           }
         },
         {
@@ -458,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-806e0d13bdb4.png?v=1773229286",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-806e0d13bdb4.png?v=1773230526",
             "width": 1600,
             "height": 1200
           },
@@ -513,8 +151,77 @@
             "team_b": "Adis Hodzic",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/6429aa57b6e1ef0bce50f5e84fcee871.webp",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/0d9537b523bb6cca0f7399eca06f68f9.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-806e0d13bdb4.png?v=1773229286",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-806e0d13bdb4.png?v=1773230526",
             "thumb_key": "thumbs/kaytee-806e0d13bdb4.webp"
+          }
+        },
+        {
+          "id": "kaytee-6e9ee2ed1f02",
+          "name": "⚽ Simal FK vs FK SAFA | 18:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6e9ee2ed1f02.png?v=1773230528",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601296595",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601296595",
+                  "name": "Simal FK vs FK SAFA",
+                  "streams": [
+                    {
+                      "id": "st-601296595",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b03292bc5d",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b13fef70a68_128756/index.m3u8?expire=1773828719&sign=39f97b2f8b1ac995b56bb837e3b72264",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/simal-fk-vs-fk-safa-1800-11-03-2026/601296595"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Azerbaijan First Division",
+            "team_a": "Simal FK",
+            "team_b": "FK SAFA",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/0ab30ccb3c3f94ad592e8c357eff7ea4.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/898fe8e20ed784971f120533baec32f2.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6e9ee2ed1f02.png?v=1773230528",
+            "thumb_key": "thumbs/kaytee-6e9ee2ed1f02.webp"
           }
         },
         {
@@ -527,7 +234,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-087cdcf4219e.png?v=1773229287",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-087cdcf4219e.png?v=1773230529",
             "width": 1600,
             "height": 1200
           },
@@ -582,8 +289,215 @@
             "team_b": "Kapoor R.  /  Gadde RS",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/4a1918d850ecf9b97e906d541ae94a97.webp",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/29bbce38100500e8e18f30c3aadceca7.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-087cdcf4219e.png?v=1773229287",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-087cdcf4219e.png?v=1773230529",
             "thumb_key": "thumbs/kaytee-087cdcf4219e.webp"
+          }
+        },
+        {
+          "id": "kaytee-9e405c07e3ca",
+          "name": "⚽ FERDINANSYAH / WARDANA vs A. MAULANA /  Indah C. S. JAMIL | 18:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9e405c07e3ca.png?v=1773230530",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601308340",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601308340",
+                  "name": "FERDINANSYAH / WARDANA vs A. MAULANA /  Indah C. S. JAMIL",
+                  "streams": [
+                    {
+                      "id": "st-601308340",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-cf05c01301",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b14a03326d8_85714/index.m3u8?expire=1773831299&sign=2f8e12f4e6285fd4adcdf241756148a7",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/ferdinansyah--wardana-vs-a-maulana---indah-c-s-jamil-1830-11-03-2026/601308340"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sân 4 - YONEX Swiss Open 2026",
+            "team_a": "FERDINANSYAH / WARDANA",
+            "team_b": "A. MAULANA /  Indah C. S. JAMIL",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/e7385e25fa530d423e8b399d5afaa636.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/825e58a0b2134ccddeb44a5b65ea0b79.jpg",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9e405c07e3ca.png?v=1773230530",
+            "thumb_key": "thumbs/kaytee-9e405c07e3ca.webp"
+          }
+        },
+        {
+          "id": "kaytee-0379afd3efc8",
+          "name": "⚽ HUANG Yu-Hsun vs WONG Ling Ching | 18:35",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0379afd3efc8.png?v=1773230530",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601308337",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601308337",
+                  "name": "HUANG Yu-Hsun vs WONG Ling Ching",
+                  "streams": [
+                    {
+                      "id": "st-601308337",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-23390e9f84",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b13a57326d8_85706/index.m3u8?expire=1773827287&sign=d8cec007b8f09ce964edd2ff6c204c1c",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/huang-yuhsun-vs-wong-ling-ching-1835-11-03-2026/601308337"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sân 3 - YONEX Swiss Open 2026",
+            "team_a": "HUANG Yu-Hsun",
+            "team_b": "WONG Ling Ching",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/dfd189b8c9939821a13ced27bfa5f154.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/7d1726049ba2c20755ea971f8da71d3d.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0379afd3efc8.png?v=1773230530",
+            "thumb_key": "thumbs/kaytee-0379afd3efc8.webp"
+          }
+        },
+        {
+          "id": "kaytee-08fb21f8f1dd",
+          "name": "⚽ GUO X. W. /  CHEN F. H. vs Akira KOGA /   Natsu SAITO | 18:40",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-08fb21f8f1dd.png?v=1773230531",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601308334",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601308334",
+                  "name": "GUO X. W. /  CHEN F. H. vs Akira KOGA /   Natsu SAITO",
+                  "streams": [
+                    {
+                      "id": "st-601308334",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-31c09d2211",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b12eec70a68_110198/index.m3u8?expire=1773824364&sign=c12a6087b864398f45d466b797fb3539",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/guo-x-w---chen-f-h-vs-akira-koga----natsu-saito-1840-11-03-2026/601308334"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sân 2 - YONEX Swiss Open 2026",
+            "team_a": "GUO X. W. /  CHEN F. H.",
+            "team_b": "Akira KOGA /   Natsu SAITO",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/85f808e7fd4c2ec8a7c795ecb90274ba.jpg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/15273e385a54e21dc50ea38f4a93cd5e.webp",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-08fb21f8f1dd.png?v=1773230531",
+            "thumb_key": "thumbs/kaytee-08fb21f8f1dd.webp"
           }
         }
       ]
@@ -605,7 +519,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9745bf60d8ac.png?v=1773229277",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9745bf60d8ac.png?v=1773230523",
             "width": 1600,
             "height": 1200
           },
@@ -660,7 +574,7 @@
             "team_b": "Hida",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/2e0ce46022527c11d7fb40d36748427e.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/22d7bb4f439a49bd87bcb477f13db139.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9745bf60d8ac.png?v=1773229277",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9745bf60d8ac.png?v=1773230523",
             "thumb_key": "thumbs/kaytee-9745bf60d8ac.webp"
           }
         }
@@ -675,7 +589,7 @@
       "channels": [
         {
           "id": "kaytee-88a64d2d3036",
-          "name": "🏓 Patrick FRANZISKA vs Alexis LEBRUN | 18:15",
+          "name": "🏓 Yangzi Liu vs Sabine WINTER | 18:45",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -683,7 +597,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-88a64d2d3036.png?v=1773229287",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-88a64d2d3036.png?v=1773230532",
             "width": 1600,
             "height": 1200
           },
@@ -702,7 +616,7 @@
               "contents": [
                 {
                   "id": "ct-601309234",
-                  "name": "Patrick FRANZISKA vs Alexis LEBRUN",
+                  "name": "Yangzi Liu vs Sabine WINTER",
                   "streams": [
                     {
                       "id": "st-601309234",
@@ -717,7 +631,7 @@
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/patrick-franziska-vs-alexis-lebrun-1815-11-03-2026/601309234"
+                              "value": "https://bunchatv1.net/truc-tiep/yangzi-liu-vs-sabine-winter-1845-11-03-2026/601309234"
                             },
                             {
                               "key": "User-Agent",
@@ -734,12 +648,90 @@
           ],
           "org_metadata": {
             "league": "WTT Champions Chongqing Women",
-            "team_a": "Patrick FRANZISKA",
-            "team_b": "Alexis LEBRUN",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/f16481125bbf8a014c2700e117e869d0.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/dababbda312823e6518762668932fcc4.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-88a64d2d3036.png?v=1773229287",
+            "team_a": "Yangzi Liu",
+            "team_b": "Sabine WINTER",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/9612c7e8198d2558106e4002c823a989.webp",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/cb77115df8ac1b4aea81f73f16503e2b.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-88a64d2d3036.png?v=1773230532",
             "thumb_key": "thumbs/kaytee-88a64d2d3036.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_bóng_đá",
+      "name": "⏳ Sắp Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-8346ab1df370",
+          "name": "⚽ Ratchaburi Mitr Phol FC vs Gamba Osaka | 19:15",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8346ab1df370.png?v=1773230534",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601294741",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601294741",
+                  "name": "Ratchaburi Mitr Phol FC vs Gamba Osaka",
+                  "streams": [
+                    {
+                      "id": "st-601294741",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-00ce15548f",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b1507e70a68_95554/index.m3u8?expire=1773832958&sign=2553e73beb70c6188a798e4b97106dd6",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/ratchaburi-mitr-phol-fc-vs-gamba-osaka-1915-11-03-2026/601294741"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC Champions League 2",
+            "team_a": "Ratchaburi Mitr Phol FC",
+            "team_b": "Gamba Osaka",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/ca2b8d70931647840c78209be51763a3.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/91008a96b5de8c75376d17057f89890e.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8346ab1df370.png?v=1773230534",
+            "thumb_key": "thumbs/kaytee-8346ab1df370.webp"
           }
         }
       ]
@@ -761,7 +753,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e0a7688c9362.png?v=1773229288",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e0a7688c9362.png?v=1773230535",
             "width": 1600,
             "height": 1200
           },
@@ -816,7 +808,7 @@
             "team_b": "Kim Sang-A",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a80c44adbb48162ca52811e925278b55.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/de211f93e93cfb33778d3893a18ddafd.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e0a7688c9362.png?v=1773229288",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e0a7688c9362.png?v=1773230535",
             "thumb_key": "thumbs/kaytee-e0a7688c9362.webp"
           }
         }
