@@ -8,103 +8,8 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-11T04:27:00.894654",
+  "updated_at": "2026-03-11T05:30:44.359980",
   "groups": [
-    {
-      "id": "live_bóng_đá",
-      "name": "🔴 Live ⚽ Bóng Đá",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-a2c065ea98a0",
-          "name": "⚽ Los Angeles FC vs Alajuelense | 10:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a2c065ea98a0.png?v=1773203215",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601294690",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601294690",
-                  "name": "Los Angeles FC vs Alajuelense",
-                  "streams": [
-                    {
-                      "id": "st-601294690",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-31102f83b4",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b0d0fb326d8_74012/index.m3u8?expire=1773800315&sign=b9deaffda2afbe1d6677ad8f9a6d9f63",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/los-angeles-fc-vs-alajuelense-1000-11-03-2026/601294690"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-47607ab799",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/d87baa55527fdd6b1fa4ffbdfe0396e3/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/los-angeles-fc-vs-alajuelense-1000-11-03-2026/601294690"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "CNCF CHL",
-            "team_a": "Los Angeles FC",
-            "team_b": "Alajuelense",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/9c5ad5227377e12b87f77790d3d88c1c.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a2c065ea98a0.png?v=1773203215",
-            "thumb_key": "thumbs/kaytee-a2c065ea98a0.webp"
-          }
-        }
-      ]
-    },
     {
       "id": "live_bóng_rổ",
       "name": "🔴 Live 🏀 Bóng Rổ",
@@ -112,144 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-a53b5798bce2",
-          "name": "🏀 Portland Trail Blazers vs Charlotte Hornets | 09:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a53b5798bce2.png?v=1773203213",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601298743",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601298743",
-                  "name": "Portland Trail Blazers vs Charlotte Hornets",
-                  "streams": [
-                    {
-                      "id": "st-601298743",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2942cafdf9",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b0cb7870a68_72787/index.m3u8?expire=1773798904&sign=652c69d4a63a353e2d8b762aff655e0a",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/portland-trail-blazers-vs-charlotte-hornets-0900-11-03-2026/601298743"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "NBA",
-            "team_a": "Portland Trail Blazers",
-            "team_b": "Charlotte Hornets",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/f6ca7c9e0db3a6efb4753c3a1e3629ed.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/895412f016798df5a1f6bc83b210d614.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a53b5798bce2.png?v=1773203213",
-            "thumb_key": "thumbs/kaytee-a53b5798bce2.webp"
-          }
-        },
-        {
-          "id": "kaytee-6b6ae3094fd1",
-          "name": "🏀 Sacramento Kings vs Indiana Pacers | 09:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6b6ae3094fd1.png?v=1773203213",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601298746",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601298746",
-                  "name": "Sacramento Kings vs Indiana Pacers",
-                  "streams": [
-                    {
-                      "id": "st-601298746",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0da3460f52",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b0ca36326d8_142210/index.m3u8?expire=1773798582&sign=3af100764bae76705b2495b9c515bbf6",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/sacramento-kings-vs-indiana-pacers-0900-11-03-2026/601298746"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "NBA",
-            "team_a": "Sacramento Kings",
-            "team_b": "Indiana Pacers",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/1c1bdb90a0592bc8f82c42c0448fc4d2.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/5257ef2bea4400b9b0b46c638a87e229.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6b6ae3094fd1.png?v=1773203213",
-            "thumb_key": "thumbs/kaytee-6b6ae3094fd1.webp"
-          }
-        },
         {
           "id": "kaytee-46c2b3ae3a29",
           "name": "🏀 Los Angeles Lakers vs Minnesota Timberwolves | 10:00",
@@ -260,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-46c2b3ae3a29.png?v=1773203216",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-46c2b3ae3a29.png?v=1773207040",
             "width": 1600,
             "height": 1200
           },
@@ -315,22 +82,22 @@
             "team_b": "Minnesota Timberwolves",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/feb6335bd6d4cb2e6b6cb6cb43c0e0a1.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/5d206ae1f29b3de6ba81f7a06cc990d2.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-46c2b3ae3a29.png?v=1773203216",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-46c2b3ae3a29.png?v=1773207040",
             "thumb_key": "thumbs/kaytee-46c2b3ae3a29.webp"
           }
         }
       ]
     },
     {
-      "id": "live_tennis",
-      "name": "🔴 Live 🎾 Tennis",
+      "id": "live_billiard",
+      "name": "🔴 Live 🎱 Billiard",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-32e65ac4c421",
-          "name": "🎾 Eala A. vs Linda Noskova | 10:00",
+          "id": "kaytee-9745bf60d8ac",
+          "name": "🎱 Lee Woo-kyung vs Lee Shin-young | 12:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -338,7 +105,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-32e65ac4c421.png?v=1773203217",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9745bf60d8ac.png?v=1773207040",
             "width": 1600,
             "height": 1200
           },
@@ -352,27 +119,27 @@
           ],
           "sources": [
             {
-              "id": "src-601308577",
+              "id": "src-601309387",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601308577",
-                  "name": "Eala A. vs Linda Noskova",
+                  "id": "ct-601309387",
+                  "name": "Lee Woo-kyung vs Lee Shin-young",
                   "streams": [
                     {
-                      "id": "st-601308577",
+                      "id": "st-601309387",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-36d239b1d4",
+                          "id": "lnk-dec6b5b03f",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b0de22326d8_4733/index.m3u8?expire=1773803682&sign=c7bbf971fa2bf912504ed241d5412e65",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b0ea60326d8_144313/index.m3u8?expire=1773806816&sign=aa1aa2ae63434046758fde8a2a959be7",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/eala-a-vs-linda-noskova-1000-11-03-2026/601308577"
+                              "value": "https://bunchatv1.net/truc-tiep/lee-wookyung-vs-lee-shinyoung-1200-11-03-2026/601309387"
                             },
                             {
                               "key": "User-Agent",
@@ -388,13 +155,82 @@
             }
           ],
           "org_metadata": {
-            "league": "WTA Indian Wells",
-            "team_a": "Eala A.",
-            "team_b": "Linda Noskova",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/d1083274bf7c933bb786e439df95969f.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/7daa1d983ed81aee39c56845f5d73daa.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-32e65ac4c421.png?v=1773203217",
-            "thumb_key": "thumbs/kaytee-32e65ac4c421.webp"
+            "league": "PBA-LPBA World Championship 2026",
+            "team_a": "Lee Woo-kyung",
+            "team_b": "Lee Shin-young",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/855f9296bdaa53535735b8672c648016.jpg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/119612c6e2f7e2ddb4797723aa295f4d.jpg",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9745bf60d8ac.png?v=1773207040",
+            "thumb_key": "thumbs/kaytee-9745bf60d8ac.webp"
+          }
+        },
+        {
+          "id": "kaytee-e0a7688c9362",
+          "name": "🎱 Beak Min-ju vs Han Seul-gi | 12:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e0a7688c9362.png?v=1773207041",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601309390",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601309390",
+                  "name": "Beak Min-ju vs Han Seul-gi",
+                  "streams": [
+                    {
+                      "id": "st-601309390",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6b98d501c8",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b0ef31326d8_142246/index.m3u8?expire=1773808049&sign=929c34bdb0e6f44c5cbec7e2fa8ae898",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/beak-minju-vs-han-seulgi-1200-11-03-2026/601309390"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "PBA-LPBA World Championship 2026",
+            "team_a": "Beak Min-ju",
+            "team_b": "Han Seul-gi",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/1419593664cdff0576305071dfa54d89.jpg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/98e0513e210c4fa117843d9dcb3da287.jpg",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e0a7688c9362.png?v=1773207041",
+            "thumb_key": "thumbs/kaytee-e0a7688c9362.webp"
           }
         }
       ]
@@ -408,7 +244,7 @@
       "channels": [
         {
           "id": "kaytee-e822c2255ec1",
-          "name": "🏓 CHENG I-Ching vs DOO Hoi Kem | 10:00",
+          "name": "🏓 Yukiya UDA vs Omar ASSAR | 12:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -416,7 +252,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e822c2255ec1.png?v=1773203218",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e822c2255ec1.png?v=1773207042",
             "width": 1600,
             "height": 1200
           },
@@ -435,7 +271,7 @@
               "contents": [
                 {
                   "id": "ct-601309231",
-                  "name": "CHENG I-Ching vs DOO Hoi Kem",
+                  "name": "Yukiya UDA vs Omar ASSAR",
                   "streams": [
                     {
                       "id": "st-601309231",
@@ -450,7 +286,7 @@
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/cheng-iching-vs-doo-hoi-kem-1000-11-03-2026/601309231"
+                              "value": "https://bunchatv1.net/truc-tiep/yukiya-uda-vs-omar-assar-1200-11-03-2026/601309231"
                             },
                             {
                               "key": "User-Agent",
@@ -467,11 +303,11 @@
           ],
           "org_metadata": {
             "league": "WTT Champions Chongqing Women",
-            "team_a": "CHENG I-Ching",
-            "team_b": "DOO Hoi Kem",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/6b84780e6dafb8749f6986c9d56da8fa.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/2e3fb61ca2812ae802a0cbad63ff064c.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e822c2255ec1.png?v=1773203218",
+            "team_a": "Yukiya UDA",
+            "team_b": "Omar ASSAR",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/1c79adcc5ee6c2e2af871bb08ad6a17c.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/36ef630284511c6b9a1e3609b00bd57b.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e822c2255ec1.png?v=1773207042",
             "thumb_key": "thumbs/kaytee-e822c2255ec1.webp"
           }
         }
@@ -494,7 +330,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-048e95d2d0c6.png?v=1773203220",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-048e95d2d0c6.png?v=1773207044",
             "width": 1600,
             "height": 1200
           },
@@ -549,86 +385,8 @@
             "team_b": "Football Club Seoul",
             "logo_a": "https://cdn.rapid-api.icu/football/team/d85cce27ab583e5b3cead155f02b098a.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/ad010af729c420626d1865ad744168d3.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-048e95d2d0c6.png?v=1773203220",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-048e95d2d0c6.png?v=1773207044",
             "thumb_key": "thumbs/kaytee-048e95d2d0c6.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "upcoming_billiard",
-      "name": "⏳ Sắp Live 🎱 Billiard",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-9745bf60d8ac",
-          "name": "🎱 Lee Woo-kyung vs Lee Shin-young | 12:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9745bf60d8ac.png?v=1773203219",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Sắp Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601309387",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601309387",
-                  "name": "Lee Woo-kyung vs Lee Shin-young",
-                  "streams": [
-                    {
-                      "id": "st-601309387",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-dec6b5b03f",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b0ea60326d8_144313/index.m3u8?expire=1773806816&sign=aa1aa2ae63434046758fde8a2a959be7",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/lee-wookyung-vs-lee-shinyoung-1200-11-03-2026/601309387"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "PBA-LPBA World Championship 2026",
-            "team_a": "Lee Woo-kyung",
-            "team_b": "Lee Shin-young",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/855f9296bdaa53535735b8672c648016.jpg",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/119612c6e2f7e2ddb4797723aa295f4d.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9745bf60d8ac.png?v=1773203219",
-            "thumb_key": "thumbs/kaytee-9745bf60d8ac.webp"
           }
         }
       ]
