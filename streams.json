@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-11T16:02:37.055297",
+  "updated_at": "2026-03-11T16:27:12.624439",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,230 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-08fb21f8f1dd",
-          "name": "⚽ Nguyễn Thùy Linh vs Yvonne LI | 20:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-08fb21f8f1dd.png?v=1773244946",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601308334",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601308334",
-                  "name": "Nguyễn Thùy Linh vs Yvonne LI",
-                  "streams": [
-                    {
-                      "id": "st-601308334",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1f2f74d152",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b176cb70a68_19013/index.m3u8?expire=1773842763&sign=34088578944ce9ad9ed34c24cfa80e99",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/nguyen-thuy-linh-vs-yvonne-li-2030-11-03-2026/601308334"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Sân 2 - YONEX Swiss Open 2026",
-            "team_a": "Nguyễn Thùy Linh",
-            "team_b": "Yvonne LI",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/665a2b534a0a474142896ee2e1e73ad7.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/afaede36c9f6b1d53d5cfd6702c7d443.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-08fb21f8f1dd.png?v=1773244946",
-            "thumb_key": "thumbs/kaytee-08fb21f8f1dd.webp"
-          }
-        },
-        {
-          "id": "kaytee-905aafb5cf8d",
-          "name": "⚽ Lokomotiv Tashkent vs FK Kokand 1912 | 21:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-905aafb5cf8d.png?v=1773244948",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601294834",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601294834",
-                  "name": "Lokomotiv Tashkent vs FK Kokand 1912",
-                  "streams": [
-                    {
-                      "id": "st-601294834",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9cdadcb4bb",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b1761c70a68_74012/index.m3u8?expire=1773842588&sign=e022555c54fa2628d0db9c0a24e246ad",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/lokomotiv-tashkent-vs-fk-kokand-1912-2130-11-03-2026/601294834"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-6d710bb90d",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/b4771f9658dbf0724ca37dbb49ec212b/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/lokomotiv-tashkent-vs-fk-kokand-1912-2130-11-03-2026/601294834"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Uzbekistan Super League",
-            "team_a": "Lokomotiv Tashkent",
-            "team_b": "FK Kokand 1912",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/861b0ac69ac20155f30c2ebe6ad8ff05.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/e353807a23ce0c8d0d21e091d5f21972.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-905aafb5cf8d.png?v=1773244948",
-            "thumb_key": "thumbs/kaytee-905aafb5cf8d.webp"
-          }
-        },
-        {
-          "id": "kaytee-0379afd3efc8",
-          "name": "⚽ Busanan ONGBAMRUNGPHAN vs Karupathevan LETSHANAA | 21:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0379afd3efc8.png?v=1773244950",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601308337",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601308337",
-                  "name": "Busanan ONGBAMRUNGPHAN vs Karupathevan LETSHANAA",
-                  "streams": [
-                    {
-                      "id": "st-601308337",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-23390e9f84",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b13a57326d8_85706/index.m3u8?expire=1773827287&sign=d8cec007b8f09ce964edd2ff6c204c1c",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/busanan-ongbamrungphan-vs-karupathevan-letshanaa-2130-11-03-2026/601308337"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Sân 3 - YONEX Swiss Open 2026",
-            "team_a": "Busanan ONGBAMRUNGPHAN",
-            "team_b": "Karupathevan LETSHANAA",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/9f604aab2b3a83f6d38d16bd9dcdb8fe.jpg",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/c68b682aeaa8d9e5130f83e1ac5af369.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0379afd3efc8.png?v=1773244950",
-            "thumb_key": "thumbs/kaytee-0379afd3efc8.webp"
-          }
-        },
         {
           "id": "kaytee-6847eb34a9b0",
           "name": "⚽ Buxoro FK vs Xorazm Urganch | 21:45",
@@ -251,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6847eb34a9b0.png?v=1773244952",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6847eb34a9b0.png?v=1773246421",
             "width": 1600,
             "height": 1200
           },
@@ -323,7 +99,7 @@
             "team_b": "Xorazm Urganch",
             "logo_a": "https://cdn.rapid-api.icu/football/team/fe138ef80fc8e5cb7a6ac6ebe754cd98.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/cb045077b1cf7fa3c7a1aec74546bb15.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6847eb34a9b0.png?v=1773244952",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6847eb34a9b0.png?v=1773246421",
             "thumb_key": "thumbs/kaytee-6847eb34a9b0.webp"
           }
         },
@@ -337,7 +113,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5112c0f396cd.png?v=1773244954",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5112c0f396cd.png?v=1773246422",
             "width": 1600,
             "height": 1200
           },
@@ -392,13 +168,13 @@
             "team_b": "FC Metalurgi Rustavi",
             "logo_a": "https://cdn.rapid-api.icu/football/team/ad24ca32a65ee246b1c20af06f4acb97.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/cc6d0105f751057a74ad7580822737f7.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5112c0f396cd.png?v=1773244954",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5112c0f396cd.png?v=1773246422",
             "thumb_key": "thumbs/kaytee-5112c0f396cd.webp"
           }
         },
         {
-          "id": "kaytee-806e0d13bdb4",
-          "name": "⚽ Drazen Vrhovac vs Ruben Docampo | 22:25",
+          "id": "kaytee-42bcb921c9a9",
+          "name": "⚽ Paris FC (w) vs Strasbourg (w) | 22:15",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -406,7 +182,248 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-806e0d13bdb4.png?v=1773244955",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-42bcb921c9a9.png?v=1773246424",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601294807",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601294807",
+                  "name": "Paris FC (w) vs Strasbourg (w)",
+                  "streams": [
+                    {
+                      "id": "st-601294807",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c555919a66",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b185f9326d8_124958/index.m3u8?expire=1773846649&sign=85493591c03b7d08bf63749b55eb5d75",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/paris-fc-w-vs-strasbourg-w-2215-11-03-2026/601294807"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-b18c0e0850",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/aff8d5259d61619b7f795067ddfab6e7/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/paris-fc-w-vs-strasbourg-w-2215-11-03-2026/601294807"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "French Division 1 Feminine",
+            "team_a": "Paris FC (w)",
+            "team_b": "Strasbourg (w)",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/fabc3fa7f297e32d91291693eb8c1404.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/9fa223c58fb85925ddbd7f126c790019.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-42bcb921c9a9.png?v=1773246424",
+            "thumb_key": "thumbs/kaytee-42bcb921c9a9.webp"
+          }
+        },
+        {
+          "id": "kaytee-b9774e53ec0b",
+          "name": "⚽ Paris Saint Germain (w) vs Marseille (w) | 22:15",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b9774e53ec0b.png?v=1773246424",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601294810",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601294810",
+                  "name": "Paris Saint Germain (w) vs Marseille (w)",
+                  "streams": [
+                    {
+                      "id": "st-601294810",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a8f9502203",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b1831a326d8_73445/index.m3u8?expire=1773845914&sign=c47d7d278e9ad371fd3eebad18c5a258",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/paris-saint-germain-w-vs-marseille-w-2215-11-03-2026/601294810"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-f8655f7cda",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/98bcd0b3326133ddd4ff88ac2262edd8/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/paris-saint-germain-w-vs-marseille-w-2215-11-03-2026/601294810"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "French Division 1 Feminine",
+            "team_a": "Paris Saint Germain (w)",
+            "team_b": "Marseille (w)",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/9b531be11cb41d4f7999fc91a943c75f.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/189dab98170eda462708ded34cdcf6fa.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b9774e53ec0b.png?v=1773246424",
+            "thumb_key": "thumbs/kaytee-b9774e53ec0b.webp"
+          }
+        },
+        {
+          "id": "kaytee-0379afd3efc8",
+          "name": "⚽ ESPERSEN/KUDSK vs Jimmy WONG /  LAI Pei Jing | 22:50",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0379afd3efc8.png?v=1773246426",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601308337",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601308337",
+                  "name": "ESPERSEN/KUDSK vs Jimmy WONG /  LAI Pei Jing",
+                  "streams": [
+                    {
+                      "id": "st-601308337",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-23390e9f84",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b13a57326d8_85706/index.m3u8?expire=1773827287&sign=d8cec007b8f09ce964edd2ff6c204c1c",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/espersenkudsk-vs-jimmy-wong---lai-pei-jing-2250-11-03-2026/601308337"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sân 3 - YONEX Swiss Open 2026",
+            "team_a": "ESPERSEN/KUDSK",
+            "team_b": "Jimmy WONG /  LAI Pei Jing",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/7b9249f7396163af2a663a6e52b4f31f.jpg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/4c1700d4eb4d72875675e0d4babc564f.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0379afd3efc8.png?v=1773246426",
+            "thumb_key": "thumbs/kaytee-0379afd3efc8.webp"
+          }
+        },
+        {
+          "id": "kaytee-806e0d13bdb4",
+          "name": "⚽ Hải Long Lê vs Revo Maimre | 23:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-806e0d13bdb4.png?v=1773246427",
             "width": 1600,
             "height": 1200
           },
@@ -425,7 +442,7 @@
               "contents": [
                 {
                   "id": "ct-601309543",
-                  "name": "Drazen Vrhovac vs Ruben Docampo",
+                  "name": "Hải Long Lê vs Revo Maimre",
                   "streams": [
                     {
                       "id": "st-601309543",
@@ -440,7 +457,7 @@
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/drazen-vrhovac-vs-ruben-docampo-2225-11-03-2026/601309543"
+                              "value": "https://bunchatv1.net/truc-tiep/hai-long-le-vs-revo-maimre-2300-11-03-2026/601309543"
                             },
                             {
                               "key": "User-Agent",
@@ -457,17 +474,17 @@
           ],
           "org_metadata": {
             "league": "European Open Pool Championship 2026",
-            "team_a": "Drazen Vrhovac",
-            "team_b": "Ruben Docampo",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/abd2e94334f07124ae3ea30d47c568e7.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/2def4f215bb28cc54263b316e91005c2.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-806e0d13bdb4.png?v=1773244955",
+            "team_a": "Hải Long Lê",
+            "team_b": "Revo Maimre",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/45720b130462d4ecd1d80df693220e89.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/7eec2e6b484254cddf2b561028f5cab7.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-806e0d13bdb4.png?v=1773246427",
             "thumb_key": "thumbs/kaytee-806e0d13bdb4.webp"
           }
         },
         {
-          "id": "kaytee-087cdcf4219e",
-          "name": "⚽ LOH Kean Yew vs Kiran GEORGE | 22:25",
+          "id": "kaytee-80c18ea098bf",
+          "name": "⚽ Birmingham Legion vs Hartford Athletic | 23:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -475,7 +492,179 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-087cdcf4219e.png?v=1773244956",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-80c18ea098bf.png?v=1773246429",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601294822",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601294822",
+                  "name": "Birmingham Legion vs Hartford Athletic",
+                  "streams": [
+                    {
+                      "id": "st-601294822",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8fddd8931f",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b18a4270a68_128756/index.m3u8?expire=1773847746&sign=5db8addcdb0ae71ccec9e98035f59980",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/birmingham-legion-vs-hartford-athletic-2300-11-03-2026/601294822"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-306a854946",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/9b193e4f82c7f0d6e81c03751b676600/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/birmingham-legion-vs-hartford-athletic-2300-11-03-2026/601294822"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "USL Championship",
+            "team_a": "Birmingham Legion",
+            "team_b": "Hartford Athletic",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/c3c17ec375bc22a7138c863ee91a3858.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/78febf9c2b8c7c5bff95797b00c90459.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-80c18ea098bf.png?v=1773246429",
+            "thumb_key": "thumbs/kaytee-80c18ea098bf.webp"
+          }
+        },
+        {
+          "id": "kaytee-988b3fa2e19b",
+          "name": "⚽ Gagra Tbilisi vs Spaeri FC | 23:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-988b3fa2e19b.png?v=1773246430",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601294825",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601294825",
+                  "name": "Gagra Tbilisi vs Spaeri FC",
+                  "streams": [
+                    {
+                      "id": "st-601294825",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c45991375f",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b18b8370a68_136682/index.m3u8?expire=1773848067&sign=9fe1516105980c82c244596524fbac43",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/gagra-tbilisi-vs-spaeri-fc-2300-11-03-2026/601294825"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-0ddeca42bf",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/726f3a69a89a3434e0a6a74d59abbeab/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/gagra-tbilisi-vs-spaeri-fc-2300-11-03-2026/601294825"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Georgia Erovnuli Liga",
+            "team_a": "Gagra Tbilisi",
+            "team_b": "Spaeri FC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/e450729cae3ba8210e9a08134b9258a1.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/432c13e823ffcc46ee9255384e525629.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-988b3fa2e19b.png?v=1773246430",
+            "thumb_key": "thumbs/kaytee-988b3fa2e19b.webp"
+          }
+        },
+        {
+          "id": "kaytee-087cdcf4219e",
+          "name": "⚽ Dounia PELUPESSY vs Line CHRISTOPHERSEN | 23:13",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-087cdcf4219e.png?v=1773246431",
             "width": 1600,
             "height": 1200
           },
@@ -494,7 +683,7 @@
               "contents": [
                 {
                   "id": "ct-601308331",
-                  "name": "LOH Kean Yew vs Kiran GEORGE",
+                  "name": "Dounia PELUPESSY vs Line CHRISTOPHERSEN",
                   "streams": [
                     {
                       "id": "st-601308331",
@@ -509,7 +698,7 @@
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/loh-kean-yew-vs-kiran-george-2225-11-03-2026/601308331"
+                              "value": "https://bunchatv1.net/truc-tiep/dounia-pelupessy-vs-line-christophersen-2313-11-03-2026/601308331"
                             },
                             {
                               "key": "User-Agent",
@@ -526,17 +715,17 @@
           ],
           "org_metadata": {
             "league": "Sân 1 - YONEX Swiss Open 2026",
-            "team_a": "LOH Kean Yew",
-            "team_b": "Kiran GEORGE",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/2a6ccef20d4e6c4f6051dc6c27cdc572.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/ac983b9cd32a9ffea9975a0f4c3afb07.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-087cdcf4219e.png?v=1773244956",
+            "team_a": "Dounia PELUPESSY",
+            "team_b": "Line CHRISTOPHERSEN",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/82ba8852fbe295950542346df54e5d72.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/74bbcff4848212bcc31b887f4a99e24f.jpg",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-087cdcf4219e.png?v=1773246431",
             "thumb_key": "thumbs/kaytee-087cdcf4219e.webp"
           }
         },
         {
-          "id": "kaytee-9e405c07e3ca",
-          "name": "⚽ Jason GUNAWAN vs KIDAMBI Srikanth | 22:30",
+          "id": "kaytee-08fb21f8f1dd",
+          "name": "⚽ C. HEMMING / E, Van LEEUWEN vs J. HIDAYATULLAH / F. A. N. PASARIBU | 23:15",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -544,7 +733,76 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9e405c07e3ca.png?v=1773244957",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-08fb21f8f1dd.png?v=1773246431",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601308334",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601308334",
+                  "name": "C. HEMMING / E, Van LEEUWEN vs J. HIDAYATULLAH / F. A. N. PASARIBU",
+                  "streams": [
+                    {
+                      "id": "st-601308334",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1f2f74d152",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b176cb70a68_19013/index.m3u8?expire=1773842763&sign=34088578944ce9ad9ed34c24cfa80e99",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/c-hemming--e-van-leeuwen-vs-j-hidayatullah--f-a-n-pasaribu-2315-11-03-2026/601308334"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sân 2 - YONEX Swiss Open 2026",
+            "team_a": "C. HEMMING / E, Van LEEUWEN",
+            "team_b": "J. HIDAYATULLAH / F. A. N. PASARIBU",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/25a60344f0739fce2521cf8a3e112a7f.svg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/3c897dcf2cb2cb121c56a5f4491b6748.webp",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-08fb21f8f1dd.png?v=1773246431",
+            "thumb_key": "thumbs/kaytee-08fb21f8f1dd.webp"
+          }
+        },
+        {
+          "id": "kaytee-9e405c07e3ca",
+          "name": "⚽ Hina AKECHI vs Tomoka MIYAZAKI | 23:20",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9e405c07e3ca.png?v=1773246432",
             "width": 1600,
             "height": 1200
           },
@@ -563,7 +821,7 @@
               "contents": [
                 {
                   "id": "ct-601308340",
-                  "name": "Jason GUNAWAN vs KIDAMBI Srikanth",
+                  "name": "Hina AKECHI vs Tomoka MIYAZAKI",
                   "streams": [
                     {
                       "id": "st-601308340",
@@ -578,7 +836,7 @@
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/jason-gunawan-vs-kidambi-srikanth-2230-11-03-2026/601308340"
+                              "value": "https://bunchatv1.net/truc-tiep/hina-akechi-vs-tomoka-miyazaki-2320-11-03-2026/601308340"
                             },
                             {
                               "key": "User-Agent",
@@ -595,90 +853,12 @@
           ],
           "org_metadata": {
             "league": "Sân 4 - YONEX Swiss Open 2026",
-            "team_a": "Jason GUNAWAN",
-            "team_b": "KIDAMBI Srikanth",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/570d7f47eed7ea32287c89c3a786abef.jpg",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/8d7ef1c27f7f25e2a46ee1929d72f591.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9e405c07e3ca.png?v=1773244957",
+            "team_a": "Hina AKECHI",
+            "team_b": "Tomoka MIYAZAKI",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/12fd23a748ebb8241e113939f4f28a2c.jpg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/772e2eff2e5357d2c68f4cc6467eccef.jpg",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9e405c07e3ca.png?v=1773246432",
             "thumb_key": "thumbs/kaytee-9e405c07e3ca.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "live_bóng_bàn",
-      "name": "🔴 Live 🏓 Bóng Bàn",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-3ac88012158e",
-          "name": "🏓 OFK Petrovac vs FK Mladost DG | 21:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3ac88012158e.png?v=1773244949",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601294786",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601294786",
-                  "name": "OFK Petrovac vs FK Mladost DG",
-                  "streams": [
-                    {
-                      "id": "st-601294786",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c8716f4751",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/871b963ae359681cbe5098e174833ee5/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/ofk-petrovac-vs-fk-mladost-dg-2130-11-03-2026/601294786"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Montenegro First League",
-            "team_a": "OFK Petrovac",
-            "team_b": "FK Mladost DG",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/28d113f973839c72d35abd45379efdfe.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/97986e754dcaf7b46f7b2aafe917e4b6.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3ac88012158e.png?v=1773244949",
-            "thumb_key": "thumbs/kaytee-3ac88012158e.webp"
           }
         }
       ]
