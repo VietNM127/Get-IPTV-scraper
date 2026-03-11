@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-11T07:55:26.362351",
+  "updated_at": "2026-03-11T08:05:35.126983",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,75 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-dac1e9f12586",
-          "name": "⚽ Persipuja Puncak Jaya vs Persemi Mimika | 13:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-dac1e9f12586.png?v=1773215723",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601309501",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601309501",
-                  "name": "Persipuja Puncak Jaya vs Persemi Mimika",
-                  "streams": [
-                    {
-                      "id": "st-601309501",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b84f2ba1d9",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/e3a3e2b1c63f03276f1ea660125e3642/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/persipuja-puncak-jaya-vs-persemi-mimika-1300-11-03-2026/601309501"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Indo D4",
-            "team_a": "Persipuja Puncak Jaya",
-            "team_b": "Persemi Mimika",
-            "logo_a": "/img/soccer.svg",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/ab2a12e73932ad3065a5b78db4bedbb9.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-dac1e9f12586.png?v=1773215723",
-            "thumb_key": "thumbs/kaytee-dac1e9f12586.webp"
-          }
-        },
         {
           "id": "kaytee-7e90dc8b76b9",
           "name": "⚽ Dong Nai University of Technology vs Dong Thap University | 13:30",
@@ -96,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7e90dc8b76b9.png?v=1773215724",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7e90dc8b76b9.png?v=1773216330",
             "width": 1600,
             "height": 1200
           },
@@ -151,8 +82,146 @@
             "team_b": "Dong Thap University",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/c269b8b9bc0e36f6e8ee3c09c19bf06d.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/46154e0d7dec42cd60da675ce9b82b89.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7e90dc8b76b9.png?v=1773215724",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7e90dc8b76b9.png?v=1773216330",
             "thumb_key": "thumbs/kaytee-7e90dc8b76b9.webp"
+          }
+        },
+        {
+          "id": "kaytee-bd6c7afe8b73",
+          "name": "⚽ Sheger Ketema (w) vs Addis Ababa Ketema (W) | 14:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bd6c7afe8b73.png?v=1773216333",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601308481",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601308481",
+                  "name": "Sheger Ketema (w) vs Addis Ababa Ketema (W)",
+                  "streams": [
+                    {
+                      "id": "st-601308481",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-98744a4e3f",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/e4efc4f63107e8d1caccb49a86217a35/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/sheger-ketema-w-vs-addis-ababa-ketema-w-1400-11-03-2026/601308481"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ETH WL",
+            "team_a": "Sheger Ketema (w)",
+            "team_b": "Addis Ababa Ketema (W)",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/7fe68cddbc243c42cc45c8d6cfdc77d7.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/a80fe45f566d8e10706c5c42592eb9b3.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bd6c7afe8b73.png?v=1773216333",
+            "thumb_key": "thumbs/kaytee-bd6c7afe8b73.webp"
+          }
+        },
+        {
+          "id": "kaytee-44ad4e2b64a9",
+          "name": "⚽ Philippine Army FC vs Don Bosco Garelli United | 15:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-44ad4e2b64a9.png?v=1773216335",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601294693",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601294693",
+                  "name": "Philippine Army FC vs Don Bosco Garelli United",
+                  "streams": [
+                    {
+                      "id": "st-601294693",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-49f192de94",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/6be7e1b4fbbce8a7b5a96868df0d7a72/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/philippine-army-fc-vs-don-bosco-garelli-united-1500-11-03-2026/601294693"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Philippines United Football League",
+            "team_a": "Philippine Army FC",
+            "team_b": "Don Bosco Garelli United",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/0eee6426c98fc494ee22c17e4f3a4ac9.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/b552130737a6d7dd22dcbba499342904.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-44ad4e2b64a9.png?v=1773216335",
+            "thumb_key": "thumbs/kaytee-44ad4e2b64a9.webp"
           }
         }
       ]
@@ -174,7 +243,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9745bf60d8ac.png?v=1773215723",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9745bf60d8ac.png?v=1773216329",
             "width": 1600,
             "height": 1200
           },
@@ -229,7 +298,7 @@
             "team_b": "Kang Ji-eun",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/4cd91a4c40ac3a60874370a5146aa441.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/66da057d77d0821a67d35db17f464538.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9745bf60d8ac.png?v=1773215723",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9745bf60d8ac.png?v=1773216329",
             "thumb_key": "thumbs/kaytee-9745bf60d8ac.webp"
           }
         },
@@ -243,7 +312,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e0a7688c9362.png?v=1773215724",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e0a7688c9362.png?v=1773216333",
             "width": 1600,
             "height": 1200
           },
@@ -298,86 +367,8 @@
             "team_b": "Kim Min-a",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/2dca9e5f0d17ea69cd0a5c4b1b1de55e.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/cefb239246222d9c5665ce89c49e3c65.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e0a7688c9362.png?v=1773215724",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e0a7688c9362.png?v=1773216333",
             "thumb_key": "thumbs/kaytee-e0a7688c9362.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "upcoming_bóng_đá",
-      "name": "⏳ Sắp Live ⚽ Bóng Đá",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-048e95d2d0c6",
-          "name": "⚽ Vissel Kobe vs Football Club Seoul | 17:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-048e95d2d0c6.png?v=1773215726",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Sắp Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601294699",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601294699",
-                  "name": "Vissel Kobe vs Football Club Seoul",
-                  "streams": [
-                    {
-                      "id": "st-601294699",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6706b3519d",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/7071c6b7acf76880f6ca4f6c27525136/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/vissel-kobe-vs-football-club-seoul-1700-11-03-2026/601294699"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Champions League Elite",
-            "team_a": "Vissel Kobe",
-            "team_b": "Football Club Seoul",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/d85cce27ab583e5b3cead155f02b098a.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/ad010af729c420626d1865ad744168d3.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-048e95d2d0c6.png?v=1773215726",
-            "thumb_key": "thumbs/kaytee-048e95d2d0c6.webp"
           }
         }
       ]
