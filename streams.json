@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-11T08:05:35.126983",
+  "updated_at": "2026-03-11T08:36:24.144844",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7e90dc8b76b9.png?v=1773216330",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7e90dc8b76b9.png?v=1773218177",
             "width": 1600,
             "height": 1200
           },
@@ -82,7 +82,7 @@
             "team_b": "Dong Thap University",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/c269b8b9bc0e36f6e8ee3c09c19bf06d.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/46154e0d7dec42cd60da675ce9b82b89.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7e90dc8b76b9.png?v=1773216330",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7e90dc8b76b9.png?v=1773218177",
             "thumb_key": "thumbs/kaytee-7e90dc8b76b9.webp"
           }
         },
@@ -96,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bd6c7afe8b73.png?v=1773216333",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bd6c7afe8b73.png?v=1773218179",
             "width": 1600,
             "height": 1200
           },
@@ -151,7 +151,7 @@
             "team_b": "Addis Ababa Ketema (W)",
             "logo_a": "https://cdn.rapid-api.icu/football/team/7fe68cddbc243c42cc45c8d6cfdc77d7.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/a80fe45f566d8e10706c5c42592eb9b3.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bd6c7afe8b73.png?v=1773216333",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bd6c7afe8b73.png?v=1773218179",
             "thumb_key": "thumbs/kaytee-bd6c7afe8b73.webp"
           }
         },
@@ -165,7 +165,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-44ad4e2b64a9.png?v=1773216335",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-44ad4e2b64a9.png?v=1773218181",
             "width": 1600,
             "height": 1200
           },
@@ -220,8 +220,77 @@
             "team_b": "Don Bosco Garelli United",
             "logo_a": "https://cdn.rapid-api.icu/football/team/0eee6426c98fc494ee22c17e4f3a4ac9.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/b552130737a6d7dd22dcbba499342904.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-44ad4e2b64a9.png?v=1773216335",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-44ad4e2b64a9.png?v=1773218181",
             "thumb_key": "thumbs/kaytee-44ad4e2b64a9.webp"
+          }
+        },
+        {
+          "id": "kaytee-63152101ef46",
+          "name": "⚽ Sydney vs Perth | 15:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-63152101ef46.png?v=1773218182",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601309498",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601309498",
+                  "name": "Sydney vs Perth",
+                  "streams": [
+                    {
+                      "id": "st-601309498",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-18b0104390",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b128df70a68_142210/index.m3u8?expire=1773822815&sign=b1be8b7ca3caa960d2b3d889dce8495d",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/sydney-vs-perth-1530-11-03-2026/601309498"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NBL",
+            "team_a": "Sydney",
+            "team_b": "Perth",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a6d2abd5c2c08a2e7ffb0dafb533d1d7.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/a9a1da05ab1cbd295ffd562520b50007.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-63152101ef46.png?v=1773218182",
+            "thumb_key": "thumbs/kaytee-63152101ef46.webp"
           }
         }
       ]
@@ -243,7 +312,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9745bf60d8ac.png?v=1773216329",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9745bf60d8ac.png?v=1773218176",
             "width": 1600,
             "height": 1200
           },
@@ -298,7 +367,7 @@
             "team_b": "Kang Ji-eun",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/4cd91a4c40ac3a60874370a5146aa441.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/66da057d77d0821a67d35db17f464538.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9745bf60d8ac.png?v=1773216329",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9745bf60d8ac.png?v=1773218176",
             "thumb_key": "thumbs/kaytee-9745bf60d8ac.webp"
           }
         },
@@ -312,7 +381,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e0a7688c9362.png?v=1773216333",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e0a7688c9362.png?v=1773218179",
             "width": 1600,
             "height": 1200
           },
@@ -367,8 +436,86 @@
             "team_b": "Kim Min-a",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/2dca9e5f0d17ea69cd0a5c4b1b1de55e.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/cefb239246222d9c5665ce89c49e3c65.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e0a7688c9362.png?v=1773216333",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e0a7688c9362.png?v=1773218179",
             "thumb_key": "thumbs/kaytee-e0a7688c9362.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_bóng_đá",
+      "name": "⏳ Sắp Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-b2c38ffefbcb",
+          "name": "⚽ Hantharwady United vs Rakhine United FC | 16:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b2c38ffefbcb.png?v=1773218184",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601299763",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601299763",
+                  "name": "Hantharwady United vs Rakhine United FC",
+                  "streams": [
+                    {
+                      "id": "st-601299763",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-213575de9a",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b1271c70a68_73445/index.m3u8?expire=1773822364&sign=8311b9b25f41560aad1d7eac1c548597",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/hantharwady-united-vs-rakhine-united-fc-1600-11-03-2026/601299763"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Myanmar Professional League",
+            "team_a": "Hantharwady United",
+            "team_b": "Rakhine United FC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/d6a96f7603b190bb46e2de96cf41d9a0.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/28eb3cbdd54f97c70874e54e258d68af.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b2c38ffefbcb.png?v=1773218184",
+            "thumb_key": "thumbs/kaytee-b2c38ffefbcb.webp"
           }
         }
       ]
