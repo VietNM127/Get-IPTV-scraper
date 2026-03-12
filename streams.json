@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-12T16:41:56.572750",
+  "updated_at": "2026-03-12T17:32:16.247977",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-92129808f107.png?v=1773333705",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-92129808f107.png?v=1773336731",
             "width": 1600,
             "height": 1200
           },
@@ -82,163 +82,8 @@
             "team_b": "Michael Thorn",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/2b9284f83fdde8bfbc1009aa1d4fde3a.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/8358a3647eb23c68dc72a2f931d8d80e.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-92129808f107.png?v=1773333705",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-92129808f107.png?v=1773336731",
             "thumb_key": "thumbs/kaytee-92129808f107.webp"
-          }
-        },
-        {
-          "id": "kaytee-866cdf6ce71f",
-          "name": "⚽ Dinamo Samarqand vs Nasaf Qarshi | 22:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-866cdf6ce71f.png?v=1773333707",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601296949",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601296949",
-                  "name": "Dinamo Samarqand vs Nasaf Qarshi",
-                  "streams": [
-                    {
-                      "id": "st-601296949",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ecc47c16b5",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b2d56770a68_88186/index.m3u8?expire=1773932519&sign=1800d8734bbde88d07e0ef1d04a441c0",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/dinamo-samarqand-vs-nasaf-qarshi-2200-12-03-2026/601296949"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-94979ba3d3",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/9ee2a565fcf8131092c67ba2d69d8852/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/dinamo-samarqand-vs-nasaf-qarshi-2200-12-03-2026/601296949"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Uzbekistan Super League",
-            "team_a": "Dinamo Samarqand",
-            "team_b": "Nasaf Qarshi",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/e5e4a6b6057e14af859c9d2bca5986a8.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/bef3a45bcf56447c8acfb7b077820022.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-866cdf6ce71f.png?v=1773333707",
-            "thumb_key": "thumbs/kaytee-866cdf6ce71f.webp"
-          }
-        },
-        {
-          "id": "kaytee-f5a4c93b5b09",
-          "name": "⚽ Samgurali Tskh vs Dinamo Batumi | 22:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f5a4c93b5b09.png?v=1773333709",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601296946",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601296946",
-                  "name": "Samgurali Tskh vs Dinamo Batumi",
-                  "streams": [
-                    {
-                      "id": "st-601296946",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6665fa87d9",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/3cd0746703254c70a956093ae078640f/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/samgurali-tskh-vs-dinamo-batumi-2200-12-03-2026/601296946"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Georgia Erovnuli Liga",
-            "team_a": "Samgurali Tskh",
-            "team_b": "Dinamo Batumi",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/a9bea85988465e9accfae7984ac850eb.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/90947f03d78b6634fe6ad3014329bc14.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f5a4c93b5b09.png?v=1773333709",
-            "thumb_key": "thumbs/kaytee-f5a4c93b5b09.webp"
           }
         },
         {
@@ -251,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fdc5c7226c11.png?v=1773333710",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fdc5c7226c11.png?v=1773336731",
             "width": 1600,
             "height": 1200
           },
@@ -306,215 +151,8 @@
             "team_b": "Hathaithip MIJAD /  N.TUNGKASATAN",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/cb4bc02b2ea4d9882347a8ac71462b68.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/bbcb317bec1d94f73c93869a528a56ff.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fdc5c7226c11.png?v=1773333710",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fdc5c7226c11.png?v=1773336731",
             "thumb_key": "thumbs/kaytee-fdc5c7226c11.webp"
-          }
-        },
-        {
-          "id": "kaytee-dd0d27d88c44",
-          "name": "⚽ Kiran GEORGE vs Jason GUNAWAN | 22:20",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-dd0d27d88c44.png?v=1773333711",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601310542",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601310542",
-                  "name": "Kiran GEORGE vs Jason GUNAWAN",
-                  "streams": [
-                    {
-                      "id": "st-601310542",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-eee223d4b0",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b27c8670a68_85714/index.m3u8?expire=1773909766&sign=387ff62b4e7ed6e264a804c37b8cad85",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/kiran-george-vs-jason-gunawan-2220-12-03-2026/601310542"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Sân 3 - YONEX Swiss Open 2026",
-            "team_a": "Kiran GEORGE",
-            "team_b": "Jason GUNAWAN",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/ac983b9cd32a9ffea9975a0f4c3afb07.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/570d7f47eed7ea32287c89c3a786abef.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-dd0d27d88c44.png?v=1773333711",
-            "thumb_key": "thumbs/kaytee-dd0d27d88c44.webp"
-          }
-        },
-        {
-          "id": "kaytee-b9e8544c9125",
-          "name": "⚽ HSU Ya Ching / SUNG Yu-Hsuan vs LI Yi Jing / WANG Yi Duo | 22:34",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b9e8544c9125.png?v=1773333712",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601310548",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601310548",
-                  "name": "HSU Ya Ching / SUNG Yu-Hsuan vs LI Yi Jing / WANG Yi Duo",
-                  "streams": [
-                    {
-                      "id": "st-601310548",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2c3da346cf",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b2874f326d8_18754/index.m3u8?expire=1773912527&sign=fc73880ac7f6c827a89f8278e9862677",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/hsu-ya-ching--sung-yuhsuan-vs-li-yi-jing--wang-yi-duo-2234-12-03-2026/601310548"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Sân 4 - YONEX Swiss Open 2026",
-            "team_a": "HSU Ya Ching / SUNG Yu-Hsuan",
-            "team_b": "LI Yi Jing / WANG Yi Duo",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/21d79fa9fc34a915d4b56bdcc24f2a47.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/4c096b1f95a2afdb3aa56876f572f24f.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b9e8544c9125.png?v=1773333712",
-            "thumb_key": "thumbs/kaytee-b9e8544c9125.webp"
-          }
-        },
-        {
-          "id": "kaytee-e30574c9eeae",
-          "name": "⚽ WU Guan Xun /. LEE Chia Hsin vs CHENG Xing / Zhang Chi | 22:35",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e30574c9eeae.png?v=1773333713",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601310533",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601310533",
-                  "name": "WU Guan Xun /. LEE Chia Hsin vs CHENG Xing / Zhang Chi",
-                  "streams": [
-                    {
-                      "id": "st-601310533",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-539fc81aa9",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b2ce1070a68_19013/index.m3u8?expire=1773930640&sign=e8bb83d1b6adc0d0e66887aef0beb8a2",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/wu-guan-xun--lee-chia-hsin-vs-cheng-xing--zhang-chi-2235-12-03-2026/601310533"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Sân 1 - YONEX Swiss Open 2026",
-            "team_a": "WU Guan Xun /. LEE Chia Hsin",
-            "team_b": "CHENG Xing / Zhang Chi",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/39f3c9eb25344d3a2cc60fdb9bddd20c.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/d82a0f025f619f066b43fbf90c9da575.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e30574c9eeae.png?v=1773333713",
-            "thumb_key": "thumbs/kaytee-e30574c9eeae.webp"
           }
         },
         {
@@ -527,7 +165,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6b6b0e22dfb4.png?v=1773333714",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6b6b0e22dfb4.png?v=1773336733",
             "width": 1600,
             "height": 1200
           },
@@ -599,7 +237,7 @@
             "team_b": "Fc Meshakhte Tkibuli",
             "logo_a": "https://cdn.rapid-api.icu/football/team/8d37df65ec99136141521145783ba119.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/6c4026b1738fc21db081f031cf8c8d39.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6b6b0e22dfb4.png?v=1773333714",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6b6b0e22dfb4.png?v=1773336733",
             "thumb_key": "thumbs/kaytee-6b6b0e22dfb4.webp"
           }
         },
@@ -613,7 +251,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-43ed1ac26747.png?v=1773333716",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-43ed1ac26747.png?v=1773336735",
             "width": 1600,
             "height": 1200
           },
@@ -668,8 +306,77 @@
             "team_b": "Elva",
             "logo_a": "https://cdn.rapid-api.icu/football/team/a7a6ac3413ef96098216a84594674369.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/5ccc7e66759c042674aaef5085b26abc.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-43ed1ac26747.png?v=1773333716",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-43ed1ac26747.png?v=1773336735",
             "thumb_key": "thumbs/kaytee-43ed1ac26747.webp"
+          }
+        },
+        {
+          "id": "kaytee-dd0d27d88c44",
+          "name": "⚽ A FARHAN vs Jia Heng Jason TEH | 23:40",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-dd0d27d88c44.png?v=1773336736",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601310542",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601310542",
+                  "name": "A FARHAN vs Jia Heng Jason TEH",
+                  "streams": [
+                    {
+                      "id": "st-601310542",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-eee223d4b0",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b27c8670a68_85714/index.m3u8?expire=1773909766&sign=387ff62b4e7ed6e264a804c37b8cad85",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/a-farhan-vs-jia-heng-jason-teh-2340-12-03-2026/601310542"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sân 3 - YONEX Swiss Open 2026",
+            "team_a": "A FARHAN",
+            "team_b": "Jia Heng Jason TEH",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/2ec6e490be070c1c59fa03afcdde9a63.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/49f143d0cb9ae482e328f8e5cf2119ba.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-dd0d27d88c44.png?v=1773336736",
+            "thumb_key": "thumbs/kaytee-dd0d27d88c44.webp"
           }
         }
       ]
@@ -691,7 +398,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ff33586d61a2.png?v=1773333705",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ff33586d61a2.png?v=1773336730",
             "width": 1600,
             "height": 1200
           },
@@ -746,7 +453,7 @@
             "team_b": "Kim Young-won",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/309d2853918611fcfe9da31a28328e58.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/810eb61673c3d74fc757b37bb3167104.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ff33586d61a2.png?v=1773333705",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ff33586d61a2.png?v=1773336730",
             "thumb_key": "thumbs/kaytee-ff33586d61a2.webp"
           }
         }
