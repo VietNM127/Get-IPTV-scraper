@@ -8,103 +8,8 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-12T07:07:08.902234",
+  "updated_at": "2026-03-12T07:31:33.394843",
   "groups": [
-    {
-      "id": "live_bóng_đá",
-      "name": "🔴 Live ⚽ Bóng Đá",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-5f35fcb8b294",
-          "name": "⚽ MU vs MU | 12:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5f35fcb8b294.png?v=1773299227",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601310707",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601310707",
-                  "name": "MU vs MU",
-                  "streams": [
-                    {
-                      "id": "st-601310707",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6ff5d070ee",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b23474326d8_18754/index.m3u8?expire=1773891316&sign=9fdf224cb8d0c59f7d76b87d2a9d2c86",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/mu-vs-mu-1200-12-03-2026/601310707"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-506c7e3871",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b234a2326d8_142210/index.m3u8?expire=1773891362&sign=55bbb9cde9caa229beca4ad29910b7e0",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/mu-vs-mu-1200-12-03-2026/601310707"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UAE FA Cup",
-            "team_a": "MU",
-            "team_b": "MU",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/3c0c9b8f8b7ae18893cdd77f27d8bf3d.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/3c0c9b8f8b7ae18893cdd77f27d8bf3d.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5f35fcb8b294.png?v=1773299227",
-            "thumb_key": "thumbs/kaytee-5f35fcb8b294.webp"
-          }
-        }
-      ]
-    },
     {
       "id": "upcoming_bóng_đá",
       "name": "⏳ Sắp Live ⚽ Bóng Đá",
@@ -122,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b1669c6b46e6.png?v=1773299228",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b1669c6b46e6.png?v=1773300693",
             "width": 1600,
             "height": 1200
           },
@@ -177,8 +82,155 @@
             "team_b": "Bangkok United FC",
             "logo_a": "https://cdn.rapid-api.icu/football/team/23dc72567ad2999491dfe56b50f7df62.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/5cd8cd571685287d0cb678034d78b9bd.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b1669c6b46e6.png?v=1773299228",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b1669c6b46e6.png?v=1773300693",
             "thumb_key": "thumbs/kaytee-b1669c6b46e6.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_billiard",
+      "name": "⏳ Sắp Live 🎱 Billiard",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-ff33586d61a2",
+          "name": "🎱 Ngô Đình Nại vs Eddy LEPPENS | 14:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ff33586d61a2.png?v=1773300690",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601310668",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601310668",
+                  "name": "Ngô Đình Nại vs Eddy LEPPENS",
+                  "streams": [
+                    {
+                      "id": "st-601310668",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-77067abcb5",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b23f85326d8_144313/index.m3u8?expire=1773894149&sign=e6b15c3bd0af691d262959334a8be6c0",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/ngo-dinh-nai-vs-eddy-leppens-1430-12-03-2026/601310668"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "PBA-LPBA World Championship 2026",
+            "team_a": "Ngô Đình Nại",
+            "team_b": "Eddy LEPPENS",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/bc05383b76d62cec41784a623e84f806.jpg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/7317123c3ec5c76b8a0be1a954ebf1f4.jpg",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ff33586d61a2.png?v=1773300690",
+            "thumb_key": "thumbs/kaytee-ff33586d61a2.webp"
+          }
+        },
+        {
+          "id": "kaytee-fdd025c7c45c",
+          "name": "🎱 Kim Nam-soo vs Kim Jae-geun | 14:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fdd025c7c45c.png?v=1773300691",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601310674",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601310674",
+                  "name": "Kim Nam-soo vs Kim Jae-geun",
+                  "streams": [
+                    {
+                      "id": "st-601310674",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1000712ce0",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b241c870a68_142246/index.m3u8?expire=1773894728&sign=c5ad8465264588e285edaf3efccee7d0",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/kim-namsoo-vs-kim-jaegeun-1430-12-03-2026/601310674"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "PBA-LPBA World Championship 2026",
+            "team_a": "Kim Nam-soo",
+            "team_b": "Kim Jae-geun",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/cfd5959ac7bda170d700ec867b2d6560.jpg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/2bc5221d5c071b6fe7b3ee7f043f4e2a.jpg",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fdd025c7c45c.png?v=1773300691",
+            "thumb_key": "thumbs/kaytee-fdd025c7c45c.webp"
           }
         }
       ]
