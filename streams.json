@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-12T00:42:11.323780",
+  "updated_at": "2026-03-12T02:51:00.400507",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -18,8 +18,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-5ad1a0742bc8",
-          "name": "⚽ Boca Juniors vs San Lorenzo | 05:45",
+          "id": "kaytee-3b61bbe03aea",
+          "name": "⚽ Atletico Tucuman vs Aldosivi Mar del Plata | 08:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5ad1a0742bc8.png?v=1773276102",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3b61bbe03aea.png?v=1773283853",
             "width": 1600,
             "height": 1200
           },
@@ -41,27 +41,27 @@
           ],
           "sources": [
             {
-              "id": "src-601296808",
+              "id": "src-601296841",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601296808",
-                  "name": "Boca Juniors vs San Lorenzo",
+                  "id": "ct-601296841",
+                  "name": "Atletico Tucuman vs Aldosivi Mar del Plata",
                   "streams": [
                     {
-                      "id": "st-601296808",
+                      "id": "st-601296841",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-f43e55082f",
+                          "id": "lnk-9aa737119d",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b1ebdd70a68_74012/index.m3u8?expire=1773872733&sign=394cae11d7636ed797175f63b7cc4dfd",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b20cbd326d8_73445/index.m3u8?expire=1773881149&sign=f36346fc4290f58967230d467188f606",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/boca-juniors-vs-san-lorenzo-0545-12-03-2026/601296808"
+                              "value": "https://bunchatv1.net/truc-tiep/atletico-tucuman-vs-aldosivi-mar-del-plata-0800-12-03-2026/601296841"
                             },
                             {
                               "key": "User-Agent",
@@ -70,15 +70,15 @@
                           ]
                         },
                         {
-                          "id": "lnk-8dad3b49ab",
+                          "id": "lnk-5b55639757",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://live.alilicloud.com/live/b0770ae044398fcbcfb2adbee40ed972/playlist.m3u8",
+                          "url": "https://live.alilicloud.com/live/456a13aeca48a7275d75b094e04d52af/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/boca-juniors-vs-san-lorenzo-0545-12-03-2026/601296808"
+                              "value": "https://bunchatv1.net/truc-tiep/atletico-tucuman-vs-aldosivi-mar-del-plata-0800-12-03-2026/601296841"
                             },
                             {
                               "key": "User-Agent",
@@ -95,17 +95,17 @@
           ],
           "org_metadata": {
             "league": "Argentine Division 1",
-            "team_a": "Boca Juniors",
-            "team_b": "San Lorenzo",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/9ed2c4f6adc51975cdbd2a93093e6a43.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/65d05eaf7edc601ae236107417b01cbf.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5ad1a0742bc8.png?v=1773276102",
-            "thumb_key": "thumbs/kaytee-5ad1a0742bc8.webp"
+            "team_a": "Atletico Tucuman",
+            "team_b": "Aldosivi Mar del Plata",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/2d87cf3b426597f02435e2c72e8def93.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/086fad2b496bcf474e2df4eed691c6b2.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3b61bbe03aea.png?v=1773283853",
+            "thumb_key": "thumbs/kaytee-3b61bbe03aea.webp"
           }
         },
         {
-          "id": "kaytee-8fe951a9759b",
-          "name": "⚽ Atletico FC vs Orsomarso | 05:45",
+          "id": "kaytee-2b62ead1a2c0",
+          "name": "⚽ Independiente Rivadavia vs Barracas Central | 08:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -113,7 +113,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8fe951a9759b.png?v=1773276105",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2b62ead1a2c0.png?v=1773283853",
             "width": 1600,
             "height": 1200
           },
@@ -127,234 +127,27 @@
           ],
           "sources": [
             {
-              "id": "src-601296811",
+              "id": "src-601296844",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601296811",
-                  "name": "Atletico FC vs Orsomarso",
+                  "id": "ct-601296844",
+                  "name": "Independiente Rivadavia vs Barracas Central",
                   "streams": [
                     {
-                      "id": "st-601296811",
+                      "id": "st-601296844",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-34079d5346",
+                          "id": "lnk-b7876ba527",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live.alilicloud.com/live/d0aa5110b1cd46d09db984897fc5a478/playlist.m3u8",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b20432326d8_124958/index.m3u8?expire=1773878962&sign=8803bd20a77ca94b28756c0a124067c0",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/atletico-fc-vs-orsomarso-0545-12-03-2026/601296811"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Colombian Torneo BetPlay Dimayor",
-            "team_a": "Atletico FC",
-            "team_b": "Orsomarso",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/2efb310d5e0ffe6cd96dcf192ae06624.jpg",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/7f194b2fd96278717d9bedfd872efeb7.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8fe951a9759b.png?v=1773276105",
-            "thumb_key": "thumbs/kaytee-8fe951a9759b.webp"
-          }
-        },
-        {
-          "id": "kaytee-84a57465c391",
-          "name": "⚽ Bahia vs Vitoria BA | 06:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-84a57465c391.png?v=1773276107",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601296817",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601296817",
-                  "name": "Bahia vs Vitoria BA",
-                  "streams": [
-                    {
-                      "id": "st-601296817",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6d177048a1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/982a3c86f5b1adeb287d29370ae963d5/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/bahia-vs-vitoria-ba-0600-12-03-2026/601296817"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Brazilian Serie A",
-            "team_a": "Bahia",
-            "team_b": "Vitoria BA",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/20456802ad5f8243dc282c4650c414e1.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/b44aef0db79a96caff676333b2e5ff7b.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-84a57465c391.png?v=1773276107",
-            "thumb_key": "thumbs/kaytee-84a57465c391.webp"
-          }
-        },
-        {
-          "id": "kaytee-6d6039dad4cc",
-          "name": "⚽ Independiente Yumbo vs Barranquilla FC | 06:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6d6039dad4cc.png?v=1773276109",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601296823",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601296823",
-                  "name": "Independiente Yumbo vs Barranquilla FC",
-                  "streams": [
-                    {
-                      "id": "st-601296823",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-22dc0e2e67",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/2401a944353a4ae73c5e93aecf7d6b66/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/independiente-yumbo-vs-barranquilla-fc-0600-12-03-2026/601296823"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Colombian Torneo BetPlay Dimayor",
-            "team_a": "Independiente Yumbo",
-            "team_b": "Barranquilla FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/f28132d473716d2532150ebf48688925.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/112c1604134a1af9a0b27d1359822977.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6d6039dad4cc.png?v=1773276109",
-            "thumb_key": "thumbs/kaytee-6d6039dad4cc.webp"
-          }
-        },
-        {
-          "id": "kaytee-eeec5c9485cd",
-          "name": "⚽ Nashville vs Inter Miami CF | 06:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-eeec5c9485cd.png?v=1773276111",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601296829",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601296829",
-                  "name": "Nashville vs Inter Miami CF",
-                  "streams": [
-                    {
-                      "id": "st-601296829",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-32d6bf06dc",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b1e5bc326d8_128756/index.m3u8?expire=1773871164&sign=e430593bbb22b98cdd1fb421051775e9",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/nashville-vs-inter-miami-cf-0630-12-03-2026/601296829"
+                              "value": "https://bunchatv1.net/truc-tiep/independiente-rivadavia-vs-barracas-central-0800-12-03-2026/601296844"
                             },
                             {
                               "key": "User-Agent",
@@ -363,15 +156,239 @@
                           ]
                         },
                         {
-                          "id": "lnk-39456f7ba9",
+                          "id": "lnk-1c2b6f79af",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://live.alilicloud.com/live/490419acdf9f0a196e4809f550ec7cb7/playlist.m3u8",
+                          "url": "https://live.alilicloud.com/live/73e939142d6ebf3996780936fbbcccd5/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/nashville-vs-inter-miami-cf-0630-12-03-2026/601296829"
+                              "value": "https://bunchatv1.net/truc-tiep/independiente-rivadavia-vs-barracas-central-0800-12-03-2026/601296844"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Argentine Division 1",
+            "team_a": "Independiente Rivadavia",
+            "team_b": "Barracas Central",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/7e779bba58b944c8cfa786d857430383.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/b8ff3b78b8ff52dbca3b7eb27fb1c1fb.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2b62ead1a2c0.png?v=1773283853",
+            "thumb_key": "thumbs/kaytee-2b62ead1a2c0.webp"
+          }
+        },
+        {
+          "id": "kaytee-82f78721d8bf",
+          "name": "⚽ Saint Louis Athletica (w) vs Puebla (w) | 08:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-82f78721d8bf.png?v=1773283853",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601296847",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601296847",
+                  "name": "Saint Louis Athletica (w) vs Puebla (w)",
+                  "streams": [
+                    {
+                      "id": "st-601296847",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-309b6f24a1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/7086e028769d138790b3628c38ed4f35/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/saint-louis-athletica-w-vs-puebla-w-0800-12-03-2026/601296847"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Mexico Liga MX Femenil",
+            "team_a": "Saint Louis Athletica (w)",
+            "team_b": "Puebla (w)",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/f4cea9ea6b13a776e6b560ad2bf0bbe4.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/be2c1aec1d9a7ccd3b603880311ca150.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-82f78721d8bf.png?v=1773283853",
+            "thumb_key": "thumbs/kaytee-82f78721d8bf.webp"
+          }
+        },
+        {
+          "id": "kaytee-0c217f8f9f57",
+          "name": "⚽ Patriotas FC vs Deportes Quindio | 08:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0c217f8f9f57.png?v=1773283853",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601296850",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601296850",
+                  "name": "Patriotas FC vs Deportes Quindio",
+                  "streams": [
+                    {
+                      "id": "st-601296850",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-545e6cb6f4",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/5706e652b737d64260fc7dc137e0ca12/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/patriotas-fc-vs-deportes-quindio-0800-12-03-2026/601296850"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Colombian Torneo BetPlay Dimayor",
+            "team_a": "Patriotas FC",
+            "team_b": "Deportes Quindio",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/96580e883dc95fa190949d98e2c3e259.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/aac05c0fbd8ec8adb8da8345d288bb07.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0c217f8f9f57.png?v=1773283853",
+            "thumb_key": "thumbs/kaytee-0c217f8f9f57.webp"
+          }
+        },
+        {
+          "id": "kaytee-dd8e7135059f",
+          "name": "⚽ Los Angeles Galaxy vs Mount Pleasant FA | 08:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-dd8e7135059f.png?v=1773283858",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601296853",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601296853",
+                  "name": "Los Angeles Galaxy vs Mount Pleasant FA",
+                  "streams": [
+                    {
+                      "id": "st-601296853",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ff01d592d7",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b20c3270a68_74012/index.m3u8?expire=1773881010&sign=2047cd29cbc9cb57faa62046ad34c2df",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/los-angeles-galaxy-vs-mount-pleasant-fa-0830-12-03-2026/601296853"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-b4f6c53dbd",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/910793c839aa58dc5562d7c3e68c539b/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/los-angeles-galaxy-vs-mount-pleasant-fa-0830-12-03-2026/601296853"
                             },
                             {
                               "key": "User-Agent",
@@ -388,98 +405,12 @@
           ],
           "org_metadata": {
             "league": "CNCF CHL",
-            "team_a": "Nashville",
-            "team_b": "Inter Miami CF",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/eafb707bc6f8028dc71923176915c8e3.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/976fe1d29c112f4baeb844cdda2f04cb.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-eeec5c9485cd.png?v=1773276111",
-            "thumb_key": "thumbs/kaytee-eeec5c9485cd.webp"
-          }
-        },
-        {
-          "id": "kaytee-4bd204e0b8be",
-          "name": "⚽ Deportes Tolima vs O.Higgins | 07:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4bd204e0b8be.png?v=1773276131",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601299937",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601299937",
-                  "name": "Deportes Tolima vs O.Higgins",
-                  "streams": [
-                    {
-                      "id": "st-601299937",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ecdca5dfd2",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b2004670a68_28/index.m3u8?expire=1773877958&sign=991b9bbd86dae862fa8b757167f5af4a",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/deportes-tolima-vs-ohiggins-0730-12-03-2026/601299937"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-fb6d2d7323",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/90c4932c54e627bc4c3dd67bc39c9aa0/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/deportes-tolima-vs-ohiggins-0730-12-03-2026/601299937"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "CONMEBOL Copa Libertadores",
-            "team_a": "Deportes Tolima",
-            "team_b": "O.Higgins",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/40f17f08ff7bb44a641273044db78c64.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/5b7e2bd8e447df96759bba3e225960ea.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4bd204e0b8be.png?v=1773276131",
-            "thumb_key": "thumbs/kaytee-4bd204e0b8be.webp"
+            "team_a": "Los Angeles Galaxy",
+            "team_b": "Mount Pleasant FA",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/8ef755c4d2e1aed96dc5d291977c1043.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/bd204b38f3037dcd4478b7782e08519c.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-dd8e7135059f.png?v=1773283858",
+            "thumb_key": "thumbs/kaytee-dd8e7135059f.webp"
           }
         }
       ]
@@ -492,8 +423,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-3d8d6a8ff941",
-          "name": "🏀 Orlando Magic vs Cleveland Cavaliers | 06:30",
+          "id": "kaytee-96d7c8da33c2",
+          "name": "🏀 Utah Jazz vs New York Knicks | 08:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -501,7 +432,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3d8d6a8ff941.png?v=1773276127",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-96d7c8da33c2.png?v=1773283856",
             "width": 1600,
             "height": 1200
           },
@@ -515,27 +446,27 @@
           ],
           "sources": [
             {
-              "id": "src-601298752",
+              "id": "src-601298758",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601298752",
-                  "name": "Orlando Magic vs Cleveland Cavaliers",
+                  "id": "ct-601298758",
+                  "name": "Utah Jazz vs New York Knicks",
                   "streams": [
                     {
-                      "id": "st-601298752",
+                      "id": "st-601298758",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-8061e470ed",
+                          "id": "lnk-6615577d04",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b1f7a770a68_42127/index.m3u8?expire=1773875751&sign=6455445921bf90bef664430910fadd99",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b20cd170a68_72787/index.m3u8?expire=1773881169&sign=98f920575d80f52633e637cd6a1b95db",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/orlando-magic-vs-cleveland-cavaliers-0630-12-03-2026/601298752"
+                              "value": "https://bunchatv1.net/truc-tiep/utah-jazz-vs-new-york-knicks-0800-12-03-2026/601298758"
                             },
                             {
                               "key": "User-Agent",
@@ -552,17 +483,17 @@
           ],
           "org_metadata": {
             "league": "NBA",
-            "team_a": "Orlando Magic",
-            "team_b": "Cleveland Cavaliers",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/85e76f47cc49038ac802bd67d50c215e.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/6a622d89b1921efe3b8700ae976b59dc.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3d8d6a8ff941.png?v=1773276127",
-            "thumb_key": "thumbs/kaytee-3d8d6a8ff941.webp"
+            "team_a": "Utah Jazz",
+            "team_b": "New York Knicks",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/457b7c6f4725217747436c334085dfb5.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/c970d7df9c0cf1411c1322724ca253d9.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-96d7c8da33c2.png?v=1773283856",
+            "thumb_key": "thumbs/kaytee-96d7c8da33c2.webp"
           }
         },
         {
-          "id": "kaytee-b43b0accc5b3",
-          "name": "🏀 New Orleans Pelicans vs Toronto Raptors | 07:00",
+          "id": "kaytee-b03c88aed756",
+          "name": "🏀 Denver Nuggets vs Houston Rockets | 09:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -570,7 +501,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b43b0accc5b3.png?v=1773276129",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b03c88aed756.png?v=1773283859",
             "width": 1600,
             "height": 1200
           },
@@ -584,27 +515,27 @@
           ],
           "sources": [
             {
-              "id": "src-601298755",
+              "id": "src-601298761",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601298755",
-                  "name": "New Orleans Pelicans vs Toronto Raptors",
+                  "id": "ct-601298761",
+                  "name": "Denver Nuggets vs Houston Rockets",
                   "streams": [
                     {
-                      "id": "st-601298755",
+                      "id": "st-601298761",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-169b903ef9",
+                          "id": "lnk-cadf1160eb",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b20319326d8_4733/index.m3u8?expire=1773878681&sign=cb30609c0b289c3ee5c2b095630b1c07",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b221cd70a68_42127/index.m3u8?expire=1773886541&sign=54d4186394ed619a196a461539cea8cb",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/new-orleans-pelicans-vs-toronto-raptors-0700-12-03-2026/601298755"
+                              "value": "https://bunchatv1.net/truc-tiep/denver-nuggets-vs-houston-rockets-0900-12-03-2026/601298761"
                             },
                             {
                               "key": "User-Agent",
@@ -621,12 +552,81 @@
           ],
           "org_metadata": {
             "league": "NBA",
-            "team_a": "New Orleans Pelicans",
-            "team_b": "Toronto Raptors",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/ff600b1a2ff30791481e39710bd35e83.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/37dcfa88b83f00183d5fd92eac098699.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b43b0accc5b3.png?v=1773276129",
-            "thumb_key": "thumbs/kaytee-b43b0accc5b3.webp"
+            "team_a": "Denver Nuggets",
+            "team_b": "Houston Rockets",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/d734dd7151e82d5c185ed20968505758.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/f2ccea244e52871508761dd546e14a53.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b03c88aed756.png?v=1773283859",
+            "thumb_key": "thumbs/kaytee-b03c88aed756.webp"
+          }
+        },
+        {
+          "id": "kaytee-cbaa8749257c",
+          "name": "🏀 Los Angeles Clippers vs Minnesota Timberwolves | 09:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cbaa8749257c.png?v=1773283860",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601298770",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601298770",
+                  "name": "Los Angeles Clippers vs Minnesota Timberwolves",
+                  "streams": [
+                    {
+                      "id": "st-601298770",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1bb2afb0fb",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b22438326d8_4733/index.m3u8?expire=1773887160&sign=13cbf89ad2137042c98bcf6061c265ef",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/los-angeles-clippers-vs-minnesota-timberwolves-0930-12-03-2026/601298770"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NBA",
+            "team_a": "Los Angeles Clippers",
+            "team_b": "Minnesota Timberwolves",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/166d854bec894fccec7fec32048f4094.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/5d206ae1f29b3de6ba81f7a06cc990d2.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cbaa8749257c.png?v=1773283860",
+            "thumb_key": "thumbs/kaytee-cbaa8749257c.webp"
           }
         }
       ]
@@ -639,8 +639,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-92686414578d",
-          "name": "🎾 Kartal S. vs Rybakina E. | 06:30",
+          "id": "kaytee-bcc0b52a8e3a",
+          "name": "🎾 Djokovic N. vs Draper J. | 08:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -648,7 +648,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-92686414578d.png?v=1773276128",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bcc0b52a8e3a.png?v=1773283857",
             "width": 1600,
             "height": 1200
           },
@@ -662,27 +662,27 @@
           ],
           "sources": [
             {
-              "id": "src-601309492",
+              "id": "src-601309480",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601309492",
-                  "name": "Kartal S. vs Rybakina E.",
+                  "id": "ct-601309480",
+                  "name": "Djokovic N. vs Draper J.",
                   "streams": [
                     {
-                      "id": "st-601309492",
+                      "id": "st-601309480",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-f61bddf2d7",
+                          "id": "lnk-fa07c9d66c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b1ff7a70a68_142210/index.m3u8?expire=1773877754&sign=dd9aa1bccfd61ee09c40cb4351f7245f",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b20da370a68_110198/index.m3u8?expire=1773881379&sign=321139616a3df438a799c9f9c71c8474",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/kartal-s-vs-rybakina-e-0630-12-03-2026/601309492"
+                              "value": "https://bunchatv1.net/truc-tiep/djokovic-n-vs-draper-j-0800-12-03-2026/601309480"
                             },
                             {
                               "key": "User-Agent",
@@ -698,13 +698,13 @@
             }
           ],
           "org_metadata": {
-            "league": "WTA Indian Wells",
-            "team_a": "Kartal S.",
-            "team_b": "Rybakina E.",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/c07272489fa7fb5cf0fc9fae20a063e7.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/9150cb7acdb6e77befccfd4597723e43.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-92686414578d.png?v=1773276128",
-            "thumb_key": "thumbs/kaytee-92686414578d.webp"
+            "league": "ATP Indian Wells",
+            "team_a": "Djokovic N.",
+            "team_b": "Draper J.",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/f8df3dbefbdb3a11eb7c7f80269e79a7.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/6be1917b420666d03310bb551ffaf605.webp",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bcc0b52a8e3a.png?v=1773283857",
+            "thumb_key": "thumbs/kaytee-bcc0b52a8e3a.webp"
           }
         }
       ]
