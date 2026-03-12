@@ -8,8 +8,103 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-12T07:55:08.620768",
+  "updated_at": "2026-03-12T08:03:54.903576",
   "groups": [
+    {
+      "id": "live_bóng_đá",
+      "name": "🔴 Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-5f35fcb8b294",
+          "name": "⚽ MU vs MU | 12:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5f35fcb8b294.png?v=1773302631",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601310707",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601310707",
+                  "name": "MU vs MU",
+                  "streams": [
+                    {
+                      "id": "st-601310707",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6ff5d070ee",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b23474326d8_18754/index.m3u8?expire=1773891316&sign=9fdf224cb8d0c59f7d76b87d2a9d2c86",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/mu-vs-mu-1200-12-03-2026/601310707"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-506c7e3871",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b234a2326d8_142210/index.m3u8?expire=1773891362&sign=55bbb9cde9caa229beca4ad29910b7e0",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/mu-vs-mu-1200-12-03-2026/601310707"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UAE FA Cup",
+            "team_a": "MU",
+            "team_b": "MU",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/3c0c9b8f8b7ae18893cdd77f27d8bf3d.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/3c0c9b8f8b7ae18893cdd77f27d8bf3d.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5f35fcb8b294.png?v=1773302631",
+            "thumb_key": "thumbs/kaytee-5f35fcb8b294.webp"
+          }
+        }
+      ]
+    },
     {
       "id": "live_billiard",
       "name": "🔴 Live 🎱 Billiard",
@@ -27,7 +122,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ff33586d61a2.png?v=1773302106",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ff33586d61a2.png?v=1773302632",
             "width": 1600,
             "height": 1200
           },
@@ -82,7 +177,7 @@
             "team_b": "Eddy LEPPENS",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/bc05383b76d62cec41784a623e84f806.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/7317123c3ec5c76b8a0be1a954ebf1f4.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ff33586d61a2.png?v=1773302106",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ff33586d61a2.png?v=1773302632",
             "thumb_key": "thumbs/kaytee-ff33586d61a2.webp"
           }
         },
@@ -96,7 +191,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fdd025c7c45c.png?v=1773302107",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fdd025c7c45c.png?v=1773302633",
             "width": 1600,
             "height": 1200
           },
@@ -151,7 +246,7 @@
             "team_b": "Kim Jae-geun",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/cfd5959ac7bda170d700ec867b2d6560.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/2bc5221d5c071b6fe7b3ee7f043f4e2a.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fdd025c7c45c.png?v=1773302107",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fdd025c7c45c.png?v=1773302633",
             "thumb_key": "thumbs/kaytee-fdd025c7c45c.webp"
           }
         }
@@ -174,7 +269,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b1669c6b46e6.png?v=1773302108",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b1669c6b46e6.png?v=1773302634",
             "width": 1600,
             "height": 1200
           },
@@ -229,7 +324,7 @@
             "team_b": "Bangkok United FC",
             "logo_a": "https://cdn.rapid-api.icu/football/team/23dc72567ad2999491dfe56b50f7df62.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/5cd8cd571685287d0cb678034d78b9bd.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b1669c6b46e6.png?v=1773302108",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b1669c6b46e6.png?v=1773302634",
             "thumb_key": "thumbs/kaytee-b1669c6b46e6.webp"
           }
         }
