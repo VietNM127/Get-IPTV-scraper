@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-12T14:35:37.709061",
+  "updated_at": "2026-03-12T15:13:08.908844",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,230 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-c70944281ad7",
-          "name": "⚽ Boluspor vs Corum Belediyespor | 20:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c70944281ad7.png?v=1773326128",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601296901",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601296901",
-                  "name": "Boluspor vs Corum Belediyespor",
-                  "streams": [
-                    {
-                      "id": "st-601296901",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-924abd87a1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b2b13b70a68_88186/index.m3u8?expire=1773923259&sign=bd348e159da9cefccffe35b1d915248f",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/boluspor-vs-corum-belediyespor-2000-12-03-2026/601296901"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-fc031506f1",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/9a6c7fedd3a5fae7a35dd7610c3bb38c/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/boluspor-vs-corum-belediyespor-2000-12-03-2026/601296901"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Turkish First League",
-            "team_a": "Boluspor",
-            "team_b": "Corum Belediyespor",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/e31af2ae24f05ee698546bbbd8e1c02c.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/0f2a369af39d8b5f8de389cca2a217ad.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c70944281ad7.png?v=1773326128",
-            "thumb_key": "thumbs/kaytee-c70944281ad7.webp"
-          }
-        },
-        {
-          "id": "kaytee-85fa55161485",
-          "name": "⚽ Le Messager Ngozi vs Musongati FC | 20:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-85fa55161485.png?v=1773326129",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601299979",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601299979",
-                  "name": "Le Messager Ngozi vs Musongati FC",
-                  "streams": [
-                    {
-                      "id": "st-601299979",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d610e235b3",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/eb5db287631463ab2cdbfc6a492baba4/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/le-messager-ngozi-vs-musongati-fc-2000-12-03-2026/601299979"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Burundi Premier League",
-            "team_a": "Le Messager Ngozi",
-            "team_b": "Musongati FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/657b244fb444661eb3ada9d23723d4ca.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/88897253e19572f9733a6cb98ce0439d.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-85fa55161485.png?v=1773326129",
-            "thumb_key": "thumbs/kaytee-85fa55161485.webp"
-          }
-        },
-        {
-          "id": "kaytee-1205932eecd3",
-          "name": "⚽ Chanmari FC vs Dempo | 20:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1205932eecd3.png?v=1773326132",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601296913",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601296913",
-                  "name": "Chanmari FC vs Dempo",
-                  "streams": [
-                    {
-                      "id": "st-601296913",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fe580f6dd9",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b2aea3326d8_133172/index.m3u8?expire=1773922595&sign=ccccd0083d02baf2d4210fc2b8f8f271",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/chanmari-fc-vs-dempo-2000-12-03-2026/601296913"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Indian League Division 1",
-            "team_a": "Chanmari FC",
-            "team_b": "Dempo",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/205111004b08c5b99ee531ade038964e.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/23184d4df8fb45f4e0de26ce3a2a99c4.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1205932eecd3.png?v=1773326132",
-            "thumb_key": "thumbs/kaytee-1205932eecd3.webp"
-          }
-        },
         {
           "id": "kaytee-92129808f107",
           "name": "⚽ Phuong Nam Pham vs Michael Thorn | 20:30",
@@ -251,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-92129808f107.png?v=1773326132",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-92129808f107.png?v=1773328380",
             "width": 1600,
             "height": 1200
           },
@@ -306,146 +82,8 @@
             "team_b": "Michael Thorn",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/2b9284f83fdde8bfbc1009aa1d4fde3a.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/8358a3647eb23c68dc72a2f931d8d80e.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-92129808f107.png?v=1773326132",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-92129808f107.png?v=1773328380",
             "thumb_key": "thumbs/kaytee-92129808f107.webp"
-          }
-        },
-        {
-          "id": "kaytee-b9e8544c9125",
-          "name": "⚽ Nguyễn Thùy Linh vs Tomoka MIYAZAKI | 20:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b9e8544c9125.png?v=1773326133",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601310548",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601310548",
-                  "name": "Nguyễn Thùy Linh vs Tomoka MIYAZAKI",
-                  "streams": [
-                    {
-                      "id": "st-601310548",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2c3da346cf",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b2874f326d8_18754/index.m3u8?expire=1773912527&sign=fc73880ac7f6c827a89f8278e9862677",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/nguyen-thuy-linh-vs-tomoka-miyazaki-2030-12-03-2026/601310548"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Sân 4 - YONEX Swiss Open 2026",
-            "team_a": "Nguyễn Thùy Linh",
-            "team_b": "Tomoka MIYAZAKI",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/665a2b534a0a474142896ee2e1e73ad7.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/772e2eff2e5357d2c68f4cc6467eccef.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b9e8544c9125.png?v=1773326133",
-            "thumb_key": "thumbs/kaytee-b9e8544c9125.webp"
-          }
-        },
-        {
-          "id": "kaytee-42be87de4fe2",
-          "name": "⚽ Dewa United FC vs Manila Digger FC | 20:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-42be87de4fe2.png?v=1773326134",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601296907",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601296907",
-                  "name": "Dewa United FC vs Manila Digger FC",
-                  "streams": [
-                    {
-                      "id": "st-601296907",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-97ae9a7a63",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/188a8a0d1de42a1994f1ac5d6b5744ff/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/dewa-united-fc-vs-manila-digger-fc-2030-12-03-2026/601296907"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Challenge League",
-            "team_a": "Dewa United FC",
-            "team_b": "Manila Digger FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/76db1148a0e8a7c8e98ab05814cab691.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/9d79080ca3ed7143abccd7eda30cf692.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-42be87de4fe2.png?v=1773326134",
-            "thumb_key": "thumbs/kaytee-42be87de4fe2.webp"
           }
         },
         {
@@ -458,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e7ae1fb79b4f.png?v=1773326135",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e7ae1fb79b4f.png?v=1773328381",
             "width": 1600,
             "height": 1200
           },
@@ -530,13 +168,13 @@
             "team_b": "Bali United",
             "logo_a": "https://cdn.rapid-api.icu/football/team/46e87ccb8a5cacc290719d822b9f8fe1.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/09fe2ecf88f68970da755f8655d5da8a.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e7ae1fb79b4f.png?v=1773326135",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e7ae1fb79b4f.png?v=1773328381",
             "thumb_key": "thumbs/kaytee-e7ae1fb79b4f.webp"
           }
         },
         {
-          "id": "kaytee-e30574c9eeae",
-          "name": "⚽ KANG K. X / A TAI vs Leo Rolly CARNANDO / Bagas MAULANA | 20:30",
+          "id": "kaytee-42be87de4fe2",
+          "name": "⚽ Dewa United FC vs Manila Digger FC | 20:30",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -544,7 +182,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e30574c9eeae.png?v=1773326136",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-42be87de4fe2.png?v=1773328383",
             "width": 1600,
             "height": 1200
           },
@@ -558,27 +196,27 @@
           ],
           "sources": [
             {
-              "id": "src-601310533",
+              "id": "src-601296907",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601310533",
-                  "name": "KANG K. X / A TAI vs Leo Rolly CARNANDO / Bagas MAULANA",
+                  "id": "ct-601296907",
+                  "name": "Dewa United FC vs Manila Digger FC",
                   "streams": [
                     {
-                      "id": "st-601310533",
+                      "id": "st-601296907",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-539fc81aa9",
+                          "id": "lnk-97ae9a7a63",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b2ce1070a68_19013/index.m3u8?expire=1773930640&sign=e8bb83d1b6adc0d0e66887aef0beb8a2",
+                          "url": "https://live.alilicloud.com/live/188a8a0d1de42a1994f1ac5d6b5744ff/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/kang-k-x--a-tai-vs-leo-rolly-carnando--bagas-maulana-2030-12-03-2026/601310533"
+                              "value": "https://bunchatv1.net/truc-tiep/dewa-united-fc-vs-manila-digger-fc-2030-12-03-2026/601296907"
                             },
                             {
                               "key": "User-Agent",
@@ -594,13 +232,13 @@
             }
           ],
           "org_metadata": {
-            "league": "Sân 1 - YONEX Swiss Open 2026",
-            "team_a": "KANG K. X / A TAI",
-            "team_b": "Leo Rolly CARNANDO / Bagas MAULANA",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/d5f07dc4805b8e30fe1795695be061fb.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/4446b82fe10dc6bf86cf89041be3b9a6.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e30574c9eeae.png?v=1773326136",
-            "thumb_key": "thumbs/kaytee-e30574c9eeae.webp"
+            "league": "AFC Challenge League",
+            "team_a": "Dewa United FC",
+            "team_b": "Manila Digger FC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/76db1148a0e8a7c8e98ab05814cab691.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/9d79080ca3ed7143abccd7eda30cf692.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-42be87de4fe2.png?v=1773328383",
+            "thumb_key": "thumbs/kaytee-42be87de4fe2.webp"
           }
         },
         {
@@ -613,7 +251,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fdc5c7226c11.png?v=1773326137",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fdc5c7226c11.png?v=1773328383",
             "width": 1600,
             "height": 1200
           },
@@ -668,8 +306,163 @@
             "team_b": "Yudai OKIMOTO",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/2a7eaccfbb46008900317ca65afa4c83.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/032ad96f58c825a4c5f6db6c39295ba8.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fdc5c7226c11.png?v=1773326137",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fdc5c7226c11.png?v=1773328383",
             "thumb_key": "thumbs/kaytee-fdc5c7226c11.webp"
+          }
+        },
+        {
+          "id": "kaytee-e30574c9eeae",
+          "name": "⚽ Kaloyana NALBANTOVA vs LIN Hsiang Ti | 21:25",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e30574c9eeae.png?v=1773328384",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601310533",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601310533",
+                  "name": "Kaloyana NALBANTOVA vs LIN Hsiang Ti",
+                  "streams": [
+                    {
+                      "id": "st-601310533",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-539fc81aa9",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b2ce1070a68_19013/index.m3u8?expire=1773930640&sign=e8bb83d1b6adc0d0e66887aef0beb8a2",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/kaloyana-nalbantova-vs-lin-hsiang-ti-2125-12-03-2026/601310533"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sân 1 - YONEX Swiss Open 2026",
+            "team_a": "Kaloyana NALBANTOVA",
+            "team_b": "LIN Hsiang Ti",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/b6418b3c0bdde504b951102b9193655a.jpg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/c6c829ab8e9e9cde43ecd78a56a74f78.jpg",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e30574c9eeae.png?v=1773328384",
+            "thumb_key": "thumbs/kaytee-e30574c9eeae.webp"
+          }
+        },
+        {
+          "id": "kaytee-dba9153c6708",
+          "name": "⚽ FC OKMK Olmaliq vs Sogdiana Jizak | 21:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-dba9153c6708.png?v=1773328386",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601296937",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601296937",
+                  "name": "FC OKMK Olmaliq vs Sogdiana Jizak",
+                  "streams": [
+                    {
+                      "id": "st-601296937",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9685df054e",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b2c83770a68_72787/index.m3u8?expire=1773929143&sign=af3ed6179f77a797b72451506c46b4e8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/fc-okmk-olmaliq-vs-sogdiana-jizak-2130-12-03-2026/601296937"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-33ed720eb3",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/ed8db79d3e0760ddc02a3cb88a7fe185/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/fc-okmk-olmaliq-vs-sogdiana-jizak-2130-12-03-2026/601296937"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Uzbekistan Super League",
+            "team_a": "FC OKMK Olmaliq",
+            "team_b": "Sogdiana Jizak",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/b7ceab59e1e266d0fd3245eb9d3f1f25.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/0eff3f54d4407ac2e90783bc6654e657.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-dba9153c6708.png?v=1773328386",
+            "thumb_key": "thumbs/kaytee-dba9153c6708.webp"
           }
         },
         {
@@ -682,7 +475,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-dd0d27d88c44.png?v=1773326137",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-dd0d27d88c44.png?v=1773328386",
             "width": 1600,
             "height": 1200
           },
@@ -737,8 +530,163 @@
             "team_b": "Eloi ADAM / Leo ROSSI",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/f9e36c84d4904351fae13499da6e7d61.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/ab19817920edc45247bcc3b248cbbf61.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-dd0d27d88c44.png?v=1773326137",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-dd0d27d88c44.png?v=1773328386",
             "thumb_key": "thumbs/kaytee-dd0d27d88c44.webp"
+          }
+        },
+        {
+          "id": "kaytee-b9e8544c9125",
+          "name": "⚽ CHEN Cheng Kuan / LIN Bing-We vs AMSAKARUNAN /  M.R. ARJUN | 21:57",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b9e8544c9125.png?v=1773328387",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601310548",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601310548",
+                  "name": "CHEN Cheng Kuan / LIN Bing-We vs AMSAKARUNAN /  M.R. ARJUN",
+                  "streams": [
+                    {
+                      "id": "st-601310548",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2c3da346cf",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b2874f326d8_18754/index.m3u8?expire=1773912527&sign=fc73880ac7f6c827a89f8278e9862677",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/chen-cheng-kuan--lin-bingwe-vs-amsakarunan---mr-arjun-2157-12-03-2026/601310548"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sân 4 - YONEX Swiss Open 2026",
+            "team_a": "CHEN Cheng Kuan / LIN Bing-We",
+            "team_b": "AMSAKARUNAN /  M.R. ARJUN",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/25b04dd413a754856fb3fb726580f3ca.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/cb6fc22f73d81e749f040f75f006fe90.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b9e8544c9125.png?v=1773328387",
+            "thumb_key": "thumbs/kaytee-b9e8544c9125.webp"
+          }
+        },
+        {
+          "id": "kaytee-866cdf6ce71f",
+          "name": "⚽ Dinamo Samarqand vs Nasaf Qarshi | 22:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-866cdf6ce71f.png?v=1773328388",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601296949",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601296949",
+                  "name": "Dinamo Samarqand vs Nasaf Qarshi",
+                  "streams": [
+                    {
+                      "id": "st-601296949",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ecc47c16b5",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b2d56770a68_88186/index.m3u8?expire=1773932519&sign=1800d8734bbde88d07e0ef1d04a441c0",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/dinamo-samarqand-vs-nasaf-qarshi-2200-12-03-2026/601296949"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-94979ba3d3",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/9ee2a565fcf8131092c67ba2d69d8852/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/dinamo-samarqand-vs-nasaf-qarshi-2200-12-03-2026/601296949"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Uzbekistan Super League",
+            "team_a": "Dinamo Samarqand",
+            "team_b": "Nasaf Qarshi",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/e5e4a6b6057e14af859c9d2bca5986a8.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/bef3a45bcf56447c8acfb7b077820022.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-866cdf6ce71f.png?v=1773328388",
+            "thumb_key": "thumbs/kaytee-866cdf6ce71f.webp"
           }
         }
       ]
@@ -760,7 +708,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ff33586d61a2.png?v=1773326127",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ff33586d61a2.png?v=1773328380",
             "width": 1600,
             "height": 1200
           },
@@ -815,7 +763,7 @@
             "team_b": "Kim Young-won",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/309d2853918611fcfe9da31a28328e58.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/810eb61673c3d74fc757b37bb3167104.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ff33586d61a2.png?v=1773326127",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ff33586d61a2.png?v=1773328380",
             "thumb_key": "thumbs/kaytee-ff33586d61a2.webp"
           }
         }
