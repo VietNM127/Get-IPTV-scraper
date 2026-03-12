@@ -8,184 +8,11 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-12T04:52:24.025026",
+  "updated_at": "2026-03-12T05:37:11.403001",
   "groups": [
     {
       "id": "live_bóng_đá",
       "name": "🔴 Live ⚽ Bóng Đá",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-5dcae39469e4",
-          "name": "⚽ San Diego FC vs Toluca | 10:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5dcae39469e4.png?v=1773291140",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601296862",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601296862",
-                  "name": "San Diego FC vs Toluca",
-                  "streams": [
-                    {
-                      "id": "st-601296862",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-53d3f2dc8c",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b22d58326d8_136682/index.m3u8?expire=1773889496&sign=83ddbaa2f52793bba1e95712a1299de4",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/san-diego-fc-vs-toluca-1030-12-03-2026/601296862"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-4ac7e839a3",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/7cb6d48f22f2f10342b17aefc67f1cf1/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/san-diego-fc-vs-toluca-1030-12-03-2026/601296862"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "CNCF CHL",
-            "team_a": "San Diego FC",
-            "team_b": "Toluca",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/4431a6b60ebf9369297717921a290687.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/725ccd5793be6b4f8dd917170dd17d04.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5dcae39469e4.png?v=1773291140",
-            "thumb_key": "thumbs/kaytee-5dcae39469e4.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "live_bóng_rổ",
-      "name": "🔴 Live 🏀 Bóng Rổ",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-cbaa8749257c",
-          "name": "🏀 Los Angeles Clippers vs Minnesota Timberwolves | 09:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cbaa8749257c.png?v=1773291138",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601298770",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601298770",
-                  "name": "Los Angeles Clippers vs Minnesota Timberwolves",
-                  "streams": [
-                    {
-                      "id": "st-601298770",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1bb2afb0fb",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b22438326d8_4733/index.m3u8?expire=1773887160&sign=13cbf89ad2137042c98bcf6061c265ef",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/los-angeles-clippers-vs-minnesota-timberwolves-0930-12-03-2026/601298770"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "NBA",
-            "team_a": "Los Angeles Clippers",
-            "team_b": "Minnesota Timberwolves",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/166d854bec894fccec7fec32048f4094.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/5d206ae1f29b3de6ba81f7a06cc990d2.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cbaa8749257c.png?v=1773291138",
-            "thumb_key": "thumbs/kaytee-cbaa8749257c.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "upcoming_bóng_đá",
-      "name": "⏳ Sắp Live ⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -200,16 +27,16 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5f35fcb8b294.png?v=1773291142",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5f35fcb8b294.png?v=1773293830",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "⏳ Sắp Live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -272,10 +99,166 @@
             "team_b": "MU",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/3c0c9b8f8b7ae18893cdd77f27d8bf3d.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/3c0c9b8f8b7ae18893cdd77f27d8bf3d.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5f35fcb8b294.png?v=1773291142",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5f35fcb8b294.png?v=1773293830",
             "thumb_key": "thumbs/kaytee-5f35fcb8b294.webp"
           }
+        }
+      ]
+    },
+    {
+      "id": "live_billiard",
+      "name": "🔴 Live 🎱 Billiard",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-ff33586d61a2",
+          "name": "🎱 Mã Minh Cẩm vs Kim Im-gwon | 12:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ff33586d61a2.png?v=1773293828",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601310668",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601310668",
+                  "name": "Mã Minh Cẩm vs Kim Im-gwon",
+                  "streams": [
+                    {
+                      "id": "st-601310668",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-77067abcb5",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b23f85326d8_144313/index.m3u8?expire=1773894149&sign=e6b15c3bd0af691d262959334a8be6c0",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/ma-minh-cam-vs-kim-imgwon-1200-12-03-2026/601310668"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "PBA-LPBA World Championship 2026",
+            "team_a": "Mã Minh Cẩm",
+            "team_b": "Kim Im-gwon",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/17229b3c2b3940c79bd8396c4a002209.jpg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/4c87577d6db11e3e92044f16c5c6aa5d.jpg",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ff33586d61a2.png?v=1773293828",
+            "thumb_key": "thumbs/kaytee-ff33586d61a2.webp"
+          }
         },
+        {
+          "id": "kaytee-fdd025c7c45c",
+          "name": "🎱 Zapata vs Nguyễn Huỳnh Phương Linh | 12:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fdd025c7c45c.png?v=1773293828",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601310674",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601310674",
+                  "name": "Zapata vs Nguyễn Huỳnh Phương Linh",
+                  "streams": [
+                    {
+                      "id": "st-601310674",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1000712ce0",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b241c870a68_142246/index.m3u8?expire=1773894728&sign=c5ad8465264588e285edaf3efccee7d0",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/zapata-vs-nguyen-huynh-phuong-linh-1200-12-03-2026/601310674"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "PBA-LPBA World Championship 2026",
+            "team_a": "Zapata",
+            "team_b": "Nguyễn Huỳnh Phương Linh",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/87004a03099380f159802dc21c141c7b.jpg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/51f783ef492c6c263c37e25e825556c4.jpg",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fdd025c7c45c.png?v=1773293828",
+            "thumb_key": "thumbs/kaytee-fdd025c7c45c.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_bóng_đá",
+      "name": "⏳ Sắp Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
         {
           "id": "kaytee-b1669c6b46e6",
           "name": "⚽ Tampines Rovers FC vs Bangkok United FC | 19:15",
@@ -286,7 +269,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b1669c6b46e6.png?v=1773291144",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b1669c6b46e6.png?v=1773293831",
             "width": 1600,
             "height": 1200
           },
@@ -341,155 +324,8 @@
             "team_b": "Bangkok United FC",
             "logo_a": "https://cdn.rapid-api.icu/football/team/23dc72567ad2999491dfe56b50f7df62.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/5cd8cd571685287d0cb678034d78b9bd.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b1669c6b46e6.png?v=1773291144",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b1669c6b46e6.png?v=1773293831",
             "thumb_key": "thumbs/kaytee-b1669c6b46e6.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "upcoming_billiard",
-      "name": "⏳ Sắp Live 🎱 Billiard",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-ff33586d61a2",
-          "name": "🎱 Mã Minh Cẩm vs Kim Im-gwon | 12:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ff33586d61a2.png?v=1773291140",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Sắp Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601310668",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601310668",
-                  "name": "Mã Minh Cẩm vs Kim Im-gwon",
-                  "streams": [
-                    {
-                      "id": "st-601310668",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-77067abcb5",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b23f85326d8_144313/index.m3u8?expire=1773894149&sign=e6b15c3bd0af691d262959334a8be6c0",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/ma-minh-cam-vs-kim-imgwon-1200-12-03-2026/601310668"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "PBA-LPBA World Championship 2026",
-            "team_a": "Mã Minh Cẩm",
-            "team_b": "Kim Im-gwon",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/17229b3c2b3940c79bd8396c4a002209.jpg",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/4c87577d6db11e3e92044f16c5c6aa5d.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ff33586d61a2.png?v=1773291140",
-            "thumb_key": "thumbs/kaytee-ff33586d61a2.webp"
-          }
-        },
-        {
-          "id": "kaytee-fdd025c7c45c",
-          "name": "🎱 Zapata vs Nguyễn Huỳnh Phương Linh | 12:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fdd025c7c45c.png?v=1773291141",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Sắp Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601310674",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601310674",
-                  "name": "Zapata vs Nguyễn Huỳnh Phương Linh",
-                  "streams": [
-                    {
-                      "id": "st-601310674",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1000712ce0",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b241c870a68_142246/index.m3u8?expire=1773894728&sign=c5ad8465264588e285edaf3efccee7d0",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/zapata-vs-nguyen-huynh-phuong-linh-1200-12-03-2026/601310674"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "PBA-LPBA World Championship 2026",
-            "team_a": "Zapata",
-            "team_b": "Nguyễn Huỳnh Phương Linh",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/87004a03099380f159802dc21c141c7b.jpg",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/51f783ef492c6c263c37e25e825556c4.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fdd025c7c45c.png?v=1773291141",
-            "thumb_key": "thumbs/kaytee-fdd025c7c45c.webp"
           }
         }
       ]
