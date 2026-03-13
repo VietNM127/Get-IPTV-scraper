@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-13T04:27:17.820704",
+  "updated_at": "2026-03-13T05:04:27.533926",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4d0c02ab1287.png?v=1773376032",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4d0c02ab1287.png?v=1773378261",
             "width": 1600,
             "height": 1200
           },
@@ -99,7 +99,7 @@
             "team_b": "Monterrey (w)",
             "logo_a": "https://cdn.rapid-api.icu/football/team/c87378cb2b4fd7ec95945b863e2e75c2.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/c32ddb0be3a23ceca9a2ccfb599438eb.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4d0c02ab1287.png?v=1773376032",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4d0c02ab1287.png?v=1773378261",
             "thumb_key": "thumbs/kaytee-4d0c02ab1287.webp"
           }
         },
@@ -113,7 +113,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cfeb060a4265.png?v=1773376034",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cfeb060a4265.png?v=1773378262",
             "width": 1600,
             "height": 1200
           },
@@ -167,9 +167,95 @@
             "team_a": "Inter Kerala Women",
             "team_b": "Kerala United (W)",
             "logo_a": "https://cdn.rapid-api.icu/football/team/b79d64d9d25ed5e9ff53a6f53d425e61.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/596373bb8db13b6203c121e8487c7f0b.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cfeb060a4265.png?v=1773376034",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/596373bb8db13b6203c121e8487c7f0b.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cfeb060a4265.png?v=1773378262",
             "thumb_key": "thumbs/kaytee-cfeb060a4265.webp"
+          }
+        },
+        {
+          "id": "kaytee-bb5d6b510e43",
+          "name": "⚽ Gangneung Citizen vs Pocheon FC | 12:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bb5d6b510e43.png?v=1773378266",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601297153",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601297153",
+                  "name": "Gangneung Citizen vs Pocheon FC",
+                  "streams": [
+                    {
+                      "id": "st-601297153",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-30169eb1b0",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b38f4b70a68_124958/index.m3u8?expire=1773980107&sign=e3f23e79c7e9e22c32ec71fd1f69b433",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/gangneung-citizen-vs-pocheon-fc-1200-13-03-2026/601297153"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-21f33bebd6",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/80e461bcc65cb05c8e637396bfb98748/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/gangneung-citizen-vs-pocheon-fc-1200-13-03-2026/601297153"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Korean K League 3",
+            "team_a": "Gangneung Citizen",
+            "team_b": "Pocheon FC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/dd06345e9fdb10d2e3ae8820dd3353c5.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/90d8a3ba4e8da08e280ab84514fe4cf0.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bb5d6b510e43.png?v=1773378266",
+            "thumb_key": "thumbs/kaytee-bb5d6b510e43.webp"
           }
         }
       ]
@@ -191,7 +277,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-515bd181466d.png?v=1773376030",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-515bd181466d.png?v=1773378259",
             "width": 1600,
             "height": 1200
           },
@@ -246,8 +332,155 @@
             "team_b": "Chicago Bulls",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/feb6335bd6d4cb2e6b6cb6cb43c0e0a1.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/860dc5563d084864497c5abf8e415e5e.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-515bd181466d.png?v=1773376030",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-515bd181466d.png?v=1773378259",
             "thumb_key": "thumbs/kaytee-515bd181466d.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_billiard",
+      "name": "🔴 Live 🎱 Billiard",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-1eb27c3bd939",
+          "name": "🎱 Choi Hye-mi vs Lee Woo-kyung | 12:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1eb27c3bd939.png?v=1773378266",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601311817",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601311817",
+                  "name": "Choi Hye-mi vs Lee Woo-kyung",
+                  "streams": [
+                    {
+                      "id": "st-601311817",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e7828be5dc",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b39842326d8_144313/index.m3u8?expire=1773982402&sign=20cf00deb96fd8b8c4ee9bee8ce7976d",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/choi-hyemi-vs-lee-wookyung-1200-13-03-2026/601311817"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "PBA-LPBA World Championship 2026",
+            "team_a": "Choi Hye-mi",
+            "team_b": "Lee Woo-kyung",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/4cd91a4c40ac3a60874370a5146aa441.jpg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/855f9296bdaa53535735b8672c648016.jpg",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1eb27c3bd939.png?v=1773378266",
+            "thumb_key": "thumbs/kaytee-1eb27c3bd939.webp"
+          }
+        },
+        {
+          "id": "kaytee-bf6ac6b44385",
+          "name": "🎱 Lim Jung-suk vs Kim Se-yeon | 12:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bf6ac6b44385.png?v=1773378267",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601311820",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601311820",
+                  "name": "Lim Jung-suk vs Kim Se-yeon",
+                  "streams": [
+                    {
+                      "id": "st-601311820",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-341eda95e5",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b3966d70a68_142246/index.m3u8?expire=1773981933&sign=e85e4aedfba066beacb540114682f499",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/lim-jungsuk-vs-kim-seyeon-1200-13-03-2026/601311820"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "PBA-LPBA World Championship 2026",
+            "team_a": "Lim Jung-suk",
+            "team_b": "Kim Se-yeon",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/2e0ce46022527c11d7fb40d36748427e.jpg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/2dca9e5f0d17ea69cd0a5c4b1b1de55e.jpg",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bf6ac6b44385.png?v=1773378267",
+            "thumb_key": "thumbs/kaytee-bf6ac6b44385.webp"
           }
         }
       ]
@@ -261,7 +494,7 @@
       "channels": [
         {
           "id": "kaytee-3e70958cdfdc",
-          "name": "🏓 LIN Yun Ju vs Chu Tề Hạo | 10:50",
+          "name": "🏓 Miwa HARIMOTO vs Anna HURSEY | 11:30",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -269,7 +502,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3e70958cdfdc.png?v=1773376035",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3e70958cdfdc.png?v=1773378264",
             "width": 1600,
             "height": 1200
           },
@@ -288,7 +521,7 @@
               "contents": [
                 {
                   "id": "ct-601311625",
-                  "name": "LIN Yun Ju vs Chu Tề Hạo",
+                  "name": "Miwa HARIMOTO vs Anna HURSEY",
                   "streams": [
                     {
                       "id": "st-601311625",
@@ -303,7 +536,7 @@
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/lin-yun-ju-vs-chu-te-hao-1050-13-03-2026/601311625"
+                              "value": "https://bunchatv1.net/truc-tiep/miwa-harimoto-vs-anna-hursey-1130-13-03-2026/601311625"
                             },
                             {
                               "key": "User-Agent",
@@ -320,90 +553,12 @@
           ],
           "org_metadata": {
             "league": "WTT Champions Chongqing Women",
-            "team_a": "LIN Yun Ju",
-            "team_b": "Chu Tề Hạo",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/03671e6517ba622b7c9ba3ee1efc474c.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/94f8cd451b5d81e74b9141497dc71500.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3e70958cdfdc.png?v=1773376035",
+            "team_a": "Miwa HARIMOTO",
+            "team_b": "Anna HURSEY",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a27e26c5fcf1ab989aaa28e41830d3b6.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/d3033b07708aaff4c4d57d7139358831.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3e70958cdfdc.png?v=1773378264",
             "thumb_key": "thumbs/kaytee-3e70958cdfdc.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "upcoming_bóng_đá",
-      "name": "⏳ Sắp Live ⚽ Bóng Đá",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-bb5d6b510e43",
-          "name": "⚽ Gangneung Citizen vs Pocheon FC | 12:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bb5d6b510e43.png?v=1773376037",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Sắp Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601297153",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601297153",
-                  "name": "Gangneung Citizen vs Pocheon FC",
-                  "streams": [
-                    {
-                      "id": "st-601297153",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-30169eb1b0",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b38f4b70a68_124958/index.m3u8?expire=1773980107&sign=e3f23e79c7e9e22c32ec71fd1f69b433",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/gangneung-citizen-vs-pocheon-fc-1200-13-03-2026/601297153"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Korean K League 3",
-            "team_a": "Gangneung Citizen",
-            "team_b": "Pocheon FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/dd06345e9fdb10d2e3ae8820dd3353c5.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/90d8a3ba4e8da08e280ab84514fe4cf0.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bb5d6b510e43.png?v=1773376037",
-            "thumb_key": "thumbs/kaytee-bb5d6b510e43.webp"
           }
         }
       ]
