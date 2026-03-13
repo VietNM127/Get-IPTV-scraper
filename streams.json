@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-13T10:57:24.479723",
+  "updated_at": "2026-03-13T11:05:42.207647",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,213 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-435ec0edf23e",
-          "name": "⚽ Belmont Swansea United SC vs Weston Workers FC | 16:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-435ec0edf23e.png?v=1773399423",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601297261",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601297261",
-                  "name": "Belmont Swansea United SC vs Weston Workers FC",
-                  "streams": [
-                    {
-                      "id": "st-601297261",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-14538068a5",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/78d610b1cf894807ec018c9d3db4aa95/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/belmont-swansea-united-sc-vs-weston-workers-fc-1600-13-03-2026/601297261"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Australia Northern New South Wales Premier League",
-            "team_a": "Belmont Swansea United SC",
-            "team_b": "Weston Workers FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/7affb38b4397f603e686f9a696e668a6.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/4d775084e58b983ddde3215469fa53f6.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-435ec0edf23e.png?v=1773399423",
-            "thumb_key": "thumbs/kaytee-435ec0edf23e.webp"
-          }
-        },
-        {
-          "id": "kaytee-7654db61a85a",
-          "name": "⚽ Adelaide Olympic vs Eastern United | 16:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7654db61a85a.png?v=1773399427",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601297267",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601297267",
-                  "name": "Adelaide Olympic vs Eastern United",
-                  "streams": [
-                    {
-                      "id": "st-601297267",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-039e2d165a",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/1c965d85e51e11320835179492295cf4/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/adelaide-olympic-vs-eastern-united-1600-13-03-2026/601297267"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "South Australia State League 1",
-            "team_a": "Adelaide Olympic",
-            "team_b": "Eastern United",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/948720aa6f0b0afe89e06e9bbf703e64.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/1c579c8f214ddece97c022233a40d56c.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7654db61a85a.png?v=1773399427",
-            "thumb_key": "thumbs/kaytee-7654db61a85a.webp"
-          }
-        },
-        {
-          "id": "kaytee-aab414ee7362",
-          "name": "⚽ Adamstown Rosebud (w) vs Charlestown Azzuri (w) | 16:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-aab414ee7362.png?v=1773399429",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601310800",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601310800",
-                  "name": "Adamstown Rosebud (w) vs Charlestown Azzuri (w)",
-                  "streams": [
-                    {
-                      "id": "st-601310800",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b88b00cae7",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/2c7a3ae003e2212331c28190f98d7437/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/adamstown-rosebud-w-vs-charlestown-azzuri-w-1600-13-03-2026/601310800"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Australia New South Wales Women's Premier League",
-            "team_a": "Adamstown Rosebud (w)",
-            "team_b": "Charlestown Azzuri (w)",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/c9d3a82d6e63adbc071848844a1ef0d4.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/a78a2a14af8b5f1049ff3383a41a3821.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-aab414ee7362.png?v=1773399429",
-            "thumb_key": "thumbs/kaytee-aab414ee7362.webp"
-          }
-        },
         {
           "id": "kaytee-5703a7e12f22",
           "name": "⚽ Oakleigh Cannons vs Heidelberg United | 16:15",
@@ -234,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5703a7e12f22.png?v=1773399431",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5703a7e12f22.png?v=1773399925",
             "width": 1600,
             "height": 1200
           },
@@ -306,8 +99,77 @@
             "team_b": "Heidelberg United",
             "logo_a": "https://cdn.rapid-api.icu/football/team/873f655c74783dbb85de6cacc8f503c0.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/5cae62255ca170949672a7ce8999b094.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5703a7e12f22.png?v=1773399431",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5703a7e12f22.png?v=1773399925",
             "thumb_key": "thumbs/kaytee-5703a7e12f22.webp"
+          }
+        },
+        {
+          "id": "kaytee-3468666f6a14",
+          "name": "⚽ Spring Hills FC Women vs Preston Lions (w) | 16:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3468666f6a14.png?v=1773399927",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601297171",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601297171",
+                  "name": "Spring Hills FC Women vs Preston Lions (w)",
+                  "streams": [
+                    {
+                      "id": "st-601297171",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-03f5b7c9eb",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/162f5598977a49106fb5665c83376ef2/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/spring-hills-fc-women-vs-preston-lions-w-1630-13-03-2026/601297171"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Australia Victorian Women's Premier League",
+            "team_a": "Spring Hills FC Women",
+            "team_b": "Preston Lions (w)",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/51fbf73e5bf51a89306be5b177115c2e.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/a58d1203ea2a8726c62f8a6d17cd0a24.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3468666f6a14.png?v=1773399927",
+            "thumb_key": "thumbs/kaytee-3468666f6a14.webp"
           }
         },
         {
@@ -320,7 +182,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-54cf7428bb8e.png?v=1773399432",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-54cf7428bb8e.png?v=1773399928",
             "width": 1600,
             "height": 1200
           },
@@ -392,7 +254,7 @@
             "team_b": "Peninsula Power",
             "logo_a": "https://cdn.rapid-api.icu/football/team/62ee76fc01732a90a87f98940d031d6e.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/1fb0f48eaeeab5946deb0073f4163eac.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-54cf7428bb8e.png?v=1773399432",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-54cf7428bb8e.png?v=1773399928",
             "thumb_key": "thumbs/kaytee-54cf7428bb8e.webp"
           }
         },
@@ -406,7 +268,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-02371aed45f5.png?v=1773399434",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-02371aed45f5.png?v=1773399930",
             "width": 1600,
             "height": 1200
           },
@@ -478,8 +340,77 @@
             "team_b": "Caroline Springs George Cross",
             "logo_a": "https://cdn.rapid-api.icu/football/team/6dff2291fe2e822de2e8068a182c4759.jpg",
             "logo_b": "https://cdn.rapid-api.icu/football/team/e9fe5248e24a1ccdffa4af70e767ffa7.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-02371aed45f5.png?v=1773399434",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-02371aed45f5.png?v=1773399930",
             "thumb_key": "thumbs/kaytee-02371aed45f5.webp"
+          }
+        },
+        {
+          "id": "kaytee-9de4d6e144e1",
+          "name": "⚽ West Torrens Birkalla vs Campbelltown City SC | 16:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9de4d6e144e1.png?v=1773399932",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601297276",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601297276",
+                  "name": "West Torrens Birkalla vs Campbelltown City SC",
+                  "streams": [
+                    {
+                      "id": "st-601297276",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5756f95f19",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/e4f924b0a0a3a88755e834001d156a52/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/west-torrens-birkalla-vs-campbelltown-city-sc-1630-13-03-2026/601297276"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "South Australia National Premier Leagues",
+            "team_a": "West Torrens Birkalla",
+            "team_b": "Campbelltown City SC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/c524354a372c83245e6d4cb8afbc234f.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/8152f7e56c9a3a3967a535f94f5caa70.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9de4d6e144e1.png?v=1773399932",
+            "thumb_key": "thumbs/kaytee-9de4d6e144e1.webp"
           }
         },
         {
@@ -492,7 +423,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-65cd451d328e.png?v=1773399436",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-65cd451d328e.png?v=1773399934",
             "width": 1600,
             "height": 1200
           },
@@ -547,22 +478,13 @@
             "team_b": "Dương Quốc Hoàng",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/78c2ae42969a3389aa8b308416740a3f.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/0ab7acc5558bebd02d79fd0a4f3a21af.webp",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-65cd451d328e.png?v=1773399436",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-65cd451d328e.png?v=1773399934",
             "thumb_key": "thumbs/kaytee-65cd451d328e.webp"
           }
-        }
-      ]
-    },
-    {
-      "id": "live_bóng_rổ",
-      "name": "🔴 Live 🏀 Bóng Rổ",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
+        },
         {
-          "id": "kaytee-06c41a9749b2",
-          "name": "🏀 Broadmeadow Magic vs Adamstown Rosebuds FC | 16:00",
+          "id": "kaytee-c956cae8fe90",
+          "name": "⚽ Nam Dinh FC vs CLB Thanh Hoa | 18:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -570,7 +492,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-06c41a9749b2.png?v=1773399425",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c956cae8fe90.png?v=1773399940",
             "width": 1600,
             "height": 1200
           },
@@ -584,27 +506,44 @@
           ],
           "sources": [
             {
-              "id": "src-601297264",
+              "id": "src-601297309",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601297264",
-                  "name": "Broadmeadow Magic vs Adamstown Rosebuds FC",
+                  "id": "ct-601297309",
+                  "name": "Nam Dinh FC vs CLB Thanh Hoa",
                   "streams": [
                     {
-                      "id": "st-601297264",
+                      "id": "st-601297309",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-79c584a6bc",
+                          "id": "lnk-f096a2742e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live.alilicloud.com/live/4a3531efc5e016a38ec01646c719855e/playlist.m3u8",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b3e330326d8_124958/index.m3u8?expire=1774001584&sign=5cef8f6f2b06e5a2db48163d4b876be4",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/broadmeadow-magic-vs-adamstown-rosebuds-fc-1600-13-03-2026/601297264"
+                              "value": "https://bunchatv1.net/truc-tiep/nam-dinh-fc-vs-clb-thanh-hoa-1800-13-03-2026/601297309"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-4b11661723",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/b4bcfc80f66bac3c559dec1c35b81e4c/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/nam-dinh-fc-vs-clb-thanh-hoa-1800-13-03-2026/601297309"
                             },
                             {
                               "key": "User-Agent",
@@ -620,15 +559,93 @@
             }
           ],
           "org_metadata": {
-            "league": "Australia Northern New South Wales Premier League",
-            "team_a": "Broadmeadow Magic",
-            "team_b": "Adamstown Rosebuds FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/4f0ff310b253f34bfd414c5b2502082c.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/f5038a16d8e257c41d345a76913cb1a9.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-06c41a9749b2.png?v=1773399425",
-            "thumb_key": "thumbs/kaytee-06c41a9749b2.webp"
+            "league": "Vietnam National Champion League",
+            "team_a": "Nam Dinh FC",
+            "team_b": "CLB Thanh Hoa",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/bc5db4dd418cb566a4475649876b55bb.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/c6c3cf855ef4fd3a0385d34606a858ab.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c956cae8fe90.png?v=1773399940",
+            "thumb_key": "thumbs/kaytee-c956cae8fe90.webp"
           }
         },
+        {
+          "id": "kaytee-9915a16f7f35",
+          "name": "⚽ SHB Da Nang vs Hoang Anh Gia Lai | 18:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9915a16f7f35.png?v=1773399942",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601297312",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601297312",
+                  "name": "SHB Da Nang vs Hoang Anh Gia Lai",
+                  "streams": [
+                    {
+                      "id": "st-601297312",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1ebc35a1bd",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b3e86770a68_85514/index.m3u8?expire=1774002919&sign=0d6e4df5d156f639c8aaebf1899deaa6",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/shb-da-nang-vs-hoang-anh-gia-lai-1800-13-03-2026/601297312"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vietnam National Champion League",
+            "team_a": "SHB Da Nang",
+            "team_b": "Hoang Anh Gia Lai",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/46a4867487152e47c4dc61984d0c58aa.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/df2ae58b9e658494b940b0bd782901b8.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9915a16f7f35.png?v=1773399942",
+            "thumb_key": "thumbs/kaytee-9915a16f7f35.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_bóng_rổ",
+      "name": "🔴 Live 🏀 Bóng Rổ",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
         {
           "id": "kaytee-a0f8111e983b",
           "name": "🏀 LG Sakers vs Seoul Thunders | 17:00",
@@ -639,7 +656,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a0f8111e983b.png?v=1773399437",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a0f8111e983b.png?v=1773399934",
             "width": 1600,
             "height": 1200
           },
@@ -694,7 +711,7 @@
             "team_b": "Seoul Thunders",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/d1734a5bdcd32d87993c722b8f5c108b.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/619420e599f83b1d3616d9faf5397e4e.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a0f8111e983b.png?v=1773399437",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a0f8111e983b.png?v=1773399934",
             "thumb_key": "thumbs/kaytee-a0f8111e983b.webp"
           }
         }
@@ -717,7 +734,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2299912a5daa.png?v=1773399438",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2299912a5daa.png?v=1773399936",
             "width": 1600,
             "height": 1200
           },
@@ -772,7 +789,7 @@
             "team_b": "Expressway Co W",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/378258933a4dd77acb1a9413ef01bc0b.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/bd574463d4d1b1af4918924d021d4f0a.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2299912a5daa.png?v=1773399438",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2299912a5daa.png?v=1773399936",
             "thumb_key": "thumbs/kaytee-2299912a5daa.webp"
           }
         },
@@ -786,7 +803,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6f2e95f81ebb.png?v=1773399439",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6f2e95f81ebb.png?v=1773399937",
             "width": 1600,
             "height": 1200
           },
@@ -841,7 +858,7 @@
             "team_b": "Samsung Blue Fangs",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/c375e5d271b7cc9b6f39043cd75b29ba.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/dc59a49e8f652e7feba74ad3ffb383b6.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6f2e95f81ebb.png?v=1773399439",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6f2e95f81ebb.png?v=1773399937",
             "thumb_key": "thumbs/kaytee-6f2e95f81ebb.webp"
           }
         }
@@ -864,7 +881,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1eb27c3bd939.png?v=1773399437",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1eb27c3bd939.png?v=1773399935",
             "width": 1600,
             "height": 1200
           },
@@ -919,7 +936,7 @@
             "team_b": "Kim Ga-young",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/bed9e8d0170e583d36348177bfdeb28a.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/59d465939819f0c24e54596de8d962ff.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1eb27c3bd939.png?v=1773399437",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1eb27c3bd939.png?v=1773399935",
             "thumb_key": "thumbs/kaytee-1eb27c3bd939.webp"
           }
         },
@@ -933,7 +950,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bf6ac6b44385.png?v=1773399438",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bf6ac6b44385.png?v=1773399936",
             "width": 1600,
             "height": 1200
           },
@@ -988,7 +1005,7 @@
             "team_b": "Han Seul-gi",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a80c44adbb48162ca52811e925278b55.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/98e0513e210c4fa117843d9dcb3da287.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bf6ac6b44385.png?v=1773399438",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bf6ac6b44385.png?v=1773399936",
             "thumb_key": "thumbs/kaytee-bf6ac6b44385.webp"
           }
         }
@@ -1011,7 +1028,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e5eac04fc915.png?v=1773399440",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e5eac04fc915.png?v=1773399938",
             "width": 1600,
             "height": 1200
           },
@@ -1066,155 +1083,8 @@
             "team_b": "WANG Yidi",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/9612c7e8198d2558106e4002c823a989.webp",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/b41e6f1cfc7d31c8391f24c5ec6405ec.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e5eac04fc915.png?v=1773399440",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e5eac04fc915.png?v=1773399938",
             "thumb_key": "thumbs/kaytee-e5eac04fc915.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "upcoming_bóng_đá",
-      "name": "⏳ Sắp Live ⚽ Bóng Đá",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-c956cae8fe90",
-          "name": "⚽ Nam Dinh FC vs CLB Thanh Hoa | 18:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c956cae8fe90.png?v=1773399442",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Sắp Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601297309",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601297309",
-                  "name": "Nam Dinh FC vs CLB Thanh Hoa",
-                  "streams": [
-                    {
-                      "id": "st-601297309",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f096a2742e",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b3e330326d8_124958/index.m3u8?expire=1774001584&sign=5cef8f6f2b06e5a2db48163d4b876be4",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/nam-dinh-fc-vs-clb-thanh-hoa-1800-13-03-2026/601297309"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Vietnam National Champion League",
-            "team_a": "Nam Dinh FC",
-            "team_b": "CLB Thanh Hoa",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/bc5db4dd418cb566a4475649876b55bb.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/c6c3cf855ef4fd3a0385d34606a858ab.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c956cae8fe90.png?v=1773399442",
-            "thumb_key": "thumbs/kaytee-c956cae8fe90.webp"
-          }
-        },
-        {
-          "id": "kaytee-9915a16f7f35",
-          "name": "⚽ SHB Da Nang vs Hoang Anh Gia Lai | 18:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9915a16f7f35.png?v=1773399444",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Sắp Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601297312",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601297312",
-                  "name": "SHB Da Nang vs Hoang Anh Gia Lai",
-                  "streams": [
-                    {
-                      "id": "st-601297312",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1ebc35a1bd",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b3e86770a68_85514/index.m3u8?expire=1774002919&sign=0d6e4df5d156f639c8aaebf1899deaa6",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/shb-da-nang-vs-hoang-anh-gia-lai-1800-13-03-2026/601297312"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Vietnam National Champion League",
-            "team_a": "SHB Da Nang",
-            "team_b": "Hoang Anh Gia Lai",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/46a4867487152e47c4dc61984d0c58aa.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/df2ae58b9e658494b940b0bd782901b8.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9915a16f7f35.png?v=1773399444",
-            "thumb_key": "thumbs/kaytee-9915a16f7f35.webp"
           }
         }
       ]
