@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-13T09:48:13.576312",
+  "updated_at": "2026-03-13T10:07:05.000417",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -18,8 +18,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-70aba41d36c9",
-          "name": "⚽ Brisbane Roar vs Western Sydney | 15:00",
+          "id": "kaytee-e1cd8b051f81",
+          "name": "⚽ Box Hill (w) vs South Melbourne (w) | 15:30",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-70aba41d36c9.png?v=1773395281",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e1cd8b051f81.png?v=1773396413",
             "width": 1600,
             "height": 1200
           },
@@ -41,44 +41,27 @@
           ],
           "sources": [
             {
-              "id": "src-601297231",
+              "id": "src-601297174",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601297231",
-                  "name": "Brisbane Roar vs Western Sydney",
+                  "id": "ct-601297174",
+                  "name": "Box Hill (w) vs South Melbourne (w)",
                   "streams": [
                     {
-                      "id": "st-601297231",
+                      "id": "st-601297174",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-b169902534",
+                          "id": "lnk-4497bbe537",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b3be6a326d8_72787/index.m3u8?expire=1773992170&sign=4d36f44be9ac0ac096ad1336743862c3",
+                          "url": "https://live.alilicloud.com/live/6bd1ed79ee8070d35f95433a3090a0c4/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/brisbane-roar-vs-western-sydney-1500-13-03-2026/601297231"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-5a1132f6ff",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/f0ca5e0d541a5354d9802d9053a7e3b7/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/brisbane-roar-vs-western-sydney-1500-13-03-2026/601297231"
+                              "value": "https://bunchatv1.net/truc-tiep/box-hill-w-vs-south-melbourne-w-1530-13-03-2026/601297174"
                             },
                             {
                               "key": "User-Agent",
@@ -94,185 +77,13 @@
             }
           ],
           "org_metadata": {
-            "league": "Australia A-League",
-            "team_a": "Brisbane Roar",
-            "team_b": "Western Sydney",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/1963b39a28bc14ed984423858194208e.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/9054259e823c101ccfe523cd527c2e5b.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-70aba41d36c9.png?v=1773395281",
-            "thumb_key": "thumbs/kaytee-70aba41d36c9.webp"
-          }
-        },
-        {
-          "id": "kaytee-d4c87423daa0",
-          "name": "⚽ Newcastle Jets Women vs Sydney FC Women | 15:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d4c87423daa0.png?v=1773395282",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601297234",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601297234",
-                  "name": "Newcastle Jets Women vs Sydney FC Women",
-                  "streams": [
-                    {
-                      "id": "st-601297234",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-35a05d5215",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b3bb3770a68_28/index.m3u8?expire=1773991351&sign=3ec5cfd83787ac25d10e802ea979b047",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/newcastle-jets-women-vs-sydney-fc-women-1500-13-03-2026/601297234"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-ec1a764375",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/1b91dcd2bdc79bdd6e3bb38b5bce61b4/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/newcastle-jets-women-vs-sydney-fc-women-1500-13-03-2026/601297234"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Australia W-League",
-            "team_a": "Newcastle Jets Women",
-            "team_b": "Sydney FC Women",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/8d5a7e378576b2758496439ce49c7fb6.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/64f6d95d32cb430272a5a69e1288b5cc.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d4c87423daa0.png?v=1773395282",
-            "thumb_key": "thumbs/kaytee-d4c87423daa0.webp"
-          }
-        },
-        {
-          "id": "kaytee-5b52e588c3bf",
-          "name": "⚽ Adelaide United Women vs Perth Glory Women | 15:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5b52e588c3bf.png?v=1773395284",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601297237",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601297237",
-                  "name": "Adelaide United Women vs Perth Glory Women",
-                  "streams": [
-                    {
-                      "id": "st-601297237",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-66821b86d8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b3bc0a70a68_88186/index.m3u8?expire=1773991562&sign=faa90407b186d4258cd1b7c21bbd3035",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/adelaide-united-women-vs-perth-glory-women-1500-13-03-2026/601297237"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-16724312be",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/3c56735e1ca173ca051351ccededd893/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/adelaide-united-women-vs-perth-glory-women-1500-13-03-2026/601297237"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Australia W-League",
-            "team_a": "Adelaide United Women",
-            "team_b": "Perth Glory Women",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/0a79a11cfb91e468fed7174e9a6b58f3.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/bb0af557092493a7ef9f5f3f0590e13b.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5b52e588c3bf.png?v=1773395284",
-            "thumb_key": "thumbs/kaytee-5b52e588c3bf.webp"
+            "league": "Australia Victorian Women's Premier League",
+            "team_a": "Box Hill (w)",
+            "team_b": "South Melbourne (w)",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/826b807221d9a7cc3bd6df7797853920.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/009c52e81b1a49fa697e7bd971b67459.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e1cd8b051f81.png?v=1773396413",
+            "thumb_key": "thumbs/kaytee-e1cd8b051f81.webp"
           }
         },
         {
@@ -285,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-62c8fd362cd4.png?v=1773395288",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-62c8fd362cd4.png?v=1773396415",
             "width": 1600,
             "height": 1200
           },
@@ -340,8 +151,404 @@
             "team_b": "Western Sydney Wanderers AM",
             "logo_a": "https://cdn.rapid-api.icu/football/team/0c6ea7bc3792dac98ed3378cd2865c0a.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/d287684146235d2fddb92f71d78fba02.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-62c8fd362cd4.png?v=1773395288",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-62c8fd362cd4.png?v=1773396415",
             "thumb_key": "thumbs/kaytee-62c8fd362cd4.webp"
+          }
+        },
+        {
+          "id": "kaytee-6bdb89e49a95",
+          "name": "⚽ Cumberland United FC vs Adelaide Cobras FC | 15:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6bdb89e49a95.png?v=1773396416",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601297252",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601297252",
+                  "name": "Cumberland United FC vs Adelaide Cobras FC",
+                  "streams": [
+                    {
+                      "id": "st-601297252",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b0ae262049",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/d5123f5cc152ad2e20b3ab39b54fd231/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/cumberland-united-fc-vs-adelaide-cobras-fc-1530-13-03-2026/601297252"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "South Australia State League 1",
+            "team_a": "Cumberland United FC",
+            "team_b": "Adelaide Cobras FC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/1ecb2819de2f6244f0cf0ea57275ebef.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/f075ae724a0ea982e4f09f003990a0e7.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6bdb89e49a95.png?v=1773396416",
+            "thumb_key": "thumbs/kaytee-6bdb89e49a95.webp"
+          }
+        },
+        {
+          "id": "kaytee-5703a7e12f22",
+          "name": "⚽ Oakleigh Cannons vs Heidelberg United | 16:15",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5703a7e12f22.png?v=1773396417",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601297270",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601297270",
+                  "name": "Oakleigh Cannons vs Heidelberg United",
+                  "streams": [
+                    {
+                      "id": "st-601297270",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-72c72320a5",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b3c89470a68_136682/index.m3u8?expire=1773994772&sign=663e6217357e3e25d9fa23db595ed4bf",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/oakleigh-cannons-vs-heidelberg-united-1615-13-03-2026/601297270"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-e028d6b0d2",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/e075cd26e905d09cfa89ed29b81dd152/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/oakleigh-cannons-vs-heidelberg-united-1615-13-03-2026/601297270"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Premier Leagues Victoria",
+            "team_a": "Oakleigh Cannons",
+            "team_b": "Heidelberg United",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/873f655c74783dbb85de6cacc8f503c0.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/5cae62255ca170949672a7ce8999b094.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5703a7e12f22.png?v=1773396417",
+            "thumb_key": "thumbs/kaytee-5703a7e12f22.webp"
+          }
+        },
+        {
+          "id": "kaytee-54cf7428bb8e",
+          "name": "⚽ Brisbane Wolves vs Peninsula Power | 16:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-54cf7428bb8e.png?v=1773396418",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601297273",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601297273",
+                  "name": "Brisbane Wolves vs Peninsula Power",
+                  "streams": [
+                    {
+                      "id": "st-601297273",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-283bed54dc",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b3c75d326d8_6308/index.m3u8?expire=1773994461&sign=cf47ed53e7c199fcfbabca716d52308d",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/brisbane-wolves-vs-peninsula-power-1630-13-03-2026/601297273"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-29c44b13d5",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/255197af0fb278cadaba696ac1687647/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/brisbane-wolves-vs-peninsula-power-1630-13-03-2026/601297273"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Australia National Premier Leagues Queensland",
+            "team_a": "Brisbane Wolves",
+            "team_b": "Peninsula Power",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/62ee76fc01732a90a87f98940d031d6e.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/1fb0f48eaeeab5946deb0073f4163eac.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-54cf7428bb8e.png?v=1773396418",
+            "thumb_key": "thumbs/kaytee-54cf7428bb8e.webp"
+          }
+        },
+        {
+          "id": "kaytee-02371aed45f5",
+          "name": "⚽ Preston Lions vs Caroline Springs George Cross | 16:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-02371aed45f5.png?v=1773396420",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601297282",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601297282",
+                  "name": "Preston Lions vs Caroline Springs George Cross",
+                  "streams": [
+                    {
+                      "id": "st-601297282",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-dd543a44eb",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b3d21470a68_133172/index.m3u8?expire=1773997204&sign=24f3906278c065d7ba05fc25bd905e2a",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/preston-lions-vs-caroline-springs-george-cross-1630-13-03-2026/601297282"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-b7a451da66",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/0b247683bbe54dc957d9898a2bbc2d16/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/preston-lions-vs-caroline-springs-george-cross-1630-13-03-2026/601297282"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Premier Leagues Victoria",
+            "team_a": "Preston Lions",
+            "team_b": "Caroline Springs George Cross",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/6dff2291fe2e822de2e8068a182c4759.jpg",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/e9fe5248e24a1ccdffa4af70e767ffa7.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-02371aed45f5.png?v=1773396420",
+            "thumb_key": "thumbs/kaytee-02371aed45f5.webp"
+          }
+        },
+        {
+          "id": "kaytee-65cd451d328e",
+          "name": "⚽ Salvador Garcia vs Dương Quốc Hoàng | 17:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-65cd451d328e.png?v=1773396422",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601311751",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601311751",
+                  "name": "Salvador Garcia vs Dương Quốc Hoàng",
+                  "streams": [
+                    {
+                      "id": "st-601311751",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-72b7e0d420",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b3d9c270a68_103/index.m3u8?expire=1773999170&sign=fd39fc4aa564f6b050b6b93e7e2f2751",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/salvador-garcia-vs-duong-quoc-hoang-1700-13-03-2026/601311751"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "European Open Pool Championship 2026",
+            "team_a": "Salvador Garcia",
+            "team_b": "Dương Quốc Hoàng",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/78c2ae42969a3389aa8b308416740a3f.jpg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/0ab7acc5558bebd02d79fd0a4f3a21af.webp",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-65cd451d328e.png?v=1773396422",
+            "thumb_key": "thumbs/kaytee-65cd451d328e.webp"
           }
         }
       ]
@@ -363,7 +570,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e624f83dbd73.png?v=1773395286",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e624f83dbd73.png?v=1773396412",
             "width": 1600,
             "height": 1200
           },
@@ -435,97 +642,10 @@
             "team_b": "South Melbourne",
             "logo_a": "https://cdn.rapid-api.icu/football/team/2deaa16d0a3b5ee928f88705d6d159ea.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/3728683390847f335552d077cf0b8752.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e624f83dbd73.png?v=1773395286",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e624f83dbd73.png?v=1773396412",
             "thumb_key": "thumbs/kaytee-e624f83dbd73.webp"
           }
-        }
-      ]
-    },
-    {
-      "id": "upcoming_bóng_đá",
-      "name": "⏳ Sắp Live ⚽ Bóng Đá",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-65cd451d328e",
-          "name": "⚽ Salvador Garcia vs Dương Quốc Hoàng | 17:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-65cd451d328e.png?v=1773395290",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Sắp Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601311751",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601311751",
-                  "name": "Salvador Garcia vs Dương Quốc Hoàng",
-                  "streams": [
-                    {
-                      "id": "st-601311751",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-72b7e0d420",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b3d9c270a68_103/index.m3u8?expire=1773999170&sign=fd39fc4aa564f6b050b6b93e7e2f2751",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/salvador-garcia-vs-duong-quoc-hoang-1700-13-03-2026/601311751"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "European Open Pool Championship 2026",
-            "team_a": "Salvador Garcia",
-            "team_b": "Dương Quốc Hoàng",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/78c2ae42969a3389aa8b308416740a3f.jpg",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/0ab7acc5558bebd02d79fd0a4f3a21af.webp",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-65cd451d328e.png?v=1773395290",
-            "thumb_key": "thumbs/kaytee-65cd451d328e.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "upcoming_bóng_rổ",
-      "name": "⏳ Sắp Live 🏀 Bóng Rổ",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
+        },
         {
           "id": "kaytee-a0f8111e983b",
           "name": "🏀 LG Sakers vs Seoul Thunders | 17:00",
@@ -536,16 +656,16 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a0f8111e983b.png?v=1773395292",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a0f8111e983b.png?v=1773396423",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "⏳ Sắp Live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -591,15 +711,15 @@
             "team_b": "Seoul Thunders",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/d1734a5bdcd32d87993c722b8f5c108b.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/619420e599f83b1d3616d9faf5397e4e.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a0f8111e983b.png?v=1773395292",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a0f8111e983b.png?v=1773396423",
             "thumb_key": "thumbs/kaytee-a0f8111e983b.webp"
           }
         }
       ]
     },
     {
-      "id": "upcoming_bóng_chuyền",
-      "name": "⏳ Sắp Live 🏐 Bóng Chuyền",
+      "id": "live_bóng_chuyền",
+      "name": "🔴 Live 🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -614,16 +734,16 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2299912a5daa.png?v=1773395292",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2299912a5daa.png?v=1773396424",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "⏳ Sắp Live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -669,7 +789,7 @@
             "team_b": "Expressway Co W",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/378258933a4dd77acb1a9413ef01bc0b.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/bd574463d4d1b1af4918924d021d4f0a.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2299912a5daa.png?v=1773395292",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2299912a5daa.png?v=1773396424",
             "thumb_key": "thumbs/kaytee-2299912a5daa.webp"
           }
         },
@@ -683,16 +803,16 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6f2e95f81ebb.png?v=1773395293",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6f2e95f81ebb.png?v=1773396425",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "⏳ Sắp Live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -738,15 +858,15 @@
             "team_b": "Samsung Blue Fangs",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/c375e5d271b7cc9b6f39043cd75b29ba.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/dc59a49e8f652e7feba74ad3ffb383b6.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6f2e95f81ebb.png?v=1773395293",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6f2e95f81ebb.png?v=1773396425",
             "thumb_key": "thumbs/kaytee-6f2e95f81ebb.webp"
           }
         }
       ]
     },
     {
-      "id": "upcoming_billiard",
-      "name": "⏳ Sắp Live 🎱 Billiard",
+      "id": "live_billiard",
+      "name": "🔴 Live 🎱 Billiard",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -761,16 +881,16 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1eb27c3bd939.png?v=1773395291",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1eb27c3bd939.png?v=1773396422",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "⏳ Sắp Live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -816,7 +936,7 @@
             "team_b": "Kim Ga-young",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/bed9e8d0170e583d36348177bfdeb28a.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/59d465939819f0c24e54596de8d962ff.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1eb27c3bd939.png?v=1773395291",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1eb27c3bd939.png?v=1773396422",
             "thumb_key": "thumbs/kaytee-1eb27c3bd939.webp"
           }
         },
@@ -830,16 +950,16 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bf6ac6b44385.png?v=1773395291",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bf6ac6b44385.png?v=1773396423",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "⏳ Sắp Live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -885,7 +1005,7 @@
             "team_b": "Han Seul-gi",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a80c44adbb48162ca52811e925278b55.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/98e0513e210c4fa117843d9dcb3da287.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bf6ac6b44385.png?v=1773395291",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bf6ac6b44385.png?v=1773396423",
             "thumb_key": "thumbs/kaytee-bf6ac6b44385.webp"
           }
         }
