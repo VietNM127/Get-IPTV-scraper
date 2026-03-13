@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-13T06:03:01.257358",
+  "updated_at": "2026-03-13T06:30:28.552579",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bb5d6b510e43.png?v=1773381779",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bb5d6b510e43.png?v=1773383425",
             "width": 1600,
             "height": 1200
           },
@@ -99,8 +99,77 @@
             "team_b": "Pocheon FC",
             "logo_a": "https://cdn.rapid-api.icu/football/team/dd06345e9fdb10d2e3ae8820dd3353c5.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/90d8a3ba4e8da08e280ab84514fe4cf0.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bb5d6b510e43.png?v=1773381779",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bb5d6b510e43.png?v=1773383425",
             "thumb_key": "thumbs/kaytee-bb5d6b510e43.webp"
+          }
+        },
+        {
+          "id": "kaytee-ebd005dcc13d",
+          "name": "⚽ Persido Dogiyai vs Persemi Mimika | 12:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ebd005dcc13d.png?v=1773383427",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601312063",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601312063",
+                  "name": "Persido Dogiyai vs Persemi Mimika",
+                  "streams": [
+                    {
+                      "id": "st-601312063",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f5747b39ab",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/f27f27afdc43a08d6cecbb0e7358277f/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/persido-dogiyai-vs-persemi-mimika-1200-13-03-2026/601312063"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Indo D4",
+            "team_a": "Persido Dogiyai",
+            "team_b": "Persemi Mimika",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/d9a8757ccb0b1f48077b31f97123505b.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/ab2a12e73932ad3065a5b78db4bedbb9.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ebd005dcc13d.png?v=1773383427",
+            "thumb_key": "thumbs/kaytee-ebd005dcc13d.webp"
           }
         }
       ]
@@ -122,7 +191,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1eb27c3bd939.png?v=1773381777",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1eb27c3bd939.png?v=1773383423",
             "width": 1600,
             "height": 1200
           },
@@ -177,7 +246,7 @@
             "team_b": "Lee Woo-kyung",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/4cd91a4c40ac3a60874370a5146aa441.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/855f9296bdaa53535735b8672c648016.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1eb27c3bd939.png?v=1773381777",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1eb27c3bd939.png?v=1773383423",
             "thumb_key": "thumbs/kaytee-1eb27c3bd939.webp"
           }
         },
@@ -191,7 +260,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bf6ac6b44385.png?v=1773381777",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bf6ac6b44385.png?v=1773383424",
             "width": 1600,
             "height": 1200
           },
@@ -246,7 +315,7 @@
             "team_b": "Kim Se-yeon",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/2e0ce46022527c11d7fb40d36748427e.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/2dca9e5f0d17ea69cd0a5c4b1b1de55e.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bf6ac6b44385.png?v=1773381777",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bf6ac6b44385.png?v=1773383424",
             "thumb_key": "thumbs/kaytee-bf6ac6b44385.webp"
           }
         }
@@ -261,7 +330,7 @@
       "channels": [
         {
           "id": "kaytee-3e70958cdfdc",
-          "name": "🏓 SUN Yingsha vs Adriana DIAZ | 12:40",
+          "name": "🏓 LIANG JINKUN vs Dang QIU | 13:13",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -269,7 +338,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3e70958cdfdc.png?v=1773381781",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3e70958cdfdc.png?v=1773383428",
             "width": 1600,
             "height": 1200
           },
@@ -288,7 +357,7 @@
               "contents": [
                 {
                   "id": "ct-601311625",
-                  "name": "SUN Yingsha vs Adriana DIAZ",
+                  "name": "LIANG JINKUN vs Dang QIU",
                   "streams": [
                     {
                       "id": "st-601311625",
@@ -303,7 +372,7 @@
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/sun-yingsha-vs-adriana-diaz-1240-13-03-2026/601311625"
+                              "value": "https://bunchatv1.net/truc-tiep/liang-jinkun-vs-dang-qiu-1313-13-03-2026/601311625"
                             },
                             {
                               "key": "User-Agent",
@@ -320,11 +389,11 @@
           ],
           "org_metadata": {
             "league": "WTT Champions Chongqing Women",
-            "team_a": "SUN Yingsha",
-            "team_b": "Adriana DIAZ",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/f77f7b6013dc974bcf0c9e6ad249ce91.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/4a994bd0f51558a7a7e6b7e9d1dc2c26.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3e70958cdfdc.png?v=1773381781",
+            "team_a": "LIANG JINKUN",
+            "team_b": "Dang QIU",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/24395bc2a7bfd4aaa947d94367572be8.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/0116df515df59cd514f6972dedc7e812.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3e70958cdfdc.png?v=1773383428",
             "thumb_key": "thumbs/kaytee-3e70958cdfdc.webp"
           }
         }
