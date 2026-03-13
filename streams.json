@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-13T00:55:21.400026",
+  "updated_at": "2026-03-13T02:47:50.670284",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -18,8 +18,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-457e0035a2fa",
-          "name": "⚽ Sao Paulo vs Chapecoense SC | 06:00",
+          "id": "kaytee-d78e98bfd1e4",
+          "name": "⚽ Pachuca (w) vs Tijuana (w) | 08:06",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-457e0035a2fa.png?v=1773363315",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d78e98bfd1e4.png?v=1773370065",
             "width": 1600,
             "height": 1200
           },
@@ -41,27 +41,27 @@
           ],
           "sources": [
             {
-              "id": "src-601297114",
+              "id": "src-601297138",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601297114",
-                  "name": "Sao Paulo vs Chapecoense SC",
+                  "id": "ct-601297138",
+                  "name": "Pachuca (w) vs Tijuana (w)",
                   "streams": [
                     {
-                      "id": "st-601297114",
+                      "id": "st-601297138",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-19fbd2198e",
+                          "id": "lnk-e75c3ff3af",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b341d270a68_74012/index.m3u8?expire=1773960274&sign=97063504005a2d45b1fd0d86e8150e80",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b35c76326d8_73445/index.m3u8?expire=1773967094&sign=70d9ec0b484a71475f49754a32dbd865",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/sao-paulo-vs-chapecoense-sc-0600-13-03-2026/601297114"
+                              "value": "https://bunchatv1.net/truc-tiep/pachuca-w-vs-tijuana-w-0806-13-03-2026/601297138"
                             },
                             {
                               "key": "User-Agent",
@@ -70,84 +70,15 @@
                           ]
                         },
                         {
-                          "id": "lnk-7f93fb1348",
+                          "id": "lnk-4d33567eda",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://live.alilicloud.com/live/4b3789a7c3781b3ea85efb2fe04e032f/playlist.m3u8",
+                          "url": "https://live.alilicloud.com/live/e1d727444970d293966d2118f183e8f8/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/sao-paulo-vs-chapecoense-sc-0600-13-03-2026/601297114"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Brazilian Serie A",
-            "team_a": "Sao Paulo",
-            "team_b": "Chapecoense SC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/31f5171de0e1404fdebcef19cd7cd409.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/4970b9a9a215c78759a6bb84ecaa3701.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-457e0035a2fa.png?v=1773363315",
-            "thumb_key": "thumbs/kaytee-457e0035a2fa.webp"
-          }
-        },
-        {
-          "id": "kaytee-162a9169f33c",
-          "name": "⚽ Toluca (w) vs Unam Pumas (w) | 07:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-162a9169f33c.png?v=1773363317",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601297120",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601297120",
-                  "name": "Toluca (w) vs Unam Pumas (w)",
-                  "streams": [
-                    {
-                      "id": "st-601297120",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-dd2e2f165c",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/d3e4d3ebfff480bfdf870ccc761a5378/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/toluca-w-vs-unam-pumas-w-0700-13-03-2026/601297120"
+                              "value": "https://bunchatv1.net/truc-tiep/pachuca-w-vs-tijuana-w-0806-13-03-2026/601297138"
                             },
                             {
                               "key": "User-Agent",
@@ -164,17 +95,17 @@
           ],
           "org_metadata": {
             "league": "Mexico Liga MX Femenil",
-            "team_a": "Toluca (w)",
-            "team_b": "Unam Pumas (w)",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/680f427a2bc69ae676240a60d8aa2bdb.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/920c76f9a745c87b6d43aaeb8483a960.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-162a9169f33c.png?v=1773363317",
-            "thumb_key": "thumbs/kaytee-162a9169f33c.webp"
+            "team_a": "Pachuca (w)",
+            "team_b": "Tijuana (w)",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/ee73086a8ee207b907819c6b7a15fd53.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/d69f7b4e5781756f141810f0716bcbe6.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d78e98bfd1e4.png?v=1773370065",
+            "thumb_key": "thumbs/kaytee-d78e98bfd1e4.webp"
           }
         },
         {
-          "id": "kaytee-2af6aa340bb3",
-          "name": "⚽ FC Cincinnati vs Tigres UANL | 07:00",
+          "id": "kaytee-5954e036bafe",
+          "name": "⚽ Vancouver Whitecaps vs Seattle Sounders | 09:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -182,7 +113,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2af6aa340bb3.png?v=1773363318",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5954e036bafe.png?v=1773370068",
             "width": 1600,
             "height": 1200
           },
@@ -196,27 +127,27 @@
           ],
           "sources": [
             {
-              "id": "src-601297123",
+              "id": "src-601297147",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601297123",
-                  "name": "FC Cincinnati vs Tigres UANL",
+                  "id": "ct-601297147",
+                  "name": "Vancouver Whitecaps vs Seattle Sounders",
                   "streams": [
                     {
-                      "id": "st-601297123",
+                      "id": "st-601297147",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-505c8696a8",
+                          "id": "lnk-9af4381691",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b3574e326d8_95554/index.m3u8?expire=1773965774&sign=aee0de865e149743a14efd13b30d839e",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b36963326d8_74012/index.m3u8?expire=1773970403&sign=a25d54e7dec8dfafb564077cd8ff02c5",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/fc-cincinnati-vs-tigres-uanl-0700-13-03-2026/601297123"
+                              "value": "https://bunchatv1.net/truc-tiep/vancouver-whitecaps-vs-seattle-sounders-0900-13-03-2026/601297147"
                             },
                             {
                               "key": "User-Agent",
@@ -225,15 +156,15 @@
                           ]
                         },
                         {
-                          "id": "lnk-16091b2104",
+                          "id": "lnk-da98c3652f",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://live.alilicloud.com/live/7ca146cedfa83d50dd3ecfc22dd250b8/playlist.m3u8",
+                          "url": "https://live.alilicloud.com/live/9a7e3d5d0cffbd2a26f07500bbb3239e/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/fc-cincinnati-vs-tigres-uanl-0700-13-03-2026/601297123"
+                              "value": "https://bunchatv1.net/truc-tiep/vancouver-whitecaps-vs-seattle-sounders-0900-13-03-2026/601297147"
                             },
                             {
                               "key": "User-Agent",
@@ -250,17 +181,17 @@
           ],
           "org_metadata": {
             "league": "CNCF CHL",
-            "team_a": "FC Cincinnati",
-            "team_b": "Tigres UANL",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/1d14acf20b6647d3bf1f70959a875c8f.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/a7df6424c12ac9b7a6e5ca3ff953d5b3.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2af6aa340bb3.png?v=1773363318",
-            "thumb_key": "thumbs/kaytee-2af6aa340bb3.webp"
+            "team_a": "Vancouver Whitecaps",
+            "team_b": "Seattle Sounders",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/527dcdb6260004a2c8f61fae9345f133.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/cef1725baaf3f3be0cb7215c5f39d162.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5954e036bafe.png?v=1773370068",
+            "thumb_key": "thumbs/kaytee-5954e036bafe.webp"
           }
         },
         {
-          "id": "kaytee-43710f67bd72",
-          "name": "⚽ Santiago Wanderers U20 vs Belgrano U20 | 07:00",
+          "id": "kaytee-af920ce914d7",
+          "name": "⚽ Tigres(w) vs Santos Laguna (w) | 09:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -268,7 +199,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-43710f67bd72.png?v=1773363320",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-af920ce914d7.png?v=1773370069",
             "width": 1600,
             "height": 1200
           },
@@ -282,27 +213,27 @@
           ],
           "sources": [
             {
-              "id": "src-601297126",
+              "id": "src-601297144",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601297126",
-                  "name": "Santiago Wanderers U20 vs Belgrano U20",
+                  "id": "ct-601297144",
+                  "name": "Tigres(w) vs Santos Laguna (w)",
                   "streams": [
                     {
-                      "id": "st-601297126",
+                      "id": "st-601297144",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-7280b26684",
+                          "id": "lnk-b8bd6bc499",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live.alilicloud.com/live/09761e847662d7127701ea7dd5ce02c5/playlist.m3u8",
+                          "url": "https://live.alilicloud.com/live/1951f254df142a300566949dda41949b/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/santiago-wanderers-u20-vs-belgrano-u20-0700-13-03-2026/601297126"
+                              "value": "https://bunchatv1.net/truc-tiep/tigresw-vs-santos-laguna-w-0900-13-03-2026/601297144"
                             },
                             {
                               "key": "User-Agent",
@@ -318,13 +249,13 @@
             }
           ],
           "org_metadata": {
-            "league": "CONMEBOL U20 Copa Libertadores",
-            "team_a": "Santiago Wanderers U20",
-            "team_b": "Belgrano U20",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/c192f6eabb845a0777bb24874926015e.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/8dce7d103f355dc0167c2458f5ae9a17.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-43710f67bd72.png?v=1773363320",
-            "thumb_key": "thumbs/kaytee-43710f67bd72.webp"
+            "league": "Mexico Liga MX Femenil",
+            "team_a": "Tigres(w)",
+            "team_b": "Santos Laguna (w)",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/652f72cf824d752d94375426a432e86d.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/018ffc6f0b8298870a01ad4da5f86e7f.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-af920ce914d7.png?v=1773370069",
+            "thumb_key": "thumbs/kaytee-af920ce914d7.webp"
           }
         }
       ]
@@ -337,8 +268,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-5be59d47936a",
-          "name": "🏀 Detroit Pistons vs Philadelphia 76ers | 06:00",
+          "id": "kaytee-2963c2cf04da",
+          "name": "🏀 San Antonio Spurs vs Denver Nuggets | 08:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -346,7 +277,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5be59d47936a.png?v=1773363313",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2963c2cf04da.png?v=1773370064",
             "width": 1600,
             "height": 1200
           },
@@ -360,27 +291,27 @@
           ],
           "sources": [
             {
-              "id": "src-601298917",
+              "id": "src-601298932",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601298917",
-                  "name": "Detroit Pistons vs Philadelphia 76ers",
+                  "id": "ct-601298932",
+                  "name": "San Antonio Spurs vs Denver Nuggets",
                   "streams": [
                     {
-                      "id": "st-601298917",
+                      "id": "st-601298932",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-9552a46878",
+                          "id": "lnk-1b34fac28e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b3426970a68_72787/index.m3u8?expire=1773960425&sign=bc5a90e1d35efe21df8f50d450aae001",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b367c4326d8_4733/index.m3u8?expire=1773969988&sign=3e89521e64a382d601b249a7fb5973b9",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/detroit-pistons-vs-philadelphia-76ers-0600-13-03-2026/601298917"
+                              "value": "https://bunchatv1.net/truc-tiep/san-antonio-spurs-vs-denver-nuggets-0800-13-03-2026/601298932"
                             },
                             {
                               "key": "User-Agent",
@@ -397,17 +328,17 @@
           ],
           "org_metadata": {
             "league": "NBA",
-            "team_a": "Detroit Pistons",
-            "team_b": "Philadelphia 76ers",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/d12774b3339413a0eef3c2da2ae5a342.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/0f99bfb04f15e140367c7014698a2cd0.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5be59d47936a.png?v=1773363313",
-            "thumb_key": "thumbs/kaytee-5be59d47936a.webp"
+            "team_a": "San Antonio Spurs",
+            "team_b": "Denver Nuggets",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/fcb0d98ef40bc3ab0404e77a6a02a947.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/d734dd7151e82d5c185ed20968505758.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2963c2cf04da.png?v=1773370064",
+            "thumb_key": "thumbs/kaytee-2963c2cf04da.webp"
           }
         },
         {
-          "id": "kaytee-1cd2fcb97aa0",
-          "name": "🏀 Indiana Pacers vs Phoenix Suns | 06:00",
+          "id": "kaytee-d647f4e5e192",
+          "name": "🏀 Oklahoma City Thunder vs Boston Celtics | 08:30",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -415,7 +346,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1cd2fcb97aa0.png?v=1773363313",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d647f4e5e192.png?v=1773370066",
             "width": 1600,
             "height": 1200
           },
@@ -429,27 +360,27 @@
           ],
           "sources": [
             {
-              "id": "src-601298920",
+              "id": "src-601298935",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601298920",
-                  "name": "Indiana Pacers vs Phoenix Suns",
+                  "id": "ct-601298935",
+                  "name": "Oklahoma City Thunder vs Boston Celtics",
                   "streams": [
                     {
-                      "id": "st-601298920",
+                      "id": "st-601298935",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-1f92b9ef5a",
+                          "id": "lnk-d2b25030ba",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b348b2326d8_4733/index.m3u8?expire=1773962034&sign=75629619772920461d186971962266ee",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b36829326d8_72787/index.m3u8?expire=1773970089&sign=dd640c8d64eaa1a2816bef4602f36bf7",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/indiana-pacers-vs-phoenix-suns-0600-13-03-2026/601298920"
+                              "value": "https://bunchatv1.net/truc-tiep/oklahoma-city-thunder-vs-boston-celtics-0830-13-03-2026/601298935"
                             },
                             {
                               "key": "User-Agent",
@@ -466,17 +397,17 @@
           ],
           "org_metadata": {
             "league": "NBA",
-            "team_a": "Indiana Pacers",
-            "team_b": "Phoenix Suns",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/5257ef2bea4400b9b0b46c638a87e229.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/4eacc3f1b4114a379187c9c2892a4d8a.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1cd2fcb97aa0.png?v=1773363313",
-            "thumb_key": "thumbs/kaytee-1cd2fcb97aa0.webp"
+            "team_a": "Oklahoma City Thunder",
+            "team_b": "Boston Celtics",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/4fe44502af5fe078532e6d7f968ef76e.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/df3283f4c6615d2aa45031dd020c9c52.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d647f4e5e192.png?v=1773370066",
+            "thumb_key": "thumbs/kaytee-d647f4e5e192.webp"
           }
         },
         {
-          "id": "kaytee-adfc765abb3d",
-          "name": "🏀 Atlanta Hawks vs Brooklyn Nets | 06:30",
+          "id": "kaytee-515bd181466d",
+          "name": "🏀 Los Angeles Lakers vs Chicago Bulls | 09:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -484,7 +415,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-adfc765abb3d.png?v=1773363315",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-515bd181466d.png?v=1773370070",
             "width": 1600,
             "height": 1200
           },
@@ -498,27 +429,27 @@
           ],
           "sources": [
             {
-              "id": "src-601298926",
+              "id": "src-601298938",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601298926",
-                  "name": "Atlanta Hawks vs Brooklyn Nets",
+                  "id": "ct-601298938",
+                  "name": "Los Angeles Lakers vs Chicago Bulls",
                   "streams": [
                     {
-                      "id": "st-601298926",
+                      "id": "st-601298938",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-e97db05e40",
+                          "id": "lnk-de6fe076fc",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b351a3326d8_142210/index.m3u8?expire=1773964323&sign=84ea539f71287e8b2031a5f6a87b3bff",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b374cc326d8_42127/index.m3u8?expire=1773973324&sign=59b87c0d6d1b25867620c227b694e41a",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/atlanta-hawks-vs-brooklyn-nets-0630-13-03-2026/601298926"
+                              "value": "https://bunchatv1.net/truc-tiep/los-angeles-lakers-vs-chicago-bulls-0900-13-03-2026/601298938"
                             },
                             {
                               "key": "User-Agent",
@@ -535,81 +466,12 @@
           ],
           "org_metadata": {
             "league": "NBA",
-            "team_a": "Atlanta Hawks",
-            "team_b": "Brooklyn Nets",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/b67c5f346054d8cbb66779e320b0332c.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/5415962da94fa796f30cf36dcaab4898.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-adfc765abb3d.png?v=1773363315",
-            "thumb_key": "thumbs/kaytee-adfc765abb3d.webp"
-          }
-        },
-        {
-          "id": "kaytee-269530e45ca9",
-          "name": "🏀 Miami Heat vs Milwaukee Bucks | 06:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-269530e45ca9.png?v=1773363316",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601310896",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601310896",
-                  "name": "Miami Heat vs Milwaukee Bucks",
-                  "streams": [
-                    {
-                      "id": "st-601310896",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-05e59c7eb8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b3521e326d8_85706/index.m3u8?expire=1773964446&sign=fb1666b952c4d9ff7fc9250a417b08a6",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/miami-heat-vs-milwaukee-bucks-0630-13-03-2026/601310896"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "NBA",
-            "team_a": "Miami Heat",
-            "team_b": "Milwaukee Bucks",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/30e69e359eaf94547bf5ed1a31f1c1b7.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/bf9a265694807935ea3714ba60fd0121.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-269530e45ca9.png?v=1773363316",
-            "thumb_key": "thumbs/kaytee-269530e45ca9.webp"
+            "team_a": "Los Angeles Lakers",
+            "team_b": "Chicago Bulls",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/feb6335bd6d4cb2e6b6cb6cb43c0e0a1.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/860dc5563d084864497c5abf8e415e5e.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-515bd181466d.png?v=1773370070",
+            "thumb_key": "thumbs/kaytee-515bd181466d.webp"
           }
         }
       ]
@@ -622,8 +484,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-263fa06bed93",
-          "name": "🎾 Draper J. vs Medvedev D. | 07:00",
+          "id": "kaytee-6c294128af09",
+          "name": "🎾 Alcaraz C. vs Norrie C. | 09:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -631,7 +493,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-263fa06bed93.png?v=1773363320",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6c294128af09.png?v=1773370070",
             "width": 1600,
             "height": 1200
           },
@@ -645,27 +507,27 @@
           ],
           "sources": [
             {
-              "id": "src-601310764",
+              "id": "src-601310767",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601310764",
-                  "name": "Draper J. vs Medvedev D.",
+                  "id": "ct-601310767",
+                  "name": "Alcaraz C. vs Norrie C.",
                   "streams": [
                     {
-                      "id": "st-601310764",
+                      "id": "st-601310767",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-5c31b1ce2b",
+                          "id": "lnk-53ed443cc9",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b34f4e326d8_110198/index.m3u8?expire=1773963726&sign=7419e2dfa951ce2075d2bc416657e193",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b37005326d8_110198/index.m3u8?expire=1773972101&sign=b6ba283493937ecbf2f8ee5c97e7cb07",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/draper-j-vs-medvedev-d-0700-13-03-2026/601310764"
+                              "value": "https://bunchatv1.net/truc-tiep/alcaraz-c-vs-norrie-c-0900-13-03-2026/601310767"
                             },
                             {
                               "key": "User-Agent",
@@ -682,81 +544,12 @@
           ],
           "org_metadata": {
             "league": "ATP Indian Wells",
-            "team_a": "Draper J.",
-            "team_b": "Medvedev D.",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/6be1917b420666d03310bb551ffaf605.webp",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/618d4e454d9b20f97ee34aaa3e7cadbb.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-263fa06bed93.png?v=1773363320",
-            "thumb_key": "thumbs/kaytee-263fa06bed93.webp"
-          }
-        },
-        {
-          "id": "kaytee-8a6555ce3e42",
-          "name": "🎾 Pegula J. vs Rybakina E. | 07:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8a6555ce3e42.png?v=1773363321",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601310779",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601310779",
-                  "name": "Pegula J. vs Rybakina E.",
-                  "streams": [
-                    {
-                      "id": "st-601310779",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fa5990927c",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b35a4070a68_85714/index.m3u8?expire=1773966528&sign=48c7601efba213246274c41df10afacb",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/pegula-j-vs-rybakina-e-0700-13-03-2026/601310779"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "WTA Indian Wells",
-            "team_a": "Pegula J.",
-            "team_b": "Rybakina E.",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/2ed497f155c84bea5cb0c07fb594787f.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/9150cb7acdb6e77befccfd4597723e43.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8a6555ce3e42.png?v=1773363321",
-            "thumb_key": "thumbs/kaytee-8a6555ce3e42.webp"
+            "team_a": "Alcaraz C.",
+            "team_b": "Norrie C.",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/fceebcdaefca43b1c27f75a1e60d418d.webp",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/0a35b146992380e543515d196b8f4be5.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6c294128af09.png?v=1773370070",
+            "thumb_key": "thumbs/kaytee-6c294128af09.webp"
           }
         }
       ]
