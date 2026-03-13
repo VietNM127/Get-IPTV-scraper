@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-13T02:47:50.670284",
+  "updated_at": "2026-03-13T03:31:21.081697",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,92 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-d78e98bfd1e4",
-          "name": "⚽ Pachuca (w) vs Tijuana (w) | 08:06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d78e98bfd1e4.png?v=1773370065",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601297138",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601297138",
-                  "name": "Pachuca (w) vs Tijuana (w)",
-                  "streams": [
-                    {
-                      "id": "st-601297138",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e75c3ff3af",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b35c76326d8_73445/index.m3u8?expire=1773967094&sign=70d9ec0b484a71475f49754a32dbd865",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/pachuca-w-vs-tijuana-w-0806-13-03-2026/601297138"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-4d33567eda",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/e1d727444970d293966d2118f183e8f8/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/pachuca-w-vs-tijuana-w-0806-13-03-2026/601297138"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Mexico Liga MX Femenil",
-            "team_a": "Pachuca (w)",
-            "team_b": "Tijuana (w)",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/ee73086a8ee207b907819c6b7a15fd53.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/d69f7b4e5781756f141810f0716bcbe6.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d78e98bfd1e4.png?v=1773370065",
-            "thumb_key": "thumbs/kaytee-d78e98bfd1e4.webp"
-          }
-        },
         {
           "id": "kaytee-5954e036bafe",
           "name": "⚽ Vancouver Whitecaps vs Seattle Sounders | 09:00",
@@ -113,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5954e036bafe.png?v=1773370068",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5954e036bafe.png?v=1773372675",
             "width": 1600,
             "height": 1200
           },
@@ -185,7 +99,7 @@
             "team_b": "Seattle Sounders",
             "logo_a": "https://cdn.rapid-api.icu/football/team/527dcdb6260004a2c8f61fae9345f133.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/cef1725baaf3f3be0cb7215c5f39d162.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5954e036bafe.png?v=1773370068",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5954e036bafe.png?v=1773372675",
             "thumb_key": "thumbs/kaytee-5954e036bafe.webp"
           }
         },
@@ -199,7 +113,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-af920ce914d7.png?v=1773370069",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-af920ce914d7.png?v=1773372677",
             "width": 1600,
             "height": 1200
           },
@@ -254,8 +168,94 @@
             "team_b": "Santos Laguna (w)",
             "logo_a": "https://cdn.rapid-api.icu/football/team/652f72cf824d752d94375426a432e86d.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/018ffc6f0b8298870a01ad4da5f86e7f.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-af920ce914d7.png?v=1773370069",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-af920ce914d7.png?v=1773372677",
             "thumb_key": "thumbs/kaytee-af920ce914d7.webp"
+          }
+        },
+        {
+          "id": "kaytee-4d0c02ab1287",
+          "name": "⚽ Mazatlan FC (w) vs Monterrey (w) | 10:10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4d0c02ab1287.png?v=1773372681",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601297150",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601297150",
+                  "name": "Mazatlan FC (w) vs Monterrey (w)",
+                  "streams": [
+                    {
+                      "id": "st-601297150",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-55136b056d",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b37b1670a68_103/index.m3u8?expire=1773974934&sign=5f9673dd50943882774d2149e452ff53",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/mazatlan-fc-w-vs-monterrey-w-1010-13-03-2026/601297150"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-ca8123e048",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/37f5a275843991ef693fa5c60af0bbc5/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/mazatlan-fc-w-vs-monterrey-w-1010-13-03-2026/601297150"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Mexico Liga MX Femenil",
+            "team_a": "Mazatlan FC (w)",
+            "team_b": "Monterrey (w)",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/c87378cb2b4fd7ec95945b863e2e75c2.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/c32ddb0be3a23ceca9a2ccfb599438eb.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4d0c02ab1287.png?v=1773372681",
+            "thumb_key": "thumbs/kaytee-4d0c02ab1287.webp"
           }
         }
       ]
@@ -277,7 +277,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2963c2cf04da.png?v=1773370064",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2963c2cf04da.png?v=1773372672",
             "width": 1600,
             "height": 1200
           },
@@ -332,7 +332,7 @@
             "team_b": "Denver Nuggets",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/fcb0d98ef40bc3ab0404e77a6a02a947.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/d734dd7151e82d5c185ed20968505758.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2963c2cf04da.png?v=1773370064",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2963c2cf04da.png?v=1773372672",
             "thumb_key": "thumbs/kaytee-2963c2cf04da.webp"
           }
         },
@@ -346,7 +346,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d647f4e5e192.png?v=1773370066",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d647f4e5e192.png?v=1773372673",
             "width": 1600,
             "height": 1200
           },
@@ -401,7 +401,7 @@
             "team_b": "Boston Celtics",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/4fe44502af5fe078532e6d7f968ef76e.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/df3283f4c6615d2aa45031dd020c9c52.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d647f4e5e192.png?v=1773370066",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d647f4e5e192.png?v=1773372673",
             "thumb_key": "thumbs/kaytee-d647f4e5e192.webp"
           }
         },
@@ -415,7 +415,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-515bd181466d.png?v=1773370070",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-515bd181466d.png?v=1773372673",
             "width": 1600,
             "height": 1200
           },
@@ -470,7 +470,7 @@
             "team_b": "Chicago Bulls",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/feb6335bd6d4cb2e6b6cb6cb43c0e0a1.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/860dc5563d084864497c5abf8e415e5e.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-515bd181466d.png?v=1773370070",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-515bd181466d.png?v=1773372673",
             "thumb_key": "thumbs/kaytee-515bd181466d.webp"
           }
         }
@@ -493,7 +493,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6c294128af09.png?v=1773370070",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6c294128af09.png?v=1773372678",
             "width": 1600,
             "height": 1200
           },
@@ -548,8 +548,86 @@
             "team_b": "Norrie C.",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/fceebcdaefca43b1c27f75a1e60d418d.webp",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/0a35b146992380e543515d196b8f4be5.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6c294128af09.png?v=1773370070",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6c294128af09.png?v=1773372678",
             "thumb_key": "thumbs/kaytee-6c294128af09.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_bóng_bàn",
+      "name": "🔴 Live 🏓 Bóng Bàn",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-3e70958cdfdc",
+          "name": "🏓 CHENG I-Ching vs Satsuki ODO | 10:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3e70958cdfdc.png?v=1773372679",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601311625",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601311625",
+                  "name": "CHENG I-Ching vs Satsuki ODO",
+                  "streams": [
+                    {
+                      "id": "st-601311625",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6958a6ad56",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b37bda70a68_142210/index.m3u8?expire=1773975130&sign=f5e3a56c03fd6ee2406aabeb810f8062",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/cheng-iching-vs-satsuki-odo-1000-13-03-2026/601311625"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "WTT Champions Chongqing Women",
+            "team_a": "CHENG I-Ching",
+            "team_b": "Satsuki ODO",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/6b84780e6dafb8749f6986c9d56da8fa.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/154510731493b101d0452f055117a5e0.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3e70958cdfdc.png?v=1773372679",
+            "thumb_key": "thumbs/kaytee-3e70958cdfdc.webp"
           }
         }
       ]
