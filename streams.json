@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-13T12:00:18.613057",
+  "updated_at": "2026-03-13T12:26:09.593285",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -18,8 +18,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-c36606769d2f",
-          "name": "⚽ Australia Women vs North Korea (w) | 17:00",
+          "id": "kaytee-e4a1de1c2abb",
+          "name": "⚽ Logan Lightning (w) vs Virginia United SC (w) | 17:30",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c36606769d2f.png?v=1773403203",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e4a1de1c2abb.png?v=1773404757",
             "width": 1600,
             "height": 1200
           },
@@ -41,44 +41,27 @@
           ],
           "sources": [
             {
-              "id": "src-601297288",
+              "id": "src-601309666",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601297288",
-                  "name": "Australia Women vs North Korea (w)",
+                  "id": "ct-601309666",
+                  "name": "Logan Lightning (w) vs Virginia United SC (w)",
                   "streams": [
                     {
-                      "id": "st-601297288",
+                      "id": "st-601309666",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-abdd5930a7",
+                          "id": "lnk-d89b0805b1",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b3d86b326d8_79/index.m3u8?expire=1773998827&sign=ef1cc53a36832a05a88f622ecbba256f",
+                          "url": "https://live.alilicloud.com/live/41f68b6bb6d99c69e80d438bea6d3928/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/australia-women-vs-north-korea-w-1700-13-03-2026/601297288"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-d79f97dc70",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/d78c392004fcd9028073b982abf3838c/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/australia-women-vs-north-korea-w-1700-13-03-2026/601297288"
+                              "value": "https://bunchatv1.net/truc-tiep/logan-lightning-w-vs-virginia-united-sc-w-1730-13-03-2026/601309666"
                             },
                             {
                               "key": "User-Agent",
@@ -94,306 +77,13 @@
             }
           ],
           "org_metadata": {
-            "league": "AFC Women’s Asian Cup",
-            "team_a": "Australia Women",
-            "team_b": "North Korea (w)",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/16e07f20613d448ad440f7445ce8dd5a.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/3dcedcc7589fb823493164d4476aa41f.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c36606769d2f.png?v=1773403203",
-            "thumb_key": "thumbs/kaytee-c36606769d2f.webp"
-          }
-        },
-        {
-          "id": "kaytee-dfd5f943c234",
-          "name": "⚽ West Adelaide SC vs Adelaide Comets FC | 17:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-dfd5f943c234.png?v=1773403205",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601297291",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601297291",
-                  "name": "West Adelaide SC vs Adelaide Comets FC",
-                  "streams": [
-                    {
-                      "id": "st-601297291",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-122143b67c",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/7a5528183f9b98d7d43d4227a6c37c91/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/west-adelaide-sc-vs-adelaide-comets-fc-1700-13-03-2026/601297291"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "South Australia National Premier Leagues",
-            "team_a": "West Adelaide SC",
-            "team_b": "Adelaide Comets FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/9387d0a789713efc4d22f39c269b89cc.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/861a7e12ebda4bd651b701e069cde5c5.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-dfd5f943c234.png?v=1773403205",
-            "thumb_key": "thumbs/kaytee-dfd5f943c234.webp"
-          }
-        },
-        {
-          "id": "kaytee-61c7950f45ea",
-          "name": "⚽ Epitsentr U21 vs Rukh Vynnyky U21 | 17:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-61c7950f45ea.png?v=1773403207",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601297381",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601297381",
-                  "name": "Epitsentr U21 vs Rukh Vynnyky U21",
-                  "streams": [
-                    {
-                      "id": "st-601297381",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a80a8be726",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/035a4ebaf63576f5179ca79190a3e1b5/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/epitsentr-u21-vs-rukh-vynnyky-u21-1700-13-03-2026/601297381"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Ukrainian Youth Team Championship",
-            "team_a": "Epitsentr U21",
-            "team_b": "Rukh Vynnyky U21",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/5a3f4e42e26f7c259e7f7ed0eb8e7701.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/8678cd816f38929f7d8bcac07ccb395f.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-61c7950f45ea.png?v=1773403207",
-            "thumb_key": "thumbs/kaytee-61c7950f45ea.webp"
-          }
-        },
-        {
-          "id": "kaytee-625872bd1cd9",
-          "name": "⚽ Khatoco Khanh Hoa vs Binh Phuoc | 17:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-625872bd1cd9.png?v=1773403211",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601300102",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601300102",
-                  "name": "Khatoco Khanh Hoa vs Binh Phuoc",
-                  "streams": [
-                    {
-                      "id": "st-601300102",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9be9456377",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b3d57170a68_44731/index.m3u8?expire=1773998065&sign=48e123a93eee50e5cbe741cf82cf35a8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/khatoco-khanh-hoa-vs-binh-phuoc-1700-13-03-2026/601300102"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-760d1d3f72",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/c86c04460abcbe240b89da2e5443aa02/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/khatoco-khanh-hoa-vs-binh-phuoc-1700-13-03-2026/601300102"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Vietnam National First Class League",
-            "team_a": "Khatoco Khanh Hoa",
-            "team_b": "Binh Phuoc",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/6d4c74bfc709d561f3bed627af4218f3.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/a9741c7972e214b1c312092c8b51acd8.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-625872bd1cd9.png?v=1773403211",
-            "thumb_key": "thumbs/kaytee-625872bd1cd9.webp"
-          }
-        },
-        {
-          "id": "kaytee-65cd451d328e",
-          "name": "⚽ Dimitris Loukatos vs Phuong Nam Pham | 18:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-65cd451d328e.png?v=1773403212",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601311751",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601311751",
-                  "name": "Dimitris Loukatos vs Phuong Nam Pham",
-                  "streams": [
-                    {
-                      "id": "st-601311751",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-72b7e0d420",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b3d9c270a68_103/index.m3u8?expire=1773999170&sign=fd39fc4aa564f6b050b6b93e7e2f2751",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/dimitris-loukatos-vs-phuong-nam-pham-1800-13-03-2026/601311751"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "European Open Pool Championship 2026",
-            "team_a": "Dimitris Loukatos",
-            "team_b": "Phuong Nam Pham",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a33e1bcbe8a4ccd83c7fad7c67997613.jpg",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/2b9284f83fdde8bfbc1009aa1d4fde3a.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-65cd451d328e.png?v=1773403212",
-            "thumb_key": "thumbs/kaytee-65cd451d328e.webp"
+            "league": "Australia Queensland State Women's League",
+            "team_a": "Logan Lightning (w)",
+            "team_b": "Virginia United SC (w)",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/79e7909d90497a8baa6c12c4a6582836.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/f6bab93f2ed0fbfbf5a0b656f6c9cbfd.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e4a1de1c2abb.png?v=1773404757",
+            "thumb_key": "thumbs/kaytee-e4a1de1c2abb.webp"
           }
         },
         {
@@ -406,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c956cae8fe90.png?v=1773403214",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c956cae8fe90.png?v=1773404758",
             "width": 1600,
             "height": 1200
           },
@@ -447,23 +137,6 @@
                               "value": "Mozilla/5.0"
                             }
                           ]
-                        },
-                        {
-                          "id": "lnk-4b11661723",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/b4bcfc80f66bac3c559dec1c35b81e4c/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/nam-dinh-fc-vs-clb-thanh-hoa-1800-13-03-2026/601297309"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
                         }
                       ]
                     }
@@ -478,7 +151,7 @@
             "team_b": "CLB Thanh Hoa",
             "logo_a": "https://cdn.rapid-api.icu/football/team/bc5db4dd418cb566a4475649876b55bb.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/c6c3cf855ef4fd3a0385d34606a858ab.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c956cae8fe90.png?v=1773403214",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c956cae8fe90.png?v=1773404758",
             "thumb_key": "thumbs/kaytee-c956cae8fe90.webp"
           }
         },
@@ -492,7 +165,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9915a16f7f35.png?v=1773403216",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9915a16f7f35.png?v=1773404760",
             "width": 1600,
             "height": 1200
           },
@@ -564,22 +237,13 @@
             "team_b": "Hoang Anh Gia Lai",
             "logo_a": "https://cdn.rapid-api.icu/football/team/46a4867487152e47c4dc61984d0c58aa.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/df2ae58b9e658494b940b0bd782901b8.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9915a16f7f35.png?v=1773403216",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9915a16f7f35.png?v=1773404760",
             "thumb_key": "thumbs/kaytee-9915a16f7f35.webp"
           }
-        }
-      ]
-    },
-    {
-      "id": "live_bóng_rổ",
-      "name": "🔴 Live 🏀 Bóng Rổ",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
+        },
         {
-          "id": "kaytee-a0f8111e983b",
-          "name": "🏀 LG Sakers vs Seoul Thunders | 17:00",
+          "id": "kaytee-a795184c0cd2",
+          "name": "⚽ Wuhan Three Towns FC vs Dalian Yingbo FC | 18:35",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -587,7 +251,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a0f8111e983b.png?v=1773403209",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a795184c0cd2.png?v=1773404763",
             "width": 1600,
             "height": 1200
           },
@@ -601,27 +265,44 @@
           ],
           "sources": [
             {
-              "id": "src-601310899",
+              "id": "src-601297327",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601310899",
-                  "name": "LG Sakers vs Seoul Thunders",
+                  "id": "ct-601297327",
+                  "name": "Wuhan Three Towns FC vs Dalian Yingbo FC",
                   "streams": [
                     {
-                      "id": "st-601310899",
+                      "id": "st-601297327",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-80f2e87c41",
+                          "id": "lnk-3583f14079",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b3d841326d8_42127/index.m3u8?expire=1773998785&sign=5160ad21ce4c7605b4f6d4dbf1379a0d",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b3f3eb70a68_133172/index.m3u8?expire=1774005867&sign=afe9c04d71202a5c207b2e569546e558",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/lg-sakers-vs-seoul-thunders-1700-13-03-2026/601310899"
+                              "value": "https://bunchatv1.net/truc-tiep/wuhan-three-towns-fc-vs-dalian-yingbo-fc-1835-13-03-2026/601297327"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-f8a99cc7e7",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/86adcecf789d8413ebe995c6f8f6267f/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/wuhan-three-towns-fc-vs-dalian-yingbo-fc-1835-13-03-2026/601297327"
                             },
                             {
                               "key": "User-Agent",
@@ -637,27 +318,18 @@
             }
           ],
           "org_metadata": {
-            "league": "KBL",
-            "team_a": "LG Sakers",
-            "team_b": "Seoul Thunders",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/d1734a5bdcd32d87993c722b8f5c108b.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/619420e599f83b1d3616d9faf5397e4e.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a0f8111e983b.png?v=1773403209",
-            "thumb_key": "thumbs/kaytee-a0f8111e983b.webp"
+            "league": "Chinese Football Super League",
+            "team_a": "Wuhan Three Towns FC",
+            "team_b": "Dalian Yingbo FC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/9d520898f49a46e0a00feef82240cb80.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/0e5467034917e26c6e60a7162711c150.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a795184c0cd2.png?v=1773404763",
+            "thumb_key": "thumbs/kaytee-a795184c0cd2.webp"
           }
-        }
-      ]
-    },
-    {
-      "id": "live_bóng_chuyền",
-      "name": "🔴 Live 🏐 Bóng Chuyền",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
+        },
         {
-          "id": "kaytee-6f2e95f81ebb",
-          "name": "🏐 Hyundai Skywalkers vs Samsung Blue Fangs | 17:00",
+          "id": "kaytee-f30d26e79ba8",
+          "name": "⚽ Nakhon Ratchasima Mazda FC vs Chiangrai United | 19:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -665,7 +337,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6f2e95f81ebb.png?v=1773403211",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f30d26e79ba8.png?v=1773404764",
             "width": 1600,
             "height": 1200
           },
@@ -679,27 +351,44 @@
           ],
           "sources": [
             {
-              "id": "src-601309432",
+              "id": "src-601297333",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601309432",
-                  "name": "Hyundai Skywalkers vs Samsung Blue Fangs",
+                  "id": "ct-601297333",
+                  "name": "Nakhon Ratchasima Mazda FC vs Chiangrai United",
                   "streams": [
                     {
-                      "id": "st-601309432",
+                      "id": "st-601297333",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-3da520a8b7",
+                          "id": "lnk-83dc680216",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b3d7b670a68_88642/index.m3u8?expire=1773998646&sign=01d9ac03d888fa9d2a4892a99f01d8dc",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b3f16870a68_136682/index.m3u8?expire=1774005224&sign=1314dfa6f982ea2451502f80fb72feca",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/hyundai-skywalkers-vs-samsung-blue-fangs-1700-13-03-2026/601309432"
+                              "value": "https://bunchatv1.net/truc-tiep/nakhon-ratchasima-mazda-fc-vs-chiangrai-united-1900-13-03-2026/601297333"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-e85c0da230",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/41d4e9f0f3b3728bbce1a98c44c933db/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/nakhon-ratchasima-mazda-fc-vs-chiangrai-united-1900-13-03-2026/601297333"
                             },
                             {
                               "key": "User-Agent",
@@ -715,13 +404,168 @@
             }
           ],
           "org_metadata": {
-            "league": "Volleyball League",
-            "team_a": "Hyundai Skywalkers",
-            "team_b": "Samsung Blue Fangs",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/c375e5d271b7cc9b6f39043cd75b29ba.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/dc59a49e8f652e7feba74ad3ffb383b6.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6f2e95f81ebb.png?v=1773403211",
-            "thumb_key": "thumbs/kaytee-6f2e95f81ebb.webp"
+            "league": "Hilux Revo Thai League",
+            "team_a": "Nakhon Ratchasima Mazda FC",
+            "team_b": "Chiangrai United",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/f999eb8927904adcf9c683b43b4dc856.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/72e738f86c289330982cfdf225169768.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f30d26e79ba8.png?v=1773404764",
+            "thumb_key": "thumbs/kaytee-f30d26e79ba8.webp"
+          }
+        },
+        {
+          "id": "kaytee-65cd451d328e",
+          "name": "⚽ Fedor Gorst vs Gentjan Gega | 19:10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-65cd451d328e.png?v=1773404766",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601311751",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601311751",
+                  "name": "Fedor Gorst vs Gentjan Gega",
+                  "streams": [
+                    {
+                      "id": "st-601311751",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-72b7e0d420",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b3d9c270a68_103/index.m3u8?expire=1773999170&sign=fd39fc4aa564f6b050b6b93e7e2f2751",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/fedor-gorst-vs-gentjan-gega-1910-13-03-2026/601311751"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "European Open Pool Championship 2026",
+            "team_a": "Fedor Gorst",
+            "team_b": "Gentjan Gega",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/bed56919352d557ac5deecfa53b22bb3.webp",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/c2e25a7bed98699b96af4872f33b2b67.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-65cd451d328e.png?v=1773404766",
+            "thumb_key": "thumbs/kaytee-65cd451d328e.webp"
+          }
+        },
+        {
+          "id": "kaytee-39b62787698e",
+          "name": "⚽ TT Hanoi vs Song Lam Nghe An | 19:15",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-39b62787698e.png?v=1773404768",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601297363",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601297363",
+                  "name": "TT Hanoi vs Song Lam Nghe An",
+                  "streams": [
+                    {
+                      "id": "st-601297363",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-56fc7c6a28",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b3fc15326d8_44731/index.m3u8?expire=1774007957&sign=95da4cc35fd7d73b123864b868b65aab",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/tt-hanoi-vs-song-lam-nghe-an-1915-13-03-2026/601297363"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-77a6cc5e0e",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/6a5dfc23934c23c225dd617aa1b9524c/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/tt-hanoi-vs-song-lam-nghe-an-1915-13-03-2026/601297363"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vietnam National Champion League",
+            "team_a": "TT Hanoi",
+            "team_b": "Song Lam Nghe An",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/7146224d9ef4e5d2eb712b4e71bdfaa4.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/7f95b001711ce3978d498602e1d2c9fd.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-39b62787698e.png?v=1773404768",
+            "thumb_key": "thumbs/kaytee-39b62787698e.webp"
           }
         }
       ]
@@ -734,8 +578,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-e5eac04fc915",
-          "name": "🏓 CHEN Yi vs Bernadette Szocs | 18:40",
+          "id": "kaytee-80e85910977e",
+          "name": "🏓 SC Poltava vs FC Karpaty Lviv | 18:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -743,7 +587,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e5eac04fc915.png?v=1773403217",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-80e85910977e.png?v=1773404761",
             "width": 1600,
             "height": 1200
           },
@@ -757,27 +601,27 @@
           ],
           "sources": [
             {
-              "id": "src-601311628",
+              "id": "src-601297303",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601311628",
-                  "name": "CHEN Yi vs Bernadette Szocs",
+                  "id": "ct-601297303",
+                  "name": "SC Poltava vs FC Karpaty Lviv",
                   "streams": [
                     {
-                      "id": "st-601311628",
+                      "id": "st-601297303",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-fc27be536a",
+                          "id": "lnk-540ef212e1",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b3e1f0326d8_112310/index.m3u8?expire=1774001264&sign=69dd2af5ddb39860cbbe7ed9d0aafe2d",
+                          "url": "https://live.alilicloud.com/live/f7e7c3d6fb119ab98a03c104f36f86af/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/chen-yi-vs-bernadette-szocs-1840-13-03-2026/601311628"
+                              "value": "https://bunchatv1.net/truc-tiep/sc-poltava-vs-fc-karpaty-lviv-1800-13-03-2026/601297303"
                             },
                             {
                               "key": "User-Agent",
@@ -793,13 +637,13 @@
             }
           ],
           "org_metadata": {
-            "league": "WTT Champions Chongqing Women",
-            "team_a": "CHEN Yi",
-            "team_b": "Bernadette Szocs",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/d4c35b72d08126ffda2590f94bbaaf63.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/33b52e8f22ed0c32379a26548f028282.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e5eac04fc915.png?v=1773403217",
-            "thumb_key": "thumbs/kaytee-e5eac04fc915.webp"
+            "league": "Ukrainian Premier League",
+            "team_a": "SC Poltava",
+            "team_b": "FC Karpaty Lviv",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/89f8e05570be7039c6abd68b87ea71d3.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/5b98e5f23252a9583cccdd370460bc79.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-80e85910977e.png?v=1773404761",
+            "thumb_key": "thumbs/kaytee-80e85910977e.webp"
           }
         }
       ]
@@ -821,7 +665,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1eb27c3bd939.png?v=1773403218",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1eb27c3bd939.png?v=1773404769",
             "width": 1600,
             "height": 1200
           },
@@ -876,7 +720,7 @@
             "team_b": "Kim Young-won",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/bc05383b76d62cec41784a623e84f806.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/810eb61673c3d74fc757b37bb3167104.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1eb27c3bd939.png?v=1773403218",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1eb27c3bd939.png?v=1773404769",
             "thumb_key": "thumbs/kaytee-1eb27c3bd939.webp"
           }
         },
@@ -890,7 +734,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bf6ac6b44385.png?v=1773403218",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bf6ac6b44385.png?v=1773404769",
             "width": 1600,
             "height": 1200
           },
@@ -945,7 +789,7 @@
             "team_b": "Sanchez",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/2bc5221d5c071b6fe7b3ee7f043f4e2a.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/6f2ac8e7683ab08c2a3f5028a68089a9.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bf6ac6b44385.png?v=1773403218",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bf6ac6b44385.png?v=1773404769",
             "thumb_key": "thumbs/kaytee-bf6ac6b44385.webp"
           }
         }
