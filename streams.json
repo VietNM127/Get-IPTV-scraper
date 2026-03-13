@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-13T05:04:27.533926",
+  "updated_at": "2026-03-13T05:35:12.684249",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,161 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-4d0c02ab1287",
-          "name": "⚽ Mazatlan FC (w) vs Monterrey (w) | 10:10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4d0c02ab1287.png?v=1773378261",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601297150",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601297150",
-                  "name": "Mazatlan FC (w) vs Monterrey (w)",
-                  "streams": [
-                    {
-                      "id": "st-601297150",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-55136b056d",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b37b1670a68_103/index.m3u8?expire=1773974934&sign=5f9673dd50943882774d2149e452ff53",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/mazatlan-fc-w-vs-monterrey-w-1010-13-03-2026/601297150"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-ca8123e048",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/37f5a275843991ef693fa5c60af0bbc5/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/mazatlan-fc-w-vs-monterrey-w-1010-13-03-2026/601297150"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Mexico Liga MX Femenil",
-            "team_a": "Mazatlan FC (w)",
-            "team_b": "Monterrey (w)",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/c87378cb2b4fd7ec95945b863e2e75c2.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/c32ddb0be3a23ceca9a2ccfb599438eb.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4d0c02ab1287.png?v=1773378261",
-            "thumb_key": "thumbs/kaytee-4d0c02ab1287.webp"
-          }
-        },
-        {
-          "id": "kaytee-cfeb060a4265",
-          "name": "⚽ Inter Kerala Women vs Kerala United (W) | 10:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cfeb060a4265.png?v=1773378262",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601311826",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601311826",
-                  "name": "Inter Kerala Women vs Kerala United (W)",
-                  "streams": [
-                    {
-                      "id": "st-601311826",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-04a252ff77",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/1503575697a0cdf8df04300dea443ca3/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/inter-kerala-women-vs-kerala-united-w-1030-13-03-2026/601311826"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "IND KLW",
-            "team_a": "Inter Kerala Women",
-            "team_b": "Kerala United (W)",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/b79d64d9d25ed5e9ff53a6f53d425e61.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/596373bb8db13b6203c121e8487c7f0b.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cfeb060a4265.png?v=1773378262",
-            "thumb_key": "thumbs/kaytee-cfeb060a4265.webp"
-          }
-        },
         {
           "id": "kaytee-bb5d6b510e43",
           "name": "⚽ Gangneung Citizen vs Pocheon FC | 12:00",
@@ -182,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bb5d6b510e43.png?v=1773378266",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bb5d6b510e43.png?v=1773380108",
             "width": 1600,
             "height": 1200
           },
@@ -254,86 +99,8 @@
             "team_b": "Pocheon FC",
             "logo_a": "https://cdn.rapid-api.icu/football/team/dd06345e9fdb10d2e3ae8820dd3353c5.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/90d8a3ba4e8da08e280ab84514fe4cf0.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bb5d6b510e43.png?v=1773378266",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bb5d6b510e43.png?v=1773380108",
             "thumb_key": "thumbs/kaytee-bb5d6b510e43.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "live_bóng_rổ",
-      "name": "🔴 Live 🏀 Bóng Rổ",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-515bd181466d",
-          "name": "🏀 Los Angeles Lakers vs Chicago Bulls | 09:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-515bd181466d.png?v=1773378259",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601298938",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601298938",
-                  "name": "Los Angeles Lakers vs Chicago Bulls",
-                  "streams": [
-                    {
-                      "id": "st-601298938",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-de6fe076fc",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b374cc326d8_42127/index.m3u8?expire=1773973324&sign=59b87c0d6d1b25867620c227b694e41a",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/los-angeles-lakers-vs-chicago-bulls-0900-13-03-2026/601298938"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "NBA",
-            "team_a": "Los Angeles Lakers",
-            "team_b": "Chicago Bulls",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/feb6335bd6d4cb2e6b6cb6cb43c0e0a1.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/860dc5563d084864497c5abf8e415e5e.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-515bd181466d.png?v=1773378259",
-            "thumb_key": "thumbs/kaytee-515bd181466d.webp"
           }
         }
       ]
@@ -355,7 +122,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1eb27c3bd939.png?v=1773378266",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1eb27c3bd939.png?v=1773380110",
             "width": 1600,
             "height": 1200
           },
@@ -410,7 +177,7 @@
             "team_b": "Lee Woo-kyung",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/4cd91a4c40ac3a60874370a5146aa441.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/855f9296bdaa53535735b8672c648016.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1eb27c3bd939.png?v=1773378266",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1eb27c3bd939.png?v=1773380110",
             "thumb_key": "thumbs/kaytee-1eb27c3bd939.webp"
           }
         },
@@ -424,7 +191,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bf6ac6b44385.png?v=1773378267",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bf6ac6b44385.png?v=1773380110",
             "width": 1600,
             "height": 1200
           },
@@ -479,7 +246,7 @@
             "team_b": "Kim Se-yeon",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/2e0ce46022527c11d7fb40d36748427e.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/2dca9e5f0d17ea69cd0a5c4b1b1de55e.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bf6ac6b44385.png?v=1773378267",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bf6ac6b44385.png?v=1773380110",
             "thumb_key": "thumbs/kaytee-bf6ac6b44385.webp"
           }
         }
@@ -494,7 +261,7 @@
       "channels": [
         {
           "id": "kaytee-3e70958cdfdc",
-          "name": "🏓 Miwa HARIMOTO vs Anna HURSEY | 11:30",
+          "name": "🏓 Nicholas LUM vs Sora MATSUSHIMA | 12:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -502,7 +269,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3e70958cdfdc.png?v=1773378264",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3e70958cdfdc.png?v=1773380112",
             "width": 1600,
             "height": 1200
           },
@@ -521,7 +288,7 @@
               "contents": [
                 {
                   "id": "ct-601311625",
-                  "name": "Miwa HARIMOTO vs Anna HURSEY",
+                  "name": "Nicholas LUM vs Sora MATSUSHIMA",
                   "streams": [
                     {
                       "id": "st-601311625",
@@ -536,7 +303,7 @@
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/miwa-harimoto-vs-anna-hursey-1130-13-03-2026/601311625"
+                              "value": "https://bunchatv1.net/truc-tiep/nicholas-lum-vs-sora-matsushima-1200-13-03-2026/601311625"
                             },
                             {
                               "key": "User-Agent",
@@ -553,11 +320,11 @@
           ],
           "org_metadata": {
             "league": "WTT Champions Chongqing Women",
-            "team_a": "Miwa HARIMOTO",
-            "team_b": "Anna HURSEY",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a27e26c5fcf1ab989aaa28e41830d3b6.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/d3033b07708aaff4c4d57d7139358831.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3e70958cdfdc.png?v=1773378264",
+            "team_a": "Nicholas LUM",
+            "team_b": "Sora MATSUSHIMA",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/525d7ff3e4b982f78bb39577847d51e4.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/90099d7df2532eb23c3eab77c657516f.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3e70958cdfdc.png?v=1773380112",
             "thumb_key": "thumbs/kaytee-3e70958cdfdc.webp"
           }
         }
