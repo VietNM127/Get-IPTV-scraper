@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-13T03:31:21.081697",
+  "updated_at": "2026-03-13T04:27:17.820704",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,161 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-5954e036bafe",
-          "name": "⚽ Vancouver Whitecaps vs Seattle Sounders | 09:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5954e036bafe.png?v=1773372675",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601297147",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601297147",
-                  "name": "Vancouver Whitecaps vs Seattle Sounders",
-                  "streams": [
-                    {
-                      "id": "st-601297147",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9af4381691",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b36963326d8_74012/index.m3u8?expire=1773970403&sign=a25d54e7dec8dfafb564077cd8ff02c5",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/vancouver-whitecaps-vs-seattle-sounders-0900-13-03-2026/601297147"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-da98c3652f",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/9a7e3d5d0cffbd2a26f07500bbb3239e/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/vancouver-whitecaps-vs-seattle-sounders-0900-13-03-2026/601297147"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "CNCF CHL",
-            "team_a": "Vancouver Whitecaps",
-            "team_b": "Seattle Sounders",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/527dcdb6260004a2c8f61fae9345f133.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/cef1725baaf3f3be0cb7215c5f39d162.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5954e036bafe.png?v=1773372675",
-            "thumb_key": "thumbs/kaytee-5954e036bafe.webp"
-          }
-        },
-        {
-          "id": "kaytee-af920ce914d7",
-          "name": "⚽ Tigres(w) vs Santos Laguna (w) | 09:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-af920ce914d7.png?v=1773372677",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601297144",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601297144",
-                  "name": "Tigres(w) vs Santos Laguna (w)",
-                  "streams": [
-                    {
-                      "id": "st-601297144",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b8bd6bc499",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/1951f254df142a300566949dda41949b/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/tigresw-vs-santos-laguna-w-0900-13-03-2026/601297144"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Mexico Liga MX Femenil",
-            "team_a": "Tigres(w)",
-            "team_b": "Santos Laguna (w)",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/652f72cf824d752d94375426a432e86d.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/018ffc6f0b8298870a01ad4da5f86e7f.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-af920ce914d7.png?v=1773372677",
-            "thumb_key": "thumbs/kaytee-af920ce914d7.webp"
-          }
-        },
         {
           "id": "kaytee-4d0c02ab1287",
           "name": "⚽ Mazatlan FC (w) vs Monterrey (w) | 10:10",
@@ -182,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4d0c02ab1287.png?v=1773372681",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4d0c02ab1287.png?v=1773376032",
             "width": 1600,
             "height": 1200
           },
@@ -254,8 +99,77 @@
             "team_b": "Monterrey (w)",
             "logo_a": "https://cdn.rapid-api.icu/football/team/c87378cb2b4fd7ec95945b863e2e75c2.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/c32ddb0be3a23ceca9a2ccfb599438eb.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4d0c02ab1287.png?v=1773372681",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4d0c02ab1287.png?v=1773376032",
             "thumb_key": "thumbs/kaytee-4d0c02ab1287.webp"
+          }
+        },
+        {
+          "id": "kaytee-cfeb060a4265",
+          "name": "⚽ Inter Kerala Women vs Kerala United (W) | 10:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cfeb060a4265.png?v=1773376034",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601311826",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601311826",
+                  "name": "Inter Kerala Women vs Kerala United (W)",
+                  "streams": [
+                    {
+                      "id": "st-601311826",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-04a252ff77",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/1503575697a0cdf8df04300dea443ca3/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/inter-kerala-women-vs-kerala-united-w-1030-13-03-2026/601311826"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "IND KLW",
+            "team_a": "Inter Kerala Women",
+            "team_b": "Kerala United (W)",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/b79d64d9d25ed5e9ff53a6f53d425e61.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/596373bb8db13b6203c121e8487c7f0b.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cfeb060a4265.png?v=1773376034",
+            "thumb_key": "thumbs/kaytee-cfeb060a4265.webp"
           }
         }
       ]
@@ -268,144 +182,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-2963c2cf04da",
-          "name": "🏀 San Antonio Spurs vs Denver Nuggets | 08:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2963c2cf04da.png?v=1773372672",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601298932",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601298932",
-                  "name": "San Antonio Spurs vs Denver Nuggets",
-                  "streams": [
-                    {
-                      "id": "st-601298932",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1b34fac28e",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b367c4326d8_4733/index.m3u8?expire=1773969988&sign=3e89521e64a382d601b249a7fb5973b9",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/san-antonio-spurs-vs-denver-nuggets-0800-13-03-2026/601298932"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "NBA",
-            "team_a": "San Antonio Spurs",
-            "team_b": "Denver Nuggets",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/fcb0d98ef40bc3ab0404e77a6a02a947.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/d734dd7151e82d5c185ed20968505758.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2963c2cf04da.png?v=1773372672",
-            "thumb_key": "thumbs/kaytee-2963c2cf04da.webp"
-          }
-        },
-        {
-          "id": "kaytee-d647f4e5e192",
-          "name": "🏀 Oklahoma City Thunder vs Boston Celtics | 08:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d647f4e5e192.png?v=1773372673",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601298935",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601298935",
-                  "name": "Oklahoma City Thunder vs Boston Celtics",
-                  "streams": [
-                    {
-                      "id": "st-601298935",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d2b25030ba",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b36829326d8_72787/index.m3u8?expire=1773970089&sign=dd640c8d64eaa1a2816bef4602f36bf7",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/oklahoma-city-thunder-vs-boston-celtics-0830-13-03-2026/601298935"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "NBA",
-            "team_a": "Oklahoma City Thunder",
-            "team_b": "Boston Celtics",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/4fe44502af5fe078532e6d7f968ef76e.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/df3283f4c6615d2aa45031dd020c9c52.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d647f4e5e192.png?v=1773372673",
-            "thumb_key": "thumbs/kaytee-d647f4e5e192.webp"
-          }
-        },
-        {
           "id": "kaytee-515bd181466d",
           "name": "🏀 Los Angeles Lakers vs Chicago Bulls | 09:00",
           "type": "single",
@@ -415,7 +191,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-515bd181466d.png?v=1773372673",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-515bd181466d.png?v=1773376030",
             "width": 1600,
             "height": 1200
           },
@@ -470,86 +246,8 @@
             "team_b": "Chicago Bulls",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/feb6335bd6d4cb2e6b6cb6cb43c0e0a1.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/860dc5563d084864497c5abf8e415e5e.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-515bd181466d.png?v=1773372673",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-515bd181466d.png?v=1773376030",
             "thumb_key": "thumbs/kaytee-515bd181466d.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "live_tennis",
-      "name": "🔴 Live 🎾 Tennis",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-6c294128af09",
-          "name": "🎾 Alcaraz C. vs Norrie C. | 09:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6c294128af09.png?v=1773372678",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601310767",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601310767",
-                  "name": "Alcaraz C. vs Norrie C.",
-                  "streams": [
-                    {
-                      "id": "st-601310767",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-53ed443cc9",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b37005326d8_110198/index.m3u8?expire=1773972101&sign=b6ba283493937ecbf2f8ee5c97e7cb07",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/alcaraz-c-vs-norrie-c-0900-13-03-2026/601310767"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "ATP Indian Wells",
-            "team_a": "Alcaraz C.",
-            "team_b": "Norrie C.",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/fceebcdaefca43b1c27f75a1e60d418d.webp",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/0a35b146992380e543515d196b8f4be5.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6c294128af09.png?v=1773372678",
-            "thumb_key": "thumbs/kaytee-6c294128af09.webp"
           }
         }
       ]
@@ -563,7 +261,7 @@
       "channels": [
         {
           "id": "kaytee-3e70958cdfdc",
-          "name": "🏓 CHENG I-Ching vs Satsuki ODO | 10:00",
+          "name": "🏓 LIN Yun Ju vs Chu Tề Hạo | 10:50",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -571,7 +269,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3e70958cdfdc.png?v=1773372679",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3e70958cdfdc.png?v=1773376035",
             "width": 1600,
             "height": 1200
           },
@@ -590,7 +288,7 @@
               "contents": [
                 {
                   "id": "ct-601311625",
-                  "name": "CHENG I-Ching vs Satsuki ODO",
+                  "name": "LIN Yun Ju vs Chu Tề Hạo",
                   "streams": [
                     {
                       "id": "st-601311625",
@@ -605,7 +303,7 @@
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/cheng-iching-vs-satsuki-odo-1000-13-03-2026/601311625"
+                              "value": "https://bunchatv1.net/truc-tiep/lin-yun-ju-vs-chu-te-hao-1050-13-03-2026/601311625"
                             },
                             {
                               "key": "User-Agent",
@@ -622,12 +320,90 @@
           ],
           "org_metadata": {
             "league": "WTT Champions Chongqing Women",
-            "team_a": "CHENG I-Ching",
-            "team_b": "Satsuki ODO",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/6b84780e6dafb8749f6986c9d56da8fa.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/154510731493b101d0452f055117a5e0.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3e70958cdfdc.png?v=1773372679",
+            "team_a": "LIN Yun Ju",
+            "team_b": "Chu Tề Hạo",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/03671e6517ba622b7c9ba3ee1efc474c.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/94f8cd451b5d81e74b9141497dc71500.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3e70958cdfdc.png?v=1773376035",
             "thumb_key": "thumbs/kaytee-3e70958cdfdc.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_bóng_đá",
+      "name": "⏳ Sắp Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-bb5d6b510e43",
+          "name": "⚽ Gangneung Citizen vs Pocheon FC | 12:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bb5d6b510e43.png?v=1773376037",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601297153",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601297153",
+                  "name": "Gangneung Citizen vs Pocheon FC",
+                  "streams": [
+                    {
+                      "id": "st-601297153",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-30169eb1b0",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b38f4b70a68_124958/index.m3u8?expire=1773980107&sign=e3f23e79c7e9e22c32ec71fd1f69b433",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/gangneung-citizen-vs-pocheon-fc-1200-13-03-2026/601297153"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Korean K League 3",
+            "team_a": "Gangneung Citizen",
+            "team_b": "Pocheon FC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/dd06345e9fdb10d2e3ae8820dd3353c5.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/90d8a3ba4e8da08e280ab84514fe4cf0.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bb5d6b510e43.png?v=1773376037",
+            "thumb_key": "thumbs/kaytee-bb5d6b510e43.webp"
           }
         }
       ]
