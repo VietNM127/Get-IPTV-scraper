@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-13T13:19:48.689932",
+  "updated_at": "2026-03-13T13:41:29.274894",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,161 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-a795184c0cd2",
-          "name": "⚽ Wuhan Three Towns FC vs Dalian Yingbo FC | 18:35",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a795184c0cd2.png?v=1773407977",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601297327",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601297327",
-                  "name": "Wuhan Three Towns FC vs Dalian Yingbo FC",
-                  "streams": [
-                    {
-                      "id": "st-601297327",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3583f14079",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b3f3eb70a68_133172/index.m3u8?expire=1774005867&sign=afe9c04d71202a5c207b2e569546e558",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/wuhan-three-towns-fc-vs-dalian-yingbo-fc-1835-13-03-2026/601297327"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-f8a99cc7e7",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/86adcecf789d8413ebe995c6f8f6267f/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/wuhan-three-towns-fc-vs-dalian-yingbo-fc-1835-13-03-2026/601297327"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Chinese Football Super League",
-            "team_a": "Wuhan Three Towns FC",
-            "team_b": "Dalian Yingbo FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/9d520898f49a46e0a00feef82240cb80.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/0e5467034917e26c6e60a7162711c150.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a795184c0cd2.png?v=1773407977",
-            "thumb_key": "thumbs/kaytee-a795184c0cd2.webp"
-          }
-        },
-        {
-          "id": "kaytee-4a18cb15f004",
-          "name": "⚽ Yunnan Cuanhe vs Guangzhou Rock Goal | 18:35",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4a18cb15f004.png?v=1773407979",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601297216",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601297216",
-                  "name": "Yunnan Cuanhe vs Guangzhou Rock Goal",
-                  "streams": [
-                    {
-                      "id": "st-601297216",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-670474272c",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/2654c6c22dcc4082c61f8c829ef7bb1f/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/yunnan-cuanhe-vs-guangzhou-rock-goal-1835-13-03-2026/601297216"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Chinese FA Cup",
-            "team_a": "Yunnan Cuanhe",
-            "team_b": "Guangzhou Rock Goal",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/28b6ad8789a824ccf3c482deb4232949.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/3ad3c409eeb1a2bac6b84ee71dbdfc6d.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4a18cb15f004.png?v=1773407979",
-            "thumb_key": "thumbs/kaytee-4a18cb15f004.webp"
-          }
-        },
         {
           "id": "kaytee-f30d26e79ba8",
           "name": "⚽ Nakhon Ratchasima Mazda FC vs Chiangrai United | 19:00",
@@ -182,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f30d26e79ba8.png?v=1773407980",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f30d26e79ba8.png?v=1773409274",
             "width": 1600,
             "height": 1200
           },
@@ -254,7 +99,7 @@
             "team_b": "Chiangrai United",
             "logo_a": "https://cdn.rapid-api.icu/football/team/f999eb8927904adcf9c683b43b4dc856.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/72e738f86c289330982cfdf225169768.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f30d26e79ba8.png?v=1773407980",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f30d26e79ba8.png?v=1773409274",
             "thumb_key": "thumbs/kaytee-f30d26e79ba8.webp"
           }
         },
@@ -268,7 +113,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c7ae33db4ad1.png?v=1773407981",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c7ae33db4ad1.png?v=1773409278",
             "width": 1600,
             "height": 1200
           },
@@ -340,8 +185,77 @@
             "team_b": "Nakhon Pathom FC",
             "logo_a": "https://cdn.rapid-api.icu/football/team/6cc89f047baae7e8a28b6956014475ae.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/fe12e86ba67a43baed4f8aee53903743.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c7ae33db4ad1.png?v=1773407981",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c7ae33db4ad1.png?v=1773409278",
             "thumb_key": "thumbs/kaytee-c7ae33db4ad1.webp"
+          }
+        },
+        {
+          "id": "kaytee-183a5724e5d8",
+          "name": "⚽ Hadiya Hossana vs Sheger Ketema | 19:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-183a5724e5d8.png?v=1773409281",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601297339",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601297339",
+                  "name": "Hadiya Hossana vs Sheger Ketema",
+                  "streams": [
+                    {
+                      "id": "st-601297339",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3e86fa7a4c",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b3f600326d8_128756/index.m3u8?expire=1774006400&sign=80b5aa657264cacbed49738b1dee66ed",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/hadiya-hossana-vs-sheger-ketema-1900-13-03-2026/601297339"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ethiopia Premier League",
+            "team_a": "Hadiya Hossana",
+            "team_b": "Sheger Ketema",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/6b722ac8d4b936380432e7a58ef41b4e.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/99943d6616c5240d42c5b9a7f79590b5.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-183a5724e5d8.png?v=1773409281",
+            "thumb_key": "thumbs/kaytee-183a5724e5d8.webp"
           }
         },
         {
@@ -354,7 +268,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-65cd451d328e.png?v=1773407984",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-65cd451d328e.png?v=1773409284",
             "width": 1600,
             "height": 1200
           },
@@ -409,7 +323,7 @@
             "team_b": "Gentjan Gega",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/bed56919352d557ac5deecfa53b22bb3.webp",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/c2e25a7bed98699b96af4872f33b2b67.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-65cd451d328e.png?v=1773407984",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-65cd451d328e.png?v=1773409284",
             "thumb_key": "thumbs/kaytee-65cd451d328e.webp"
           }
         },
@@ -423,7 +337,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-39b62787698e.png?v=1773407985",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-39b62787698e.png?v=1773409285",
             "width": 1600,
             "height": 1200
           },
@@ -495,7 +409,7 @@
             "team_b": "Song Lam Nghe An",
             "logo_a": "https://cdn.rapid-api.icu/football/team/7146224d9ef4e5d2eb712b4e71bdfaa4.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/7f95b001711ce3978d498602e1d2c9fd.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-39b62787698e.png?v=1773407985",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-39b62787698e.png?v=1773409285",
             "thumb_key": "thumbs/kaytee-39b62787698e.webp"
           }
         },
@@ -509,7 +423,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-271a57fbbf19.png?v=1773407987",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-271a57fbbf19.png?v=1773409287",
             "width": 1600,
             "height": 1200
           },
@@ -535,11 +449,11 @@
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-c2b0b6ba35",
+                          "id": "lnk-6741bde1bd",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b40af070a68_142210/index.m3u8?expire=1774011760&sign=44864bcc16e6cad83468996c38136dc2",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b4129670a68_110198/index.m3u8?expire=1774013718&sign=797196a3072b849108113cd7b918bf23",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -564,7 +478,7 @@
             "team_b": "Eloi ADAM / Leo ROSSI",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/bbe344a57234795986538071709b90f8.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/ab19817920edc45247bcc3b248cbbf61.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-271a57fbbf19.png?v=1773407987",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-271a57fbbf19.png?v=1773409287",
             "thumb_key": "thumbs/kaytee-271a57fbbf19.webp"
           }
         },
@@ -578,7 +492,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-28af0ef25ccc.png?v=1773407988",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-28af0ef25ccc.png?v=1773409288",
             "width": 1600,
             "height": 1200
           },
@@ -633,7 +547,7 @@
             "team_b": "JIA Yi Fan / ZHANG Shu Xian",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/e0bd8c8efd4c20eb8d1d4c5112179b44.webp",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/2541a719cd89f4ad80adadd04d1aa0b9.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-28af0ef25ccc.png?v=1773407988",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-28af0ef25ccc.png?v=1773409288",
             "thumb_key": "thumbs/kaytee-28af0ef25ccc.webp"
           }
         },
@@ -647,7 +561,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-29b7bf882a28.png?v=1773407988",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-29b7bf882a28.png?v=1773409289",
             "width": 1600,
             "height": 1200
           },
@@ -702,7 +616,7 @@
             "team_b": "LIN Xiao Min / WANG Yu Qiao",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/553bf6bdabe3cb5f75a97e9bd0431813.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/c11c75fd751d708e7a3546a9e6b523d2.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-29b7bf882a28.png?v=1773407988",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-29b7bf882a28.png?v=1773409289",
             "thumb_key": "thumbs/kaytee-29b7bf882a28.webp"
           }
         }
@@ -725,7 +639,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1eb27c3bd939.png?v=1773407986",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1eb27c3bd939.png?v=1773409286",
             "width": 1600,
             "height": 1200
           },
@@ -780,7 +694,7 @@
             "team_b": "Kim Young-won",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/bc05383b76d62cec41784a623e84f806.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/810eb61673c3d74fc757b37bb3167104.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1eb27c3bd939.png?v=1773407986",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1eb27c3bd939.png?v=1773409286",
             "thumb_key": "thumbs/kaytee-1eb27c3bd939.webp"
           }
         },
@@ -794,7 +708,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bf6ac6b44385.png?v=1773407987",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bf6ac6b44385.png?v=1773409287",
             "width": 1600,
             "height": 1200
           },
@@ -849,7 +763,7 @@
             "team_b": "Sanchez",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/2bc5221d5c071b6fe7b3ee7f043f4e2a.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/6f2ac8e7683ab08c2a3f5028a68089a9.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bf6ac6b44385.png?v=1773407987",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bf6ac6b44385.png?v=1773409287",
             "thumb_key": "thumbs/kaytee-bf6ac6b44385.webp"
           }
         }
