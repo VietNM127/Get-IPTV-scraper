@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-13T06:30:28.552579",
+  "updated_at": "2026-03-13T07:11:28.350428",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -18,8 +18,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-bb5d6b510e43",
-          "name": "⚽ Gangneung Citizen vs Pocheon FC | 12:00",
+          "id": "kaytee-2e353953c75d",
+          "name": "⚽ Changle Jingangtui Football Club vs Qingdao Fuli | 14:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bb5d6b510e43.png?v=1773383425",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2e353953c75d.png?v=1773385884",
             "width": 1600,
             "height": 1200
           },
@@ -41,44 +41,27 @@
           ],
           "sources": [
             {
-              "id": "src-601297153",
+              "id": "src-601297201",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601297153",
-                  "name": "Gangneung Citizen vs Pocheon FC",
+                  "id": "ct-601297201",
+                  "name": "Changle Jingangtui Football Club vs Qingdao Fuli",
                   "streams": [
                     {
-                      "id": "st-601297153",
+                      "id": "st-601297201",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-30169eb1b0",
+                          "id": "lnk-b7b041dae5",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b38f4b70a68_124958/index.m3u8?expire=1773980107&sign=e3f23e79c7e9e22c32ec71fd1f69b433",
+                          "url": "https://live.alilicloud.com/live/09aaf6f2a5c5d04cb119cbb495cdbc48/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/gangneung-citizen-vs-pocheon-fc-1200-13-03-2026/601297153"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-21f33bebd6",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/80e461bcc65cb05c8e637396bfb98748/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/gangneung-citizen-vs-pocheon-fc-1200-13-03-2026/601297153"
+                              "value": "https://bunchatv1.net/truc-tiep/changle-jingangtui-football-club-vs-qingdao-fuli-1400-13-03-2026/601297201"
                             },
                             {
                               "key": "User-Agent",
@@ -94,18 +77,18 @@
             }
           ],
           "org_metadata": {
-            "league": "Korean K League 3",
-            "team_a": "Gangneung Citizen",
-            "team_b": "Pocheon FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/dd06345e9fdb10d2e3ae8820dd3353c5.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/90d8a3ba4e8da08e280ab84514fe4cf0.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bb5d6b510e43.png?v=1773383425",
-            "thumb_key": "thumbs/kaytee-bb5d6b510e43.webp"
+            "league": "Chinese FA Cup",
+            "team_a": "Changle Jingangtui Football Club",
+            "team_b": "Qingdao Fuli",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/04197c4ace98f54a116b898ad733bc16.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/1157661246871c8c285bbfe60388caf7.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2e353953c75d.png?v=1773385884",
+            "thumb_key": "thumbs/kaytee-2e353953c75d.webp"
           }
         },
         {
-          "id": "kaytee-ebd005dcc13d",
-          "name": "⚽ Persido Dogiyai vs Persemi Mimika | 12:00",
+          "id": "kaytee-73abf1054b8d",
+          "name": "⚽ Belmont Swansea United SC Reserves vs Weston Workers Reserves | 14:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -113,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ebd005dcc13d.png?v=1773383427",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-73abf1054b8d.png?v=1773385887",
             "width": 1600,
             "height": 1200
           },
@@ -127,27 +110,27 @@
           ],
           "sources": [
             {
-              "id": "src-601312063",
+              "id": "src-601310791",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601312063",
-                  "name": "Persido Dogiyai vs Persemi Mimika",
+                  "id": "ct-601310791",
+                  "name": "Belmont Swansea United SC Reserves vs Weston Workers Reserves",
                   "streams": [
                     {
-                      "id": "st-601312063",
+                      "id": "st-601310791",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-f5747b39ab",
+                          "id": "lnk-c765dd1d13",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live.alilicloud.com/live/f27f27afdc43a08d6cecbb0e7358277f/playlist.m3u8",
+                          "url": "https://live.alilicloud.com/live/3fa72946f07d22d6732a9a3e50757e9a/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/persido-dogiyai-vs-persemi-mimika-1200-13-03-2026/601312063"
+                              "value": "https://bunchatv1.net/truc-tiep/belmont-swansea-united-sc-reserves-vs-weston-workers-reserves-1400-13-03-2026/601310791"
                             },
                             {
                               "key": "User-Agent",
@@ -163,13 +146,91 @@
             }
           ],
           "org_metadata": {
-            "league": "Indo D4",
-            "team_a": "Persido Dogiyai",
-            "team_b": "Persemi Mimika",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/d9a8757ccb0b1f48077b31f97123505b.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/ab2a12e73932ad3065a5b78db4bedbb9.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ebd005dcc13d.png?v=1773383427",
-            "thumb_key": "thumbs/kaytee-ebd005dcc13d.webp"
+            "league": "Australia Northern New South Wales Reserves League",
+            "team_a": "Belmont Swansea United SC Reserves",
+            "team_b": "Weston Workers Reserves",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/5d9aaf70e84c3a1444ba99931112aa00.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/1947e07ef8ba324898ed55272c49a01a.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-73abf1054b8d.png?v=1773385887",
+            "thumb_key": "thumbs/kaytee-73abf1054b8d.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_bóng_rổ",
+      "name": "🔴 Live 🏀 Bóng Rổ",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-cdc7918edb7e",
+          "name": "🏀 Broadmeadow Magic Reserves vs Adamstown Rosebud Reserves | 14:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cdc7918edb7e.png?v=1773385885",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601310788",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601310788",
+                  "name": "Broadmeadow Magic Reserves vs Adamstown Rosebud Reserves",
+                  "streams": [
+                    {
+                      "id": "st-601310788",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7ed8351da4",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/f8f48421894af08162bd6467c304a8cb/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/broadmeadow-magic-reserves-vs-adamstown-rosebud-reserves-1400-13-03-2026/601310788"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Australia Northern New South Wales Reserves League",
+            "team_a": "Broadmeadow Magic Reserves",
+            "team_b": "Adamstown Rosebud Reserves",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/07dfeb96334bb5e8b6af2ae22f35e5cd.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/dc4fd58ce1e7b277ee3def338124e5be.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cdc7918edb7e.png?v=1773385885",
+            "thumb_key": "thumbs/kaytee-cdc7918edb7e.webp"
           }
         }
       ]
@@ -182,75 +243,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-1eb27c3bd939",
-          "name": "🎱 Choi Hye-mi vs Lee Woo-kyung | 12:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1eb27c3bd939.png?v=1773383423",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601311817",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601311817",
-                  "name": "Choi Hye-mi vs Lee Woo-kyung",
-                  "streams": [
-                    {
-                      "id": "st-601311817",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e7828be5dc",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b39842326d8_144313/index.m3u8?expire=1773982402&sign=20cf00deb96fd8b8c4ee9bee8ce7976d",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/choi-hyemi-vs-lee-wookyung-1200-13-03-2026/601311817"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "PBA-LPBA World Championship 2026",
-            "team_a": "Choi Hye-mi",
-            "team_b": "Lee Woo-kyung",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/4cd91a4c40ac3a60874370a5146aa441.jpg",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/855f9296bdaa53535735b8672c648016.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1eb27c3bd939.png?v=1773383423",
-            "thumb_key": "thumbs/kaytee-1eb27c3bd939.webp"
-          }
-        },
-        {
           "id": "kaytee-bf6ac6b44385",
           "name": "🎱 Lim Jung-suk vs Kim Se-yeon | 12:00",
           "type": "single",
@@ -260,7 +252,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bf6ac6b44385.png?v=1773383424",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bf6ac6b44385.png?v=1773385882",
             "width": 1600,
             "height": 1200
           },
@@ -315,22 +307,22 @@
             "team_b": "Kim Se-yeon",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/2e0ce46022527c11d7fb40d36748427e.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/2dca9e5f0d17ea69cd0a5c4b1b1de55e.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bf6ac6b44385.png?v=1773383424",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bf6ac6b44385.png?v=1773385882",
             "thumb_key": "thumbs/kaytee-bf6ac6b44385.webp"
           }
         }
       ]
     },
     {
-      "id": "live_bóng_bàn",
-      "name": "🔴 Live 🏓 Bóng Bàn",
+      "id": "upcoming_billiard",
+      "name": "⏳ Sắp Live 🎱 Billiard",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-3e70958cdfdc",
-          "name": "🏓 LIANG JINKUN vs Dang QIU | 13:13",
+          "id": "kaytee-1eb27c3bd939",
+          "name": "🎱 Cho Keon-hwi vs Cenet | 14:30",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -338,41 +330,41 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3e70958cdfdc.png?v=1773383428",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1eb27c3bd939.png?v=1773385888",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "● Live",
+              "text": "⏳ Sắp Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#ff0000"
+              "text_color": "#d54f1a"
             }
           ],
           "sources": [
             {
-              "id": "src-601311625",
+              "id": "src-601311817",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601311625",
-                  "name": "LIANG JINKUN vs Dang QIU",
+                  "id": "ct-601311817",
+                  "name": "Cho Keon-hwi vs Cenet",
                   "streams": [
                     {
-                      "id": "st-601311625",
+                      "id": "st-601311817",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-6958a6ad56",
+                          "id": "lnk-e7828be5dc",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b37bda70a68_142210/index.m3u8?expire=1773975130&sign=f5e3a56c03fd6ee2406aabeb810f8062",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b39842326d8_144313/index.m3u8?expire=1773982402&sign=20cf00deb96fd8b8c4ee9bee8ce7976d",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/liang-jinkun-vs-dang-qiu-1313-13-03-2026/601311625"
+                              "value": "https://bunchatv1.net/truc-tiep/cho-keonhwi-vs-cenet-1430-13-03-2026/601311817"
                             },
                             {
                               "key": "User-Agent",
@@ -388,13 +380,13 @@
             }
           ],
           "org_metadata": {
-            "league": "WTT Champions Chongqing Women",
-            "team_a": "LIANG JINKUN",
-            "team_b": "Dang QIU",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/24395bc2a7bfd4aaa947d94367572be8.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/0116df515df59cd514f6972dedc7e812.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3e70958cdfdc.png?v=1773383428",
-            "thumb_key": "thumbs/kaytee-3e70958cdfdc.webp"
+            "league": "PBA-LPBA World Championship 2026",
+            "team_a": "Cho Keon-hwi",
+            "team_b": "Cenet",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/ac17a438d3483cf97275819192d47983.jpg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/309d2853918611fcfe9da31a28328e58.jpg",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1eb27c3bd939.png?v=1773385888",
+            "thumb_key": "thumbs/kaytee-1eb27c3bd939.webp"
           }
         }
       ]
