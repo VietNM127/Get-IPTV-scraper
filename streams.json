@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-13T14:33:04.131008",
+  "updated_at": "2026-03-13T15:01:39.984664",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,351 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-949d11f073b0",
-          "name": "⚽ CSKA Pamir Dushanbe vs Khujand | 20:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-949d11f073b0.png?v=1773412370",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601297315",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601297315",
-                  "name": "CSKA Pamir Dushanbe vs Khujand",
-                  "streams": [
-                    {
-                      "id": "st-601297315",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-33084adf2d",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/eaa995044fcd17cd38a0dc322f3e9bbe/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/cska-pamir-dushanbe-vs-khujand-2000-13-03-2026/601297315"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Tajikistan Vysshaya Liga",
-            "team_a": "CSKA Pamir Dushanbe",
-            "team_b": "Khujand",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/4895c66e4342c6ec82324faa9e44e085.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/261c8a8238cc731de3540940cbd213be.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-949d11f073b0.png?v=1773412370",
-            "thumb_key": "thumbs/kaytee-949d11f073b0.webp"
-          }
-        },
-        {
-          "id": "kaytee-746cadedd8ed",
-          "name": "⚽ Manchester United U21 vs Southampton U21 | 20:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-746cadedd8ed.png?v=1773412372",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601297390",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601297390",
-                  "name": "Manchester United U21 vs Southampton U21",
-                  "streams": [
-                    {
-                      "id": "st-601297390",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a6d9523d1d",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/b78bc524a62e2ae550435bd5aec60296/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/manchester-united-u21-vs-southampton-u21-2000-13-03-2026/601297390"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "English U21 Premier League",
-            "team_a": "Manchester United U21",
-            "team_b": "Southampton U21",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/dde39518ed577fe437f954e38c30c772.jpg",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/4218c7d587300acbca5a2ca8ea544fb6.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-746cadedd8ed.png?v=1773412372",
-            "thumb_key": "thumbs/kaytee-746cadedd8ed.webp"
-          }
-        },
-        {
-          "id": "kaytee-6400ca349cfa",
-          "name": "⚽ Aizawl FC vs Real Kashmir | 20:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6400ca349cfa.png?v=1773412375",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601297456",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601297456",
-                  "name": "Aizawl FC vs Real Kashmir",
-                  "streams": [
-                    {
-                      "id": "st-601297456",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-02c3a76004",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/df3b46dd14872d0e34aa5d9caaab7e95/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/aizawl-fc-vs-real-kashmir-2000-13-03-2026/601297456"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Indian League Division 1",
-            "team_a": "Aizawl FC",
-            "team_b": "Real Kashmir",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/0851c8b7fadde83f3330e2b8164837a8.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/fe10a186341a15e4a76d83cdd434a1b5.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6400ca349cfa.png?v=1773412375",
-            "thumb_key": "thumbs/kaytee-6400ca349cfa.webp"
-          }
-        },
-        {
-          "id": "kaytee-3918db8e9d6d",
-          "name": "⚽ Menge Belashangul vs Nifas Silk Lafto Sub City | 20:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3918db8e9d6d.png?v=1773412377",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601310746",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601310746",
-                  "name": "Menge Belashangul vs Nifas Silk Lafto Sub City",
-                  "streams": [
-                    {
-                      "id": "st-601310746",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-01468521af",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/e1a1d41f88735c982fa88c27dc1eccf2/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/menge-belashangul-vs-nifas-silk-lafto-sub-city-2000-13-03-2026/601310746"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Ethiopian Higher League",
-            "team_a": "Menge Belashangul",
-            "team_b": "Nifas Silk Lafto Sub City",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/ba105bb9a083cf2bc6398b7d1791df08.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/26b9abf143c5bd842fac3059f4ffbb85.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3918db8e9d6d.png?v=1773412377",
-            "thumb_key": "thumbs/kaytee-3918db8e9d6d.webp"
-          }
-        },
-        {
-          "id": "kaytee-271a57fbbf19",
-          "name": "⚽ Rin IWANAGA / Kie NAKANISHI vs LI Yi Jing / WANG Yi Duo | 20:50",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-271a57fbbf19.png?v=1773412378",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601311637",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601311637",
-                  "name": "Rin IWANAGA / Kie NAKANISHI vs LI Yi Jing / WANG Yi Duo",
-                  "streams": [
-                    {
-                      "id": "st-601311637",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6741bde1bd",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b4129670a68_110198/index.m3u8?expire=1774013718&sign=797196a3072b849108113cd7b918bf23",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/rin-iwanaga--kie-nakanishi-vs-li-yi-jing--wang-yi-duo-2050-13-03-2026/601311637"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Sân 1 - YONEX Swiss Open 2026",
-            "team_a": "Rin IWANAGA / Kie NAKANISHI",
-            "team_b": "LI Yi Jing / WANG Yi Duo",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/eb73bb693adcdecb4cfc9e0cdd746c61.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/4c096b1f95a2afdb3aa56876f572f24f.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-271a57fbbf19.png?v=1773412378",
-            "thumb_key": "thumbs/kaytee-271a57fbbf19.webp"
-          }
-        },
         {
           "id": "kaytee-65cd451d328e",
           "name": "⚽ Aleksa Pecelj vs Dương Quốc Hoàng | 21:00",
@@ -372,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-65cd451d328e.png?v=1773412378",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-65cd451d328e.png?v=1773414092",
             "width": 1600,
             "height": 1200
           },
@@ -427,7 +82,7 @@
             "team_b": "Dương Quốc Hoàng",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/f34ae8e442a01ec998cb7c9c28352357.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/0ab7acc5558bebd02d79fd0a4f3a21af.webp",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-65cd451d328e.png?v=1773412378",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-65cd451d328e.png?v=1773414092",
             "thumb_key": "thumbs/kaytee-65cd451d328e.webp"
           }
         },
@@ -441,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2194ea499ae1.png?v=1773412380",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2194ea499ae1.png?v=1773414093",
             "width": 1600,
             "height": 1200
           },
@@ -513,7 +168,7 @@
             "team_b": "Negeri Sembilan",
             "logo_a": "https://cdn.rapid-api.icu/football/team/8f622c311f98f5193c354dfa4793aa12.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/198103640a4eb0c209b21b6c6891a027.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2194ea499ae1.png?v=1773412380",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2194ea499ae1.png?v=1773414093",
             "thumb_key": "thumbs/kaytee-2194ea499ae1.webp"
           }
         },
@@ -527,7 +182,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-29b7bf882a28.png?v=1773412381",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-29b7bf882a28.png?v=1773414094",
             "width": 1600,
             "height": 1200
           },
@@ -582,7 +237,7 @@
             "team_b": "Fang-Chih LEE / Fang-Jen LEE",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/25b04dd413a754856fb3fb726580f3ca.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/885e31239be353d53537ef7cc35f5b86.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-29b7bf882a28.png?v=1773412381",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-29b7bf882a28.png?v=1773414094",
             "thumb_key": "thumbs/kaytee-29b7bf882a28.webp"
           }
         },
@@ -596,7 +251,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-28af0ef25ccc.png?v=1773412382",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-28af0ef25ccc.png?v=1773414095",
             "width": 1600,
             "height": 1200
           },
@@ -651,8 +306,318 @@
             "team_b": "Pitchamon OPATNIPUTH",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/96537705c9f65a05f3bfebe6b21ac46c.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/d7a14d64e4da3ddaed23b91ee57f1ba9.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-28af0ef25ccc.png?v=1773412382",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-28af0ef25ccc.png?v=1773414095",
             "thumb_key": "thumbs/kaytee-28af0ef25ccc.webp"
+          }
+        },
+        {
+          "id": "kaytee-be9db2a198c6",
+          "name": "⚽ Araz Nakhchivan vs Karvan Evlakh | 21:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-be9db2a198c6.png?v=1773414096",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601297498",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601297498",
+                  "name": "Araz Nakhchivan vs Karvan Evlakh",
+                  "streams": [
+                    {
+                      "id": "st-601297498",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-91f3bedc8c",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b4142170a68_72787/index.m3u8?expire=1774014113&sign=157ef8e543215915eb7263df3f5e0f7d",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/araz-nakhchivan-vs-karvan-evlakh-2130-13-03-2026/601297498"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-f2d16ba7bf",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/d236c70bf149aa57f3dab4d00c5377d8/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/araz-nakhchivan-vs-karvan-evlakh-2130-13-03-2026/601297498"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Azerbaijan Premier League",
+            "team_a": "Araz Nakhchivan",
+            "team_b": "Karvan Evlakh",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/ddc0609d051d17d0b686abce8ae49a15.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/aa6d9f240dd67791dd86ff4de072d846.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-be9db2a198c6.png?v=1773414096",
+            "thumb_key": "thumbs/kaytee-be9db2a198c6.webp"
+          }
+        },
+        {
+          "id": "kaytee-7ce57479b1dd",
+          "name": "⚽ Bazar Brothers FC vs Lightstars | 21:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7ce57479b1dd.png?v=1773414098",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601310923",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601310923",
+                  "name": "Bazar Brothers FC vs Lightstars",
+                  "streams": [
+                    {
+                      "id": "st-601310923",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e63691c9a8",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/6976c1e006d23e4dcc053b8c43815b67/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/bazar-brothers-fc-vs-lightstars-2130-13-03-2026/601310923"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "SYC PR",
+            "team_a": "Bazar Brothers FC",
+            "team_b": "Lightstars",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/74a62b647e358e0531d376af7ab679fd.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/eb3eb02d41b0bfa6cf0a4324101ed451.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7ce57479b1dd.png?v=1773414098",
+            "thumb_key": "thumbs/kaytee-7ce57479b1dd.webp"
+          }
+        },
+        {
+          "id": "kaytee-271a57fbbf19",
+          "name": "⚽ Nozomi OKUHARA vs Riko GUNJI | 21:40",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-271a57fbbf19.png?v=1773414098",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601311637",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601311637",
+                  "name": "Nozomi OKUHARA vs Riko GUNJI",
+                  "streams": [
+                    {
+                      "id": "st-601311637",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6741bde1bd",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b4129670a68_110198/index.m3u8?expire=1774013718&sign=797196a3072b849108113cd7b918bf23",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/nozomi-okuhara-vs-riko-gunji-2140-13-03-2026/601311637"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sân 1 - YONEX Swiss Open 2026",
+            "team_a": "Nozomi OKUHARA",
+            "team_b": "Riko GUNJI",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/c68fb073199e692bf44b0fe2a3d2eb83.jpg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/800ba46323707241529172b020986363.jpg",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-271a57fbbf19.png?v=1773414098",
+            "thumb_key": "thumbs/kaytee-271a57fbbf19.webp"
+          }
+        },
+        {
+          "id": "kaytee-c9d243744125",
+          "name": "⚽ Lokomotiv Plovdiv vs Septemvri Sofia | 21:45",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c9d243744125.png?v=1773414099",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601297501",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601297501",
+                  "name": "Lokomotiv Plovdiv vs Septemvri Sofia",
+                  "streams": [
+                    {
+                      "id": "st-601297501",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d0b4c1d4e9",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b3fadc326d8_88186/index.m3u8?expire=1774007644&sign=93a6ef7037b06af300992289d9bf3e7b",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/lokomotiv-plovdiv-vs-septemvri-sofia-2145-13-03-2026/601297501"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-8d125fd5bb",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/ac8af8a35733e9d730cfa283f939d823/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/lokomotiv-plovdiv-vs-septemvri-sofia-2145-13-03-2026/601297501"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Bulgarian First League",
+            "team_a": "Lokomotiv Plovdiv",
+            "team_b": "Septemvri Sofia",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/940bb92f83d40985137748d0d3aeb213.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/a6f81856a35217b82fb2e20d28c3dcab.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c9d243744125.png?v=1773414099",
+            "thumb_key": "thumbs/kaytee-c9d243744125.webp"
           }
         }
       ]
@@ -674,7 +639,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1eb27c3bd939.png?v=1773412368",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1eb27c3bd939.png?v=1773414091",
             "width": 1600,
             "height": 1200
           },
@@ -729,86 +694,8 @@
             "team_b": "Kim Young-won",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/bc05383b76d62cec41784a623e84f806.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/810eb61673c3d74fc757b37bb3167104.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1eb27c3bd939.png?v=1773412368",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1eb27c3bd939.png?v=1773414091",
             "thumb_key": "thumbs/kaytee-1eb27c3bd939.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "upcoming_bóng_đá",
-      "name": "⏳ Sắp Live ⚽ Bóng Đá",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-be9db2a198c6",
-          "name": "⚽ Araz Nakhchivan vs Karvan Evlakh | 21:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-be9db2a198c6.png?v=1773412384",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Sắp Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601297498",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601297498",
-                  "name": "Araz Nakhchivan vs Karvan Evlakh",
-                  "streams": [
-                    {
-                      "id": "st-601297498",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-91f3bedc8c",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b4142170a68_72787/index.m3u8?expire=1774014113&sign=157ef8e543215915eb7263df3f5e0f7d",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/araz-nakhchivan-vs-karvan-evlakh-2130-13-03-2026/601297498"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Azerbaijan Premier League",
-            "team_a": "Araz Nakhchivan",
-            "team_b": "Karvan Evlakh",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/ddc0609d051d17d0b686abce8ae49a15.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/aa6d9f240dd67791dd86ff4de072d846.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-be9db2a198c6.png?v=1773412384",
-            "thumb_key": "thumbs/kaytee-be9db2a198c6.webp"
           }
         }
       ]
