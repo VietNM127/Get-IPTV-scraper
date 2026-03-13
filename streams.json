@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-13T17:09:24.512183",
+  "updated_at": "2026-03-13T17:45:32.214879",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,92 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-0c2aa6d8e43f",
-          "name": "⚽ UTA Arad vs Hermannstadt | 22:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0c2aa6d8e43f.png?v=1773421755",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601308754",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601308754",
-                  "name": "UTA Arad vs Hermannstadt",
-                  "streams": [
-                    {
-                      "id": "st-601308754",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d660db077d",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b42a9070a68_73445/index.m3u8?expire=1774019856&sign=1f9b03ff4801f7688ca2f36c3ae47d4a",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/uta-arad-vs-hermannstadt-2230-13-03-2026/601308754"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-5e3e3e38ac",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/297fcb3452254b6bb76ce2cdbb8ef74f/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/uta-arad-vs-hermannstadt-2230-13-03-2026/601308754"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Romanian Liga I",
-            "team_a": "UTA Arad",
-            "team_b": "Hermannstadt",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/acd5e194c961b091fcf0065a5d27a8f8.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/732ac055b269060b9864fe152a82c9cf.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0c2aa6d8e43f.png?v=1773421755",
-            "thumb_key": "thumbs/kaytee-0c2aa6d8e43f.webp"
-          }
-        },
         {
           "id": "kaytee-86ed830f57cd",
           "name": "⚽ Dynamo Kyiv vs Obolon Kyiv | 23:00",
@@ -113,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-86ed830f57cd.png?v=1773421756",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-86ed830f57cd.png?v=1773423923",
             "width": 1600,
             "height": 1200
           },
@@ -185,7 +99,7 @@
             "team_b": "Obolon Kyiv",
             "logo_a": "https://cdn.rapid-api.icu/football/team/77c049e20cd5b3a779fcf70ac08f21c3.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/260dd85236710e5fe82be0480ce4764c.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-86ed830f57cd.png?v=1773421756",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-86ed830f57cd.png?v=1773423923",
             "thumb_key": "thumbs/kaytee-86ed830f57cd.webp"
           }
         },
@@ -199,7 +113,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-391e79aa5b5d.png?v=1773421758",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-391e79aa5b5d.png?v=1773423925",
             "width": 1600,
             "height": 1200
           },
@@ -254,8 +168,77 @@
             "team_b": "Rigas Futbola Skola",
             "logo_a": "https://cdn.rapid-api.icu/football/team/066236dc007de501d84a4a146f7597a9.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/83a9f5e1089098a8df85932d23f74191.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-391e79aa5b5d.png?v=1773421758",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-391e79aa5b5d.png?v=1773423925",
             "thumb_key": "thumbs/kaytee-391e79aa5b5d.webp"
+          }
+        },
+        {
+          "id": "kaytee-6f621358c281",
+          "name": "⚽ AS Douanes Ouagadougou vs Real du Faso | 23:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6f621358c281.png?v=1773423927",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601300177",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601300177",
+                  "name": "AS Douanes Ouagadougou vs Real du Faso",
+                  "streams": [
+                    {
+                      "id": "st-601300177",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b212dd223d",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/68c19f0becc146a4269c070c503c55c3/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/as-douanes-ouagadougou-vs-real-du-faso-2300-13-03-2026/601300177"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Burkina Faso Division 1",
+            "team_a": "AS Douanes Ouagadougou",
+            "team_b": "Real du Faso",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/02e905e8f407b78d24c8ee895d7dce8e.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/2ff60775e3e8c1acc7049d8ea8fc58dc.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6f621358c281.png?v=1773423927",
+            "thumb_key": "thumbs/kaytee-6f621358c281.webp"
           }
         },
         {
@@ -268,7 +251,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-24a3b4471114.png?v=1773421760",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-24a3b4471114.png?v=1773423929",
             "width": 1600,
             "height": 1200
           },
@@ -323,77 +306,8 @@
             "team_b": "Sonabel Ouagadougou",
             "logo_a": "https://cdn.rapid-api.icu/football/team/5ed685cd62da3d7e009fe0ff6eb1b4f5.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/35740b838fdd8d889c0ed2a464d1e81e.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-24a3b4471114.png?v=1773421760",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-24a3b4471114.png?v=1773423929",
             "thumb_key": "thumbs/kaytee-24a3b4471114.webp"
-          }
-        },
-        {
-          "id": "kaytee-91b21977c3ab",
-          "name": "⚽ US Forces Armees vs Sporting Football des Cascades | 23:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-91b21977c3ab.png?v=1773421761",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601300183",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601300183",
-                  "name": "US Forces Armees vs Sporting Football des Cascades",
-                  "streams": [
-                    {
-                      "id": "st-601300183",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-472f2ac768",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/7c78eb910ecbf7698c4a2f20aac1e16c/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/us-forces-armees-vs-sporting-football-des-cascades-2300-13-03-2026/601300183"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Burkina Faso Division 1",
-            "team_a": "US Forces Armees",
-            "team_b": "Sporting Football des Cascades",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/4376163ecfd48938337d7a6277ed3d0a.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/db8a84992b024e8260c4b350a4d9f95d.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-91b21977c3ab.png?v=1773421761",
-            "thumb_key": "thumbs/kaytee-91b21977c3ab.webp"
           }
         },
         {
@@ -406,7 +320,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a68da01211fb.png?v=1773421763",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a68da01211fb.png?v=1773423930",
             "width": 1600,
             "height": 1200
           },
@@ -478,7 +392,7 @@
             "team_b": "Gazovik Orenburg",
             "logo_a": "https://cdn.rapid-api.icu/football/team/26cece8c2572a1d82b90fefc2c71e8ad.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/0f5f64c52541a333596d8892b25aa310.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a68da01211fb.png?v=1773421763",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a68da01211fb.png?v=1773423930",
             "thumb_key": "thumbs/kaytee-a68da01211fb.webp"
           }
         },
@@ -492,7 +406,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-351878d27f56.png?v=1773421764",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-351878d27f56.png?v=1773423932",
             "width": 1600,
             "height": 1200
           },
@@ -547,7 +461,7 @@
             "team_b": "Shamakhi FK",
             "logo_a": "https://cdn.rapid-api.icu/football/team/46e02b8dea22b2951976d1262dd0279f.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/37d454553ae43e27e90cfa76be033b88.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-351878d27f56.png?v=1773421764",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-351878d27f56.png?v=1773423932",
             "thumb_key": "thumbs/kaytee-351878d27f56.webp"
           }
         }
