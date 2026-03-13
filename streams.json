@@ -8,6 +8,853 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-12T23:45:41.838170",
-  "groups": []
+  "updated_at": "2026-03-13T00:00:39.880292",
+  "groups": [
+    {
+      "id": "live_bóng_đá",
+      "name": "🔴 Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-ef2d629c18a9",
+          "name": "⚽ Remo Belem (PA) vs Fluminense RJ | 05:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ef2d629c18a9.png?v=1773360028",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601297099",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601297099",
+                  "name": "Remo Belem (PA) vs Fluminense RJ",
+                  "streams": [
+                    {
+                      "id": "st-601297099",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-996b884747",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/7e53f0a7266e1e01162f13a2e184c40c/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/remo-belem-pa-vs-fluminense-rj-0500-13-03-2026/601297099"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Brazilian Serie A",
+            "team_a": "Remo Belem (PA)",
+            "team_b": "Fluminense RJ",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/fb9a4cf4290646122b3afe17bd914737.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/a6bce9adfac7903426bed2b253991a18.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ef2d629c18a9.png?v=1773360028",
+            "thumb_key": "thumbs/kaytee-ef2d629c18a9.webp"
+          }
+        },
+        {
+          "id": "kaytee-b5b3258745d9",
+          "name": "⚽ Nacional Montevideo U20 vs LDU Quito U20 | 05:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b5b3258745d9.png?v=1773360030",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601297102",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601297102",
+                  "name": "Nacional Montevideo U20 vs LDU Quito U20",
+                  "streams": [
+                    {
+                      "id": "st-601297102",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ff8994b161",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/5ca19bc94500d35d3f623f6764bb1215/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/nacional-montevideo-u20-vs-ldu-quito-u20-0500-13-03-2026/601297102"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CONMEBOL U20 Copa Libertadores",
+            "team_a": "Nacional Montevideo U20",
+            "team_b": "LDU Quito U20",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/047fa4ee913fcae83c68f7c7e40ba121.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/af8181ede871c63f74616b9000c79b1d.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b5b3258745d9.png?v=1773360030",
+            "thumb_key": "thumbs/kaytee-b5b3258745d9.webp"
+          }
+        },
+        {
+          "id": "kaytee-e0da4106d784",
+          "name": "⚽ Talleres Cordoba vs Instituto de Córdoba | 05:15",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e0da4106d784.png?v=1773360032",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601297105",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601297105",
+                  "name": "Talleres Cordoba vs Instituto de Córdoba",
+                  "streams": [
+                    {
+                      "id": "st-601297105",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3a5dad897d",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b32d27326d8_95554/index.m3u8?expire=1773954983&sign=ecbe9dd6af077c8061d24c9d194513df",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/talleres-cordoba-vs-instituto-de-cordoba-0515-13-03-2026/601297105"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-7e84ea101e",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/55ec3929fa391c51121d2a169e87e363/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/talleres-cordoba-vs-instituto-de-cordoba-0515-13-03-2026/601297105"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Argentine Division 1",
+            "team_a": "Talleres Cordoba",
+            "team_b": "Instituto de Córdoba",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/44cb6b8a76b2194e16849eace4743e54.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/a01279fdf6589b3c11529ca1ab4201fc.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e0da4106d784.png?v=1773360032",
+            "thumb_key": "thumbs/kaytee-e0da4106d784.webp"
+          }
+        },
+        {
+          "id": "kaytee-1762f0bdf748",
+          "name": "⚽ Estudiantes Rio Cuarto vs Belgrano | 05:15",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1762f0bdf748.png?v=1773360034",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601297108",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601297108",
+                  "name": "Estudiantes Rio Cuarto vs Belgrano",
+                  "streams": [
+                    {
+                      "id": "st-601297108",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a9c1964c5a",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b33677326d8_133172/index.m3u8?expire=1773957367&sign=5fb7fcd343fe1418ecb59d6cf92f2a2d",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/estudiantes-rio-cuarto-vs-belgrano-0515-13-03-2026/601297108"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-c45e42e7ed",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/cf59a7fcc71bb04c0560779254777bae/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/estudiantes-rio-cuarto-vs-belgrano-0515-13-03-2026/601297108"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Argentine Division 1",
+            "team_a": "Estudiantes Rio Cuarto",
+            "team_b": "Belgrano",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/578175c1a0691907824154179e179ade.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/f24c6d2696f439d43875fba52100991d.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1762f0bdf748.png?v=1773360034",
+            "thumb_key": "thumbs/kaytee-1762f0bdf748.webp"
+          }
+        },
+        {
+          "id": "kaytee-457e0035a2fa",
+          "name": "⚽ Sao Paulo vs Chapecoense SC | 06:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-457e0035a2fa.png?v=1773360037",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601297114",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601297114",
+                  "name": "Sao Paulo vs Chapecoense SC",
+                  "streams": [
+                    {
+                      "id": "st-601297114",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-19fbd2198e",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b341d270a68_74012/index.m3u8?expire=1773960274&sign=97063504005a2d45b1fd0d86e8150e80",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/sao-paulo-vs-chapecoense-sc-0600-13-03-2026/601297114"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-7f93fb1348",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/4b3789a7c3781b3ea85efb2fe04e032f/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/sao-paulo-vs-chapecoense-sc-0600-13-03-2026/601297114"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Brazilian Serie A",
+            "team_a": "Sao Paulo",
+            "team_b": "Chapecoense SC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/31f5171de0e1404fdebcef19cd7cd409.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/4970b9a9a215c78759a6bb84ecaa3701.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-457e0035a2fa.png?v=1773360037",
+            "thumb_key": "thumbs/kaytee-457e0035a2fa.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_bóng_rổ",
+      "name": "🔴 Live 🏀 Bóng Rổ",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-5be59d47936a",
+          "name": "🏀 Detroit Pistons vs Philadelphia 76ers | 06:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5be59d47936a.png?v=1773360035",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601298917",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601298917",
+                  "name": "Detroit Pistons vs Philadelphia 76ers",
+                  "streams": [
+                    {
+                      "id": "st-601298917",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9552a46878",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b3426970a68_72787/index.m3u8?expire=1773960425&sign=bc5a90e1d35efe21df8f50d450aae001",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/detroit-pistons-vs-philadelphia-76ers-0600-13-03-2026/601298917"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NBA",
+            "team_a": "Detroit Pistons",
+            "team_b": "Philadelphia 76ers",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/d12774b3339413a0eef3c2da2ae5a342.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/0f99bfb04f15e140367c7014698a2cd0.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5be59d47936a.png?v=1773360035",
+            "thumb_key": "thumbs/kaytee-5be59d47936a.webp"
+          }
+        },
+        {
+          "id": "kaytee-1cd2fcb97aa0",
+          "name": "🏀 Indiana Pacers vs Phoenix Suns | 06:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1cd2fcb97aa0.png?v=1773360036",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601298920",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601298920",
+                  "name": "Indiana Pacers vs Phoenix Suns",
+                  "streams": [
+                    {
+                      "id": "st-601298920",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1f92b9ef5a",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b348b2326d8_4733/index.m3u8?expire=1773962034&sign=75629619772920461d186971962266ee",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/indiana-pacers-vs-phoenix-suns-0600-13-03-2026/601298920"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NBA",
+            "team_a": "Indiana Pacers",
+            "team_b": "Phoenix Suns",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/5257ef2bea4400b9b0b46c638a87e229.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/4eacc3f1b4114a379187c9c2892a4d8a.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1cd2fcb97aa0.png?v=1773360036",
+            "thumb_key": "thumbs/kaytee-1cd2fcb97aa0.webp"
+          }
+        },
+        {
+          "id": "kaytee-adfc765abb3d",
+          "name": "🏀 Atlanta Hawks vs Brooklyn Nets | 06:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-adfc765abb3d.png?v=1773360038",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601298926",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601298926",
+                  "name": "Atlanta Hawks vs Brooklyn Nets",
+                  "streams": [
+                    {
+                      "id": "st-601298926",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e97db05e40",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b351a3326d8_142210/index.m3u8?expire=1773964323&sign=84ea539f71287e8b2031a5f6a87b3bff",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/atlanta-hawks-vs-brooklyn-nets-0630-13-03-2026/601298926"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NBA",
+            "team_a": "Atlanta Hawks",
+            "team_b": "Brooklyn Nets",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/b67c5f346054d8cbb66779e320b0332c.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/5415962da94fa796f30cf36dcaab4898.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-adfc765abb3d.png?v=1773360038",
+            "thumb_key": "thumbs/kaytee-adfc765abb3d.webp"
+          }
+        },
+        {
+          "id": "kaytee-269530e45ca9",
+          "name": "🏀 Miami Heat vs Milwaukee Bucks | 06:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-269530e45ca9.png?v=1773360039",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601310896",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601310896",
+                  "name": "Miami Heat vs Milwaukee Bucks",
+                  "streams": [
+                    {
+                      "id": "st-601310896",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-05e59c7eb8",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b3521e326d8_85706/index.m3u8?expire=1773964446&sign=fb1666b952c4d9ff7fc9250a417b08a6",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/miami-heat-vs-milwaukee-bucks-0630-13-03-2026/601310896"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NBA",
+            "team_a": "Miami Heat",
+            "team_b": "Milwaukee Bucks",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/30e69e359eaf94547bf5ed1a31f1c1b7.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/bf9a265694807935ea3714ba60fd0121.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-269530e45ca9.png?v=1773360039",
+            "thumb_key": "thumbs/kaytee-269530e45ca9.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_tennis",
+      "name": "🔴 Live 🎾 Tennis",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-0858dea6c014",
+          "name": "🎾 Svitolina E. vs Swiatek I. | 04:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0858dea6c014.png?v=1773360026",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601310776",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601310776",
+                  "name": "Svitolina E. vs Swiatek I.",
+                  "streams": [
+                    {
+                      "id": "st-601310776",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-01f8e9d2da",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b32a9a326d8_42127/index.m3u8?expire=1773954330&sign=081bee6171ba7702b23d96330b6308e3",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/svitolina-e-vs-swiatek-i-0430-13-03-2026/601310776"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "WTA Indian Wells",
+            "team_a": "Svitolina E.",
+            "team_b": "Swiatek I.",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a401191cb5da5d27db5b927043ca1471.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/fe55c5a418fce31c525e8f35f56540cd.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0858dea6c014.png?v=1773360026",
+            "thumb_key": "thumbs/kaytee-0858dea6c014.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_tennis",
+      "name": "⏳ Sắp Live 🎾 Tennis",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-263fa06bed93",
+          "name": "🎾 Draper J. vs Medvedev D. | 07:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-263fa06bed93.png?v=1773360039",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601310764",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601310764",
+                  "name": "Draper J. vs Medvedev D.",
+                  "streams": [
+                    {
+                      "id": "st-601310764",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5c31b1ce2b",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b34f4e326d8_110198/index.m3u8?expire=1773963726&sign=7419e2dfa951ce2075d2bc416657e193",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/draper-j-vs-medvedev-d-0700-13-03-2026/601310764"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ATP Indian Wells",
+            "team_a": "Draper J.",
+            "team_b": "Medvedev D.",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/6be1917b420666d03310bb551ffaf605.webp",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/618d4e454d9b20f97ee34aaa3e7cadbb.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-263fa06bed93.png?v=1773360039",
+            "thumb_key": "thumbs/kaytee-263fa06bed93.webp"
+          }
+        }
+      ]
+    }
+  ]
 }
