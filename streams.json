@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-13T17:52:22.105994",
+  "updated_at": "2026-03-13T18:23:19.819949",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,299 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-86ed830f57cd",
-          "name": "⚽ Dynamo Kyiv vs Obolon Kyiv | 23:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-86ed830f57cd.png?v=1773424333",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601297552",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601297552",
-                  "name": "Dynamo Kyiv vs Obolon Kyiv",
-                  "streams": [
-                    {
-                      "id": "st-601297552",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-69041e7077",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b4272470a68_79/index.m3u8?expire=1774018980&sign=cf894d6a4665ee703d1d04b01ce005b8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/dynamo-kyiv-vs-obolon-kyiv-2300-13-03-2026/601297552"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-8e053d9367",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/906eb06e22b5d55ebc2164c5e55ff9fc/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/dynamo-kyiv-vs-obolon-kyiv-2300-13-03-2026/601297552"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Ukrainian Premier League",
-            "team_a": "Dynamo Kyiv",
-            "team_b": "Obolon Kyiv",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/77c049e20cd5b3a779fcf70ac08f21c3.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/260dd85236710e5fe82be0480ce4764c.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-86ed830f57cd.png?v=1773424333",
-            "thumb_key": "thumbs/kaytee-86ed830f57cd.webp"
-          }
-        },
-        {
-          "id": "kaytee-391e79aa5b5d",
-          "name": "⚽ FK Liepaja vs Rigas Futbola Skola | 23:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-391e79aa5b5d.png?v=1773424335",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601297579",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601297579",
-                  "name": "FK Liepaja vs Rigas Futbola Skola",
-                  "streams": [
-                    {
-                      "id": "st-601297579",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-865ed849d1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/388296c03b261ca9613dac104ebca0dd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/fk-liepaja-vs-rigas-futbola-skola-2300-13-03-2026/601297579"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Latvian Higher League",
-            "team_a": "FK Liepaja",
-            "team_b": "Rigas Futbola Skola",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/066236dc007de501d84a4a146f7597a9.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/83a9f5e1089098a8df85932d23f74191.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-391e79aa5b5d.png?v=1773424335",
-            "thumb_key": "thumbs/kaytee-391e79aa5b5d.webp"
-          }
-        },
-        {
-          "id": "kaytee-6f621358c281",
-          "name": "⚽ AS Douanes Ouagadougou vs Real du Faso | 23:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6f621358c281.png?v=1773424337",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601300177",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601300177",
-                  "name": "AS Douanes Ouagadougou vs Real du Faso",
-                  "streams": [
-                    {
-                      "id": "st-601300177",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b212dd223d",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/68c19f0becc146a4269c070c503c55c3/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/as-douanes-ouagadougou-vs-real-du-faso-2300-13-03-2026/601300177"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Burkina Faso Division 1",
-            "team_a": "AS Douanes Ouagadougou",
-            "team_b": "Real du Faso",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/02e905e8f407b78d24c8ee895d7dce8e.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/2ff60775e3e8c1acc7049d8ea8fc58dc.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6f621358c281.png?v=1773424337",
-            "thumb_key": "thumbs/kaytee-6f621358c281.webp"
-          }
-        },
-        {
-          "id": "kaytee-24a3b4471114",
-          "name": "⚽ Vitesse Delft vs Sonabel Ouagadougou | 23:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-24a3b4471114.png?v=1773424338",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601300180",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601300180",
-                  "name": "Vitesse Delft vs Sonabel Ouagadougou",
-                  "streams": [
-                    {
-                      "id": "st-601300180",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-706964b983",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/8e1acfd0c80ac16a750001d825f38e17/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/vitesse-delft-vs-sonabel-ouagadougou-2300-13-03-2026/601300180"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Burkina Faso Division 1",
-            "team_a": "Vitesse Delft",
-            "team_b": "Sonabel Ouagadougou",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/5ed685cd62da3d7e009fe0ff6eb1b4f5.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/35740b838fdd8d889c0ed2a464d1e81e.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-24a3b4471114.png?v=1773424338",
-            "thumb_key": "thumbs/kaytee-24a3b4471114.webp"
-          }
-        },
         {
           "id": "kaytee-a68da01211fb",
           "name": "⚽ FK Makhachkala vs Gazovik Orenburg | 23:30",
@@ -320,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a68da01211fb.png?v=1773424340",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a68da01211fb.png?v=1773426195",
             "width": 1600,
             "height": 1200
           },
@@ -392,7 +99,7 @@
             "team_b": "Gazovik Orenburg",
             "logo_a": "https://cdn.rapid-api.icu/football/team/26cece8c2572a1d82b90fefc2c71e8ad.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/0f5f64c52541a333596d8892b25aa310.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a68da01211fb.png?v=1773424340",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a68da01211fb.png?v=1773426195",
             "thumb_key": "thumbs/kaytee-a68da01211fb.webp"
           }
         },
@@ -406,7 +113,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-351878d27f56.png?v=1773424342",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-351878d27f56.png?v=1773426196",
             "width": 1600,
             "height": 1200
           },
@@ -461,8 +168,146 @@
             "team_b": "Shamakhi FK",
             "logo_a": "https://cdn.rapid-api.icu/football/team/46e02b8dea22b2951976d1262dd0279f.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/37d454553ae43e27e90cfa76be033b88.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-351878d27f56.png?v=1773424342",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-351878d27f56.png?v=1773426196",
             "thumb_key": "thumbs/kaytee-351878d27f56.webp"
+          }
+        },
+        {
+          "id": "kaytee-06e3f37452ff",
+          "name": "⚽ BE1 NFA vs BFA Vilnius | 23:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-06e3f37452ff.png?v=1773426197",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601300186",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601300186",
+                  "name": "BE1 NFA vs BFA Vilnius",
+                  "streams": [
+                    {
+                      "id": "st-601300186",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-87263ad43e",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/9ad15a6e9309dd365fa2bf3c0d23f114/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/be1-nfa-vs-bfa-vilnius-2330-13-03-2026/601300186"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Lithuanian I Lyga",
+            "team_a": "BE1 NFA",
+            "team_b": "BFA Vilnius",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/d5504815877bbdf6c6e485a5e397d0eb.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/76b6ebb169fc274b356bf2e0ffd9e220.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-06e3f37452ff.png?v=1773426197",
+            "thumb_key": "thumbs/kaytee-06e3f37452ff.webp"
+          }
+        },
+        {
+          "id": "kaytee-e701b97a23b8",
+          "name": "⚽ Greater Tomorrow FC vs Fortune FC | 23:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e701b97a23b8.png?v=1773426199",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601310752",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601310752",
+                  "name": "Greater Tomorrow FC vs Fortune FC",
+                  "streams": [
+                    {
+                      "id": "st-601310752",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9bea3d3d67",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/3e9761a574d4606bae1c34f7f82fde7c/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/greater-tomorrow-fc-vs-fortune-fc-2330-13-03-2026/601310752"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Gambia League First Division",
+            "team_a": "Greater Tomorrow FC",
+            "team_b": "Fortune FC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/f214ef46f0a17f6cb5e311a00cc7600e.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/6aec2c9679d8ba409c81594bbb3739fe.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e701b97a23b8.png?v=1773426199",
+            "thumb_key": "thumbs/kaytee-e701b97a23b8.webp"
           }
         }
       ]
