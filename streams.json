@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-14T16:02:54.284562",
+  "updated_at": "2026-03-14T16:42:45.861959",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -18,8 +18,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-040ccdd579ab",
-          "name": "⚽ JS Bordj Menaiel vs Biskra | 21:00",
+          "id": "kaytee-7289f21a7ef0",
+          "name": "⚽ Burnley vs Bournemouth AFC | 22:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-040ccdd579ab.png?v=1773504162",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7289f21a7ef0.png?v=1773506556",
             "width": 1600,
             "height": 1200
           },
@@ -41,165 +41,27 @@
           ],
           "sources": [
             {
-              "id": "src-601302928",
+              "id": "src-601303171",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601302928",
-                  "name": "JS Bordj Menaiel vs Biskra",
+                  "id": "ct-601303171",
+                  "name": "Burnley vs Bournemouth AFC",
                   "streams": [
                     {
-                      "id": "st-601302928",
+                      "id": "st-601303171",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-a6387da396",
+                          "id": "lnk-980f89e944",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live.alilicloud.com/live/b16ef0af89bbabff295368b05c87ec0f/playlist.m3u8",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b56878326d8_79/index.m3u8?expire=1774101240&sign=3876a64e09c1967cc184fe9998720657",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/js-bordj-menaiel-vs-biskra-2100-14-03-2026/601302928"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Algerian Ligue Professionnelle 2",
-            "team_a": "JS Bordj Menaiel",
-            "team_b": "Biskra",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/935a0a146a9df7568872ba6cc6b57aa8.jpg",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/c2d93d1236a0a30b07d142a55a18af73.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-040ccdd579ab.png?v=1773504162",
-            "thumb_key": "thumbs/kaytee-040ccdd579ab.webp"
-          }
-        },
-        {
-          "id": "kaytee-8114e9294c07",
-          "name": "⚽ WA Tlemcen vs USM EL HARRACH | 21:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8114e9294c07.png?v=1773504166",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601302967",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601302967",
-                  "name": "WA Tlemcen vs USM EL HARRACH",
-                  "streams": [
-                    {
-                      "id": "st-601302967",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-33364330f2",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/698a5eb772a39b45d5bc0c2358945ee5/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/wa-tlemcen-vs-usm-el-harrach-2100-14-03-2026/601302967"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Algerian Ligue Professionnelle 2",
-            "team_a": "WA Tlemcen",
-            "team_b": "USM EL HARRACH",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/c4f4ccf86f3c8a3bfea1186f9059f684.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/0937fb5864ed06ffb59ae5f9b5ed67a9.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8114e9294c07.png?v=1773504166",
-            "thumb_key": "thumbs/kaytee-8114e9294c07.webp"
-          }
-        },
-        {
-          "id": "kaytee-0b814c15ffa1",
-          "name": "⚽ Bayer 04 Leverkusen vs FC Bayern Munich | 21:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0b814c15ffa1.png?v=1773504167",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601303081",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601303081",
-                  "name": "Bayer 04 Leverkusen vs FC Bayern Munich",
-                  "streams": [
-                    {
-                      "id": "st-601303081",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f9520f5e36",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b56a7370a69_28/index.m3u8?expire=1774101747&sign=692232e10cd5a202d164ba72921f503b",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/bayer-04-leverkusen-vs-fc-bayern-munich-2130-14-03-2026/601303081"
+                              "value": "https://bunchatv1.net/truc-tiep/burnley-vs-bournemouth-afc-2200-14-03-2026/601303171"
                             },
                             {
                               "key": "User-Agent",
@@ -208,15 +70,15 @@
                           ]
                         },
                         {
-                          "id": "lnk-9dedada63c",
+                          "id": "lnk-1b2545c706",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://live.alilicloud.com/live/bf6419283e4ff7a1949eca2f1a20e1bf/playlist.m3u8",
+                          "url": "https://live.alilicloud.com/live/06a3333066e0cf8dc89111da7fcf332f/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/bayer-04-leverkusen-vs-fc-bayern-munich-2130-14-03-2026/601303081"
+                              "value": "https://bunchatv1.net/truc-tiep/burnley-vs-bournemouth-afc-2200-14-03-2026/601303171"
                             },
                             {
                               "key": "User-Agent",
@@ -232,18 +94,18 @@
             }
           ],
           "org_metadata": {
-            "league": "Bundesliga",
-            "team_a": "Bayer 04 Leverkusen",
-            "team_b": "FC Bayern Munich",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/d3205f3ddca07dc01c822ea0de24a0e7.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/ef19a84a6745fe57aa786873d2b18e8a.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0b814c15ffa1.png?v=1773504167",
-            "thumb_key": "thumbs/kaytee-0b814c15ffa1.webp"
+            "league": "English Premier League",
+            "team_a": "Burnley",
+            "team_b": "Bournemouth AFC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/1091af5aa9fc4a30411785954edb9159.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/240b30d333c97d293752ab7afd77ccd6.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7289f21a7ef0.png?v=1773506556",
+            "thumb_key": "thumbs/kaytee-7289f21a7ef0.webp"
           }
         },
         {
-          "id": "kaytee-9a88b65adf1c",
-          "name": "⚽ Borussia Dortmund vs FC Augsburg | 21:30",
+          "id": "kaytee-677b21f25a04",
+          "name": "⚽ Sunderland vs Brighton Hove Albion | 22:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -251,7 +113,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9a88b65adf1c.png?v=1773504169",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-677b21f25a04.png?v=1773506558",
             "width": 1600,
             "height": 1200
           },
@@ -265,27 +127,27 @@
           ],
           "sources": [
             {
-              "id": "src-601303084",
+              "id": "src-601303174",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601303084",
-                  "name": "Borussia Dortmund vs FC Augsburg",
+                  "id": "ct-601303174",
+                  "name": "Sunderland vs Brighton Hove Albion",
                   "streams": [
                     {
-                      "id": "st-601303084",
+                      "id": "st-601303174",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-537818961c",
+                          "id": "lnk-4eed6861cb",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b55fab70a69_85514/index.m3u8?expire=1774098987&sign=9427da1034f23738a8ebdefd41840819",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b577e4326d8_133172/index.m3u8?expire=1774105188&sign=5f90b6c0c2629b78e68337685b28b231",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/borussia-dortmund-vs-fc-augsburg-2130-14-03-2026/601303084"
+                              "value": "https://bunchatv1.net/truc-tiep/sunderland-vs-brighton-hove-albion-2200-14-03-2026/601303174"
                             },
                             {
                               "key": "User-Agent",
@@ -294,15 +156,15 @@
                           ]
                         },
                         {
-                          "id": "lnk-b61da16c08",
+                          "id": "lnk-99ccad196f",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://live.alilicloud.com/live/398790af8cdcd55d1ca7e803c1090fb2/playlist.m3u8",
+                          "url": "https://live.alilicloud.com/live/620f30fd4c46557052b1f5bc48335086/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/borussia-dortmund-vs-fc-augsburg-2130-14-03-2026/601303084"
+                              "value": "https://bunchatv1.net/truc-tiep/sunderland-vs-brighton-hove-albion-2200-14-03-2026/601303174"
                             },
                             {
                               "key": "User-Agent",
@@ -318,18 +180,18 @@
             }
           ],
           "org_metadata": {
-            "league": "Bundesliga",
-            "team_a": "Borussia Dortmund",
-            "team_b": "FC Augsburg",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/bbfacbdbe67705172c6414d7e9c21b58.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/db4411a3c4ce1d0f092f5b9d1df08664.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9a88b65adf1c.png?v=1773504169",
-            "thumb_key": "thumbs/kaytee-9a88b65adf1c.webp"
+            "league": "English Premier League",
+            "team_a": "Sunderland",
+            "team_b": "Brighton Hove Albion",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/957bdc50c307e2a9b526b34b3792da1a.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/9b43a690d5a09f1e319f036821e8e1d3.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-677b21f25a04.png?v=1773506558",
+            "thumb_key": "thumbs/kaytee-677b21f25a04.webp"
           }
         },
         {
-          "id": "kaytee-0e2c2a46618a",
-          "name": "⚽ Eintracht Frankfurt vs 1. FC Heidenheim 1846 | 21:30",
+          "id": "kaytee-93a1c99e1e58",
+          "name": "⚽ Birmingham City vs Sheffield United | 22:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -337,7 +199,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0e2c2a46618a.png?v=1773504170",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-93a1c99e1e58.png?v=1773506560",
             "width": 1600,
             "height": 1200
           },
@@ -351,27 +213,27 @@
           ],
           "sources": [
             {
-              "id": "src-601303087",
+              "id": "src-601303219",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601303087",
-                  "name": "Eintracht Frankfurt vs 1. FC Heidenheim 1846",
+                  "id": "ct-601303219",
+                  "name": "Birmingham City vs Sheffield United",
                   "streams": [
                     {
-                      "id": "st-601303087",
+                      "id": "st-601303219",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-b77cb2c044",
+                          "id": "lnk-2078aab236",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b56a8b326d8_72787/index.m3u8?expire=1774101771&sign=961e63dc74eb4f7379cded8ce002d878",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b56d3770a69_95554/index.m3u8?expire=1774102455&sign=6569a22013884668925238cf5cd3712d",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/eintracht-frankfurt-vs-1-fc-heidenheim-1846-2130-14-03-2026/601303087"
+                              "value": "https://bunchatv1.net/truc-tiep/birmingham-city-vs-sheffield-united-2200-14-03-2026/601303219"
                             },
                             {
                               "key": "User-Agent",
@@ -380,15 +242,15 @@
                           ]
                         },
                         {
-                          "id": "lnk-983678d476",
+                          "id": "lnk-9c1466aaad",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://live.alilicloud.com/live/a6a2787ed0528edefb0c7e7e9afb8b24/playlist.m3u8",
+                          "url": "https://live.alilicloud.com/live/93acdcd4fb5c22e650f625429b7f6dca/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/eintracht-frankfurt-vs-1-fc-heidenheim-1846-2130-14-03-2026/601303087"
+                              "value": "https://bunchatv1.net/truc-tiep/birmingham-city-vs-sheffield-united-2200-14-03-2026/601303219"
                             },
                             {
                               "key": "User-Agent",
@@ -404,18 +266,18 @@
             }
           ],
           "org_metadata": {
-            "league": "Bundesliga",
-            "team_a": "Eintracht Frankfurt",
-            "team_b": "1. FC Heidenheim 1846",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/fe636189a2f3db78d0554c34f0bdaae6.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/65ee743f20fa7db286fdeda4d33c6980.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0e2c2a46618a.png?v=1773504170",
-            "thumb_key": "thumbs/kaytee-0e2c2a46618a.webp"
+            "league": "English Football League Championship",
+            "team_a": "Birmingham City",
+            "team_b": "Sheffield United",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/2acb7fc9250a5b52c5e6248039d25d2e.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/008437c93501963e6ca1b2450994007a.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-93a1c99e1e58.png?v=1773506560",
+            "thumb_key": "thumbs/kaytee-93a1c99e1e58.webp"
           }
         },
         {
-          "id": "kaytee-ae865c4d87bf",
-          "name": "⚽ TSG Hoffenheim vs VfL Wolfsburg | 21:30",
+          "id": "kaytee-0765933f76a7",
+          "name": "⚽ RC Sporting Charleroi vs Oud-Heverlee Leuven | 22:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -423,7 +285,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ae865c4d87bf.png?v=1773504172",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0765933f76a7.png?v=1773506560",
             "width": 1600,
             "height": 1200
           },
@@ -437,44 +299,27 @@
           ],
           "sources": [
             {
-              "id": "src-601303090",
+              "id": "src-601303177",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601303090",
-                  "name": "TSG Hoffenheim vs VfL Wolfsburg",
+                  "id": "ct-601303177",
+                  "name": "RC Sporting Charleroi vs Oud-Heverlee Leuven",
                   "streams": [
                     {
-                      "id": "st-601303090",
+                      "id": "st-601303177",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-4a1d985266",
+                          "id": "lnk-91e11e4ace",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b5755770a69_73445/index.m3u8?expire=1774104535&sign=9c44d889bd51ea259e3eb67565fa3dc7",
+                          "url": "https://live.alilicloud.com/live/0bdd7ab6e59d8fe9d940906a7bc54026/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/tsg-hoffenheim-vs-vfl-wolfsburg-2130-14-03-2026/601303090"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-7122cae1ab",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/262beaacd2d12e0466064b8256e3f7e4/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/tsg-hoffenheim-vs-vfl-wolfsburg-2130-14-03-2026/601303090"
+                              "value": "https://bunchatv1.net/truc-tiep/rc-sporting-charleroi-vs--oudheverlee-leuven-2200-14-03-2026/601303177"
                             },
                             {
                               "key": "User-Agent",
@@ -490,18 +335,173 @@
             }
           ],
           "org_metadata": {
-            "league": "Bundesliga",
-            "team_a": "TSG Hoffenheim",
-            "team_b": "VfL Wolfsburg",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/72ab7862a610b350aef7650ec0e06e06.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/03645e9c1d7fd2c48705622f52fd901e.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ae865c4d87bf.png?v=1773504172",
-            "thumb_key": "thumbs/kaytee-ae865c4d87bf.webp"
+            "league": "Belgian Pro League",
+            "team_a": "RC Sporting Charleroi",
+            "team_b": "Oud-Heverlee Leuven",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/6ba531d9c12ad7e627c516dfdcee6c10.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/3d0191f6fe1e152222e4b19b3cc9316a.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0765933f76a7.png?v=1773506560",
+            "thumb_key": "thumbs/kaytee-0765933f76a7.webp"
+          }
+        },
+        {
+          "id": "kaytee-930bde58be3d",
+          "name": "⚽ Northampton Town vs Burton Albion | 22:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-930bde58be3d.png?v=1773506561",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601303198",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601303198",
+                  "name": "Northampton Town vs Burton Albion",
+                  "streams": [
+                    {
+                      "id": "st-601303198",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a13a07f1e7",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/1c3e6503f16db97bb50e60b4dde4d94e/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/northampton-town-vs-burton-albion-2200-14-03-2026/601303198"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Football League One",
+            "team_a": "Northampton Town",
+            "team_b": "Burton Albion",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/f63df1951baf0385aa208509823b00db.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/303a80987c9b860ee46bc1665527008c.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-930bde58be3d.png?v=1773506561",
+            "thumb_key": "thumbs/kaytee-930bde58be3d.webp"
+          }
+        },
+        {
+          "id": "kaytee-464165bf427b",
+          "name": "⚽ Atletico Madrid vs Getafe | 22:15",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-464165bf427b.png?v=1773506563",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601303765",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601303765",
+                  "name": "Atletico Madrid vs Getafe",
+                  "streams": [
+                    {
+                      "id": "st-601303765",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7fa9d593ce",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b56c2e326d8_88186/index.m3u8?expire=1774102190&sign=2efb3f822b3333f6875da12429afa3c0",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/atletico-madrid-vs-getafe-2215-14-03-2026/601303765"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-16e0bf5dd3",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/7612d1d13a0e7463235ae7a9eb8b0700/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/atletico-madrid-vs-getafe-2215-14-03-2026/601303765"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Spanish La Liga",
+            "team_a": "Atletico Madrid",
+            "team_b": "Getafe",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/390977b0421bce136c562057ea171ecf.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/36bf5bf0c8fdf08c1270124808f060e1.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-464165bf427b.png?v=1773506563",
+            "thumb_key": "thumbs/kaytee-464165bf427b.webp"
           }
         },
         {
           "id": "kaytee-d722ca4a749a",
-          "name": "⚽ Christian Faust KJÆR /  Rasmus KJÆR vs Nozomi OKUHARA | 22:10",
+          "name": "⚽ Amri SYAHNAWI / N. V. MARWAH vs CHENG Xing / Zhang Chi | 23:30",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -509,7 +509,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d722ca4a749a.png?v=1773504174",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d722ca4a749a.png?v=1773506565",
             "width": 1600,
             "height": 1200
           },
@@ -528,22 +528,22 @@
               "contents": [
                 {
                   "id": "ct-601313560",
-                  "name": "Christian Faust KJÆR /  Rasmus KJÆR vs Nozomi OKUHARA",
+                  "name": "Amri SYAHNAWI / N. V. MARWAH vs CHENG Xing / Zhang Chi",
                   "streams": [
                     {
                       "id": "st-601313560",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-4ae3a073e8",
+                          "id": "lnk-65fdb4bafb",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b53e57326d8_18754/index.m3u8?expire=1774090455&sign=c78ecf132f62ac7252092196aa9cbf37",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b58be3326d8_19013/index.m3u8?expire=1774110307&sign=bd1c0e356cfa9ede388b522363b86291",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/christian-faust-kjr---rasmus-kjr-vs-nozomi-okuhara-2210-14-03-2026/601313560"
+                              "value": "https://bunchatv1.net/truc-tiep/amri-syahnawi--n-v-marwah-vs-cheng-xing--zhang-chi-2330-14-03-2026/601313560"
                             },
                             {
                               "key": "User-Agent",
@@ -560,159 +560,12 @@
           ],
           "org_metadata": {
             "league": "Sân 1 - YONEX Swiss Open 2026",
-            "team_a": "Christian Faust KJÆR /  Rasmus KJÆR",
-            "team_b": "Nozomi OKUHARA",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/54b47d68120e6f5964251a155ea39166.jpg",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/c68fb073199e692bf44b0fe2a3d2eb83.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d722ca4a749a.png?v=1773504174",
+            "team_a": "Amri SYAHNAWI / N. V. MARWAH",
+            "team_b": "CHENG Xing / Zhang Chi",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a114d430ab83ff2bd843d3ca1e2ff358.webp",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/d82a0f025f619f066b43fbf90c9da575.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d722ca4a749a.png?v=1773506565",
             "thumb_key": "thumbs/kaytee-d722ca4a749a.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "live_bóng_bàn",
-      "name": "🔴 Live 🏓 Bóng Bàn",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-408f331114f1",
-          "name": "🏓 JS Tixeraine vs ASM Oran | 21:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-408f331114f1.png?v=1773504163",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601302952",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601302952",
-                  "name": "JS Tixeraine vs ASM Oran",
-                  "streams": [
-                    {
-                      "id": "st-601302952",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-74bdcdb436",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/382532184138a2e153ef0cd3210c9454/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/js-tixeraine-vs-asm-oran-2100-14-03-2026/601302952"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Algerian Ligue Professionnelle 2",
-            "team_a": "JS Tixeraine",
-            "team_b": "ASM Oran",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/65e4f65b1c543aaffbdab2b987cce4c2.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/3b4a8de58368441c87819741634955c8.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-408f331114f1.png?v=1773504163",
-            "thumb_key": "thumbs/kaytee-408f331114f1.webp"
-          }
-        },
-        {
-          "id": "kaytee-fb4635a7cba7",
-          "name": "🏓 JSM Tiaret vs GC Mascara | 21:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fb4635a7cba7.png?v=1773504165",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601302955",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601302955",
-                  "name": "JSM Tiaret vs GC Mascara",
-                  "streams": [
-                    {
-                      "id": "st-601302955",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9a7b898f16",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/998c7ff2646e47fc3b22f5d0ad151950/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/jsm-tiaret-vs-gc-mascara-2100-14-03-2026/601302955"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Algerian Ligue Professionnelle 2",
-            "team_a": "JSM Tiaret",
-            "team_b": "GC Mascara",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/d046726011ae6f7029810c007fe2ce3d.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/5e09c238aebf1570f54a1c6a3833d06f.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fb4635a7cba7.png?v=1773504165",
-            "thumb_key": "thumbs/kaytee-fb4635a7cba7.webp"
           }
         }
       ]
