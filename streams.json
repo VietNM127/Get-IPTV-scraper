@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-14T17:47:19.380940",
+  "updated_at": "2026-03-14T17:58:29.056317",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cc0409e3e7ab.png?v=1773510437",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cc0409e3e7ab.png?v=1773511109",
             "width": 1600,
             "height": 1200
           },
@@ -99,77 +99,8 @@
             "team_b": "RC Lens",
             "logo_a": "https://cdn.rapid-api.icu/football/team/b593727321793084b1f7804aebedc31a.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/b8c5038ebb0e21b09a72008b7cb6219f.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cc0409e3e7ab.png?v=1773510437",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cc0409e3e7ab.png?v=1773511109",
             "thumb_key": "thumbs/kaytee-cc0409e3e7ab.webp"
-          }
-        },
-        {
-          "id": "kaytee-9be93fdcc99a",
-          "name": "⚽ Paksi FC vs Zalaegerszegi TE | 23:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9be93fdcc99a.png?v=1773510439",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601303879",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601303879",
-                  "name": "Paksi FC vs Zalaegerszegi TE",
-                  "streams": [
-                    {
-                      "id": "st-601303879",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-71c6ea3fb2",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/68ed793ab0c0869f0f50eb2f114b5b74/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/paksi-fc-vs-zalaegerszegi-te-2300-14-03-2026/601303879"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "OTP Bank Liga",
-            "team_a": "Paksi FC",
-            "team_b": "Zalaegerszegi TE",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/fcab910b1523f8f70972681169c4193c.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/54df405201941cb81a93e9d890b0385d.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9be93fdcc99a.png?v=1773510439",
-            "thumb_key": "thumbs/kaytee-9be93fdcc99a.webp"
           }
         }
       ]
