@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-14T14:40:29.770261",
+  "updated_at": "2026-03-14T15:01:16.356058",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,299 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-1ce6c0c9f43c",
-          "name": "⚽ Hutnik Krakow vs Podbeskidzie Bielsko-Biala | 19:45",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1ce6c0c9f43c.png?v=1773499212",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601301974",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601301974",
-                  "name": "Hutnik Krakow vs Podbeskidzie Bielsko-Biala",
-                  "streams": [
-                    {
-                      "id": "st-601301974",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-25dee4354a",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/98247cb83c7236b5dfb761a22c7e6f12/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/hutnik-krakow-vs-podbeskidzie-bielskobiala-1945-14-03-2026/601301974"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Poland Liga 2",
-            "team_a": "Hutnik Krakow",
-            "team_b": "Podbeskidzie Bielsko-Biala",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/5bc0ed8b6640a862b6c29d173abe6a17.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/6b3b62ed8300d4bb2039cade7fa6943b.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1ce6c0c9f43c.png?v=1773499212",
-            "thumb_key": "thumbs/kaytee-1ce6c0c9f43c.webp"
-          }
-        },
-        {
-          "id": "kaytee-0c29d7ffa467",
-          "name": "⚽ Girona FC vs Athletic Club | 20:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0c29d7ffa467.png?v=1773499214",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601302016",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601302016",
-                  "name": "Girona FC vs Athletic Club",
-                  "streams": [
-                    {
-                      "id": "st-601302016",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-76d7017f1f",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b54e1070a68_133172/index.m3u8?expire=1774094480&sign=0ed78b090cc77392c3bba7d4a75a69b6",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/girona-fc-vs-athletic-club-2000-14-03-2026/601302016"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-4a5693274e",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/c9cd7ea3bb977b77ece92b08b107f25c/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/girona-fc-vs-athletic-club-2000-14-03-2026/601302016"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Spanish La Liga",
-            "team_a": "Girona FC",
-            "team_b": "Athletic Club",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/006ce259b33ef72dd5570cfa8dc39f38.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/abbb31d42c55612737713aac6567a226.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0c29d7ffa467.png?v=1773499214",
-            "thumb_key": "thumbs/kaytee-0c29d7ffa467.webp"
-          }
-        },
-        {
-          "id": "kaytee-757e1a703429",
-          "name": "⚽ Aarhus Fremad vs AC Horsens | 20:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-757e1a703429.png?v=1773499216",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601301977",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601301977",
-                  "name": "Aarhus Fremad vs AC Horsens",
-                  "streams": [
-                    {
-                      "id": "st-601301977",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d14043cc9a",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/3d5fdef04365e71cd20778e7072dda67/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/aarhus-fremad-vs-ac-horsens-2000-14-03-2026/601301977"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Danish 1st Division",
-            "team_a": "Aarhus Fremad",
-            "team_b": "AC Horsens",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/8a71e9629c5a035b3661c51e089a7c44.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/0b26f795a6fa9cbfdc9a8d99983854a9.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-757e1a703429.png?v=1773499216",
-            "thumb_key": "thumbs/kaytee-757e1a703429.webp"
-          }
-        },
-        {
-          "id": "kaytee-da6c636b4a3d",
-          "name": "⚽ Radnicki Nis vs FK Spartak Zlatibor Voda | 20:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-da6c636b4a3d.png?v=1773499218",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601302010",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601302010",
-                  "name": "Radnicki Nis vs FK Spartak Zlatibor Voda",
-                  "streams": [
-                    {
-                      "id": "st-601302010",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a91f82a76c",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/a7684e226fd1b5c5f3db1ee21c17f601/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/radnicki-nis-vs-fk-spartak-zlatibor-voda-2000-14-03-2026/601302010"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Serbian Super liga",
-            "team_a": "Radnicki Nis",
-            "team_b": "FK Spartak Zlatibor Voda",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/794c52e40471e247cc8e50dc33841c1d.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/f9febad819c8bf2e552267e14127c5b7.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-da6c636b4a3d.png?v=1773499218",
-            "thumb_key": "thumbs/kaytee-da6c636b4a3d.webp"
-          }
-        },
         {
           "id": "kaytee-0545739d72d9",
           "name": "⚽ Zenit St. Petersburg vs Spartak Moscow | 20:00",
@@ -320,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0545739d72d9.png?v=1773499220",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0545739d72d9.png?v=1773500460",
             "width": 1600,
             "height": 1200
           },
@@ -375,8 +82,215 @@
             "team_b": "Spartak Moscow",
             "logo_a": "https://cdn.rapid-api.icu/football/team/19d5361bfdffa4bfc2f936cbb65fd317.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/b989806732eaf15246ab56e07d0b8a2e.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0545739d72d9.png?v=1773499220",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0545739d72d9.png?v=1773500460",
             "thumb_key": "thumbs/kaytee-0545739d72d9.webp"
+          }
+        },
+        {
+          "id": "kaytee-c67ffb78fdcb",
+          "name": "⚽ Rukinzo FC vs Vitalo | 20:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c67ffb78fdcb.png?v=1773500462",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601302196",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601302196",
+                  "name": "Rukinzo FC vs Vitalo",
+                  "streams": [
+                    {
+                      "id": "st-601302196",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c0694fe9df",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/77a02c304919f130f0be7dffc91aff05/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/rukinzo-fc-vs-vitalo-2000-14-03-2026/601302196"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Burundi Premier League",
+            "team_a": "Rukinzo FC",
+            "team_b": "Vitalo",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/2987af13b27debd8ed266db3858f91a7.jfif",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/04c9c80fc519861d615dec2c6226534f.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c67ffb78fdcb.png?v=1773500462",
+            "thumb_key": "thumbs/kaytee-c67ffb78fdcb.webp"
+          }
+        },
+        {
+          "id": "kaytee-f85dc3321a10",
+          "name": "⚽ Zimbru Chisinau vs Dacia-Buiucani | 20:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f85dc3321a10.png?v=1773500464",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601302265",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601302265",
+                  "name": "Zimbru Chisinau vs Dacia-Buiucani",
+                  "streams": [
+                    {
+                      "id": "st-601302265",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-69ca246cac",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/554854b68e1abab398abf8fec1769dba/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/zimbru-chisinau-vs-daciabuiucani-2000-14-03-2026/601302265"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Moldova Divizia Nationala",
+            "team_a": "Zimbru Chisinau",
+            "team_b": "Dacia-Buiucani",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/1cd5be9ea31c1bdce54e35dbd9219912.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/92d1b71fd7263c40492952a99c10462b.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f85dc3321a10.png?v=1773500464",
+            "thumb_key": "thumbs/kaytee-f85dc3321a10.webp"
+          }
+        },
+        {
+          "id": "kaytee-6ec8abb1b6db",
+          "name": "⚽ Sabah FC vs Imigresen FC | 20:15",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6ec8abb1b6db.png?v=1773500468",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601302457",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601302457",
+                  "name": "Sabah FC vs Imigresen FC",
+                  "streams": [
+                    {
+                      "id": "st-601302457",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-362d36259c",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/6e7ff1e996618c39089c319a7df3632e/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/sabah-fc-vs-imigresen-fc-2015-14-03-2026/601302457"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Malaysian Super League",
+            "team_a": "Sabah FC",
+            "team_b": "Imigresen FC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/6793db4ef5830c24f59b143704abadb1.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/cdc4c0ec8848a89a3e16b273a6da6c5b.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6ec8abb1b6db.png?v=1773500468",
+            "thumb_key": "thumbs/kaytee-6ec8abb1b6db.webp"
           }
         },
         {
@@ -389,7 +303,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5ce9ad3c1b74.png?v=1773499223",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5ce9ad3c1b74.png?v=1773500468",
             "width": 1600,
             "height": 1200
           },
@@ -444,7 +358,7 @@
             "team_b": "Joshua Filler",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/73fb1483d896dbcb02f380d044393b90.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/678b542f54374d34c84d5ada71346cf4.webp",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5ce9ad3c1b74.png?v=1773499223",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5ce9ad3c1b74.png?v=1773500468",
             "thumb_key": "thumbs/kaytee-5ce9ad3c1b74.webp"
           }
         },
@@ -458,7 +372,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-47c662fe9ceb.png?v=1773499227",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-47c662fe9ceb.png?v=1773500472",
             "width": 1600,
             "height": 1200
           },
@@ -530,7 +444,7 @@
             "team_b": "Atalanta",
             "logo_a": "https://cdn.rapid-api.icu/football/team/aa2245702c40f77799a5ad4b119581a8.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/45c9647899b8bf2fb6f988c6c33b964c.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-47c662fe9ceb.png?v=1773499227",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-47c662fe9ceb.png?v=1773500472",
             "thumb_key": "thumbs/kaytee-47c662fe9ceb.webp"
           }
         },
@@ -544,7 +458,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d722ca4a749a.png?v=1773499227",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d722ca4a749a.png?v=1773500473",
             "width": 1600,
             "height": 1200
           },
@@ -599,7 +513,7 @@
             "team_b": "Nozomi OKUHARA",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/96537705c9f65a05f3bfebe6b21ac46c.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/c68fb073199e692bf44b0fe2a3d2eb83.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d722ca4a749a.png?v=1773499227",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d722ca4a749a.png?v=1773500473",
             "thumb_key": "thumbs/kaytee-d722ca4a749a.webp"
           }
         },
@@ -613,7 +527,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0b814c15ffa1.png?v=1773499229",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0b814c15ffa1.png?v=1773500474",
             "width": 1600,
             "height": 1200
           },
@@ -685,8 +599,94 @@
             "team_b": "FC Bayern Munich",
             "logo_a": "https://cdn.rapid-api.icu/football/team/d3205f3ddca07dc01c822ea0de24a0e7.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/ef19a84a6745fe57aa786873d2b18e8a.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0b814c15ffa1.png?v=1773499229",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0b814c15ffa1.png?v=1773500474",
             "thumb_key": "thumbs/kaytee-0b814c15ffa1.webp"
+          }
+        },
+        {
+          "id": "kaytee-9a88b65adf1c",
+          "name": "⚽ Borussia Dortmund vs FC Augsburg | 21:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9a88b65adf1c.png?v=1773500476",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601303084",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601303084",
+                  "name": "Borussia Dortmund vs FC Augsburg",
+                  "streams": [
+                    {
+                      "id": "st-601303084",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-537818961c",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b55fab70a69_85514/index.m3u8?expire=1774098987&sign=9427da1034f23738a8ebdefd41840819",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/borussia-dortmund-vs-fc-augsburg-2130-14-03-2026/601303084"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-b61da16c08",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/398790af8cdcd55d1ca7e803c1090fb2/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/borussia-dortmund-vs-fc-augsburg-2130-14-03-2026/601303084"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Bundesliga",
+            "team_a": "Borussia Dortmund",
+            "team_b": "FC Augsburg",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/bbfacbdbe67705172c6414d7e9c21b58.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/db4411a3c4ce1d0f092f5b9d1df08664.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9a88b65adf1c.png?v=1773500476",
+            "thumb_key": "thumbs/kaytee-9a88b65adf1c.webp"
           }
         }
       ]
@@ -708,7 +708,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8416a2612525.png?v=1773499222",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8416a2612525.png?v=1773500466",
             "width": 1600,
             "height": 1200
           },
@@ -763,7 +763,7 @@
             "team_b": "Kim Jae-geun",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/810eb61673c3d74fc757b37bb3167104.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/2bc5221d5c071b6fe7b3ee7f043f4e2a.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8416a2612525.png?v=1773499222",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8416a2612525.png?v=1773500466",
             "thumb_key": "thumbs/kaytee-8416a2612525.webp"
           }
         }
@@ -786,7 +786,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4e6a9c0149c8.png?v=1773499224",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4e6a9c0149c8.png?v=1773500469",
             "width": 1600,
             "height": 1200
           },
@@ -841,7 +841,7 @@
             "team_b": "Naoyuki Oi",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/7f65576247bfa750dabb4cdb0188a661.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/e5581f273588748a4cf4fc557fea9181.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4e6a9c0149c8.png?v=1773499224",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4e6a9c0149c8.png?v=1773500469",
             "thumb_key": "thumbs/kaytee-4e6a9c0149c8.webp"
           }
         }
@@ -864,7 +864,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e8cd7740f08e.png?v=1773499225",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e8cd7740f08e.png?v=1773500470",
             "width": 1600,
             "height": 1200
           },
@@ -919,7 +919,7 @@
             "team_b": "Felix LEBRUN",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/03e39ddfc665282859c074c60aaee5e9.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/127e13a1128bf5a04e1afa31906b66ff.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e8cd7740f08e.png?v=1773499225",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e8cd7740f08e.png?v=1773500470",
             "thumb_key": "thumbs/kaytee-e8cd7740f08e.webp"
           }
         }
