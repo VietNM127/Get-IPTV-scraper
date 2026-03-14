@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-14T02:46:31.663063",
+  "updated_at": "2026-03-14T03:29:23.958366",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,385 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-3aa2a07d48ad",
-          "name": "⚽ Puebla vs Necaxa | 08:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3aa2a07d48ad.png?v=1773456377",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601300921",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601300921",
-                  "name": "Puebla vs Necaxa",
-                  "streams": [
-                    {
-                      "id": "st-601300921",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-31b66496e8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b4b131326d8_128756/index.m3u8?expire=1774054321&sign=353f119124eb019392f9ae0d3882773e",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/puebla-vs-necaxa-0800-14-03-2026/601300921"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-b99324de8a",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/979a4337b0d4c699049f5fdc05bb876a/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/puebla-vs-necaxa-0800-14-03-2026/601300921"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Mexico Liga MX",
-            "team_a": "Puebla",
-            "team_b": "Necaxa",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/a98bd615308472b65dc82bcc3a2d54fb.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/05321a8272ff8e7ff2eb7eae2e0b72a6.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3aa2a07d48ad.png?v=1773456377",
-            "thumb_key": "thumbs/kaytee-3aa2a07d48ad.webp"
-          }
-        },
-        {
-          "id": "kaytee-7e1b17786971",
-          "name": "⚽ Avondale FC (w) vs Melbourne City Youth(W) | 08:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7e1b17786971.png?v=1773456379",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601297168",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601297168",
-                  "name": "Avondale FC (w) vs Melbourne City Youth(W)",
-                  "streams": [
-                    {
-                      "id": "st-601297168",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4b03c58cd3",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/7592c5f5ceb15ba798b8a3e92a6fecd6/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/avondale-fc-w-vs-melbourne-city-youthw-0800-14-03-2026/601297168"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Australia Victorian Women's Premier League",
-            "team_a": "Avondale FC (w)",
-            "team_b": "Melbourne City Youth(W)",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/89471a940cef200c717e39893452d8b9.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/3ad8e4178e490db9790b6d5d8ce472c0.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7e1b17786971.png?v=1773456379",
-            "thumb_key": "thumbs/kaytee-7e1b17786971.webp"
-          }
-        },
-        {
-          "id": "kaytee-53a902baf8df",
-          "name": "⚽ Correcaminos UAT vs Irapuato | 08:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-53a902baf8df.png?v=1773456381",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601300927",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601300927",
-                  "name": "Correcaminos UAT vs Irapuato",
-                  "streams": [
-                    {
-                      "id": "st-601300927",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-05e2aa304f",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/e2ee09aa4fc1efb6de192b05af6d49ae/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/correcaminos-uat-vs-irapuato-0800-14-03-2026/601300927"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Mexico Ascenso MX",
-            "team_a": "Correcaminos UAT",
-            "team_b": "Irapuato",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/45017300c2ad7193a16f5f3aec27bde2.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/e5bc70fc82f74014255854546adc3b90.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-53a902baf8df.png?v=1773456381",
-            "thumb_key": "thumbs/kaytee-53a902baf8df.webp"
-          }
-        },
-        {
-          "id": "kaytee-1359f032e5f9",
-          "name": "⚽ Lambton Jaffas Reserves vs Charlestown Azzurri Reserves | 08:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1359f032e5f9.png?v=1773456383",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601311949",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601311949",
-                  "name": "Lambton Jaffas Reserves vs Charlestown Azzurri Reserves",
-                  "streams": [
-                    {
-                      "id": "st-601311949",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d0ea92bfe6",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/991e521d2a811fd1247ad0fb4c941cdd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/lambton-jaffas-reserves-vs-charlestown-azzurri-reserves-0800-14-03-2026/601311949"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Australia Northern New South Wales Reserves League",
-            "team_a": "Lambton Jaffas Reserves",
-            "team_b": "Charlestown Azzurri Reserves",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/0113768d06cba90f5beb4ef014312923.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/a76b7fad806423325765fb995b9981de.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1359f032e5f9.png?v=1773456383",
-            "thumb_key": "thumbs/kaytee-1359f032e5f9.webp"
-          }
-        },
-        {
-          "id": "kaytee-6247c69329be",
-          "name": "⚽ Atletico Nacional Medellin vs Llaneros FC | 08:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6247c69329be.png?v=1773456386",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601300936",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601300936",
-                  "name": "Atletico Nacional Medellin vs Llaneros FC",
-                  "streams": [
-                    {
-                      "id": "st-601300936",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8df09e7015",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b49e7b70a68_44731/index.m3u8?expire=1774049531&sign=0db13c38d00d7dd8135a599d4ea4ef16",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/atletico-nacional-medellin-vs-llaneros-fc-0830-14-03-2026/601300936"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-e14ae8b631",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/6ddeb5e9def8f4cba0a1c1edc89804d5/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/atletico-nacional-medellin-vs-llaneros-fc-0830-14-03-2026/601300936"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Categoría Primera A",
-            "team_a": "Atletico Nacional Medellin",
-            "team_b": "Llaneros FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/4ee24366d09a9239bb2c4207a5008111.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/f83a93401d7a60595338bae0337d344c.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6247c69329be.png?v=1773456386",
-            "thumb_key": "thumbs/kaytee-6247c69329be.webp"
-          }
-        },
         {
           "id": "kaytee-09d1bd8de340",
           "name": "⚽ Wellington Phoenix vs Perth Glory | 09:00",
@@ -406,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-09d1bd8de340.png?v=1773456388",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-09d1bd8de340.png?v=1773458951",
             "width": 1600,
             "height": 1200
           },
@@ -478,22 +99,13 @@
             "team_b": "Perth Glory",
             "logo_a": "https://cdn.rapid-api.icu/football/team/bd2e5251a95a8006067d443d020d64e8.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/43f9c122bf617d349407a95d4f709a0d.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-09d1bd8de340.png?v=1773456388",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-09d1bd8de340.png?v=1773458951",
             "thumb_key": "thumbs/kaytee-09d1bd8de340.webp"
           }
-        }
-      ]
-    },
-    {
-      "id": "live_bóng_rổ",
-      "name": "🔴 Live 🏀 Bóng Rổ",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
+        },
         {
-          "id": "kaytee-cb0805101a3c",
-          "name": "🏀 Houston Rockets vs New Orleans Pelicans | 07:00",
+          "id": "kaytee-523ea7cdece2",
+          "name": "⚽ Alajuelense vs Perez Zeledon | 09:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -501,7 +113,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cb0805101a3c.png?v=1773456375",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-523ea7cdece2.png?v=1773458952",
             "width": 1600,
             "height": 1200
           },
@@ -515,27 +127,27 @@
           ],
           "sources": [
             {
-              "id": "src-601299373",
+              "id": "src-601300954",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601299373",
-                  "name": "Houston Rockets vs New Orleans Pelicans",
+                  "id": "ct-601300954",
+                  "name": "Alajuelense vs Perez Zeledon",
                   "streams": [
                     {
-                      "id": "st-601299373",
+                      "id": "st-601300954",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-88f4c559a8",
+                          "id": "lnk-e4e8a624ad",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b4ab4d326d8_85706/index.m3u8?expire=1774052813&sign=92f6e05323d5f6074411fcee05a98794",
+                          "url": "https://live.alilicloud.com/live/bb48a1ad4d97b3dee38be32db3902691/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/houston-rockets-vs-new-orleans-pelicans-0700-14-03-2026/601299373"
+                              "value": "https://bunchatv1.net/truc-tiep/alajuelense-vs-perez-zeledon-0900-14-03-2026/601300954"
                             },
                             {
                               "key": "User-Agent",
@@ -551,15 +163,248 @@
             }
           ],
           "org_metadata": {
-            "league": "NBA",
-            "team_a": "Houston Rockets",
-            "team_b": "New Orleans Pelicans",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/f2ccea244e52871508761dd546e14a53.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/ff600b1a2ff30791481e39710bd35e83.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cb0805101a3c.png?v=1773456375",
-            "thumb_key": "thumbs/kaytee-cb0805101a3c.webp"
+            "league": "Costa Rica Primera Division",
+            "team_a": "Alajuelense",
+            "team_b": "Perez Zeledon",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/71b66f0b7a71294f9c30f7f5bdf0cf86.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-523ea7cdece2.png?v=1773458952",
+            "thumb_key": "thumbs/kaytee-523ea7cdece2.webp"
           }
         },
+        {
+          "id": "kaytee-21025b9c57b7",
+          "name": "⚽ Club America (w) vs Leon (w) | 09:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-21025b9c57b7.png?v=1773458954",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601300957",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601300957",
+                  "name": "Club America (w) vs Leon (w)",
+                  "streams": [
+                    {
+                      "id": "st-601300957",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-192edb3e29",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/b3102b29c777537dd37a14a6f2efba50/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/club-america-w-vs-leon-w-0900-14-03-2026/601300957"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Mexico Liga MX Femenil",
+            "team_a": "Club America (w)",
+            "team_b": "Leon (w)",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/988d4c293006d45d1f453c9ee2884022.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/8e279a6f57d4768f5f1fa3bb28fd3a8a.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-21025b9c57b7.png?v=1773458954",
+            "thumb_key": "thumbs/kaytee-21025b9c57b7.webp"
+          }
+        },
+        {
+          "id": "kaytee-159b890e18e3",
+          "name": "⚽ Wuhan Jianghan(W) vs Henan(W) | 09:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-159b890e18e3.png?v=1773458956",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601308775",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601308775",
+                  "name": "Wuhan Jianghan(W) vs Henan(W)",
+                  "streams": [
+                    {
+                      "id": "st-601308775",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-cc113f12cd",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/973553aac6d8c44531153d120b581b7b/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/wuhan-jianghanw-vs-henanw-0900-14-03-2026/601308775"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Chinese Women's FA Cup",
+            "team_a": "Wuhan Jianghan(W)",
+            "team_b": "Henan(W)",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/e5c9882eac2bcd64767b4cdb6544dcd7.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/b7769e06012d84dc2ed5e9779e49528d.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-159b890e18e3.png?v=1773458956",
+            "thumb_key": "thumbs/kaytee-159b890e18e3.webp"
+          }
+        },
+        {
+          "id": "kaytee-13a47d91f34a",
+          "name": "⚽ FC Juarez vs Monterrey | 10:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-13a47d91f34a.png?v=1773458962",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601300963",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601300963",
+                  "name": "FC Juarez vs Monterrey",
+                  "streams": [
+                    {
+                      "id": "st-601300963",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a83931ce24",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b4c91170a68_136682/index.m3u8?expire=1774060433&sign=3ca0fbea45af0d3089f50a8d704ac4f5",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/fc-juarez-vs-monterrey-1000-14-03-2026/601300963"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-bccb719f85",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/ff9e6cbb00a9bfdb5d612d2839a7b3dc/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/fc-juarez-vs-monterrey-1000-14-03-2026/601300963"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Mexico Liga MX",
+            "team_a": "FC Juarez",
+            "team_b": "Monterrey",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/2ef06350057f561b5dce57c7fca99a74.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/5c3f819a35454f424d85df5757650f8b.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-13a47d91f34a.png?v=1773458962",
+            "thumb_key": "thumbs/kaytee-13a47d91f34a.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_bóng_rổ",
+      "name": "🔴 Live 🏀 Bóng Rổ",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
         {
           "id": "kaytee-c8882a7434cc",
           "name": "🏀 Golden State Warriors vs Minnesota Timberwolves | 09:00",
@@ -570,7 +415,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c8882a7434cc.png?v=1773456389",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c8882a7434cc.png?v=1773458959",
             "width": 1600,
             "height": 1200
           },
@@ -625,7 +470,7 @@
             "team_b": "Minnesota Timberwolves",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/b3dc6e4d6bc132806433f66a408d25c7.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/5d206ae1f29b3de6ba81f7a06cc990d2.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c8882a7434cc.png?v=1773456389",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c8882a7434cc.png?v=1773458959",
             "thumb_key": "thumbs/kaytee-c8882a7434cc.webp"
           }
         },
@@ -639,7 +484,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-24a05f136329.png?v=1773456389",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-24a05f136329.png?v=1773458960",
             "width": 1600,
             "height": 1200
           },
@@ -694,22 +539,13 @@
             "team_b": "Utah Jazz",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/f6ca7c9e0db3a6efb4753c3a1e3629ed.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/457b7c6f4725217747436c334085dfb5.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-24a05f136329.png?v=1773456389",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-24a05f136329.png?v=1773458960",
             "thumb_key": "thumbs/kaytee-24a05f136329.webp"
           }
-        }
-      ]
-    },
-    {
-      "id": "live_tennis",
-      "name": "🔴 Live 🎾 Tennis",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
+        },
         {
-          "id": "kaytee-c3a7dd591b90",
-          "name": "🎾 Rybakina E. vs Svitolina E. | 08:00",
+          "id": "kaytee-c5f112f8df9f",
+          "name": "🏀 Hume City vs Dandenong Thunder | 10:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -717,7 +553,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c3a7dd591b90.png?v=1773456384",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c5f112f8df9f.png?v=1773458963",
             "width": 1600,
             "height": 1200
           },
@@ -731,27 +567,44 @@
           ],
           "sources": [
             {
-              "id": "src-601312060",
+              "id": "src-601300969",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601312060",
-                  "name": "Rybakina E. vs Svitolina E.",
+                  "id": "ct-601300969",
+                  "name": "Hume City vs Dandenong Thunder",
                   "streams": [
                     {
-                      "id": "st-601312060",
+                      "id": "st-601300969",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-aeee9c9e9e",
+                          "id": "lnk-6d6a69c3b8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b4ae3b70a68_110198/index.m3u8?expire=1774053563&sign=57d077d157b5382861a5038a1c08fe92",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b4c2c6326d8_133172/index.m3u8?expire=1774058822&sign=b76fb7d848c3ce2f99340afaa5e56272",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/rybakina-e-vs-svitolina-e-0800-14-03-2026/601312060"
+                              "value": "https://bunchatv1.net/truc-tiep/hume-city-vs-dandenong-thunder-1000-14-03-2026/601300969"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-79293bd3b3",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/6cc97a2b9e8a44efa93aba945e6f98ae/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/hume-city-vs-dandenong-thunder-1000-14-03-2026/601300969"
                             },
                             {
                               "key": "User-Agent",
@@ -767,91 +620,13 @@
             }
           ],
           "org_metadata": {
-            "league": "WTA Indian Wells",
-            "team_a": "Rybakina E.",
-            "team_b": "Svitolina E.",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/9150cb7acdb6e77befccfd4597723e43.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/a401191cb5da5d27db5b927043ca1471.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c3a7dd591b90.png?v=1773456384",
-            "thumb_key": "thumbs/kaytee-c3a7dd591b90.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "upcoming_bóng_đá",
-      "name": "⏳ Sắp Live ⚽ Bóng Đá",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-13a47d91f34a",
-          "name": "⚽ FC Juarez vs Monterrey | 10:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-13a47d91f34a.png?v=1773456391",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Sắp Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601300963",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601300963",
-                  "name": "FC Juarez vs Monterrey",
-                  "streams": [
-                    {
-                      "id": "st-601300963",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a83931ce24",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b4c91170a68_136682/index.m3u8?expire=1774060433&sign=3ca0fbea45af0d3089f50a8d704ac4f5",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/fc-juarez-vs-monterrey-1000-14-03-2026/601300963"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Mexico Liga MX",
-            "team_a": "FC Juarez",
-            "team_b": "Monterrey",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/2ef06350057f561b5dce57c7fca99a74.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/5c3f819a35454f424d85df5757650f8b.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-13a47d91f34a.png?v=1773456391",
-            "thumb_key": "thumbs/kaytee-13a47d91f34a.webp"
+            "league": "National Premier Leagues Victoria",
+            "team_a": "Hume City",
+            "team_b": "Dandenong Thunder",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/4115cad66f03ae616df1952b3c2fa17e.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/21b95f24eea9500e1147ed57a68a3ff8.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c5f112f8df9f.png?v=1773458963",
+            "thumb_key": "thumbs/kaytee-c5f112f8df9f.webp"
           }
         }
       ]
