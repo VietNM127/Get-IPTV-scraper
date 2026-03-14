@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-14T08:20:33.976222",
+  "updated_at": "2026-03-14T08:55:44.557437",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,144 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-6633e4e4262a",
-          "name": "⚽ Sutherland Sharks vs University NSW | 13:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6633e4e4262a.png?v=1773476417",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601301182",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601301182",
-                  "name": "Sutherland Sharks vs University NSW",
-                  "streams": [
-                    {
-                      "id": "st-601301182",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-227f694578",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b4fd1570a68_73445/index.m3u8?expire=1774073749&sign=8d66542cdc0b53be495d9a76f93a387f",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/sutherland-sharks-vs-university-nsw-1330-14-03-2026/601301182"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Australia New South Wales Premier League",
-            "team_a": "Sutherland Sharks",
-            "team_b": "University NSW",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/71a3331c3902a051622e75a5086b3d62.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/cdee9eb9cab2e697281160e0b138446a.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6633e4e4262a.png?v=1773476417",
-            "thumb_key": "thumbs/kaytee-6633e4e4262a.webp"
-          }
-        },
-        {
-          "id": "kaytee-1f76be552d6e",
-          "name": "⚽ South East Melbourne vs Adelaide | 13:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1f76be552d6e.png?v=1773476419",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601312333",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601312333",
-                  "name": "South East Melbourne vs Adelaide",
-                  "streams": [
-                    {
-                      "id": "st-601312333",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0b46e78190",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b50096326d8_42127/index.m3u8?expire=1774074646&sign=d174c20b39e0e5e15b5b3befe2f94b88",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/south-east-melbourne-vs-adelaide-1330-14-03-2026/601312333"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "NBL",
-            "team_a": "South East Melbourne",
-            "team_b": "Adelaide",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/7c169cd0be437260821ef33aa8dd29c6.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/21f9c0700d2402e93d4a9c49bd4854e7.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1f76be552d6e.png?v=1773476419",
-            "thumb_key": "thumbs/kaytee-1f76be552d6e.webp"
-          }
-        },
         {
           "id": "kaytee-9af8242f3ef6",
           "name": "⚽ Tokyo Verdy vs Urawa Red Diamonds | 14:00",
@@ -165,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9af8242f3ef6.png?v=1773476421",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9af8242f3ef6.png?v=1773478526",
             "width": 1600,
             "height": 1200
           },
@@ -237,7 +99,7 @@
             "team_b": "Urawa Red Diamonds",
             "logo_a": "https://cdn.rapid-api.icu/football/team/2a8adb34e764602183a7bee8f51726e4.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/ca15e36551392e8c99b53b5b2f8531d3.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9af8242f3ef6.png?v=1773476421",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9af8242f3ef6.png?v=1773478526",
             "thumb_key": "thumbs/kaytee-9af8242f3ef6.webp"
           }
         },
@@ -251,7 +113,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1b3043c2b1c4.png?v=1773476423",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1b3043c2b1c4.png?v=1773478529",
             "width": 1600,
             "height": 1200
           },
@@ -306,7 +168,7 @@
             "team_b": "Beijing Smart Sky Football Club",
             "logo_a": "https://cdn.rapid-api.icu/football/team/cbdc592f8869a8b84ef211918d2360d3.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/bd17daa6d8ebf374ef09cf312772fc54.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1b3043c2b1c4.png?v=1773476423",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1b3043c2b1c4.png?v=1773478529",
             "thumb_key": "thumbs/kaytee-1b3043c2b1c4.webp"
           }
         },
@@ -320,7 +182,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1aead01db779.png?v=1773476425",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1aead01db779.png?v=1773478532",
             "width": 1600,
             "height": 1200
           },
@@ -375,7 +237,7 @@
             "team_b": "Tianjin Kaiser",
             "logo_a": "https://cdn.rapid-api.icu/football/team/e5f289e69fc504e8f99ccabcefc552ad.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/42981c0023505679a9e50e8bfbc8fd77.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1aead01db779.png?v=1773476425",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1aead01db779.png?v=1773478532",
             "thumb_key": "thumbs/kaytee-1aead01db779.webp"
           }
         },
@@ -389,7 +251,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a89c3ad28f85.png?v=1773476427",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a89c3ad28f85.png?v=1773478534",
             "width": 1600,
             "height": 1200
           },
@@ -444,13 +306,13 @@
             "team_b": "Eastern District SA",
             "logo_a": "https://cdn.rapid-api.icu/football/team/5e196cbab1a9b17ac248288ed5509c8f.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/b2cbde39fd9624cdc34557182ba6ea18.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a89c3ad28f85.png?v=1773476427",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a89c3ad28f85.png?v=1773478534",
             "thumb_key": "thumbs/kaytee-a89c3ad28f85.webp"
           }
         },
         {
-          "id": "kaytee-6ccb5386eeab",
-          "name": "⚽ Shandong Taishan FC vs Beijing Guoan FC | 14:30",
+          "id": "kaytee-84fc39aca332",
+          "name": "⚽ Logan Lightning vs Robina City Blue | 14:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -458,7 +320,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6ccb5386eeab.png?v=1773476432",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-84fc39aca332.png?v=1773478536",
             "width": 1600,
             "height": 1200
           },
@@ -472,44 +334,27 @@
           ],
           "sources": [
             {
-              "id": "src-601301263",
+              "id": "src-601301194",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601301263",
-                  "name": "Shandong Taishan FC vs Beijing Guoan FC",
+                  "id": "ct-601301194",
+                  "name": "Logan Lightning vs Robina City Blue",
                   "streams": [
                     {
-                      "id": "st-601301263",
+                      "id": "st-601301194",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-919bd18c3a",
+                          "id": "lnk-8ac6120219",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b50918326d8_79/index.m3u8?expire=1774076824&sign=3f0921f298acb3b8dcc76fea2e05c8a2",
+                          "url": "https://live.alilicloud.com/live/bb0f2cacf71ff7f920e73382c91f46a5/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/shandong-taishan-fc-vs-beijing-guoan-fc-1430-14-03-2026/601301263"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-8885babb20",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/f9a0d45d3b5f991fc128a98a3e0c24e7/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/shandong-taishan-fc-vs-beijing-guoan-fc-1430-14-03-2026/601301263"
+                              "value": "https://bunchatv1.net/truc-tiep/logan-lightning-vs-robina-city-blue-1400-14-03-2026/601301194"
                             },
                             {
                               "key": "User-Agent",
@@ -525,13 +370,13 @@
             }
           ],
           "org_metadata": {
-            "league": "Chinese Football Super League",
-            "team_a": "Shandong Taishan FC",
-            "team_b": "Beijing Guoan FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/85c080cf02a7161687ddd5b5800dc303.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/e7af298237651113dfeafc32ff734a24.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6ccb5386eeab.png?v=1773476432",
-            "thumb_key": "thumbs/kaytee-6ccb5386eeab.webp"
+            "league": "Australia Queensland State League 1",
+            "team_a": "Logan Lightning",
+            "team_b": "Robina City Blue",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/fe2e6a095e8db9a20e494635a93f579e.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/a58223bbf9e0578395899d482403dc9a.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-84fc39aca332.png?v=1773478536",
+            "thumb_key": "thumbs/kaytee-84fc39aca332.webp"
           }
         },
         {
@@ -544,7 +389,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-513aed341991.png?v=1773476433",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-513aed341991.png?v=1773478542",
             "width": 1600,
             "height": 1200
           },
@@ -616,8 +461,94 @@
             "team_b": "Gimcheon Sangmu Football Club",
             "logo_a": "https://cdn.rapid-api.icu/football/team/090eeb1513e8f1d0cf6d8647d10b2eea.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/4a3e50e90ab721c1782568a287bd5358.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-513aed341991.png?v=1773476433",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-513aed341991.png?v=1773478542",
             "thumb_key": "thumbs/kaytee-513aed341991.webp"
+          }
+        },
+        {
+          "id": "kaytee-6ccb5386eeab",
+          "name": "⚽ Shandong Taishan FC vs Beijing Guoan FC | 14:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6ccb5386eeab.png?v=1773478543",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601301263",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601301263",
+                  "name": "Shandong Taishan FC vs Beijing Guoan FC",
+                  "streams": [
+                    {
+                      "id": "st-601301263",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-919bd18c3a",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b50918326d8_79/index.m3u8?expire=1774076824&sign=3f0921f298acb3b8dcc76fea2e05c8a2",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/shandong-taishan-fc-vs-beijing-guoan-fc-1430-14-03-2026/601301263"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-8885babb20",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/f9a0d45d3b5f991fc128a98a3e0c24e7/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/shandong-taishan-fc-vs-beijing-guoan-fc-1430-14-03-2026/601301263"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Chinese Football Super League",
+            "team_a": "Shandong Taishan FC",
+            "team_b": "Beijing Guoan FC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/85c080cf02a7161687ddd5b5800dc303.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/e7af298237651113dfeafc32ff734a24.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6ccb5386eeab.png?v=1773478543",
+            "thumb_key": "thumbs/kaytee-6ccb5386eeab.webp"
           }
         }
       ]
@@ -639,7 +570,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-21137665b5c2.png?v=1773476430",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-21137665b5c2.png?v=1773478540",
             "width": 1600,
             "height": 1200
           },
@@ -711,86 +642,8 @@
             "team_b": "Bentleigh greens",
             "logo_a": "https://cdn.rapid-api.icu/football/team/5fe8e44d486217553612d132ac6346c6.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/5016a715cb2eee1c7938f3170ad7d0ed.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-21137665b5c2.png?v=1773476430",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-21137665b5c2.png?v=1773478540",
             "thumb_key": "thumbs/kaytee-21137665b5c2.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "live_bóng_chuyền",
-      "name": "🔴 Live 🏐 Bóng Chuyền",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-959a3256dbeb",
-          "name": "🏐 IBK W vs GS Caltex W | 14:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-959a3256dbeb.png?v=1773476428",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601309417",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601309417",
-                  "name": "IBK W vs GS Caltex W",
-                  "streams": [
-                    {
-                      "id": "st-601309417",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a1d228bc98",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b5077970a68_110198/index.m3u8?expire=1774076409&sign=f026b804d3245360b8015b61116efa34",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/ibk-w-vs-gs-caltex-w-1400-14-03-2026/601309417"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Volleyball League Women",
-            "team_a": "IBK W",
-            "team_b": "GS Caltex W",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a25d1fc24aa85e0580b4c7881f232646.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/8be9e6f1af0b1aaf2c23b4d8f72d4f09.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-959a3256dbeb.png?v=1773476428",
-            "thumb_key": "thumbs/kaytee-959a3256dbeb.webp"
           }
         }
       ]
@@ -812,7 +665,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-db571cc2493e.png?v=1773476428",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-db571cc2493e.png?v=1773478538",
             "width": 1600,
             "height": 1200
           },
@@ -867,8 +720,86 @@
             "team_b": "Kim Im-gwon",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/ac17a438d3483cf97275819192d47983.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/4c87577d6db11e3e92044f16c5c6aa5d.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-db571cc2493e.png?v=1773476428",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-db571cc2493e.png?v=1773478538",
             "thumb_key": "thumbs/kaytee-db571cc2493e.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_bóng_đá",
+      "name": "⏳ Sắp Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-455e72d26749",
+          "name": "⚽ Perth vs Sydney | 16:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-455e72d26749.png?v=1773478544",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601312336",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601312336",
+                  "name": "Perth vs Sydney",
+                  "streams": [
+                    {
+                      "id": "st-601312336",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-884253bbc4",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b51c6570a68_42127/index.m3u8?expire=1774081765&sign=bb88c93aecce2ed8fd17b005e885f5e6",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/perth-vs-sydney-1600-14-03-2026/601312336"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NBL",
+            "team_a": "Perth",
+            "team_b": "Sydney",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a9a1da05ab1cbd295ffd562520b50007.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/a6d2abd5c2c08a2e7ffb0dafb533d1d7.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-455e72d26749.png?v=1773478544",
+            "thumb_key": "thumbs/kaytee-455e72d26749.webp"
           }
         }
       ]
