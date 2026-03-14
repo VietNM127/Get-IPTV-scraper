@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-14T09:28:59.755154",
+  "updated_at": "2026-03-14T09:45:40.097256",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -18,8 +18,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-513aed341991",
-          "name": "⚽ Daejeon Citizen vs Gimcheon Sangmu Football Club | 14:30",
+          "id": "kaytee-b16cef843e8e",
+          "name": "⚽ Brisbane City vs Gold Coast Knights | 15:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-513aed341991.png?v=1773480530",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b16cef843e8e.png?v=1773481526",
             "width": 1600,
             "height": 1200
           },
@@ -41,44 +41,27 @@
           ],
           "sources": [
             {
-              "id": "src-601301251",
+              "id": "src-601301272",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601301251",
-                  "name": "Daejeon Citizen vs Gimcheon Sangmu Football Club",
+                  "id": "ct-601301272",
+                  "name": "Brisbane City vs Gold Coast Knights",
                   "streams": [
                     {
-                      "id": "st-601301251",
+                      "id": "st-601301272",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-9ac350ddb7",
+                          "id": "lnk-9e315b9778",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b5077770a68_72787/index.m3u8?expire=1774076407&sign=dbae169e0be0f03ffa7431c477b4f062",
+                          "url": "https://live.alilicloud.com/live/739fd245c03ff1584bc17391a8c3cd27/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/daejeon-citizen-vs-gimcheon-sangmu-football-club-1430-14-03-2026/601301251"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-f1c14cdef6",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/6a9daca1f148d4ed2af66edecee0f957/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/daejeon-citizen-vs-gimcheon-sangmu-football-club-1430-14-03-2026/601301251"
+                              "value": "https://bunchatv1.net/truc-tiep/brisbane-city-vs-gold-coast-knights-1500-14-03-2026/601301272"
                             },
                             {
                               "key": "User-Agent",
@@ -94,18 +77,18 @@
             }
           ],
           "org_metadata": {
-            "league": "Korean K League 1",
-            "team_a": "Daejeon Citizen",
-            "team_b": "Gimcheon Sangmu Football Club",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/090eeb1513e8f1d0cf6d8647d10b2eea.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/4a3e50e90ab721c1782568a287bd5358.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-513aed341991.png?v=1773480530",
-            "thumb_key": "thumbs/kaytee-513aed341991.webp"
+            "league": "Australia National Premier Leagues Queensland",
+            "team_a": "Brisbane City",
+            "team_b": "Gold Coast Knights",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/4d58ff44865806627c28fb2a96705515.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/165b0184ea713b45d4453dd4e4fdfdb2.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b16cef843e8e.png?v=1773481526",
+            "thumb_key": "thumbs/kaytee-b16cef843e8e.webp"
           }
         },
         {
-          "id": "kaytee-6ccb5386eeab",
-          "name": "⚽ Shandong Taishan FC vs Beijing Guoan FC | 14:30",
+          "id": "kaytee-a7f9836a4409",
+          "name": "⚽ Eastern Suburbs Brisbane vs Queensland Lions SC | 15:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -113,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6ccb5386eeab.png?v=1773480532",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a7f9836a4409.png?v=1773481528",
             "width": 1600,
             "height": 1200
           },
@@ -127,44 +110,27 @@
           ],
           "sources": [
             {
-              "id": "src-601301263",
+              "id": "src-601301275",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601301263",
-                  "name": "Shandong Taishan FC vs Beijing Guoan FC",
+                  "id": "ct-601301275",
+                  "name": "Eastern Suburbs Brisbane vs Queensland Lions SC",
                   "streams": [
                     {
-                      "id": "st-601301263",
+                      "id": "st-601301275",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-919bd18c3a",
+                          "id": "lnk-78182f1b5f",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b50918326d8_79/index.m3u8?expire=1774076824&sign=3f0921f298acb3b8dcc76fea2e05c8a2",
+                          "url": "https://live.alilicloud.com/live/b52b818331e583f623f9df76c6be877f/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/shandong-taishan-fc-vs-beijing-guoan-fc-1430-14-03-2026/601301263"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-8885babb20",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/f9a0d45d3b5f991fc128a98a3e0c24e7/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/shandong-taishan-fc-vs-beijing-guoan-fc-1430-14-03-2026/601301263"
+                              "value": "https://bunchatv1.net/truc-tiep/eastern-suburbs-brisbane-vs-queensland-lions-sc-1500-14-03-2026/601301275"
                             },
                             {
                               "key": "User-Agent",
@@ -180,18 +146,18 @@
             }
           ],
           "org_metadata": {
-            "league": "Chinese Football Super League",
-            "team_a": "Shandong Taishan FC",
-            "team_b": "Beijing Guoan FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/85c080cf02a7161687ddd5b5800dc303.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/e7af298237651113dfeafc32ff734a24.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6ccb5386eeab.png?v=1773480532",
-            "thumb_key": "thumbs/kaytee-6ccb5386eeab.webp"
+            "league": "Australia National Premier Leagues Queensland",
+            "team_a": "Eastern Suburbs Brisbane",
+            "team_b": "Queensland Lions SC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/e529be33935e79024a46400f621a5683.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/ae6301924eac2e5f0ad32a32ab7355f2.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a7f9836a4409.png?v=1773481528",
+            "thumb_key": "thumbs/kaytee-a7f9836a4409.webp"
           }
         },
         {
-          "id": "kaytee-db796f02b8af",
-          "name": "⚽ Zhejiang Professional FC vs Shanghai Shenhua FC | 14:30",
+          "id": "kaytee-9328687449f2",
+          "name": "⚽ Maharlika Taguig FC vs Don Bosco Garelli United | 15:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -199,7 +165,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-db796f02b8af.png?v=1773480533",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9328687449f2.png?v=1773481531",
             "width": 1600,
             "height": 1200
           },
@@ -213,44 +179,27 @@
           ],
           "sources": [
             {
-              "id": "src-601301266",
+              "id": "src-601301290",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601301266",
-                  "name": "Zhejiang Professional FC vs Shanghai Shenhua FC",
+                  "id": "ct-601301290",
+                  "name": "Maharlika Taguig FC vs Don Bosco Garelli United",
                   "streams": [
                     {
-                      "id": "st-601301266",
+                      "id": "st-601301290",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-4d29ea14d1",
+                          "id": "lnk-5e7d9b5e55",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b50902326d8_88186/index.m3u8?expire=1774076802&sign=f71e5093898f78a5df59081e3ff52958",
+                          "url": "https://live.alilicloud.com/live/8bde36f86b49171a090bd492a9c9223b/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/zhejiang-professional-fc-vs-shanghai-shenhua-fc-1430-14-03-2026/601301266"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-2e663efbcf",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/f39dba29747b7d93fb6f31ec1eeccdf0/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/zhejiang-professional-fc-vs-shanghai-shenhua-fc-1430-14-03-2026/601301266"
+                              "value": "https://bunchatv1.net/truc-tiep/maharlika-taguig-fc-vs-don-bosco-garelli-united-1500-14-03-2026/601301290"
                             },
                             {
                               "key": "User-Agent",
@@ -266,18 +215,18 @@
             }
           ],
           "org_metadata": {
-            "league": "Chinese Football Super League",
-            "team_a": "Zhejiang Professional FC",
-            "team_b": "Shanghai Shenhua FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/cc1aef5e69e8d01ba3d3712f24040347.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/e8327d4681b4a73c83be9fe087b30721.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-db796f02b8af.png?v=1773480533",
-            "thumb_key": "thumbs/kaytee-db796f02b8af.webp"
+            "league": "Philippines United Football League",
+            "team_a": "Maharlika Taguig FC",
+            "team_b": "Don Bosco Garelli United",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/e6ebd8a0e4686622ea405129300f862e.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/b552130737a6d7dd22dcbba499342904.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9328687449f2.png?v=1773481531",
+            "thumb_key": "thumbs/kaytee-9328687449f2.webp"
           }
         },
         {
-          "id": "kaytee-62d64183382f",
-          "name": "⚽ Guangdong Wuchuan Youth vs Hubei Istar | 14:30",
+          "id": "kaytee-6ac7f24fda56",
+          "name": "⚽ St George City FA vs SD Raiders FC | 15:15",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -285,7 +234,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-62d64183382f.png?v=1773480536",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6ac7f24fda56.png?v=1773481535",
             "width": 1600,
             "height": 1200
           },
@@ -299,27 +248,27 @@
           ],
           "sources": [
             {
-              "id": "src-601297213",
+              "id": "src-601301374",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601297213",
-                  "name": "Guangdong Wuchuan Youth vs Hubei Istar",
+                  "id": "ct-601301374",
+                  "name": "St George City FA vs SD Raiders FC",
                   "streams": [
                     {
-                      "id": "st-601297213",
+                      "id": "st-601301374",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-d3e04b2bb8",
+                          "id": "lnk-c3f4a01633",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live.alilicloud.com/live/2ba8eae2660e7491e495c8b04c043900/playlist.m3u8",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b506fa326d8_28/index.m3u8?expire=1774076282&sign=3e51459b0d758dc2589e888922958e02",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/guangdong-wuchuan-youth-vs-hubei-istar-1430-14-03-2026/601297213"
+                              "value": "https://bunchatv1.net/truc-tiep/st-george-city-fa-vs-sd-raiders-fc-1515-14-03-2026/601301374"
                             },
                             {
                               "key": "User-Agent",
@@ -335,82 +284,13 @@
             }
           ],
           "org_metadata": {
-            "league": "Chinese FA Cup",
-            "team_a": "Guangdong Wuchuan Youth",
-            "team_b": "Hubei Istar",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/b5ff99432df36b5f50aab41f1fef1d66.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/8eb7e4751d142783aec8a44b1ecaa922.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-62d64183382f.png?v=1773480536",
-            "thumb_key": "thumbs/kaytee-62d64183382f.webp"
-          }
-        },
-        {
-          "id": "kaytee-906a7b143308",
-          "name": "⚽ Gyeongnam FC vs Chungbuk Cheongju FC | 14:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-906a7b143308.png?v=1773480537",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601301254",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601301254",
-                  "name": "Gyeongnam FC vs Chungbuk Cheongju FC",
-                  "streams": [
-                    {
-                      "id": "st-601301254",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a51e0a0f19",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/3a1ed0d556d6080d686e7db1e06ccdbc/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/gyeongnam-fc-vs-chungbuk-cheongju-fc-1430-14-03-2026/601301254"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Korean K League 2",
-            "team_a": "Gyeongnam FC",
-            "team_b": "Chungbuk Cheongju FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/25a9ab8b2b697879c4b5bb1433922c54.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/a9c344b4196017fb183285a2fabd0b3f.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-906a7b143308.png?v=1773480537",
-            "thumb_key": "thumbs/kaytee-906a7b143308.webp"
+            "league": "Australia New South Wales Premier League",
+            "team_a": "St George City FA",
+            "team_b": "SD Raiders FC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/008068851d82f62413011a3228c3c674.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/41cd928a2816821bdb7995c3ea6031a6.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6ac7f24fda56.png?v=1773481535",
+            "thumb_key": "thumbs/kaytee-6ac7f24fda56.webp"
           }
         },
         {
@@ -423,7 +303,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-455e72d26749.png?v=1773480539",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-455e72d26749.png?v=1773481535",
             "width": 1600,
             "height": 1200
           },
@@ -478,7 +358,7 @@
             "team_b": "Sydney",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a9a1da05ab1cbd295ffd562520b50007.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/a6d2abd5c2c08a2e7ffb0dafb533d1d7.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-455e72d26749.png?v=1773480539",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-455e72d26749.png?v=1773481535",
             "thumb_key": "thumbs/kaytee-455e72d26749.webp"
           }
         }
@@ -492,6 +372,75 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "kaytee-ba0e4813c57e",
+          "name": "🏀 Sunshine Coast Wanderers FC vs Capalaba Bulldogs | 15:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ba0e4813c57e.png?v=1773481529",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601301278",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601301278",
+                  "name": "Sunshine Coast Wanderers FC vs Capalaba Bulldogs",
+                  "streams": [
+                    {
+                      "id": "st-601301278",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ca6f5035aa",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/44c2e6853b5ae21edb2e760873d453c9/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/sunshine-coast-wanderers-fc-vs-capalaba-bulldogs-1500-14-03-2026/601301278"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Australia Queensland State League 1",
+            "team_a": "Sunshine Coast Wanderers FC",
+            "team_b": "Capalaba Bulldogs",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/c1c3f0f2b0eb7d7667f4b3ca3c75b2d5.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/d96a55f33e54d2493db363f6e1498e89.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ba0e4813c57e.png?v=1773481529",
+            "thumb_key": "thumbs/kaytee-ba0e4813c57e.webp"
+          }
+        },
+        {
           "id": "kaytee-5cdaccdb8f30",
           "name": "🏀 Rockdale City Suns vs A.P.I.A. Leichhardt Tigers | 15:10",
           "type": "single",
@@ -501,7 +450,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5cdaccdb8f30.png?v=1773480539",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5cdaccdb8f30.png?v=1773481533",
             "width": 1600,
             "height": 1200
           },
@@ -556,7 +505,7 @@
             "team_b": "A.P.I.A. Leichhardt Tigers",
             "logo_a": "https://cdn.rapid-api.icu/football/team/e811c8feb7f55ae2b6fea9ed20c96374.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/5e7f98b3e6dba2955758797b84e94868.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5cdaccdb8f30.png?v=1773480539",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5cdaccdb8f30.png?v=1773481533",
             "thumb_key": "thumbs/kaytee-5cdaccdb8f30.webp"
           }
         }
@@ -579,7 +528,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-db571cc2493e.png?v=1773480529",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-db571cc2493e.png?v=1773481524",
             "width": 1600,
             "height": 1200
           },
@@ -634,8 +583,233 @@
             "team_b": "Kim Im-gwon",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/ac17a438d3483cf97275819192d47983.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/4c87577d6db11e3e92044f16c5c6aa5d.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-db571cc2493e.png?v=1773480529",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-db571cc2493e.png?v=1773481524",
             "thumb_key": "thumbs/kaytee-db571cc2493e.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_bóng_đá",
+      "name": "⏳ Sắp Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-3cdb2d4746b0",
+          "name": "⚽ Than Quang Ninh vs Xuân Thiện Phú Thọ | 17:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3cdb2d4746b0.png?v=1773481537",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601301527",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601301527",
+                  "name": "Than Quang Ninh vs Xuân Thiện Phú Thọ",
+                  "streams": [
+                    {
+                      "id": "st-601301527",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-adeef59f1b",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b5274b70a68_136682/index.m3u8?expire=1774084555&sign=520fc5eee1cae554025317c08751d2c5",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/than-quang-ninh-vs-xuan-thien-phu-tho-1700-14-03-2026/601301527"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vietnam National First Class League",
+            "team_a": "Than Quang Ninh",
+            "team_b": "Xuân Thiện Phú Thọ",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/479d859dacd00866ef0da188c0617234.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/a3fa1f2bd7dbd79b0c531417b56647d6.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3cdb2d4746b0.png?v=1773481537",
+            "thumb_key": "thumbs/kaytee-3cdb2d4746b0.webp"
+          }
+        },
+        {
+          "id": "kaytee-7388690e95a2",
+          "name": "⚽ Kocaelispor vs Konyaspor | 17:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7388690e95a2.png?v=1773481540",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601301539",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601301539",
+                  "name": "Kocaelispor vs Konyaspor",
+                  "streams": [
+                    {
+                      "id": "st-601301539",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-648f2bba52",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b52c3d70a68_95554/index.m3u8?expire=1774085821&sign=a6577d53477b49f1ee22b4849b4f1a33",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/kocaelispor-vs-konyaspor-1730-14-03-2026/601301539"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Turkish Super League",
+            "team_a": "Kocaelispor",
+            "team_b": "Konyaspor",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/8dfbbd630a401d819054748332f33849.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/e75f8b4e1baab3060dbe5ba983a3b49c.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7388690e95a2.png?v=1773481540",
+            "thumb_key": "thumbs/kaytee-7388690e95a2.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_billiard",
+      "name": "⏳ Sắp Live 🎱 Billiard",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-8416a2612525",
+          "name": "🎱 Kim Se-yeon vs Kim Ga-young | 17:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8416a2612525.png?v=1773481538",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601314247",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601314247",
+                  "name": "Kim Se-yeon vs Kim Ga-young",
+                  "streams": [
+                    {
+                      "id": "st-601314247",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d6c049b1ee",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b52d72326d8_142246/index.m3u8?expire=1774086130&sign=475879e81e48e36a902df71da14dbde3",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/kim-seyeon-vs-kim-gayoung-1700-14-03-2026/601314247"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "PBA-LPBA World Championship 2026",
+            "team_a": "Kim Se-yeon",
+            "team_b": "Kim Ga-young",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/2dca9e5f0d17ea69cd0a5c4b1b1de55e.jpg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/59d465939819f0c24e54596de8d962ff.jpg",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8416a2612525.png?v=1773481538",
+            "thumb_key": "thumbs/kaytee-8416a2612525.webp"
           }
         }
       ]
