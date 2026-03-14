@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-14T07:01:25.092526",
+  "updated_at": "2026-03-14T07:06:37.389993",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-63df15e6e6d0.png?v=1773471671",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-63df15e6e6d0.png?v=1773471979",
             "width": 1600,
             "height": 1200
           },
@@ -99,163 +99,8 @@
             "team_b": "Chinese Taipei (w)",
             "logo_a": "https://cdn.rapid-api.icu/football/team/d7284374f0dbd15edab5227f4dd34db5.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/74eb0c64d3d5eb724d982a8b150d8943.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-63df15e6e6d0.png?v=1773471671",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-63df15e6e6d0.png?v=1773471979",
             "thumb_key": "thumbs/kaytee-63df15e6e6d0.webp"
-          }
-        },
-        {
-          "id": "kaytee-f1bc7a05f2be",
-          "name": "⚽ Kyoto Sanga vs Cerezo Osaka | 12:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f1bc7a05f2be.png?v=1773471672",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601301053",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601301053",
-                  "name": "Kyoto Sanga vs Cerezo Osaka",
-                  "streams": [
-                    {
-                      "id": "st-601301053",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3f229cdf04",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b4dddc70a68_79/index.m3u8?expire=1774065756&sign=6df95f4a78718cdadb8791621799151c",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/kyoto-sanga-vs-cerezo-osaka-1200-14-03-2026/601301053"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-d40bc152ed",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/b5b6735117af302105e14712126ea38f/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/kyoto-sanga-vs-cerezo-osaka-1200-14-03-2026/601301053"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Japanese J1 League",
-            "team_a": "Kyoto Sanga",
-            "team_b": "Cerezo Osaka",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/7d6fa50ea67cde7d66612a8189897ba5.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/ab10ee503e539e55a9a11a9ff202405a.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f1bc7a05f2be.png?v=1773471672",
-            "thumb_key": "thumbs/kaytee-f1bc7a05f2be.webp"
-          }
-        },
-        {
-          "id": "kaytee-e8de091fe8d4",
-          "name": "⚽ Ventforet Kofu vs Iwaki FC | 12:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e8de091fe8d4.png?v=1773471674",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601301068",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601301068",
-                  "name": "Ventforet Kofu vs Iwaki FC",
-                  "streams": [
-                    {
-                      "id": "st-601301068",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f5d1cdaef2",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/39f315e30bb9300e61fba34f53004913/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/ventforet-kofu-vs-iwaki-fc-1200-14-03-2026/601301068"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "J2/J3 100 Year Vision League",
-            "team_a": "Ventforet Kofu",
-            "team_b": "Iwaki FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/61e08ae9a3b69ce77f30bf51e71b2a77.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/fe52c67f0590ffcce6879aebfd39f165.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e8de091fe8d4.png?v=1773471674",
-            "thumb_key": "thumbs/kaytee-e8de091fe8d4.webp"
           }
         },
         {
@@ -268,7 +113,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-68b0c85cc66b.png?v=1773471677",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-68b0c85cc66b.png?v=1773471982",
             "width": 1600,
             "height": 1200
           },
@@ -323,8 +168,146 @@
             "team_b": "Ulverstone",
             "logo_a": "https://cdn.rapid-api.icu/football/team/f5303a9bc7a98344ffa9b7c060817077.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/3919845e17298888f7a1427ddc39ec55.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-68b0c85cc66b.png?v=1773471677",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-68b0c85cc66b.png?v=1773471982",
             "thumb_key": "thumbs/kaytee-68b0c85cc66b.webp"
+          }
+        },
+        {
+          "id": "kaytee-57b0a4f0edfc",
+          "name": "⚽ Riverside Olympic vs Glenorchy Knights FC | 12:45",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-57b0a4f0edfc.png?v=1773471984",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601301137",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601301137",
+                  "name": "Riverside Olympic vs Glenorchy Knights FC",
+                  "streams": [
+                    {
+                      "id": "st-601301137",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-79a9194233",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/5431c8b70b3a7344377495d99c23225f/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/riverside-olympic-vs-glenorchy-knights-fc-1245-14-03-2026/601301137"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Australia Tasmania National Premier League",
+            "team_a": "Riverside Olympic",
+            "team_b": "Glenorchy Knights FC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/4ea82e0f00672dd97bbde5702923463f.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/cc4fb9d6d32a8622e01db1f04536ff3c.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-57b0a4f0edfc.png?v=1773471984",
+            "thumb_key": "thumbs/kaytee-57b0a4f0edfc.webp"
+          }
+        },
+        {
+          "id": "kaytee-9db3b424e311",
+          "name": "⚽ Eastern Suburbs SC (w) vs Queensland Lions (w) | 12:45",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9db3b424e311.png?v=1773471986",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601310998",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601310998",
+                  "name": "Eastern Suburbs SC (w) vs Queensland Lions (w)",
+                  "streams": [
+                    {
+                      "id": "st-601310998",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0f61558e98",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/6934c84f6c237e226e14e2faca494bbb/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/eastern-suburbs-sc-w-vs-queensland-lions-w-1245-14-03-2026/601310998"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Australia Queensland State Women's League",
+            "team_a": "Eastern Suburbs SC (w)",
+            "team_b": "Queensland Lions (w)",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/4f2d30e21f08ac0d6c79d3b2f5defa0c.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/00bb429c0a2d148a1ad0957162a25cb7.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9db3b424e311.png?v=1773471986",
+            "thumb_key": "thumbs/kaytee-9db3b424e311.webp"
           }
         },
         {
@@ -337,7 +320,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-756b916551aa.png?v=1773471678",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-756b916551aa.png?v=1773471988",
             "width": 1600,
             "height": 1200
           },
@@ -409,7 +392,7 @@
             "team_b": "Auckland FC",
             "logo_a": "https://cdn.rapid-api.icu/football/team/296c68ac5ad3ff621c10c6ebfb9954ca.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/6eae40b446299cfb06316430ae387475.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-756b916551aa.png?v=1773471678",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-756b916551aa.png?v=1773471988",
             "thumb_key": "thumbs/kaytee-756b916551aa.webp"
           }
         },
@@ -423,7 +406,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2d7f1c2e0ce0.png?v=1773471680",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2d7f1c2e0ce0.png?v=1773471990",
             "width": 1600,
             "height": 1200
           },
@@ -495,8 +478,94 @@
             "team_b": "Kawasaki Frontale",
             "logo_a": "https://cdn.rapid-api.icu/football/team/90ca524b1b1c17911b1bf8e425c8d96d.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/937795c0851c1e794e96a5cb660fcd59.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2d7f1c2e0ce0.png?v=1773471680",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2d7f1c2e0ce0.png?v=1773471990",
             "thumb_key": "thumbs/kaytee-2d7f1c2e0ce0.webp"
+          }
+        },
+        {
+          "id": "kaytee-085ca935e0d6",
+          "name": "⚽ Sanfrecce Hiroshima vs Gamba Osaka | 13:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-085ca935e0d6.png?v=1773471992",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601301155",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601301155",
+                  "name": "Sanfrecce Hiroshima vs Gamba Osaka",
+                  "streams": [
+                    {
+                      "id": "st-601301155",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a1540ba7e8",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b4f910326d8_88642/index.m3u8?expire=1774072720&sign=90a574197f47f0d4d86f48f21e4602d3",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/sanfrecce-hiroshima-vs-gamba-osaka-1300-14-03-2026/601301155"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-90b449a199",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/00cc436ca10e35d93adb59ad2268d0ee/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/sanfrecce-hiroshima-vs-gamba-osaka-1300-14-03-2026/601301155"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Japanese J1 League",
+            "team_a": "Sanfrecce Hiroshima",
+            "team_b": "Gamba Osaka",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/c81d5ff7a33a4f6a9312a8703f619352.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/91008a96b5de8c75376d17057f89890e.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-085ca935e0d6.png?v=1773471992",
+            "thumb_key": "thumbs/kaytee-085ca935e0d6.webp"
           }
         },
         {
@@ -509,7 +578,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1f76be552d6e.png?v=1773471683",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1f76be552d6e.png?v=1773471996",
             "width": 1600,
             "height": 1200
           },
@@ -564,7 +633,7 @@
             "team_b": "Adelaide",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/7c169cd0be437260821ef33aa8dd29c6.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/21f9c0700d2402e93d4a9c49bd4854e7.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1f76be552d6e.png?v=1773471683",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1f76be552d6e.png?v=1773471996",
             "thumb_key": "thumbs/kaytee-1f76be552d6e.webp"
           }
         }
@@ -587,7 +656,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-959a3256dbeb.png?v=1773471685",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-959a3256dbeb.png?v=1773471997",
             "width": 1600,
             "height": 1200
           },
@@ -642,7 +711,7 @@
             "team_b": "GS Caltex W",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a25d1fc24aa85e0580b4c7881f232646.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/8be9e6f1af0b1aaf2c23b4d8f72d4f09.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-959a3256dbeb.png?v=1773471685",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-959a3256dbeb.png?v=1773471997",
             "thumb_key": "thumbs/kaytee-959a3256dbeb.webp"
           }
         }
@@ -665,7 +734,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-db571cc2493e.png?v=1773471684",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-db571cc2493e.png?v=1773471996",
             "width": 1600,
             "height": 1200
           },
@@ -720,7 +789,7 @@
             "team_b": "Kim Im-gwon",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/ac17a438d3483cf97275819192d47983.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/4c87577d6db11e3e92044f16c5c6aa5d.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-db571cc2493e.png?v=1773471684",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-db571cc2493e.png?v=1773471996",
             "thumb_key": "thumbs/kaytee-db571cc2493e.webp"
           }
         }
@@ -743,7 +812,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-148e9fb8dc32.png?v=1773471683",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-148e9fb8dc32.png?v=1773471995",
             "width": 1600,
             "height": 1200
           },
@@ -798,7 +867,7 @@
             "team_b": "Tomokazu HARIMOTO",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/5bebbd96c40b78fbbfea1328ffdd1b36.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/896d75fae4391fe42ef5793abba43342.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-148e9fb8dc32.png?v=1773471683",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-148e9fb8dc32.png?v=1773471995",
             "thumb_key": "thumbs/kaytee-148e9fb8dc32.webp"
           }
         }
