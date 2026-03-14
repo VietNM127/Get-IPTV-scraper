@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-14T13:26:50.240677",
+  "updated_at": "2026-03-14T13:53:36.685092",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,368 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-45a695021073",
-          "name": "⚽ Muang Thong United vs Uthai Thani Forest | 18:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-45a695021073.png?v=1773494790",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601301698",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601301698",
-                  "name": "Muang Thong United vs Uthai Thani Forest",
-                  "streams": [
-                    {
-                      "id": "st-601301698",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3621280522",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/e7d9d5687b3f969b4452c42c7123b466/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/muang-thong-united-vs-uthai-thani-forest-1830-14-03-2026/601301698"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Hilux Revo Thai League",
-            "team_a": "Muang Thong United",
-            "team_b": "Uthai Thani Forest",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/3304b66faaa7843336b931db14e7fbc7.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/0bebca8b04365cbdf36703122a59189c.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-45a695021073.png?v=1773494790",
-            "thumb_key": "thumbs/kaytee-45a695021073.webp"
-          }
-        },
-        {
-          "id": "kaytee-8cc414af8d7f",
-          "name": "⚽ East Bengal FC vs Kerala Blasters FC | 18:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8cc414af8d7f.png?v=1773494792",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601301707",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601301707",
-                  "name": "East Bengal FC vs Kerala Blasters FC",
-                  "streams": [
-                    {
-                      "id": "st-601301707",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1a08f31ef7",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/d2e7867b386d1bf30cecc35b6103c021/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/east-bengal-fc-vs-kerala-blasters-fc-1830-14-03-2026/601301707"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Indian Super League",
-            "team_a": "East Bengal FC",
-            "team_b": "Kerala Blasters FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/21649c3d173c8f4ec9d526432ad9f088.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/b3aa22f8a2dec46b030d43c4df1b255a.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8cc414af8d7f.png?v=1773494792",
-            "thumb_key": "thumbs/kaytee-8cc414af8d7f.webp"
-          }
-        },
-        {
-          "id": "kaytee-f6aa9e43a383",
-          "name": "⚽ Guangdong Guangzhou Power vs Shanghai Jiading Huilong | 18:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f6aa9e43a383.png?v=1773494794",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601301710",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601301710",
-                  "name": "Guangdong Guangzhou Power vs Shanghai Jiading Huilong",
-                  "streams": [
-                    {
-                      "id": "st-601301710",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8320b9e9fb",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/b517e814a0a86c5bc15438e8606a5212/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/guangdong-guangzhou-power-vs-shanghai-jiading-huilong-1830-14-03-2026/601301710"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Chinese Football League 1",
-            "team_a": "Guangdong Guangzhou Power",
-            "team_b": "Shanghai Jiading Huilong",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/8c08e09f2c1d5628cf599b883fe999bf.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/219f58fd1493f10ab5d3dd7c5b3b88c5.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f6aa9e43a383.png?v=1773494794",
-            "thumb_key": "thumbs/kaytee-f6aa9e43a383.webp"
-          }
-        },
-        {
-          "id": "kaytee-cb68e23b4078",
-          "name": "⚽ Nantong Zhiyun FC vs Shijiazhuang Gongfu | 18:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cb68e23b4078.png?v=1773494796",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601301713",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601301713",
-                  "name": "Nantong Zhiyun FC vs Shijiazhuang Gongfu",
-                  "streams": [
-                    {
-                      "id": "st-601301713",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-82c9c10b7e",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/a662d15166554ac86af4278e7d53c93d/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/nantong-zhiyun-fc-vs-shijiazhuang-gongfu-1830-14-03-2026/601301713"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Chinese Football League 1",
-            "team_a": "Nantong Zhiyun FC",
-            "team_b": "Shijiazhuang Gongfu",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/a82e2bf321557e0dd1ab0c09df718a53.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/0408f34aeb9005f8f65c4c2e80478235.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cb68e23b4078.png?v=1773494796",
-            "thumb_key": "thumbs/kaytee-cb68e23b4078.webp"
-          }
-        },
-        {
-          "id": "kaytee-f81c45738649",
-          "name": "⚽ Chongqing Tongliangloong FC vs Liaoning Tieren | 18:35",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f81c45738649.png?v=1773494798",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601301725",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601301725",
-                  "name": "Chongqing Tongliangloong FC vs Liaoning Tieren",
-                  "streams": [
-                    {
-                      "id": "st-601301725",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a81d1d244b",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b546d3326d8_110198/index.m3u8?expire=1774092627&sign=87bfae1177d721a51d2f8052ec892354",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/chongqing-tongliangloong-fc-vs-liaoning-tieren-1835-14-03-2026/601301725"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-360afef3e5",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/680aaef1fbf1dd359ce8b05e143829bf/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/chongqing-tongliangloong-fc-vs-liaoning-tieren-1835-14-03-2026/601301725"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Chinese Football Super League",
-            "team_a": "Chongqing Tongliangloong FC",
-            "team_b": "Liaoning Tieren",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/5be93c1a6628d27de6d39fde9ea94b7a.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/1c4ae95c663ed84758a04627451e3470.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f81c45738649.png?v=1773494798",
-            "thumb_key": "thumbs/kaytee-f81c45738649.webp"
-          }
-        },
         {
           "id": "kaytee-5179b1501a20",
           "name": "⚽ Arminia Bielefeld vs SC Paderborn 07 | 19:00",
@@ -389,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5179b1501a20.png?v=1773494799",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5179b1501a20.png?v=1773496400",
             "width": 1600,
             "height": 1200
           },
@@ -461,7 +99,7 @@
             "team_b": "SC Paderborn 07",
             "logo_a": "https://cdn.rapid-api.icu/football/team/8739d9ef9a67d757cc8ef67d12c58f62.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/7c8c3c50966c793eba910e18659759a1.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5179b1501a20.png?v=1773494799",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5179b1501a20.png?v=1773496400",
             "thumb_key": "thumbs/kaytee-5179b1501a20.webp"
           }
         },
@@ -475,7 +113,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-db541c53f32c.png?v=1773494801",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-db541c53f32c.png?v=1773496402",
             "width": 1600,
             "height": 1200
           },
@@ -547,7 +185,7 @@
             "team_b": "Fortuna Dusseldorf",
             "logo_a": "https://cdn.rapid-api.icu/football/team/0a38b45c20a019398526a4944553f8e6.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/15820ab793d530ee9d101bde619a013f.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-db541c53f32c.png?v=1773494801",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-db541c53f32c.png?v=1773496402",
             "thumb_key": "thumbs/kaytee-db541c53f32c.webp"
           }
         },
@@ -561,7 +199,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7df45f92a6b6.png?v=1773494803",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7df45f92a6b6.png?v=1773496404",
             "width": 1600,
             "height": 1200
           },
@@ -633,8 +271,301 @@
             "team_b": "1. FC Nürnberg",
             "logo_a": "https://cdn.rapid-api.icu/football/team/a285cb29d36e8d0e6fb35def1fbf442c.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/895a263ae5237d0edbaf850a907a59b0.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7df45f92a6b6.png?v=1773494803",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7df45f92a6b6.png?v=1773496404",
             "thumb_key": "thumbs/kaytee-7df45f92a6b6.webp"
+          }
+        },
+        {
+          "id": "kaytee-d423b92a2eb1",
+          "name": "⚽ Hobro vs Aalborg | 19:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d423b92a2eb1.png?v=1773496406",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601301737",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601301737",
+                  "name": "Hobro vs Aalborg",
+                  "streams": [
+                    {
+                      "id": "st-601301737",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1e57c6f06f",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/72f6f4ea13568769ed46977b66be7ae9/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/hobro-vs-aalborg-1900-14-03-2026/601301737"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Danish 1st Division",
+            "team_a": "Hobro",
+            "team_b": "Aalborg",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/a8b127f038ab655edb4504a62ad13729.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/1068c9f5e4fda4454e55834ee9073f2a.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d423b92a2eb1.png?v=1773496406",
+            "thumb_key": "thumbs/kaytee-d423b92a2eb1.webp"
+          }
+        },
+        {
+          "id": "kaytee-e7af311794e5",
+          "name": "⚽ Atalanta U19 vs Cagliari U19 | 19:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e7af311794e5.png?v=1773496407",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601301740",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601301740",
+                  "name": "Atalanta U19 vs Cagliari U19",
+                  "streams": [
+                    {
+                      "id": "st-601301740",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a80ce34f7a",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/baae6f3993f7d8e9073ced75832e787f/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/atalanta-u19-vs-cagliari-u19-1900-14-03-2026/601301740"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Italian Campionato Primavera 1",
+            "team_a": "Atalanta U19",
+            "team_b": "Cagliari U19",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/89b05358a5e89a4c2e355014f39347ac.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/4b2d4e19421e84531b8deb3cdc976db7.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e7af311794e5.png?v=1773496407",
+            "thumb_key": "thumbs/kaytee-e7af311794e5.webp"
+          }
+        },
+        {
+          "id": "kaytee-94a9b0f0969c",
+          "name": "⚽ Lazio Youth vs Juventus U20 | 19:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-94a9b0f0969c.png?v=1773496409",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601301743",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601301743",
+                  "name": "Lazio Youth vs Juventus U20",
+                  "streams": [
+                    {
+                      "id": "st-601301743",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5e793cffd9",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/ef73d3104d15ce60b060a6c366c600c5/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/lazio-youth-vs-juventus-u20-1900-14-03-2026/601301743"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Italian Campionato Primavera 1",
+            "team_a": "Lazio Youth",
+            "team_b": "Juventus U20",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/325ada043edc25d44d3e82c6b20088dd.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/df779a10612c24a6fcd4885ba3767f7e.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-94a9b0f0969c.png?v=1773496409",
+            "thumb_key": "thumbs/kaytee-94a9b0f0969c.webp"
+          }
+        },
+        {
+          "id": "kaytee-cc22b51425db",
+          "name": "⚽ Shenzhen Peng City FC vs Tianjin Jinmen Tiger FC | 19:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cc22b51425db.png?v=1773496411",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601301800",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601301800",
+                  "name": "Shenzhen Peng City FC vs Tianjin Jinmen Tiger FC",
+                  "streams": [
+                    {
+                      "id": "st-601301800",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7b2a8cf487",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b5431470a68_72787/index.m3u8?expire=1774091668&sign=b3bd493e93d219aec1238fd7f8310e8b",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/shenzhen-peng-city-fc-vs-tianjin-jinmen-tiger-fc-1900-14-03-2026/601301800"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-ec031084bb",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/e9abeb3870deb7ab6213159f38e40df6/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/shenzhen-peng-city-fc-vs-tianjin-jinmen-tiger-fc-1900-14-03-2026/601301800"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Chinese Football Super League",
+            "team_a": "Shenzhen Peng City FC",
+            "team_b": "Tianjin Jinmen Tiger FC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/b982f4d4215ea40ad21d589498140a56.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/e0080960b4e935d70f4037aaf3a0b917.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cc22b51425db.png?v=1773496411",
+            "thumb_key": "thumbs/kaytee-cc22b51425db.webp"
           }
         },
         {
@@ -647,7 +578,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d722ca4a749a.png?v=1773494805",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d722ca4a749a.png?v=1773496413",
             "width": 1600,
             "height": 1200
           },
@@ -702,7 +633,7 @@
             "team_b": "LI Yi Jing / WANG Yi Duo",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/e7f1e6ce7e2bf80e00c5f937499b7841.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/4c096b1f95a2afdb3aa56876f572f24f.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d722ca4a749a.png?v=1773494805",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d722ca4a749a.png?v=1773496413",
             "thumb_key": "thumbs/kaytee-d722ca4a749a.webp"
           }
         },
@@ -716,7 +647,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5ce9ad3c1b74.png?v=1773494810",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5ce9ad3c1b74.png?v=1773496416",
             "width": 1600,
             "height": 1200
           },
@@ -771,7 +702,7 @@
             "team_b": "Joshua Filler",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/73fb1483d896dbcb02f380d044393b90.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/678b542f54374d34c84d5ada71346cf4.webp",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5ce9ad3c1b74.png?v=1773494810",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5ce9ad3c1b74.png?v=1773496416",
             "thumb_key": "thumbs/kaytee-5ce9ad3c1b74.webp"
           }
         }
@@ -794,7 +725,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8416a2612525.png?v=1773494809",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8416a2612525.png?v=1773496415",
             "width": 1600,
             "height": 1200
           },
@@ -849,8 +780,86 @@
             "team_b": "Kim Jae-geun",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/810eb61673c3d74fc757b37bb3167104.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/2bc5221d5c071b6fe7b3ee7f043f4e2a.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8416a2612525.png?v=1773494809",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8416a2612525.png?v=1773496415",
             "thumb_key": "thumbs/kaytee-8416a2612525.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_võ_thuật",
+      "name": "🔴 Live 🥊 Võ Thuật",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-4e6a9c0149c8",
+          "name": "🥊 Mohammad Soufi vs Naoyuki Oi | 20:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4e6a9c0149c8.png?v=1773496416",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601314268",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601314268",
+                  "name": "Mohammad Soufi vs Naoyuki Oi",
+                  "streams": [
+                    {
+                      "id": "st-601314268",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ab3ab1062a",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b56686326d8_85706/index.m3u8?expire=1774100742&sign=e8adae28e7ccfe4ce423e2da19ddf364",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/mohammad-soufi-vs-naoyuki-oi-2030-14-03-2026/601314268"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "European Open Pool Championship 2026",
+            "team_a": "Mohammad Soufi",
+            "team_b": "Naoyuki Oi",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/7f65576247bfa750dabb4cdb0188a661.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/e5581f273588748a4cf4fc557fea9181.jpg",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4e6a9c0149c8.png?v=1773496416",
+            "thumb_key": "thumbs/kaytee-4e6a9c0149c8.webp"
           }
         }
       ]
@@ -872,7 +881,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e8cd7740f08e.png?v=1773494808",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e8cd7740f08e.png?v=1773496414",
             "width": 1600,
             "height": 1200
           },
@@ -927,7 +936,7 @@
             "team_b": "SHI Xunya",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a27e26c5fcf1ab989aaa28e41830d3b6.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/2ded1380ded661a18b8bd96aff4f8516.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e8cd7740f08e.png?v=1773494808",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e8cd7740f08e.png?v=1773496414",
             "thumb_key": "thumbs/kaytee-e8cd7740f08e.webp"
           }
         }
