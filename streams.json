@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-14T16:48:13.393167",
+  "updated_at": "2026-03-14T17:03:27.636668",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -18,8 +18,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-7289f21a7ef0",
-          "name": "⚽ Burnley vs Bournemouth AFC | 22:00",
+          "id": "kaytee-f285cfc1c8ae",
+          "name": "⚽ Partizan Belgrade vs Backa Topola | 22:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7289f21a7ef0.png?v=1773506882",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f285cfc1c8ae.png?v=1773507804",
             "width": 1600,
             "height": 1200
           },
@@ -41,44 +41,27 @@
           ],
           "sources": [
             {
-              "id": "src-601303171",
+              "id": "src-601303327",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601303171",
-                  "name": "Burnley vs Bournemouth AFC",
+                  "id": "ct-601303327",
+                  "name": "Partizan Belgrade vs Backa Topola",
                   "streams": [
                     {
-                      "id": "st-601303171",
+                      "id": "st-601303327",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-980f89e944",
+                          "id": "lnk-a761d84475",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b56878326d8_79/index.m3u8?expire=1774101240&sign=3876a64e09c1967cc184fe9998720657",
+                          "url": "https://live.alilicloud.com/live/ce402437ebc4e521c967f671a9200afc/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/burnley-vs-bournemouth-afc-2200-14-03-2026/601303171"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-1b2545c706",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/06a3333066e0cf8dc89111da7fcf332f/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/burnley-vs-bournemouth-afc-2200-14-03-2026/601303171"
+                              "value": "https://bunchatv1.net/truc-tiep/partizan-belgrade-vs-backa-topola-2200-14-03-2026/601303327"
                             },
                             {
                               "key": "User-Agent",
@@ -94,323 +77,13 @@
             }
           ],
           "org_metadata": {
-            "league": "English Premier League",
-            "team_a": "Burnley",
-            "team_b": "Bournemouth AFC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/1091af5aa9fc4a30411785954edb9159.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/240b30d333c97d293752ab7afd77ccd6.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7289f21a7ef0.png?v=1773506882",
-            "thumb_key": "thumbs/kaytee-7289f21a7ef0.webp"
-          }
-        },
-        {
-          "id": "kaytee-677b21f25a04",
-          "name": "⚽ Sunderland vs Brighton Hove Albion | 22:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-677b21f25a04.png?v=1773506884",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601303174",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601303174",
-                  "name": "Sunderland vs Brighton Hove Albion",
-                  "streams": [
-                    {
-                      "id": "st-601303174",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4eed6861cb",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b577e4326d8_133172/index.m3u8?expire=1774105188&sign=5f90b6c0c2629b78e68337685b28b231",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/sunderland-vs-brighton-hove-albion-2200-14-03-2026/601303174"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-99ccad196f",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/620f30fd4c46557052b1f5bc48335086/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/sunderland-vs-brighton-hove-albion-2200-14-03-2026/601303174"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "English Premier League",
-            "team_a": "Sunderland",
-            "team_b": "Brighton Hove Albion",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/957bdc50c307e2a9b526b34b3792da1a.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/9b43a690d5a09f1e319f036821e8e1d3.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-677b21f25a04.png?v=1773506884",
-            "thumb_key": "thumbs/kaytee-677b21f25a04.webp"
-          }
-        },
-        {
-          "id": "kaytee-93a1c99e1e58",
-          "name": "⚽ Birmingham City vs Sheffield United | 22:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-93a1c99e1e58.png?v=1773506886",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601303219",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601303219",
-                  "name": "Birmingham City vs Sheffield United",
-                  "streams": [
-                    {
-                      "id": "st-601303219",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2078aab236",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b56d3770a69_95554/index.m3u8?expire=1774102455&sign=6569a22013884668925238cf5cd3712d",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/birmingham-city-vs-sheffield-united-2200-14-03-2026/601303219"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-9c1466aaad",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/93acdcd4fb5c22e650f625429b7f6dca/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/birmingham-city-vs-sheffield-united-2200-14-03-2026/601303219"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "English Football League Championship",
-            "team_a": "Birmingham City",
-            "team_b": "Sheffield United",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/2acb7fc9250a5b52c5e6248039d25d2e.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/008437c93501963e6ca1b2450994007a.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-93a1c99e1e58.png?v=1773506886",
-            "thumb_key": "thumbs/kaytee-93a1c99e1e58.webp"
-          }
-        },
-        {
-          "id": "kaytee-0765933f76a7",
-          "name": "⚽ RC Sporting Charleroi vs Oud-Heverlee Leuven | 22:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0765933f76a7.png?v=1773506887",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601303177",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601303177",
-                  "name": "RC Sporting Charleroi vs Oud-Heverlee Leuven",
-                  "streams": [
-                    {
-                      "id": "st-601303177",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-91e11e4ace",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/0bdd7ab6e59d8fe9d940906a7bc54026/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/rc-sporting-charleroi-vs--oudheverlee-leuven-2200-14-03-2026/601303177"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Belgian Pro League",
-            "team_a": "RC Sporting Charleroi",
-            "team_b": "Oud-Heverlee Leuven",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/6ba531d9c12ad7e627c516dfdcee6c10.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/3d0191f6fe1e152222e4b19b3cc9316a.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0765933f76a7.png?v=1773506887",
-            "thumb_key": "thumbs/kaytee-0765933f76a7.webp"
-          }
-        },
-        {
-          "id": "kaytee-930bde58be3d",
-          "name": "⚽ Northampton Town vs Burton Albion | 22:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-930bde58be3d.png?v=1773506889",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601303198",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601303198",
-                  "name": "Northampton Town vs Burton Albion",
-                  "streams": [
-                    {
-                      "id": "st-601303198",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a13a07f1e7",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/1c3e6503f16db97bb50e60b4dde4d94e/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/northampton-town-vs-burton-albion-2200-14-03-2026/601303198"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "English Football League One",
-            "team_a": "Northampton Town",
-            "team_b": "Burton Albion",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/f63df1951baf0385aa208509823b00db.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/303a80987c9b860ee46bc1665527008c.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-930bde58be3d.png?v=1773506889",
-            "thumb_key": "thumbs/kaytee-930bde58be3d.webp"
+            "league": "Serbian Super liga",
+            "team_a": "Partizan Belgrade",
+            "team_b": "Backa Topola",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/f2cc8904afb100d60dfe9266b3ded7cf.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/9cc31294f8847241237d71068772cd3c.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f285cfc1c8ae.png?v=1773507804",
+            "thumb_key": "thumbs/kaytee-f285cfc1c8ae.webp"
           }
         },
         {
@@ -423,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-464165bf427b.png?v=1773506891",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-464165bf427b.png?v=1773507804",
             "width": 1600,
             "height": 1200
           },
@@ -495,8 +168,318 @@
             "team_b": "Getafe",
             "logo_a": "https://cdn.rapid-api.icu/football/team/390977b0421bce136c562057ea171ecf.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/36bf5bf0c8fdf08c1270124808f060e1.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-464165bf427b.png?v=1773506891",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-464165bf427b.png?v=1773507804",
             "thumb_key": "thumbs/kaytee-464165bf427b.webp"
+          }
+        },
+        {
+          "id": "kaytee-276594f94472",
+          "name": "⚽ FK Rostov vs Dynamo Moscow | 22:15",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-276594f94472.png?v=1773507804",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601303762",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601303762",
+                  "name": "FK Rostov vs Dynamo Moscow",
+                  "streams": [
+                    {
+                      "id": "st-601303762",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-82113ca158",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/667b357f06853ec076ba58e74fe7baf0/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/fk-rostov-vs-dynamo-moscow-2215-14-03-2026/601303762"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Russian Premier League",
+            "team_a": "FK Rostov",
+            "team_b": "Dynamo Moscow",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/1279b7ad21c72f2ab7bda8b972c2858e.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/4f2e51a4694f68360a19648b651b30ca.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-276594f94472.png?v=1773507804",
+            "thumb_key": "thumbs/kaytee-276594f94472.webp"
+          }
+        },
+        {
+          "id": "kaytee-861dbb04a742",
+          "name": "⚽ Cultural Leonesa vs Racing Santander | 22:15",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-861dbb04a742.png?v=1773507804",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601303768",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601303768",
+                  "name": "Cultural Leonesa vs Racing Santander",
+                  "streams": [
+                    {
+                      "id": "st-601303768",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2af1f9ce7b",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/f7396bcf8ae0e053d7d6ed2e17f1f6ac/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/cultural-leonesa-vs-racing-santander-2215-14-03-2026/601303768"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Spanish Segunda Division",
+            "team_a": "Cultural Leonesa",
+            "team_b": "Racing Santander",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/9e1ea120267168064e638954f4e6f1e0.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/8db7260a18b1be68e8710cfdbf6be3df.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-861dbb04a742.png?v=1773507804",
+            "thumb_key": "thumbs/kaytee-861dbb04a742.webp"
+          }
+        },
+        {
+          "id": "kaytee-86ebcb0c2146",
+          "name": "⚽ Vitoria Guimaraes vs FC Famalicao | 22:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-86ebcb0c2146.png?v=1773507805",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601303810",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601303810",
+                  "name": "Vitoria Guimaraes vs FC Famalicao",
+                  "streams": [
+                    {
+                      "id": "st-601303810",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8412eb5bec",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b5746070a69_88642/index.m3u8?expire=1774104288&sign=c3a63de75bde065e5e33909c26567886",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/vitoria-guimaraes-vs-fc-famalicao-2230-14-03-2026/601303810"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-5a660f115c",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/5f837ee37f50ac3beaa15527f5429be1/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/vitoria-guimaraes-vs-fc-famalicao-2230-14-03-2026/601303810"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Portuguese Primera Liga",
+            "team_a": "Vitoria Guimaraes",
+            "team_b": "FC Famalicao",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/ad97b71fe0d8df0e60f7c534fee24132.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/abd59f62f69ef9f59a8121c3baadd882.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-86ebcb0c2146.png?v=1773507805",
+            "thumb_key": "thumbs/kaytee-86ebcb0c2146.webp"
+          }
+        },
+        {
+          "id": "kaytee-cc0409e3e7ab",
+          "name": "⚽ Lorient vs RC Lens | 23:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cc0409e3e7ab.png?v=1773507805",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601303882",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601303882",
+                  "name": "Lorient vs RC Lens",
+                  "streams": [
+                    {
+                      "id": "st-601303882",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-43a628eeca",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b57f8a326d8_128756/index.m3u8?expire=1774107146&sign=96458b4fee08a3c7a274d07a9b5485b1",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/lorient-vs-rc-lens-2300-14-03-2026/601303882"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-ceb60fa616",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/fc11f8a78e2488f6172af3a387045da4/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/lorient-vs-rc-lens-2300-14-03-2026/601303882"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "French Ligue 1",
+            "team_a": "Lorient",
+            "team_b": "RC Lens",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/b593727321793084b1f7804aebedc31a.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/b8c5038ebb0e21b09a72008b7cb6219f.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cc0409e3e7ab.png?v=1773507805",
+            "thumb_key": "thumbs/kaytee-cc0409e3e7ab.webp"
           }
         },
         {
@@ -509,7 +492,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d722ca4a749a.png?v=1773506893",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d722ca4a749a.png?v=1773507807",
             "width": 1600,
             "height": 1200
           },
@@ -564,7 +547,7 @@
             "team_b": "CHENG Xing / Zhang Chi",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a114d430ab83ff2bd843d3ca1e2ff358.webp",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/d82a0f025f619f066b43fbf90c9da575.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d722ca4a749a.png?v=1773506893",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d722ca4a749a.png?v=1773507807",
             "thumb_key": "thumbs/kaytee-d722ca4a749a.webp"
           }
         }
