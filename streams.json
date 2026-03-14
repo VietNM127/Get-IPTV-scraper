@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-14T03:29:23.958366",
+  "updated_at": "2026-03-14T04:26:04.618545",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -18,8 +18,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-09d1bd8de340",
-          "name": "⚽ Wellington Phoenix vs Perth Glory | 09:00",
+          "id": "kaytee-321e3363a3a1",
+          "name": "⚽ Salisbury Inter (w) vs Campbelltown City (w) | 09:30",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-09d1bd8de340.png?v=1773458951",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-321e3363a3a1.png?v=1773462359",
             "width": 1600,
             "height": 1200
           },
@@ -41,44 +41,27 @@
           ],
           "sources": [
             {
-              "id": "src-601300951",
+              "id": "src-601311934",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601300951",
-                  "name": "Wellington Phoenix vs Perth Glory",
+                  "id": "ct-601311934",
+                  "name": "Salisbury Inter (w) vs Campbelltown City (w)",
                   "streams": [
                     {
-                      "id": "st-601300951",
+                      "id": "st-601311934",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-809f562a3c",
+                          "id": "lnk-2bbb0bc1ed",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b4b6ba326d8_74012/index.m3u8?expire=1774055738&sign=81ac2626871065073aff353f8dfe4515",
+                          "url": "https://live.alilicloud.com/live/c4cb0d1942c87e42b2293aa01122cca0/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/wellington-phoenix-vs-perth-glory-0900-14-03-2026/601300951"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-8594a2b9fb",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/d0ac1936835b34b451e6b48055b95357/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/wellington-phoenix-vs-perth-glory-0900-14-03-2026/601300951"
+                              "value": "https://bunchatv1.net/truc-tiep/salisbury-inter-w-vs-campbelltown-city-w-0930-14-03-2026/601311934"
                             },
                             {
                               "key": "User-Agent",
@@ -94,220 +77,13 @@
             }
           ],
           "org_metadata": {
-            "league": "Australia A-League",
-            "team_a": "Wellington Phoenix",
-            "team_b": "Perth Glory",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/bd2e5251a95a8006067d443d020d64e8.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/43f9c122bf617d349407a95d4f709a0d.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-09d1bd8de340.png?v=1773458951",
-            "thumb_key": "thumbs/kaytee-09d1bd8de340.webp"
-          }
-        },
-        {
-          "id": "kaytee-523ea7cdece2",
-          "name": "⚽ Alajuelense vs Perez Zeledon | 09:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-523ea7cdece2.png?v=1773458952",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601300954",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601300954",
-                  "name": "Alajuelense vs Perez Zeledon",
-                  "streams": [
-                    {
-                      "id": "st-601300954",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e4e8a624ad",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/bb48a1ad4d97b3dee38be32db3902691/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/alajuelense-vs-perez-zeledon-0900-14-03-2026/601300954"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Costa Rica Primera Division",
-            "team_a": "Alajuelense",
-            "team_b": "Perez Zeledon",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/71b66f0b7a71294f9c30f7f5bdf0cf86.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-523ea7cdece2.png?v=1773458952",
-            "thumb_key": "thumbs/kaytee-523ea7cdece2.webp"
-          }
-        },
-        {
-          "id": "kaytee-21025b9c57b7",
-          "name": "⚽ Club America (w) vs Leon (w) | 09:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-21025b9c57b7.png?v=1773458954",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601300957",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601300957",
-                  "name": "Club America (w) vs Leon (w)",
-                  "streams": [
-                    {
-                      "id": "st-601300957",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-192edb3e29",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/b3102b29c777537dd37a14a6f2efba50/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/club-america-w-vs-leon-w-0900-14-03-2026/601300957"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Mexico Liga MX Femenil",
-            "team_a": "Club America (w)",
-            "team_b": "Leon (w)",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/988d4c293006d45d1f453c9ee2884022.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/8e279a6f57d4768f5f1fa3bb28fd3a8a.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-21025b9c57b7.png?v=1773458954",
-            "thumb_key": "thumbs/kaytee-21025b9c57b7.webp"
-          }
-        },
-        {
-          "id": "kaytee-159b890e18e3",
-          "name": "⚽ Wuhan Jianghan(W) vs Henan(W) | 09:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-159b890e18e3.png?v=1773458956",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601308775",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601308775",
-                  "name": "Wuhan Jianghan(W) vs Henan(W)",
-                  "streams": [
-                    {
-                      "id": "st-601308775",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-cc113f12cd",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/973553aac6d8c44531153d120b581b7b/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/wuhan-jianghanw-vs-henanw-0900-14-03-2026/601308775"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Chinese Women's FA Cup",
-            "team_a": "Wuhan Jianghan(W)",
-            "team_b": "Henan(W)",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/e5c9882eac2bcd64767b4cdb6544dcd7.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/b7769e06012d84dc2ed5e9779e49528d.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-159b890e18e3.png?v=1773458956",
-            "thumb_key": "thumbs/kaytee-159b890e18e3.webp"
+            "league": "South Australia Women's Premier League",
+            "team_a": "Salisbury Inter (w)",
+            "team_b": "Campbelltown City (w)",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/d12d4c7fd6484bf33257913584c8df42.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/6324800e57b530d065f81ff1d0495525.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-321e3363a3a1.png?v=1773462359",
+            "thumb_key": "thumbs/kaytee-321e3363a3a1.webp"
           }
         },
         {
@@ -320,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-13a47d91f34a.png?v=1773458962",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-13a47d91f34a.png?v=1773462360",
             "width": 1600,
             "height": 1200
           },
@@ -392,8 +168,249 @@
             "team_b": "Monterrey",
             "logo_a": "https://cdn.rapid-api.icu/football/team/2ef06350057f561b5dce57c7fca99a74.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/5c3f819a35454f424d85df5757650f8b.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-13a47d91f34a.png?v=1773458962",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-13a47d91f34a.png?v=1773462360",
             "thumb_key": "thumbs/kaytee-13a47d91f34a.webp"
+          }
+        },
+        {
+          "id": "kaytee-3e6274ea44f5",
+          "name": "⚽ Nittaidai SMG Yokohama vs Ehime FC (w) | 10:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3e6274ea44f5.png?v=1773462363",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601300972",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601300972",
+                  "name": "Nittaidai SMG Yokohama vs Ehime FC (w)",
+                  "streams": [
+                    {
+                      "id": "st-601300972",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3ed94d4602",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/7b89ebcb9c63221ee331e8a657b965a5/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/nittaidai-smg-yokohama-vs-ehime-fc-w-1000-14-03-2026/601300972"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Japanese Nadeshiko League 1",
+            "team_a": "Nittaidai SMG Yokohama",
+            "team_b": "Ehime FC (w)",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/962cfacec42aba388202dc9a143b6e3c.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/eb6c3c2a50e60bbad4557e85456d2085.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3e6274ea44f5.png?v=1773462363",
+            "thumb_key": "thumbs/kaytee-3e6274ea44f5.webp"
+          }
+        },
+        {
+          "id": "kaytee-9994e0b7693f",
+          "name": "⚽ Central Coast Mariners vs Adelaide United | 11:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9994e0b7693f.png?v=1773462363",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601300993",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601300993",
+                  "name": "Central Coast Mariners vs Adelaide United",
+                  "streams": [
+                    {
+                      "id": "st-601300993",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-18760f12ac",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b4d73d70a68_85514/index.m3u8?expire=1774064061&sign=26d0cbec323b5d19b4dac8fe3c7fb636",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/central-coast-mariners-vs-adelaide-united-1100-14-03-2026/601300993"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-dc5e2266ff",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/430ca581ddb4e5e0b21e6a17572f4ea1/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/central-coast-mariners-vs-adelaide-united-1100-14-03-2026/601300993"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Australia A-League",
+            "team_a": "Central Coast Mariners",
+            "team_b": "Adelaide United",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/4295d4c9acc95550f5a4360f0ba0d93f.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/a27d297d3cfaa7a71ce91a3fa0d40dbf.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9994e0b7693f.png?v=1773462363",
+            "thumb_key": "thumbs/kaytee-9994e0b7693f.webp"
+          }
+        },
+        {
+          "id": "kaytee-c8dae352d900",
+          "name": "⚽ Yokohama F. Marinos vs JEF United Ichihara Chiba | 11:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c8dae352d900.png?v=1773462363",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601300999",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601300999",
+                  "name": "Yokohama F. Marinos vs JEF United Ichihara Chiba",
+                  "streams": [
+                    {
+                      "id": "st-601300999",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3b20bc063a",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b4d61e326d8_44731/index.m3u8?expire=1774063774&sign=4779d77983f32e1d68fa6a7cce280609",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/yokohama-f-marinos-vs-jef-united-ichihara-chiba-1100-14-03-2026/601300999"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-8098643cc8",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/517638f1a2675b52cfe63cf99afc94a4/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/yokohama-f-marinos-vs-jef-united-ichihara-chiba-1100-14-03-2026/601300999"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Japanese J1 League",
+            "team_a": "Yokohama F. Marinos",
+            "team_b": "JEF United Ichihara Chiba",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/78ddaaa79d9502f5e2df0fbb6261f937.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/9ce2dfe0c36e6a9774eaecf9731375b6.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c8dae352d900.png?v=1773462363",
+            "thumb_key": "thumbs/kaytee-c8dae352d900.webp"
           }
         }
       ]
@@ -415,7 +432,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c8882a7434cc.png?v=1773458959",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c8882a7434cc.png?v=1773462357",
             "width": 1600,
             "height": 1200
           },
@@ -470,7 +487,7 @@
             "team_b": "Minnesota Timberwolves",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/b3dc6e4d6bc132806433f66a408d25c7.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/5d206ae1f29b3de6ba81f7a06cc990d2.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c8882a7434cc.png?v=1773458959",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c8882a7434cc.png?v=1773462357",
             "thumb_key": "thumbs/kaytee-c8882a7434cc.webp"
           }
         },
@@ -484,7 +501,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-24a05f136329.png?v=1773458960",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-24a05f136329.png?v=1773462358",
             "width": 1600,
             "height": 1200
           },
@@ -539,8 +556,77 @@
             "team_b": "Utah Jazz",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/f6ca7c9e0db3a6efb4753c3a1e3629ed.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/457b7c6f4725217747436c334085dfb5.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-24a05f136329.png?v=1773458960",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-24a05f136329.png?v=1773462358",
             "thumb_key": "thumbs/kaytee-24a05f136329.webp"
+          }
+        },
+        {
+          "id": "kaytee-ffda69737d51",
+          "name": "🏀 Los Angeles Clippers vs Chicago Bulls | 09:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ffda69737d51.png?v=1773462360",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601299382",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601299382",
+                  "name": "Los Angeles Clippers vs Chicago Bulls",
+                  "streams": [
+                    {
+                      "id": "st-601299382",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b09198dfcd",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b4d84c326d8_142210/index.m3u8?expire=1774064332&sign=4fbe4ca317e96b6d56ee54bf3e675c79",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/los-angeles-clippers-vs-chicago-bulls-0930-14-03-2026/601299382"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NBA",
+            "team_a": "Los Angeles Clippers",
+            "team_b": "Chicago Bulls",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/166d854bec894fccec7fec32048f4094.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/860dc5563d084864497c5abf8e415e5e.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ffda69737d51.png?v=1773462360",
+            "thumb_key": "thumbs/kaytee-ffda69737d51.webp"
           }
         },
         {
@@ -553,7 +639,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c5f112f8df9f.png?v=1773458963",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c5f112f8df9f.png?v=1773462361",
             "width": 1600,
             "height": 1200
           },
@@ -625,8 +711,86 @@
             "team_b": "Dandenong Thunder",
             "logo_a": "https://cdn.rapid-api.icu/football/team/4115cad66f03ae616df1952b3c2fa17e.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/21b95f24eea9500e1147ed57a68a3ff8.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c5f112f8df9f.png?v=1773458963",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c5f112f8df9f.png?v=1773462361",
             "thumb_key": "thumbs/kaytee-c5f112f8df9f.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_billiard",
+      "name": "🔴 Live 🎱 Billiard",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-db571cc2493e",
+          "name": "🎱 Han Ji-eun vs Lee Woo-kyung | 11:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-db571cc2493e.png?v=1773462364",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601313860",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601313860",
+                  "name": "Han Ji-eun vs Lee Woo-kyung",
+                  "streams": [
+                    {
+                      "id": "st-601313860",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ed391a5176",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b4d7e9326d8_144313/index.m3u8?expire=1774064233&sign=62eca2610f0f99254b2a421821372c61",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/han-jieun-vs-lee-wookyung-1100-14-03-2026/601313860"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "PBA-LPBA World Championship 2026",
+            "team_a": "Han Ji-eun",
+            "team_b": "Lee Woo-kyung",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a80c44adbb48162ca52811e925278b55.jpg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/855f9296bdaa53535735b8672c648016.jpg",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-db571cc2493e.png?v=1773462364",
+            "thumb_key": "thumbs/kaytee-db571cc2493e.webp"
           }
         }
       ]
