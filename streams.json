@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-14T17:15:46.737800",
+  "updated_at": "2026-03-14T17:38:20.479180",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -18,8 +18,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-464165bf427b",
-          "name": "⚽ Atletico Madrid vs Getafe | 22:15",
+          "id": "kaytee-81052715fa09",
+          "name": "⚽ Ludogorets Razgrad vs CSKA Sofia | 22:45",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-464165bf427b.png?v=1773508533",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-81052715fa09.png?v=1773509896",
             "width": 1600,
             "height": 1200
           },
@@ -41,44 +41,27 @@
           ],
           "sources": [
             {
-              "id": "src-601303765",
+              "id": "src-601303873",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601303765",
-                  "name": "Atletico Madrid vs Getafe",
+                  "id": "ct-601303873",
+                  "name": "Ludogorets Razgrad vs CSKA Sofia",
                   "streams": [
                     {
-                      "id": "st-601303765",
+                      "id": "st-601303873",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-7fa9d593ce",
+                          "id": "lnk-146769ee43",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b56c2e326d8_88186/index.m3u8?expire=1774102190&sign=2efb3f822b3333f6875da12429afa3c0",
+                          "url": "https://live.alilicloud.com/live/221b0688bf5fbb12e30a72f207176fe4/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/atletico-madrid-vs-getafe-2215-14-03-2026/601303765"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-16e0bf5dd3",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/7612d1d13a0e7463235ae7a9eb8b0700/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/atletico-madrid-vs-getafe-2215-14-03-2026/601303765"
+                              "value": "https://bunchatv1.net/truc-tiep/ludogorets-razgrad-vs-cska-sofia-2245-14-03-2026/601303873"
                             },
                             {
                               "key": "User-Agent",
@@ -94,306 +77,13 @@
             }
           ],
           "org_metadata": {
-            "league": "Spanish La Liga",
-            "team_a": "Atletico Madrid",
-            "team_b": "Getafe",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/390977b0421bce136c562057ea171ecf.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/36bf5bf0c8fdf08c1270124808f060e1.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-464165bf427b.png?v=1773508533",
-            "thumb_key": "thumbs/kaytee-464165bf427b.webp"
-          }
-        },
-        {
-          "id": "kaytee-276594f94472",
-          "name": "⚽ FK Rostov vs Dynamo Moscow | 22:15",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-276594f94472.png?v=1773508535",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601303762",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601303762",
-                  "name": "FK Rostov vs Dynamo Moscow",
-                  "streams": [
-                    {
-                      "id": "st-601303762",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-82113ca158",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/667b357f06853ec076ba58e74fe7baf0/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/fk-rostov-vs-dynamo-moscow-2215-14-03-2026/601303762"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Russian Premier League",
-            "team_a": "FK Rostov",
-            "team_b": "Dynamo Moscow",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/1279b7ad21c72f2ab7bda8b972c2858e.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/4f2e51a4694f68360a19648b651b30ca.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-276594f94472.png?v=1773508535",
-            "thumb_key": "thumbs/kaytee-276594f94472.webp"
-          }
-        },
-        {
-          "id": "kaytee-861dbb04a742",
-          "name": "⚽ Cultural Leonesa vs Racing Santander | 22:15",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-861dbb04a742.png?v=1773508537",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601303768",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601303768",
-                  "name": "Cultural Leonesa vs Racing Santander",
-                  "streams": [
-                    {
-                      "id": "st-601303768",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2af1f9ce7b",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/f7396bcf8ae0e053d7d6ed2e17f1f6ac/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/cultural-leonesa-vs-racing-santander-2215-14-03-2026/601303768"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Spanish Segunda Division",
-            "team_a": "Cultural Leonesa",
-            "team_b": "Racing Santander",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/9e1ea120267168064e638954f4e6f1e0.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/8db7260a18b1be68e8710cfdbf6be3df.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-861dbb04a742.png?v=1773508537",
-            "thumb_key": "thumbs/kaytee-861dbb04a742.webp"
-          }
-        },
-        {
-          "id": "kaytee-86ebcb0c2146",
-          "name": "⚽ Vitoria Guimaraes vs FC Famalicao | 22:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-86ebcb0c2146.png?v=1773508539",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601303810",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601303810",
-                  "name": "Vitoria Guimaraes vs FC Famalicao",
-                  "streams": [
-                    {
-                      "id": "st-601303810",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8412eb5bec",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b5746070a69_88642/index.m3u8?expire=1774104288&sign=c3a63de75bde065e5e33909c26567886",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/vitoria-guimaraes-vs-fc-famalicao-2230-14-03-2026/601303810"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-5a660f115c",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/5f837ee37f50ac3beaa15527f5429be1/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/vitoria-guimaraes-vs-fc-famalicao-2230-14-03-2026/601303810"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Portuguese Primera Liga",
-            "team_a": "Vitoria Guimaraes",
-            "team_b": "FC Famalicao",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/ad97b71fe0d8df0e60f7c534fee24132.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/abd59f62f69ef9f59a8121c3baadd882.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-86ebcb0c2146.png?v=1773508539",
-            "thumb_key": "thumbs/kaytee-86ebcb0c2146.webp"
-          }
-        },
-        {
-          "id": "kaytee-e7500c35333b",
-          "name": "⚽ Spartak Kostroma vs Chaika Peschanokopskoe | 22:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e7500c35333b.png?v=1773508542",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601302244",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601302244",
-                  "name": "Spartak Kostroma vs Chaika Peschanokopskoe",
-                  "streams": [
-                    {
-                      "id": "st-601302244",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0600e627bf",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/503ca5837db565aa0d197ee97aeb9c4c/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/spartak-kostroma-vs-chaika-peschanokopskoe-2230-14-03-2026/601302244"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Russian National Football League",
-            "team_a": "Spartak Kostroma",
-            "team_b": "Chaika Peschanokopskoe",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/444ccd0f41b3dc4726dbbd26ea3d359c.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/a81a8c968f0d121d13bc946b53d86d29.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e7500c35333b.png?v=1773508542",
-            "thumb_key": "thumbs/kaytee-e7500c35333b.webp"
+            "league": "Bulgarian First League",
+            "team_a": "Ludogorets Razgrad",
+            "team_b": "CSKA Sofia",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/3cd0dc57966a8b1f8536dd0016179664.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/3b19cae478679881554914e45d318742.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-81052715fa09.png?v=1773509896",
+            "thumb_key": "thumbs/kaytee-81052715fa09.webp"
           }
         },
         {
@@ -406,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cc0409e3e7ab.png?v=1773508544",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cc0409e3e7ab.png?v=1773509898",
             "width": 1600,
             "height": 1200
           },
@@ -478,13 +168,13 @@
             "team_b": "RC Lens",
             "logo_a": "https://cdn.rapid-api.icu/football/team/b593727321793084b1f7804aebedc31a.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/b8c5038ebb0e21b09a72008b7cb6219f.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cc0409e3e7ab.png?v=1773508544",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cc0409e3e7ab.png?v=1773509898",
             "thumb_key": "thumbs/kaytee-cc0409e3e7ab.webp"
           }
         },
         {
-          "id": "kaytee-d722ca4a749a",
-          "name": "⚽ Amri SYAHNAWI / N. V. MARWAH vs CHENG Xing / Zhang Chi | 23:30",
+          "id": "kaytee-9be93fdcc99a",
+          "name": "⚽ Paksi FC vs Zalaegerszegi TE | 23:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -492,7 +182,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d722ca4a749a.png?v=1773508546",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9be93fdcc99a.png?v=1773509900",
             "width": 1600,
             "height": 1200
           },
@@ -506,27 +196,27 @@
           ],
           "sources": [
             {
-              "id": "src-601313560",
+              "id": "src-601303879",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601313560",
-                  "name": "Amri SYAHNAWI / N. V. MARWAH vs CHENG Xing / Zhang Chi",
+                  "id": "ct-601303879",
+                  "name": "Paksi FC vs Zalaegerszegi TE",
                   "streams": [
                     {
-                      "id": "st-601313560",
+                      "id": "st-601303879",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-65fdb4bafb",
+                          "id": "lnk-71c6ea3fb2",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b58be3326d8_19013/index.m3u8?expire=1774110307&sign=bd1c0e356cfa9ede388b522363b86291",
+                          "url": "https://live.alilicloud.com/live/68ed793ab0c0869f0f50eb2f114b5b74/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/amri-syahnawi--n-v-marwah-vs-cheng-xing--zhang-chi-2330-14-03-2026/601313560"
+                              "value": "https://bunchatv1.net/truc-tiep/paksi-fc-vs-zalaegerszegi-te-2300-14-03-2026/601303879"
                             },
                             {
                               "key": "User-Agent",
@@ -542,13 +232,13 @@
             }
           ],
           "org_metadata": {
-            "league": "Sân 1 - YONEX Swiss Open 2026",
-            "team_a": "Amri SYAHNAWI / N. V. MARWAH",
-            "team_b": "CHENG Xing / Zhang Chi",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a114d430ab83ff2bd843d3ca1e2ff358.webp",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/d82a0f025f619f066b43fbf90c9da575.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d722ca4a749a.png?v=1773508546",
-            "thumb_key": "thumbs/kaytee-d722ca4a749a.webp"
+            "league": "OTP Bank Liga",
+            "team_a": "Paksi FC",
+            "team_b": "Zalaegerszegi TE",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/fcab910b1523f8f70972681169c4193c.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/54df405201941cb81a93e9d890b0385d.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9be93fdcc99a.png?v=1773509900",
+            "thumb_key": "thumbs/kaytee-9be93fdcc99a.webp"
           }
         }
       ]
