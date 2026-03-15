@@ -8,624 +8,11 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-15T04:06:15.886540",
+  "updated_at": "2026-03-15T05:20:11.942879",
   "groups": [
     {
       "id": "live_bóng_đá",
       "name": "🔴 Live ⚽ Bóng Đá",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-350bb4bff436",
-          "name": "⚽  vs  lúc 11:02 ngày 15/03/2026 | 07:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-350bb4bff436.png?v=1773547560",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601299352",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601299352",
-                  "name": " vs  lúc 11:02 ngày 15/03/2026",
-                  "streams": [
-                    {
-                      "id": "st-601299352",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f6480ff16e",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b5f605326d8_85706/index.m3u8?expire=1774137477&sign=a4820711cb3607c0efa4ad456a29d462",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/ufc-fight-night-lemos-vs-robertson-0700-15-03-2026/601299352"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "",
-            "team_a": "",
-            "team_b": "",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/categories/2025/04/04/c0c91a80ab09a27d4a216f92292c8327.png",
-            "logo_b": "",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-350bb4bff436.png?v=1773547560",
-            "thumb_key": "thumbs/kaytee-350bb4bff436.webp"
-          }
-        },
-        {
-          "id": "kaytee-6c313aad0ae4",
-          "name": "⚽ Phoenix Rising FC vs Orange County Blues FC | 09:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6c313aad0ae4.png?v=1773547562",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601305049",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601305049",
-                  "name": "Phoenix Rising FC vs Orange County Blues FC",
-                  "streams": [
-                    {
-                      "id": "st-601305049",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5f16bf6f4e",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/2e2d6cac8468d7941dc16830d35389cc/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/phoenix-rising-fc-vs-orange-county-blues-fc-0900-15-03-2026/601305049"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "USL Championship",
-            "team_a": "Phoenix Rising FC",
-            "team_b": "Orange County Blues FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/d3700266512d9e222ed3a87c49876fc9.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/e2f7aa9acaea085ee66204e753fc9560.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6c313aad0ae4.png?v=1773547562",
-            "thumb_key": "thumbs/kaytee-6c313aad0ae4.webp"
-          }
-        },
-        {
-          "id": "kaytee-19d65d77daaf",
-          "name": "⚽ Los Angeles FC vs St. Louis City SC | 09:40",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-19d65d77daaf.png?v=1773547565",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601305058",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601305058",
-                  "name": "Los Angeles FC vs St. Louis City SC",
-                  "streams": [
-                    {
-                      "id": "st-601305058",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-48ed621b1b",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/17d7199496bc04a497c453f9ec5a54ea/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/los-angeles-fc-vs-st-louis-city-sc-0940-15-03-2026/601305058"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "United States Major League Soccer",
-            "team_a": "Los Angeles FC",
-            "team_b": "St. Louis City SC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/9c5ad5227377e12b87f77790d3d88c1c.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/8adf954bc3f72a6287b83d3b946b7d0b.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-19d65d77daaf.png?v=1773547565",
-            "thumb_key": "thumbs/kaytee-19d65d77daaf.webp"
-          }
-        },
-        {
-          "id": "kaytee-6aeca5393bbc",
-          "name": "⚽ Melbourne City Women vs Canberra United (w) | 10:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6aeca5393bbc.png?v=1773547567",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601305061",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601305061",
-                  "name": "Melbourne City Women vs Canberra United (w)",
-                  "streams": [
-                    {
-                      "id": "st-601305061",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-55bb528d0a",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b61bd970a69_85514/index.m3u8?expire=1774147161&sign=c10107e7e2373f463acdf315c47f8cfb",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/melbourne-city-women-vs-canberra-united-w-1000-15-03-2026/601305061"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-1d1583b17b",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/ddd88088c668600f88c69bea9faa63a4/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/melbourne-city-women-vs-canberra-united-w-1000-15-03-2026/601305061"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Australia W-League",
-            "team_a": "Melbourne City Women",
-            "team_b": "Canberra United (w)",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/6d2cab607ba1b908c2c71225581b06ee.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/fd8ad42f4f7a3b8cbe094e6d166a0b2c.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6aeca5393bbc.png?v=1773547567",
-            "thumb_key": "thumbs/kaytee-6aeca5393bbc.webp"
-          }
-        },
-        {
-          "id": "kaytee-aa46ccf03c3f",
-          "name": "⚽ CSyD Dorados de Sinaloa vs Leones Negros | 10:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-aa46ccf03c3f.png?v=1773547569",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601305067",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601305067",
-                  "name": "CSyD Dorados de Sinaloa vs Leones Negros",
-                  "streams": [
-                    {
-                      "id": "st-601305067",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fd4c784880",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/a7214167094af8a5f1aa01c3b721abe5/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/csyd-dorados-de-sinaloa-vs-leones-negros-1000-15-03-2026/601305067"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Mexico Ascenso MX",
-            "team_a": "CSyD Dorados de Sinaloa",
-            "team_b": "Leones Negros",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/425890cf35bb5b20b568dcb714210986.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/eb8a697bd6aece4f1b4162bfc47d2595.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-aa46ccf03c3f.png?v=1773547569",
-            "thumb_key": "thumbs/kaytee-aa46ccf03c3f.webp"
-          }
-        },
-        {
-          "id": "kaytee-d738aa4a2c4f",
-          "name": "⚽ Pumas U.N.A.M. vs Cruz Azul | 10:10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d738aa4a2c4f.png?v=1773547571",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601305064",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601305064",
-                  "name": "Pumas U.N.A.M. vs Cruz Azul",
-                  "streams": [
-                    {
-                      "id": "st-601305064",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d89268cca5",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b62024326d8_133172/index.m3u8?expire=1774148260&sign=e72c2fbc118e4b51f28ba0a803782eef",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/pumas-unam-vs-cruz-azul-1010-15-03-2026/601305064"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-ad79844249",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/bfb49b7987101b5d5d0a3773af5aeed5/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/pumas-unam-vs-cruz-azul-1010-15-03-2026/601305064"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Mexico Liga MX",
-            "team_a": "Pumas U.N.A.M.",
-            "team_b": "Cruz Azul",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/7654a95374767f93f6bec6a3d4819f76.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/2addd50487c8f61276d5fff8714f6a5c.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d738aa4a2c4f.png?v=1773547571",
-            "thumb_key": "thumbs/kaytee-d738aa4a2c4f.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "live_bóng_rổ",
-      "name": "🔴 Live 🏀 Bóng Rổ",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-724342458d53",
-          "name": "🏀 Los Angeles Clippers vs Sacramento Kings | 09:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-724342458d53.png?v=1773547563",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601299409",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601299409",
-                  "name": "Los Angeles Clippers vs Sacramento Kings",
-                  "streams": [
-                    {
-                      "id": "st-601299409",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-888ecdc48c",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b6157c326d8_42127/index.m3u8?expire=1774145532&sign=ed3253f5468fe0d6f0bf95b5a1071b2b",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/los-angeles-clippers-vs-sacramento-kings-0930-15-03-2026/601299409"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "NBA",
-            "team_a": "Los Angeles Clippers",
-            "team_b": "Sacramento Kings",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/166d854bec894fccec7fec32048f4094.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/1c1bdb90a0592bc8f82c42c0448fc4d2.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-724342458d53.png?v=1773547563",
-            "thumb_key": "thumbs/kaytee-724342458d53.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "live_bóng_bàn",
-      "name": "🔴 Live 🏓 Bóng Bàn",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-44bdafde7013",
-          "name": "🏓 KUAI Man vs WANG Yidi | 10:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-44bdafde7013.png?v=1773547570",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601314496",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601314496",
-                  "name": "KUAI Man vs WANG Yidi",
-                  "streams": [
-                    {
-                      "id": "st-601314496",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-afa930154d",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b6270370a69_142210/index.m3u8?expire=1774150019&sign=7ea03ef80edbf89629888941402fe92f",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/kuai-man-vs-wang-yidi-1000-15-03-2026/601314496"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "WTT Champions Chongqing 2026 Presented",
-            "team_a": "KUAI Man",
-            "team_b": "WANG Yidi",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/fc0d7d70f5a03c6fec75ceb733e65f6d.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/b41e6f1cfc7d31c8391f24c5ec6405ec.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-44bdafde7013.png?v=1773547570",
-            "thumb_key": "thumbs/kaytee-44bdafde7013.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "upcoming_bóng_đá",
-      "name": "⏳ Sắp Live ⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -640,16 +27,16 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5d061d36ad23.png?v=1773547573",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5d061d36ad23.png?v=1773551997",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "⏳ Sắp Live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -712,13 +99,13 @@
             "team_b": "Spirit FC",
             "logo_a": "https://cdn.rapid-api.icu/football/team/efae44ec97227dca2a2b38a19823a2f2.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/22f0cc669b7a84a3b61e27dbb57cb139.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5d061d36ad23.png?v=1773547573",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5d061d36ad23.png?v=1773551997",
             "thumb_key": "thumbs/kaytee-5d061d36ad23.webp"
           }
         },
         {
-          "id": "kaytee-c0cea32299c9",
-          "name": "⚽ Blacktown City Demons vs Marconi Stallions | 11:00",
+          "id": "kaytee-1535c11ae5f2",
+          "name": "⚽ Vanraure Hachinohe FC vs Tochigi City | 11:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -726,16 +113,223 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c0cea32299c9.png?v=1773547575",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1535c11ae5f2.png?v=1773551999",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "⏳ Sắp Live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601305100",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601305100",
+                  "name": "Vanraure Hachinohe FC vs Tochigi City",
+                  "streams": [
+                    {
+                      "id": "st-601305100",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b38d6731b1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/bbfc77cb7c8448f6b0f1ed5e00f72812/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/vanraure-hachinohe-fc-vs-tochigi-city-1100-15-03-2026/601305100"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "J2/J3 100 Year Vision League",
+            "team_a": "Vanraure Hachinohe FC",
+            "team_b": "Tochigi City",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/3b0ad7d22d856a34a523cf4cecde0789.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/0587c755424c4e6290e45f9c52fb7b13.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1535c11ae5f2.png?v=1773551999",
+            "thumb_key": "thumbs/kaytee-1535c11ae5f2.webp"
+          }
+        },
+        {
+          "id": "kaytee-695b7179c6d7",
+          "name": "⚽ Blaublitz Akita vs Tochigi SC | 11:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-695b7179c6d7.png?v=1773552001",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601305103",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601305103",
+                  "name": "Blaublitz Akita vs Tochigi SC",
+                  "streams": [
+                    {
+                      "id": "st-601305103",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-de81324b8d",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/f708906279595c305a2d1090a083ecf7/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/blaublitz-akita-vs-tochigi-sc-1100-15-03-2026/601305103"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "J2/J3 100 Year Vision League",
+            "team_a": "Blaublitz Akita",
+            "team_b": "Tochigi SC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/7800ea1ee29937dbf7866cb6a275ef64.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/085e1ec0b3510610667169d0322bd17e.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-695b7179c6d7.png?v=1773552001",
+            "thumb_key": "thumbs/kaytee-695b7179c6d7.webp"
+          }
+        },
+        {
+          "id": "kaytee-2942b12a9aef",
+          "name": "⚽ Roasso Kumamoto vs Gainare Tottori | 11:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2942b12a9aef.png?v=1773552003",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601305106",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601305106",
+                  "name": "Roasso Kumamoto vs Gainare Tottori",
+                  "streams": [
+                    {
+                      "id": "st-601305106",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-10379b320a",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/c79c28edd0a00c007fa5f0ce6251c72f/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/roasso-kumamoto-vs-gainare-tottori-1100-15-03-2026/601305106"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "J2/J3 100 Year Vision League",
+            "team_a": "Roasso Kumamoto",
+            "team_b": "Gainare Tottori",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/809e95942827f1fca7b6c5cffd4777cb.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/ac6989e16cbd3e3a5c5aee60eb94206a.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2942b12a9aef.png?v=1773552003",
+            "thumb_key": "thumbs/kaytee-2942b12a9aef.webp"
+          }
+        },
+        {
+          "id": "kaytee-c0cea32299c9",
+          "name": "⚽ Blacktown City Demons vs Marconi Stallions | 11:15",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c0cea32299c9.png?v=1773552004",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -760,7 +354,7 @@
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/blacktown-city-demons-vs-marconi-stallions-1100-15-03-2026/601305097"
+                              "value": "https://bunchatv1.net/truc-tiep/blacktown-city-demons-vs-marconi-stallions-1115-15-03-2026/601305097"
                             },
                             {
                               "key": "User-Agent",
@@ -777,7 +371,7 @@
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/blacktown-city-demons-vs-marconi-stallions-1100-15-03-2026/601305097"
+                              "value": "https://bunchatv1.net/truc-tiep/blacktown-city-demons-vs-marconi-stallions-1115-15-03-2026/601305097"
                             },
                             {
                               "key": "User-Agent",
@@ -798,8 +392,180 @@
             "team_b": "Marconi Stallions",
             "logo_a": "https://cdn.rapid-api.icu/football/team/c074c4be85fe61509822008face2ef08.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/e1605aa2375e5aa780e43e89a0f1b080.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c0cea32299c9.png?v=1773547575",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c0cea32299c9.png?v=1773552004",
             "thumb_key": "thumbs/kaytee-c0cea32299c9.webp"
+          }
+        },
+        {
+          "id": "kaytee-2a769d8e8b7e",
+          "name": "⚽ Japan Women vs Philippines Women | 12:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2a769d8e8b7e.png?v=1773552008",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601305127",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601305127",
+                  "name": "Japan Women vs Philippines Women",
+                  "streams": [
+                    {
+                      "id": "st-601305127",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-70f7a23768",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b62c7d326d8_72787/index.m3u8?expire=1774151421&sign=f605b9a61f2dd6e165fa9a59d7f89829",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/japan-women-vs-philippines-women-1200-15-03-2026/601305127"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-099c79097d",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/d7dce9d87193037662834c0a1ddd4772/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/japan-women-vs-philippines-women-1200-15-03-2026/601305127"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC Women’s Asian Cup",
+            "team_a": "Japan Women",
+            "team_b": "Philippines Women",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/511ce5ccb966e3fd16d3a8c1b99cc01a.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/3fe649ebb607f9ab42108bdcb0eeaf17.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2a769d8e8b7e.png?v=1773552008",
+            "thumb_key": "thumbs/kaytee-2a769d8e8b7e.webp"
+          }
+        },
+        {
+          "id": "kaytee-c72621062afb",
+          "name": "⚽ V-Varen Nagasaki vs Avispa Fukuoka | 12:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c72621062afb.png?v=1773552010",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601305130",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601305130",
+                  "name": "V-Varen Nagasaki vs Avispa Fukuoka",
+                  "streams": [
+                    {
+                      "id": "st-601305130",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-65f277d2bd",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b62e0b70a69_95554/index.m3u8?expire=1774151819&sign=7ad4ad9895ae1876c7da146d5d2f29b5",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/vvaren-nagasaki-vs-avispa-fukuoka-1200-15-03-2026/601305130"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-6d9a3ae861",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/cab9f8c6224c0f783f833c2d22a76d9b/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/vvaren-nagasaki-vs-avispa-fukuoka-1200-15-03-2026/601305130"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Japanese J1 League",
+            "team_a": "V-Varen Nagasaki",
+            "team_b": "Avispa Fukuoka",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/b28ace839956d8eacce11926ea5e43b3.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/bf0e2229b39b6cb6fd17e9d0f3fb747e.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c72621062afb.png?v=1773552010",
+            "thumb_key": "thumbs/kaytee-c72621062afb.webp"
           }
         },
         {
@@ -812,16 +578,16 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-04c8d7f51d61.png?v=1773547575",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-04c8d7f51d61.png?v=1773552011",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "⏳ Sắp Live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -867,8 +633,242 @@
             "team_b": "LG Sakers",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/9bef33c943c16b7aedec052a581c14d2.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/d1734a5bdcd32d87993c722b8f5c108b.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-04c8d7f51d61.png?v=1773547575",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-04c8d7f51d61.png?v=1773552011",
             "thumb_key": "thumbs/kaytee-04c8d7f51d61.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_bóng_rổ",
+      "name": "🔴 Live 🏀 Bóng Rổ",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-30cb55afd69e",
+          "name": "🏀 Goyang Sono vs Seoul Thunders | 12:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-30cb55afd69e.png?v=1773552010",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601314256",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601314256",
+                  "name": "Goyang Sono vs Seoul Thunders",
+                  "streams": [
+                    {
+                      "id": "st-601314256",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6e77b5023b",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b63ed4326d9_42127/index.m3u8?expire=1774156116&sign=73bba599116dd55c0edceed5f752272a",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/goyang-sono-vs-seoul-thunders-1200-15-03-2026/601314256"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "KBL",
+            "team_a": "Goyang Sono",
+            "team_b": "Seoul Thunders",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/3e598258677ca4b7970d21e7f5f18ac2.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/619420e599f83b1d3616d9faf5397e4e.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-30cb55afd69e.png?v=1773552010",
+            "thumb_key": "thumbs/kaytee-30cb55afd69e.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_bóng_chuyền",
+      "name": "🔴 Live 🏐 Bóng Chuyền",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-b9602028aa5f",
+          "name": "🏐 Busan OK vs KAL Jumbos | 12:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b9602028aa5f.png?v=1773552011",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601309438",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601309438",
+                  "name": "Busan OK vs KAL Jumbos",
+                  "streams": [
+                    {
+                      "id": "st-601309438",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a226622090",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b6359570a69_128756/index.m3u8?expire=1774153749&sign=545bfca8c56bd787e23b9d65aa511ece",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/busan-ok-vs-kal-jumbos-1200-15-03-2026/601309438"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Volleyball League",
+            "team_a": "Busan OK",
+            "team_b": "KAL Jumbos",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/10341499f6bc61ed1f1528af7c2b2222.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/ce9d0af1f3e46e04ef15507983839fcf.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b9602028aa5f.png?v=1773552011",
+            "thumb_key": "thumbs/kaytee-b9602028aa5f.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_bóng_bàn",
+      "name": "🔴 Live 🏓 Bóng Bàn",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-44bdafde7013",
+          "name": "🏓 Sora MATSUSHIMA vs Felix LEBRUN | 11:45",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-44bdafde7013.png?v=1773552007",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601314496",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601314496",
+                  "name": "Sora MATSUSHIMA vs Felix LEBRUN",
+                  "streams": [
+                    {
+                      "id": "st-601314496",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-afa930154d",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b6270370a69_142210/index.m3u8?expire=1774150019&sign=7ea03ef80edbf89629888941402fe92f",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/sora-matsushima-vs-felix-lebrun-1145-15-03-2026/601314496"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "WTT Champions Chongqing 2026 Presented",
+            "team_a": "Sora MATSUSHIMA",
+            "team_b": "Felix LEBRUN",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/90099d7df2532eb23c3eab77c657516f.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/127e13a1128bf5a04e1afa31906b66ff.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-44bdafde7013.png?v=1773552007",
+            "thumb_key": "thumbs/kaytee-44bdafde7013.webp"
           }
         }
       ]
