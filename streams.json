@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-15T15:59:14.529858",
+  "updated_at": "2026-03-15T16:15:39.128656",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,333 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-6863a39a0156",
-          "name": "⚽ Pisa vs Cagliari | 21:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6863a39a0156.png?v=1773590351",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601306558",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601306558",
-                  "name": "Pisa vs Cagliari",
-                  "streams": [
-                    {
-                      "id": "st-601306558",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-02d0898231",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b6ace9326d9_85514/index.m3u8?expire=1774184297&sign=9dae6262c8948cc6ae3912caaacffbed",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/pisa-vs-cagliari-2100-15-03-2026/601306558"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-b11432e013",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/7ee279afbcd44f12b2d300fd515226c4/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/pisa-vs-cagliari-2100-15-03-2026/601306558"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Italian Serie A",
-            "team_a": "Pisa",
-            "team_b": "Cagliari",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/7ca5de14056c7290f6787e0943aa11ad.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/dba65c184e03c860ed919ce192b86c5e.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6863a39a0156.png?v=1773590351",
-            "thumb_key": "thumbs/kaytee-6863a39a0156.webp"
-          }
-        },
-        {
-          "id": "kaytee-2ca94980998c",
-          "name": "⚽ Sassuolo vs Bologna | 21:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2ca94980998c.png?v=1773590351",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601306561",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601306561",
-                  "name": "Sassuolo vs Bologna",
-                  "streams": [
-                    {
-                      "id": "st-601306561",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-497c5875f7",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b6a38f70a69_44731/index.m3u8?expire=1774181903&sign=a02ada49f61c1a02bf867153b96b2b36",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/sassuolo-vs-bologna-2100-15-03-2026/601306561"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-1b35ae598d",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/02a949ea6179d25fb1f7752ca9d07601/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/sassuolo-vs-bologna-2100-15-03-2026/601306561"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Italian Serie A",
-            "team_a": "Sassuolo",
-            "team_b": "Bologna",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/616bf242a532f72e970648f2ead423cf.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/bd12298fc3920bc20b7ad43b16ad9624.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2ca94980998c.png?v=1773590351",
-            "thumb_key": "thumbs/kaytee-2ca94980998c.webp"
-          }
-        },
-        {
-          "id": "kaytee-507a98e74ed9",
-          "name": "⚽ Crystal Palace vs Leeds United | 21:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-507a98e74ed9.png?v=1773590351",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601306564",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601306564",
-                  "name": "Crystal Palace vs Leeds United",
-                  "streams": [
-                    {
-                      "id": "st-601306564",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fa4bc14bdf",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b6aec970a69_88186/index.m3u8?expire=1774184777&sign=a0faada47e1283bbabdef48f49ff5f4e",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/crystal-palace-vs-leeds-united-2100-15-03-2026/601306564"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-be69ed9d13",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/a67dc5e6f48253b8982e94fed6e463b5/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/crystal-palace-vs-leeds-united-2100-15-03-2026/601306564"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "English Premier League",
-            "team_a": "Crystal Palace",
-            "team_b": "Leeds United",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/42396d18444156e640c37476c2b41b93.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/cd46d2ed1d364308dc206c97b48ce556.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-507a98e74ed9.png?v=1773590351",
-            "thumb_key": "thumbs/kaytee-507a98e74ed9.webp"
-          }
-        },
-        {
-          "id": "kaytee-081f93fdad96",
-          "name": "⚽ Dundee vs Dundee United | 21:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-081f93fdad96.png?v=1773590351",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601306591",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601306591",
-                  "name": "Dundee vs Dundee United",
-                  "streams": [
-                    {
-                      "id": "st-601306591",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ca61e78e47",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/e2d5a31139c7db123da6816f25abbb22/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/dundee-vs-dundee-united-2100-15-03-2026/601306591"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Scottish Premiership",
-            "team_a": "Dundee",
-            "team_b": "Dundee United",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/66353101398202ab87c6e04803b97e7b.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/39a72341d47b12221f9f959e52725d63.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-081f93fdad96.png?v=1773590351",
-            "thumb_key": "thumbs/kaytee-081f93fdad96.webp"
-          }
-        },
         {
           "id": "kaytee-a2c4899650d5",
           "name": "⚽ SV Werder Bremen vs 1. FSV Mainz 05 | 21:30",
@@ -354,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a2c4899650d5.png?v=1773590352",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a2c4899650d5.png?v=1773591329",
             "width": 1600,
             "height": 1200
           },
@@ -426,13 +99,13 @@
             "team_b": "1. FSV Mainz 05",
             "logo_a": "https://cdn.rapid-api.icu/football/team/82e3b03a1df3d7ae3d38e9fdd24fe622.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/903089d338485f6c68fbc5da690a0628.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a2c4899650d5.png?v=1773590352",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a2c4899650d5.png?v=1773591329",
             "thumb_key": "thumbs/kaytee-a2c4899650d5.webp"
           }
         },
         {
-          "id": "kaytee-6389142f529c",
-          "name": "⚽ Mario He vs Moritz Neuhausen | 22:30",
+          "id": "kaytee-56e6aa2ab839",
+          "name": "⚽ Sigma Olomouc vs MFK Karvina | 21:30",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -440,7 +113,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6389142f529c.png?v=1773590354",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-56e6aa2ab839.png?v=1773591330",
             "width": 1600,
             "height": 1200
           },
@@ -454,27 +127,27 @@
           ],
           "sources": [
             {
-              "id": "src-601314556",
+              "id": "src-601306915",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601314556",
-                  "name": "Mario He vs Moritz Neuhausen",
+                  "id": "ct-601306915",
+                  "name": "Sigma Olomouc vs MFK Karvina",
                   "streams": [
                     {
-                      "id": "st-601314556",
+                      "id": "st-601306915",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-947cee3215",
+                          "id": "lnk-7895fcd6f8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b68923326d9_103/index.m3u8?expire=1774175139&sign=13f4e9844ad2f6077c2d713090046545",
+                          "url": "https://live.alilicloud.com/live/b524dc737a6b280e79f1e5d88934603f/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/mario-he-vs-moritz-neuhausen-2230-15-03-2026/601314556"
+                              "value": "https://bunchatv1.net/truc-tiep/sigma-olomouc-vs-mfk-karvina-2130-15-03-2026/601306915"
                             },
                             {
                               "key": "User-Agent",
@@ -490,13 +163,555 @@
             }
           ],
           "org_metadata": {
-            "league": "European Open Pool Championship 2026",
-            "team_a": "Mario He",
-            "team_b": "Moritz Neuhausen",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/ce6c046fbd6b770c4cffa550600b3366.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/980f2ebfacd7f306e0ae3c10a0005812.webp",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6389142f529c.png?v=1773590354",
-            "thumb_key": "thumbs/kaytee-6389142f529c.webp"
+            "league": "Czech First League",
+            "team_a": "Sigma Olomouc",
+            "team_b": "MFK Karvina",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/4005660f040d79145af8536b11d25a00.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/29ab912e8f02b285213c5c7b77874777.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-56e6aa2ab839.png?v=1773591330",
+            "thumb_key": "thumbs/kaytee-56e6aa2ab839.webp"
+          }
+        },
+        {
+          "id": "kaytee-cada6338ceec",
+          "name": "⚽ FC Viktoria Plzen vs Bohemians 1905 | 21:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cada6338ceec.png?v=1773591332",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601306918",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601306918",
+                  "name": "FC Viktoria Plzen vs Bohemians 1905",
+                  "streams": [
+                    {
+                      "id": "st-601306918",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-829ce649dd",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/4f35d0a0affb862040eaad6db4a38f90/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/fc-viktoria-plzen-vs-bohemians-1905-2130-15-03-2026/601306918"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Czech First League",
+            "team_a": "FC Viktoria Plzen",
+            "team_b": "Bohemians 1905",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/612bde1cd51faba4b31a568ea5bce334.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/14b6fe766b34ab3e24106a509045c059.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cada6338ceec.png?v=1773591332",
+            "thumb_key": "thumbs/kaytee-cada6338ceec.webp"
+          }
+        },
+        {
+          "id": "kaytee-58af128f2739",
+          "name": "⚽ Trencin vs MFK Skalica | 21:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-58af128f2739.png?v=1773591333",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601306933",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601306933",
+                  "name": "Trencin vs MFK Skalica",
+                  "streams": [
+                    {
+                      "id": "st-601306933",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1de2fb84b5",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/09c52b41bdcca868c4d24b494056be51/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/trencin-vs-mfk-skalica-2130-15-03-2026/601306933"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Slovak Nike liga",
+            "team_a": "Trencin",
+            "team_b": "MFK Skalica",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/1be10c6699ca687a2fa231cc863336cb.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/ae7309643ccc8b5fa34df23119075046.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-58af128f2739.png?v=1773591333",
+            "thumb_key": "thumbs/kaytee-58af128f2739.webp"
+          }
+        },
+        {
+          "id": "kaytee-206094ecca69",
+          "name": "⚽ FC Barcelona vs Sevilla FC | 22:15",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-206094ecca69.png?v=1773591335",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601307245",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601307245",
+                  "name": "FC Barcelona vs Sevilla FC",
+                  "streams": [
+                    {
+                      "id": "st-601307245",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4bf974cac2",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b6c473326d9_42127/index.m3u8?expire=1774190323&sign=8a23a2270a8708671c3183658bb70ab7",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/fc-barcelona-vs-sevilla-fc-2215-15-03-2026/601307245"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-3bf53049ae",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b6c05b70a69_128756/index.m3u8?expire=1774189275&sign=d4130a24fbdb24de96e9b2a69a5a585e",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/fc-barcelona-vs-sevilla-fc-2215-15-03-2026/601307245"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-77870bcbc5",
+                          "name": "Link 3",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/b66b2ee53b1249854b550069feb3f3ec/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/fc-barcelona-vs-sevilla-fc-2215-15-03-2026/601307245"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Spanish La Liga",
+            "team_a": "FC Barcelona",
+            "team_b": "Sevilla FC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/f378eb1ea04e53999b89051aa3244de6.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/d20ed1da4f299cc3ef0e1e9eb06eced1.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-206094ecca69.png?v=1773591335",
+            "thumb_key": "thumbs/kaytee-206094ecca69.webp"
+          }
+        },
+        {
+          "id": "kaytee-494cd4b3da4d",
+          "name": "⚽ AVS Futebol SAD vs Santa Clara | 22:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-494cd4b3da4d.png?v=1773591336",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601307254",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601307254",
+                  "name": "AVS Futebol SAD vs Santa Clara",
+                  "streams": [
+                    {
+                      "id": "st-601307254",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-700c425a79",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b6c9e5326d9_88642/index.m3u8?expire=1774191717&sign=3b467a9f7b80fdb4af76a54b7d5d010a",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/avs-futebol-sad-vs-santa-clara-2230-15-03-2026/601307254"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-82af93cdb0",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/032be4bcac83bd3ef087aea893d8ae4e/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/avs-futebol-sad-vs-santa-clara-2230-15-03-2026/601307254"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Portuguese Primera Liga",
+            "team_a": "AVS Futebol SAD",
+            "team_b": "Santa Clara",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/54a1c4ce61684e24789083f545049753.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/0c5162e7f8371cb6972ca6413bf228e8.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-494cd4b3da4d.png?v=1773591336",
+            "thumb_key": "thumbs/kaytee-494cd4b3da4d.webp"
+          }
+        },
+        {
+          "id": "kaytee-48477293af44",
+          "name": "⚽ Nacional da Madeira vs Estoril | 22:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-48477293af44.png?v=1773591337",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601307257",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601307257",
+                  "name": "Nacional da Madeira vs Estoril",
+                  "streams": [
+                    {
+                      "id": "st-601307257",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-39ad099a3f",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b6c18b326d9_124958/index.m3u8?expire=1774189579&sign=8ebeb4834679b25d6a9848c45ca5dfda",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/nacional-da-madeira-vs-estoril-2230-15-03-2026/601307257"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-fec03b953b",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/450ee3a728453b9b4c2b4e00b9dac5aa/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/nacional-da-madeira-vs-estoril-2230-15-03-2026/601307257"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Portuguese Primera Liga",
+            "team_a": "Nacional da Madeira",
+            "team_b": "Estoril",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/783ce34336f24424a273c5c2403a3cb1.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/faeceacffbf35e28b7e71a5f90b6efdc.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-48477293af44.png?v=1773591337",
+            "thumb_key": "thumbs/kaytee-48477293af44.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_bóng_đá",
+      "name": "⏳ Sắp Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-b48becf264c6",
+          "name": "⚽ Liverpool vs Tottenham Hotspur | 23:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b48becf264c6.png?v=1773591339",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601307572",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601307572",
+                  "name": "Liverpool vs Tottenham Hotspur",
+                  "streams": [
+                    {
+                      "id": "st-601307572",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-22d5aa83fd",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b6d74d70a69_133172/index.m3u8?expire=1774195149&sign=48144b8038e87d96a9bedc0a584077b6",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/liverpool-vs-tottenham-hotspur-2330-15-03-2026/601307572"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-29097144d3",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b6d84d70a69_79/index.m3u8?expire=1774195405&sign=2548cd61a2a2a8a97da8d1084ff3e99d",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/liverpool-vs-tottenham-hotspur-2330-15-03-2026/601307572"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-c9737e4cca",
+                          "name": "Link 3",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b6d74570a69_44731/index.m3u8?expire=1774195141&sign=cca14cf85abdf78e5808f8eb75e18f2e",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/liverpool-vs-tottenham-hotspur-2330-15-03-2026/601307572"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-6edcc5112b",
+                          "name": "Link 4",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/574a77b53bf593387ab33f71a85756e2/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/liverpool-vs-tottenham-hotspur-2330-15-03-2026/601307572"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Premier League",
+            "team_a": "Liverpool",
+            "team_b": "Tottenham Hotspur",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/1cb3d08adac0e2dc1c4f10429d055bfe.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/8b22ab4041e666b996a2d96f20dea707.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b48becf264c6.png?v=1773591339",
+            "thumb_key": "thumbs/kaytee-b48becf264c6.webp"
           }
         }
       ]
