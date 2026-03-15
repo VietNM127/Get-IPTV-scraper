@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-15T17:34:39.621998",
+  "updated_at": "2026-03-15T17:39:57.639370",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,161 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-9f935fbebf2c",
-          "name": "⚽ Arsenal Tivat vs Bokelj Kotor | 22:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9f935fbebf2c.png?v=1773596068",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601306759",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601306759",
-                  "name": "Arsenal Tivat vs Bokelj Kotor",
-                  "streams": [
-                    {
-                      "id": "st-601306759",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a6a9c0ddb7",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/222ac6c10c91e53e3dbe6dd394244c12/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/arsenal-tivat-vs-bokelj-kotor-2230-15-03-2026/601306759"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Montenegro First League",
-            "team_a": "Arsenal Tivat",
-            "team_b": "Bokelj Kotor",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/ec6bbb420c8429ea3419301419c9e9f8.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/14cf55eabf3cf659b8ae621e4441e6bd.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9f935fbebf2c.png?v=1773596068",
-            "thumb_key": "thumbs/kaytee-9f935fbebf2c.webp"
-          }
-        },
-        {
-          "id": "kaytee-353532b72c13",
-          "name": "⚽ Go Ahead Eagles vs NAC Breda | 22:45",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-353532b72c13.png?v=1773596070",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601307305",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601307305",
-                  "name": "Go Ahead Eagles vs NAC Breda",
-                  "streams": [
-                    {
-                      "id": "st-601307305",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-31eddba0dd",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b6cfe2326d9_73445/index.m3u8?expire=1774193250&sign=5bf2a6150dbfd53cf15110aec413bbef",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/go-ahead-eagles-vs-nac-breda-2245-15-03-2026/601307305"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-d657f33771",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/e51556c3eda722b599f8a89800394149/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/go-ahead-eagles-vs-nac-breda-2245-15-03-2026/601307305"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Netherlands Eredivisie",
-            "team_a": "Go Ahead Eagles",
-            "team_b": "NAC Breda",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/acc42732b97d91016e37952666003417.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/6961986fd0e44c330328195328a39be4.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-353532b72c13.png?v=1773596070",
-            "thumb_key": "thumbs/kaytee-353532b72c13.webp"
-          }
-        },
         {
           "id": "kaytee-b840e2265c9e",
           "name": "⚽ LKS Lodz vs Odra Opole | 23:00",
@@ -182,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b840e2265c9e.png?v=1773596072",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b840e2265c9e.png?v=1773596388",
             "width": 1600,
             "height": 1200
           },
@@ -237,7 +82,7 @@
             "team_b": "Odra Opole",
             "logo_a": "https://cdn.rapid-api.icu/football/team/56d3aeaa2fd038791adb4364e9543b82.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/f1f33ada6e71cb1b66b173d41479a883.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b840e2265c9e.png?v=1773596072",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b840e2265c9e.png?v=1773596388",
             "thumb_key": "thumbs/kaytee-b840e2265c9e.webp"
           }
         },
@@ -251,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-44e6124150c3.png?v=1773596073",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-44e6124150c3.png?v=1773596388",
             "width": 1600,
             "height": 1200
           },
@@ -306,8 +151,146 @@
             "team_b": "Crvena Zvezda",
             "logo_a": "https://cdn.rapid-api.icu/football/team/9c1777c5f9d29d3c8ce03960caa52a64.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/61a1f9406cde098a265280a3683da9b7.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-44e6124150c3.png?v=1773596073",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-44e6124150c3.png?v=1773596388",
             "thumb_key": "thumbs/kaytee-44e6124150c3.webp"
+          }
+        },
+        {
+          "id": "kaytee-b68bdc0450cd",
+          "name": "⚽ Rubin Kazan vs Lokomotiv Moscow | 23:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b68bdc0450cd.png?v=1773596390",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601307335",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601307335",
+                  "name": "Rubin Kazan vs Lokomotiv Moscow",
+                  "streams": [
+                    {
+                      "id": "st-601307335",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-cedf0ac525",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/a9c40169bf4ccb15580b64d08f17713f/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/rubin-kazan-vs-lokomotiv-moscow-2300-15-03-2026/601307335"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Russian Premier League",
+            "team_a": "Rubin Kazan",
+            "team_b": "Lokomotiv Moscow",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/db58fdf26d9c934236772a9721fa750b.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/5517b8865aa5280667bd899f6810d466.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b68bdc0450cd.png?v=1773596390",
+            "thumb_key": "thumbs/kaytee-b68bdc0450cd.webp"
+          }
+        },
+        {
+          "id": "kaytee-5a5aa11cb9ca",
+          "name": "⚽ Olimpia Grudziadz vs Zaglebie Sosnowiec | 23:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5a5aa11cb9ca.png?v=1773596391",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601307338",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601307338",
+                  "name": "Olimpia Grudziadz vs Zaglebie Sosnowiec",
+                  "streams": [
+                    {
+                      "id": "st-601307338",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-168046c082",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/00a6e80fced84b5dd2f91eb83af11ead/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/olimpia-grudziadz-vs-zaglebie-sosnowiec-2300-15-03-2026/601307338"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Poland Liga 2",
+            "team_a": "Olimpia Grudziadz",
+            "team_b": "Zaglebie Sosnowiec",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/f3b6ba7d578d04a84b08ce397bdbf262.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/e003a3144349b595ee8b30c92d8124b5.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5a5aa11cb9ca.png?v=1773596391",
+            "thumb_key": "thumbs/kaytee-5a5aa11cb9ca.webp"
           }
         },
         {
@@ -320,7 +303,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bf34eb9ff993.png?v=1773596075",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bf34eb9ff993.png?v=1773596393",
             "width": 1600,
             "height": 1200
           },
@@ -392,8 +375,77 @@
             "team_b": "Lyon",
             "logo_a": "https://cdn.rapid-api.icu/football/team/8fd50a53dad5ea4fd2d32bd3ce727f58.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/92fb3cf79ea2ba919b94b04668e13491.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bf34eb9ff993.png?v=1773596075",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bf34eb9ff993.png?v=1773596393",
             "thumb_key": "thumbs/kaytee-bf34eb9ff993.webp"
+          }
+        },
+        {
+          "id": "kaytee-710e30061c53",
+          "name": "⚽ Metz vs Toulouse FC | 23:15",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-710e30061c53.png?v=1773596395",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601307554",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601307554",
+                  "name": "Metz vs Toulouse FC",
+                  "streams": [
+                    {
+                      "id": "st-601307554",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d524e38bb2",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/6759657752426853a146bb1fec575ba2/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/metz-vs-toulouse-fc-2315-15-03-2026/601307554"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "French Ligue 1",
+            "team_a": "Metz",
+            "team_b": "Toulouse FC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/16fd214da24aef0bbb775e44fe7e79f2.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/2947fe2f42551a5b7eccca7fc948f879.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-710e30061c53.png?v=1773596395",
+            "thumb_key": "thumbs/kaytee-710e30061c53.webp"
           }
         },
         {
@@ -406,7 +458,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b48becf264c6.png?v=1773596077",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b48becf264c6.png?v=1773596395",
             "width": 1600,
             "height": 1200
           },
@@ -495,7 +547,7 @@
             "team_b": "Tottenham Hotspur",
             "logo_a": "https://cdn.rapid-api.icu/football/team/1cb3d08adac0e2dc1c4f10429d055bfe.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/8b22ab4041e666b996a2d96f20dea707.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b48becf264c6.png?v=1773596077",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b48becf264c6.png?v=1773596395",
             "thumb_key": "thumbs/kaytee-b48becf264c6.webp"
           }
         },
@@ -509,7 +561,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-63a23cee80f5.png?v=1773596079",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-63a23cee80f5.png?v=1773596397",
             "width": 1600,
             "height": 1200
           },
@@ -581,7 +633,7 @@
             "team_b": "1. FC Union Berlin",
             "logo_a": "https://cdn.rapid-api.icu/football/team/6508946c9a5fe22a8784b905b25e8c79.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/45ab4c846b0d4df5b002c571b16112dc.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-63a23cee80f5.png?v=1773596079",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-63a23cee80f5.png?v=1773596397",
             "thumb_key": "thumbs/kaytee-63a23cee80f5.webp"
           }
         }
