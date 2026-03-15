@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-15T09:47:21.939013",
+  "updated_at": "2026-03-15T10:14:52.347957",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -18,8 +18,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-eff62165e30a",
-          "name": "⚽ Melbourne Victory vs FC Macarthur | 15:00",
+          "id": "kaytee-6b0aa123dd4e",
+          "name": "⚽ Hong Kong FC vs Lee Man | 15:30",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-eff62165e30a.png?v=1773568030",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6b0aa123dd4e.png?v=1773569682",
             "width": 1600,
             "height": 1200
           },
@@ -41,44 +41,27 @@
           ],
           "sources": [
             {
-              "id": "src-601305241",
+              "id": "src-601305295",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601305241",
-                  "name": "Melbourne Victory vs FC Macarthur",
+                  "id": "ct-601305295",
+                  "name": "Hong Kong FC vs Lee Man",
                   "streams": [
                     {
-                      "id": "st-601305241",
+                      "id": "st-601305295",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-6ec76f0595",
+                          "id": "lnk-d12c5914a9",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b659cb326d9_79/index.m3u8?expire=1774163019&sign=7978c0bd55f6336e25eb95074e673acc",
+                          "url": "https://live.alilicloud.com/live/45d1bb64912eedb33e408af029653a28/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/melbourne-victory-vs-fc-macarthur-1500-15-03-2026/601305241"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-5c921ab18a",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/12695eb48f685b9942613bda6db4740b/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/melbourne-victory-vs-fc-macarthur-1500-15-03-2026/601305241"
+                              "value": "https://bunchatv1.net/truc-tiep/hong-kong-fc-vs-lee-man-1530-15-03-2026/601305295"
                             },
                             {
                               "key": "User-Agent",
@@ -94,18 +77,18 @@
             }
           ],
           "org_metadata": {
-            "league": "Australia A-League",
-            "team_a": "Melbourne Victory",
-            "team_b": "FC Macarthur",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/c540f8f279c09a2a3df1cbbfe82d7184.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/cfa3dbe7828b0928285c243375cbae24.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-eff62165e30a.png?v=1773568030",
-            "thumb_key": "thumbs/kaytee-eff62165e30a.webp"
+            "league": "Chinese Hong Kong Premier League",
+            "team_a": "Hong Kong FC",
+            "team_b": "Lee Man",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/9ede3e338ae946a3d257ff8d65449c6e.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/8488d5d93a28b78eaeae55758ad25fb5.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6b0aa123dd4e.png?v=1773569682",
+            "thumb_key": "thumbs/kaytee-6b0aa123dd4e.webp"
           }
         },
         {
-          "id": "kaytee-dea5031935fd",
-          "name": "⚽ UNSW FC (W) vs WS Wanderers B (W) | 15:00",
+          "id": "kaytee-cce6865780f6",
+          "name": "⚽ Ural Yekaterinburg vs Arsenal Tula | 15:30",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -113,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-dea5031935fd.png?v=1773568032",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cce6865780f6.png?v=1773569684",
             "width": 1600,
             "height": 1200
           },
@@ -127,27 +110,27 @@
           ],
           "sources": [
             {
-              "id": "src-601301242",
+              "id": "src-601305298",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601301242",
-                  "name": "UNSW FC (W) vs WS Wanderers B (W)",
+                  "id": "ct-601305298",
+                  "name": "Ural Yekaterinburg vs Arsenal Tula",
                   "streams": [
                     {
-                      "id": "st-601301242",
+                      "id": "st-601305298",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-eae4960448",
+                          "id": "lnk-26ed043856",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live.alilicloud.com/live/7e7653daa42e07728c2676c7ad827e55/playlist.m3u8",
+                          "url": "https://live.alilicloud.com/live/bde6e20db4eb560e5eea6bf9a1a612b1/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/unsw-fc-w-vs-ws-wanderers-b-w-1500-15-03-2026/601301242"
+                              "value": "https://bunchatv1.net/truc-tiep/ural-yekaterinburg-vs-arsenal-tula-1530-15-03-2026/601305298"
                             },
                             {
                               "key": "User-Agent",
@@ -163,82 +146,13 @@
             }
           ],
           "org_metadata": {
-            "league": "Australia New South Wales Women's League",
-            "team_a": "UNSW FC (W)",
-            "team_b": "WS Wanderers B (W)",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/75bf136c336015d3adb291a238ea039e.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/3a4d8f1bb2920df73a527995eb45e41f.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-dea5031935fd.png?v=1773568032",
-            "thumb_key": "thumbs/kaytee-dea5031935fd.webp"
-          }
-        },
-        {
-          "id": "kaytee-848630771bad",
-          "name": "⚽ Bula FC vs Tahiti United FC | 15:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-848630771bad.png?v=1773568035",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601305247",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601305247",
-                  "name": "Bula FC vs Tahiti United FC",
-                  "streams": [
-                    {
-                      "id": "st-601305247",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5e01d2b3cf",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/ada03d6180e3470f7b9dad71aef87732/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/bula-fc-vs-tahiti-united-fc-1500-15-03-2026/601305247"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "OFC P L",
-            "team_a": "Bula FC",
-            "team_b": "Tahiti United FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/3ba9e68b96950ffe8b5b4fb2508cf3dd.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/1f64b50649c4ac1dfd8338ba79d21b88.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-848630771bad.png?v=1773568035",
-            "thumb_key": "thumbs/kaytee-848630771bad.webp"
+            "league": "Russian National Football League",
+            "team_a": "Ural Yekaterinburg",
+            "team_b": "Arsenal Tula",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/c44580753ff5e1f47b7784d28b10af2f.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/cd338eefa3f2d8f275a952bd55d06b6b.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cce6865780f6.png?v=1773569684",
+            "thumb_key": "thumbs/kaytee-cce6865780f6.webp"
           }
         },
         {
@@ -251,7 +165,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1b108a3a0f09.png?v=1773568037",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1b108a3a0f09.png?v=1773569686",
             "width": 1600,
             "height": 1200
           },
@@ -323,8 +237,77 @@
             "team_b": "Ba Ria Vung Tau FC",
             "logo_a": "https://cdn.rapid-api.icu/football/team/40b7d679de613aedfb80bcaba85fa7e0.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/5e40ed1f6779e1fcfb55c259e36746da.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1b108a3a0f09.png?v=1773568037",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1b108a3a0f09.png?v=1773569686",
             "thumb_key": "thumbs/kaytee-1b108a3a0f09.webp"
+          }
+        },
+        {
+          "id": "kaytee-a7e7cd24ced0",
+          "name": "⚽ Sibir Novosibirsk vs Torpedo Miass | 16:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a7e7cd24ced0.png?v=1773569687",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601305304",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601305304",
+                  "name": "Sibir Novosibirsk vs Torpedo Miass",
+                  "streams": [
+                    {
+                      "id": "st-601305304",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-21bbaf8cb7",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/41618942db730a379898350519e8add1/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/sibir-novosibirsk-vs-torpedo-miass-1600-15-03-2026/601305304"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "RUS D3A",
+            "team_a": "Sibir Novosibirsk",
+            "team_b": "Torpedo Miass",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/1c600a1f78e1360aa398c37ffe13dddb.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/7b7bb591e753b1b29b3d69794d89bd7a.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a7e7cd24ced0.png?v=1773569687",
+            "thumb_key": "thumbs/kaytee-a7e7cd24ced0.webp"
           }
         },
         {
@@ -337,7 +320,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a6defdd86641.png?v=1773568040",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a6defdd86641.png?v=1773569690",
             "width": 1600,
             "height": 1200
           },
@@ -392,97 +375,10 @@
             "team_b": "JTEKT",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/4ffbf5f2980aa124e6aa994ea7db43b9.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/26cd21fa7eb0f3f64bf428e2ae17e097.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a6defdd86641.png?v=1773568040",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a6defdd86641.png?v=1773569690",
             "thumb_key": "thumbs/kaytee-a6defdd86641.webp"
           }
-        }
-      ]
-    },
-    {
-      "id": "live_bóng_rổ",
-      "name": "🔴 Live 🏀 Bóng Rổ",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-ad462507022c",
-          "name": "🏀 St George Willawong FC vs Holland Park Hawks FC | 15:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ad462507022c.png?v=1773568033",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601305244",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601305244",
-                  "name": "St George Willawong FC vs Holland Park Hawks FC",
-                  "streams": [
-                    {
-                      "id": "st-601305244",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7911c6a673",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/19b952aecdccff7bb3a5890419fa8040/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/st-george-willawong-fc-vs-holland-park-hawks-fc-1500-15-03-2026/601305244"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Australia Queensland State League 1",
-            "team_a": "St George Willawong FC",
-            "team_b": "Holland Park Hawks FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/4fb9cb872deb76fb3c475916de8e5b35.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/b6b723f639b6d0fadbc839179d734dc2.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ad462507022c.png?v=1773568033",
-            "thumb_key": "thumbs/kaytee-ad462507022c.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "upcoming_bóng_đá",
-      "name": "⏳ Sắp Live ⚽ Bóng Đá",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
+        },
         {
           "id": "kaytee-792eea971759",
           "name": "⚽ FC Gifu vs Fukushima United FC | 17:00",
@@ -493,16 +389,16 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-792eea971759.png?v=1773568041",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-792eea971759.png?v=1773569691",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "⏳ Sắp Live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -534,6 +430,23 @@
                               "value": "Mozilla/5.0"
                             }
                           ]
+                        },
+                        {
+                          "id": "lnk-d978994b1d",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/91001777657a6583e01338a3fd75390a/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/fc-gifu-vs-fukushima-united-fc-1700-15-03-2026/601305385"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
                         }
                       ]
                     }
@@ -548,8 +461,77 @@
             "team_b": "Fukushima United FC",
             "logo_a": "https://cdn.rapid-api.icu/football/team/ffb69072af11f7c87d69f3a9a71d687c.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/5eefc68533b087e949e4fb09f70889b9.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-792eea971759.png?v=1773568041",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-792eea971759.png?v=1773569691",
             "thumb_key": "thumbs/kaytee-792eea971759.webp"
+          }
+        },
+        {
+          "id": "kaytee-fab71db3c84d",
+          "name": "⚽ LI Yi Jing / WANG Yi Duo vs JIA Yi Fan / ZHANG Shu Xian | 17:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fab71db3c84d.png?v=1773569692",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601314538",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601314538",
+                  "name": "LI Yi Jing / WANG Yi Duo vs JIA Yi Fan / ZHANG Shu Xian",
+                  "streams": [
+                    {
+                      "id": "st-601314538",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4a0c3de4a9",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b68393326d9_110198/index.m3u8?expire=1774173715&sign=314536c0be733071fc97d701dc275d2b",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/li-yi-jing--wang-yi-duo-vs-jia-yi-fan--zhang-shu-xian-1700-15-03-2026/601314538"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sân 1 - YONEX Swiss Open 2026",
+            "team_a": "LI Yi Jing / WANG Yi Duo",
+            "team_b": "JIA Yi Fan / ZHANG Shu Xian",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/4c096b1f95a2afdb3aa56876f572f24f.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/2541a719cd89f4ad80adadd04d1aa0b9.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fab71db3c84d.png?v=1773569692",
+            "thumb_key": "thumbs/kaytee-fab71db3c84d.webp"
           }
         }
       ]
