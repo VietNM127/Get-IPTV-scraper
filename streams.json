@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-15T16:52:50.565936",
+  "updated_at": "2026-03-15T17:03:42.137848",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,75 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-5334fe71f1ac",
-          "name": "⚽ Hvidovre IF vs Kolding FC | 22:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5334fe71f1ac.png?v=1773593557",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601306960",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601306960",
-                  "name": "Hvidovre IF vs Kolding FC",
-                  "streams": [
-                    {
-                      "id": "st-601306960",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a88b9ed070",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/4461b130f7f44fa8be99038df90cb675/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/hvidovre-if-vs-kolding-fc-2200-15-03-2026/601306960"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Danish 1st Division",
-            "team_a": "Hvidovre IF",
-            "team_b": "Kolding FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/865113ccf397b8f317e0681c9c3234dd.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/7fbd8bb9f25d755c1062a28e210186d1.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5334fe71f1ac.png?v=1773593557",
-            "thumb_key": "thumbs/kaytee-5334fe71f1ac.webp"
-          }
-        },
         {
           "id": "kaytee-f6fbd1e8beca",
           "name": "⚽ Royal Antwerp vs Standard Liege | 22:00",
@@ -96,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f6fbd1e8beca.png?v=1773593559",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f6fbd1e8beca.png?v=1773594212",
             "width": 1600,
             "height": 1200
           },
@@ -151,13 +82,13 @@
             "team_b": "Standard Liege",
             "logo_a": "https://cdn.rapid-api.icu/football/team/ddd8c6103c5ee746664405ab7a28bd8f.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/dcfd6a2671c5c5e09dd83daeb85feff9.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f6fbd1e8beca.png?v=1773593559",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f6fbd1e8beca.png?v=1773594212",
             "thumb_key": "thumbs/kaytee-f6fbd1e8beca.webp"
           }
         },
         {
-          "id": "kaytee-cca8806dc7d6",
-          "name": "⚽ FK Zeleznicar Pancevo vs Mladost Lucani | 22:00",
+          "id": "kaytee-1e96a66cfcab",
+          "name": "⚽ Fafe vs maerkou | 22:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -165,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cca8806dc7d6.png?v=1773593560",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1e96a66cfcab.png?v=1773594213",
             "width": 1600,
             "height": 1200
           },
@@ -179,27 +110,27 @@
           ],
           "sources": [
             {
-              "id": "src-601306966",
+              "id": "src-601307233",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601306966",
-                  "name": "FK Zeleznicar Pancevo vs Mladost Lucani",
+                  "id": "ct-601307233",
+                  "name": "Fafe vs maerkou",
                   "streams": [
                     {
-                      "id": "st-601306966",
+                      "id": "st-601307233",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-27dd9460f0",
+                          "id": "lnk-c5c771cc4d",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live.alilicloud.com/live/3ab91d0d343fe10dda6487bef4c78b8e/playlist.m3u8",
+                          "url": "https://live.alilicloud.com/live/109fa3553e0ad5582f809ab8f316c6d8/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/fk-zeleznicar-pancevo-vs-mladost-lucani-2200-15-03-2026/601306966"
+                              "value": "https://bunchatv1.net/truc-tiep/fafe-vs-maerkou-2200-15-03-2026/601307233"
                             },
                             {
                               "key": "User-Agent",
@@ -215,82 +146,13 @@
             }
           ],
           "org_metadata": {
-            "league": "Serbian Super liga",
-            "team_a": "FK Zeleznicar Pancevo",
-            "team_b": "Mladost Lucani",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/5a4205b9ee3d49c60df7bf22bc2e2203.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/e64d3418718f4415783fcfaca7db3448.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cca8806dc7d6.png?v=1773593560",
-            "thumb_key": "thumbs/kaytee-cca8806dc7d6.webp"
-          }
-        },
-        {
-          "id": "kaytee-1ad1cb763ed7",
-          "name": "⚽ KVSK Lommel vs Francs Borains | 22:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1ad1cb763ed7.png?v=1773593562",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601306987",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601306987",
-                  "name": "KVSK Lommel vs Francs Borains",
-                  "streams": [
-                    {
-                      "id": "st-601306987",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-df81867887",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/e9771580aee7bcd509aa0a1bbdee1d18/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/kvsk-lommel-vs-francs-borains-2200-15-03-2026/601306987"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Belgian Second Division",
-            "team_a": "KVSK Lommel",
-            "team_b": "Francs Borains",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/19d940d99069870d59fa78a9a28ef31c.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/d67cdae3f4d4af11bc1738a09376cd24.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1ad1cb763ed7.png?v=1773593562",
-            "thumb_key": "thumbs/kaytee-1ad1cb763ed7.webp"
+            "league": "Portuguese Liga 3",
+            "team_a": "Fafe",
+            "team_b": "maerkou",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/60c2f0eb6f1036eec1485e4e3864f2fd.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/5ce782cfa36e6a9aa9bcfa36941c4fcb.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1e96a66cfcab.png?v=1773594213",
+            "thumb_key": "thumbs/kaytee-1e96a66cfcab.webp"
           }
         },
         {
@@ -303,7 +165,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-206094ecca69.png?v=1773593564",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-206094ecca69.png?v=1773594215",
             "width": 1600,
             "height": 1200
           },
@@ -392,8 +254,77 @@
             "team_b": "Sevilla FC",
             "logo_a": "https://cdn.rapid-api.icu/football/team/f378eb1ea04e53999b89051aa3244de6.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/d20ed1da4f299cc3ef0e1e9eb06eced1.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-206094ecca69.png?v=1773593564",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-206094ecca69.png?v=1773594215",
             "thumb_key": "thumbs/kaytee-206094ecca69.webp"
+          }
+        },
+        {
+          "id": "kaytee-dec1f510a362",
+          "name": "⚽ Granada CF vs Andorra CF | 22:15",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-dec1f510a362.png?v=1773594216",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601307248",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601307248",
+                  "name": "Granada CF vs Andorra CF",
+                  "streams": [
+                    {
+                      "id": "st-601307248",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f42ce6a759",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/5aa6d71bcc404314b23cb3fe56b18c0b/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/granada-cf-vs-andorra-cf-2215-15-03-2026/601307248"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Spanish Segunda Division",
+            "team_a": "Granada CF",
+            "team_b": "Andorra CF",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/f8ac17559f204d139563929dc7eeedeb.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/87b05db9f90fc41e0faa409474ada50c.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-dec1f510a362.png?v=1773594216",
+            "thumb_key": "thumbs/kaytee-dec1f510a362.webp"
           }
         },
         {
@@ -406,7 +337,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-494cd4b3da4d.png?v=1773593565",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-494cd4b3da4d.png?v=1773594217",
             "width": 1600,
             "height": 1200
           },
@@ -478,7 +409,7 @@
             "team_b": "Santa Clara",
             "logo_a": "https://cdn.rapid-api.icu/football/team/54a1c4ce61684e24789083f545049753.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/0c5162e7f8371cb6972ca6413bf228e8.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-494cd4b3da4d.png?v=1773593565",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-494cd4b3da4d.png?v=1773594217",
             "thumb_key": "thumbs/kaytee-494cd4b3da4d.webp"
           }
         },
@@ -492,7 +423,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-48477293af44.png?v=1773593567",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-48477293af44.png?v=1773594219",
             "width": 1600,
             "height": 1200
           },
@@ -564,7 +495,7 @@
             "team_b": "Estoril",
             "logo_a": "https://cdn.rapid-api.icu/football/team/783ce34336f24424a273c5c2403a3cb1.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/faeceacffbf35e28b7e71a5f90b6efdc.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-48477293af44.png?v=1773593567",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-48477293af44.png?v=1773594219",
             "thumb_key": "thumbs/kaytee-48477293af44.webp"
           }
         },
@@ -578,7 +509,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-353532b72c13.png?v=1773593568",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-353532b72c13.png?v=1773594220",
             "width": 1600,
             "height": 1200
           },
@@ -650,7 +581,7 @@
             "team_b": "NAC Breda",
             "logo_a": "https://cdn.rapid-api.icu/football/team/acc42732b97d91016e37952666003417.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/6961986fd0e44c330328195328a39be4.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-353532b72c13.png?v=1773593568",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-353532b72c13.png?v=1773594220",
             "thumb_key": "thumbs/kaytee-353532b72c13.webp"
           }
         },
@@ -664,7 +595,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b48becf264c6.png?v=1773593570",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b48becf264c6.png?v=1773594222",
             "width": 1600,
             "height": 1200
           },
@@ -753,7 +684,7 @@
             "team_b": "Tottenham Hotspur",
             "logo_a": "https://cdn.rapid-api.icu/football/team/1cb3d08adac0e2dc1c4f10429d055bfe.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/8b22ab4041e666b996a2d96f20dea707.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b48becf264c6.png?v=1773593570",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b48becf264c6.png?v=1773594222",
             "thumb_key": "thumbs/kaytee-b48becf264c6.webp"
           }
         }
