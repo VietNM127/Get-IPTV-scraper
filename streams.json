@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-15T11:19:42.349887",
+  "updated_at": "2026-03-15T11:32:17.681330",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,144 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-3ea3683bd21c",
-          "name": "⚽ First Wien 1894 vs FK Austria Vienna Youth | 16:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3ea3683bd21c.png?v=1773573568",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601305334",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601305334",
-                  "name": "First Wien 1894 vs FK Austria Vienna Youth",
-                  "streams": [
-                    {
-                      "id": "st-601305334",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c298c419cb",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/0b59c7b9d073158e68d3ed33253f37c0/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/first-wien-1894-vs-fk-austria-vienna-youth-1630-15-03-2026/601305334"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Austrian 2.Liga",
-            "team_a": "First Wien 1894",
-            "team_b": "FK Austria Vienna Youth",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/0636fa6adc628b663bad30b92e1aa319.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/7453017cf71261e318de905229f47edd.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3ea3683bd21c.png?v=1773573568",
-            "thumb_key": "thumbs/kaytee-3ea3683bd21c.webp"
-          }
-        },
-        {
-          "id": "kaytee-3247f6bd698f",
-          "name": "⚽ UKS Lodz (w) vs Slask Wroclaw (w) | 16:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3247f6bd698f.png?v=1773573570",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601312603",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601312603",
-                  "name": "UKS Lodz (w) vs Slask Wroclaw (w)",
-                  "streams": [
-                    {
-                      "id": "st-601312603",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-75b6addba9",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/2501ac259f9f98acb668281066a771e1/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/uks-lodz-w-vs-slask-wroclaw-w-1630-15-03-2026/601312603"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Poland Women's Ekstraliga",
-            "team_a": "UKS Lodz (w)",
-            "team_b": "Slask Wroclaw (w)",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/6e28d086ba219f7318999ab1918bd033.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/49f6003cdf30de63a9d8161c03fcfe80.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3247f6bd698f.png?v=1773573570",
-            "thumb_key": "thumbs/kaytee-3247f6bd698f.webp"
-          }
-        },
         {
           "id": "kaytee-fab71db3c84d",
           "name": "⚽ LI Yi Jing / WANG Yi Duo vs JIA Yi Fan / ZHANG Shu Xian | 17:00",
@@ -165,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fab71db3c84d.png?v=1773573572",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fab71db3c84d.png?v=1773574319",
             "width": 1600,
             "height": 1200
           },
@@ -220,7 +82,7 @@
             "team_b": "JIA Yi Fan / ZHANG Shu Xian",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/4c096b1f95a2afdb3aa56876f572f24f.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/2541a719cd89f4ad80adadd04d1aa0b9.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fab71db3c84d.png?v=1773573572",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fab71db3c84d.png?v=1773574319",
             "thumb_key": "thumbs/kaytee-fab71db3c84d.webp"
           }
         },
@@ -234,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-792eea971759.png?v=1773573573",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-792eea971759.png?v=1773574321",
             "width": 1600,
             "height": 1200
           },
@@ -306,7 +168,7 @@
             "team_b": "Fukushima United FC",
             "logo_a": "https://cdn.rapid-api.icu/football/team/ffb69072af11f7c87d69f3a9a71d687c.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/5eefc68533b087e949e4fb09f70889b9.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-792eea971759.png?v=1773573573",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-792eea971759.png?v=1773574321",
             "thumb_key": "thumbs/kaytee-792eea971759.webp"
           }
         },
@@ -320,7 +182,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2dd819de8855.png?v=1773573575",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2dd819de8855.png?v=1773574323",
             "width": 1600,
             "height": 1200
           },
@@ -375,7 +237,7 @@
             "team_b": "US Cremonese U20",
             "logo_a": "https://cdn.rapid-api.icu/football/team/da173090450e8e2bc9722c7a386a49ae.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/41297c11abf8eb9d5d023d4735b6b408.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2dd819de8855.png?v=1773573575",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2dd819de8855.png?v=1773574323",
             "thumb_key": "thumbs/kaytee-2dd819de8855.webp"
           }
         },
@@ -389,7 +251,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-711f1e8159d6.png?v=1773573577",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-711f1e8159d6.png?v=1773574326",
             "width": 1600,
             "height": 1200
           },
@@ -444,8 +306,146 @@
             "team_b": "VfB Stuttgart (W)",
             "logo_a": "https://cdn.rapid-api.icu/football/team/583f8dac3cd3afa8feb44c5520a754c0.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/89fad0635104761f7e3ea94a2150e698.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-711f1e8159d6.png?v=1773573577",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-711f1e8159d6.png?v=1773574326",
             "thumb_key": "thumbs/kaytee-711f1e8159d6.webp"
+          }
+        },
+        {
+          "id": "kaytee-9787ec0b5924",
+          "name": "⚽ Viktoria Berlin (w) vs SV Meppen (w) | 17:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9787ec0b5924.png?v=1773574328",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601305376",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601305376",
+                  "name": "Viktoria Berlin (w) vs SV Meppen (w)",
+                  "streams": [
+                    {
+                      "id": "st-601305376",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1490dc6d8c",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/fb032e2d0b7f3bc3e33cec859e87b8d8/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/viktoria-berlin-w-vs-sv-meppen-w-1700-15-03-2026/601305376"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "German Women's Bundesliga II",
+            "team_a": "Viktoria Berlin (w)",
+            "team_b": "SV Meppen (w)",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/7b11624190e66b3259da2b3c447ed803.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/9ca667896b89fb7bca1ccf13ff38f5e8.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9787ec0b5924.png?v=1773574328",
+            "thumb_key": "thumbs/kaytee-9787ec0b5924.webp"
+          }
+        },
+        {
+          "id": "kaytee-eebd87ab641d",
+          "name": "⚽ Pirin Blagoevgrad vs Vihren Sandanski | 17:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-eebd87ab641d.png?v=1773574330",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601305382",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601305382",
+                  "name": "Pirin Blagoevgrad vs Vihren Sandanski",
+                  "streams": [
+                    {
+                      "id": "st-601305382",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bd4aeb3f5b",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/47f37707575f287466333b004bf52bb4/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/pirin-blagoevgrad-vs-vihren-sandanski-1700-15-03-2026/601305382"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Bulgarian Second League",
+            "team_a": "Pirin Blagoevgrad",
+            "team_b": "Vihren Sandanski",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/e9ee766ede3d5f9f0e70baaf251b5549.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/e09e5c54099e7e64c4b51c533f5706c6.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-eebd87ab641d.png?v=1773574330",
+            "thumb_key": "thumbs/kaytee-eebd87ab641d.webp"
           }
         },
         {
@@ -458,7 +458,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2deea2a4c6cd.png?v=1773573580",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2deea2a4c6cd.png?v=1773574335",
             "width": 1600,
             "height": 1200
           },
@@ -530,7 +530,7 @@
             "team_b": "Dong Tam Long An",
             "logo_a": "https://cdn.rapid-api.icu/football/team/7d3a984bcf764b1e85663cdfaafce243.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/347d428c24e85dbda67f7817e7d80ebf.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2deea2a4c6cd.png?v=1773573580",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2deea2a4c6cd.png?v=1773574335",
             "thumb_key": "thumbs/kaytee-2deea2a4c6cd.webp"
           }
         },
@@ -544,7 +544,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7c7830a749f0.png?v=1773573582",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7c7830a749f0.png?v=1773574336",
             "width": 1600,
             "height": 1200
           },
@@ -616,7 +616,7 @@
             "team_b": "Qingdao West Coast FC",
             "logo_a": "https://cdn.rapid-api.icu/football/team/c4e143e537412003565cdb7c2d212538.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/383d42e0d0843463b538bc3367d0c4c9.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7c7830a749f0.png?v=1773573582",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7c7830a749f0.png?v=1773574336",
             "thumb_key": "thumbs/kaytee-7c7830a749f0.webp"
           }
         }
@@ -639,7 +639,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-44bdafde7013.png?v=1773573578",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-44bdafde7013.png?v=1773574332",
             "width": 1600,
             "height": 1200
           },
@@ -694,7 +694,7 @@
             "team_b": "WEN Ruibo",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/896d75fae4391fe42ef5793abba43342.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/3cc87cdb6f8944547e1a71fa49849f70.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-44bdafde7013.png?v=1773573578",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-44bdafde7013.png?v=1773574332",
             "thumb_key": "thumbs/kaytee-44bdafde7013.webp"
           }
         },
@@ -708,7 +708,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6389142f529c.png?v=1773573579",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6389142f529c.png?v=1773574333",
             "width": 1600,
             "height": 1200
           },
@@ -763,8 +763,86 @@
             "team_b": "Eklent Kaci",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/980f2ebfacd7f306e0ae3c10a0005812.webp",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/8ccde85542177bf68bb5001a825aa6ee.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6389142f529c.png?v=1773573579",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6389142f529c.png?v=1773574333",
             "thumb_key": "thumbs/kaytee-6389142f529c.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_billiard",
+      "name": "⏳ Sắp Live 🎱 Billiard",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-17120b99653f",
+          "name": "🎱 Choi Keon-hwi vs Kim Young-won | 18:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-17120b99653f.png?v=1773574337",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601314616",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601314616",
+                  "name": "Choi Keon-hwi vs Kim Young-won",
+                  "streams": [
+                    {
+                      "id": "st-601314616",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-603ecb1199",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b695df70a69_144313/index.m3u8?expire=1774178399&sign=ba9e3cf7f81079a92bf53490f171270f",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/choi-keonhwi-vs-kim-youngwon-1830-15-03-2026/601314616"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "PBA-LPBA World Championship 2026",
+            "team_a": "Choi Keon-hwi",
+            "team_b": "Kim Young-won",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a47c069f0a99e96fc9214b8284342096.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/810eb61673c3d74fc757b37bb3167104.jpg",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-17120b99653f.png?v=1773574337",
+            "thumb_key": "thumbs/kaytee-17120b99653f.webp"
           }
         }
       ]
