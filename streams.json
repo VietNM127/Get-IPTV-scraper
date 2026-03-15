@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-15T15:43:41.073316",
+  "updated_at": "2026-03-15T15:59:14.529858",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,264 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-6389142f529c",
-          "name": "⚽ Mario He vs Joshua Filler | 20:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6389142f529c.png?v=1773589412",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601314556",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601314556",
-                  "name": "Mario He vs Joshua Filler",
-                  "streams": [
-                    {
-                      "id": "st-601314556",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-947cee3215",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b68923326d9_103/index.m3u8?expire=1774175139&sign=13f4e9844ad2f6077c2d713090046545",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/mario-he-vs-joshua-filler-2000-15-03-2026/601314556"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "European Open Pool Championship 2026",
-            "team_a": "Mario He",
-            "team_b": "Joshua Filler",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/ce6c046fbd6b770c4cffa550600b3366.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/678b542f54374d34c84d5ada71346cf4.webp",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6389142f529c.png?v=1773589412",
-            "thumb_key": "thumbs/kaytee-6389142f529c.webp"
-          }
-        },
-        {
-          "id": "kaytee-f722946fe2cb",
-          "name": "⚽ Manchester United vs Aston Villa | 21:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f722946fe2cb.png?v=1773589414",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601306567",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601306567",
-                  "name": "Manchester United vs Aston Villa",
-                  "streams": [
-                    {
-                      "id": "st-601306567",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3c61c16a98",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b6b3b6326d9_79/index.m3u8?expire=1774186038&sign=ce56c5fdc9ac880da26df6114e5509f4",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/manchester-united-vs-aston-villa-2100-15-03-2026/601306567"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-1503c2f0d3",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b6b4e8326d9_72787/index.m3u8?expire=1774186344&sign=aad6925c6c5cbc2df7ba55b42cdc71a6",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/manchester-united-vs-aston-villa-2100-15-03-2026/601306567"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-6bb933aa8a",
-                          "name": "Link 3",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/27f123da35384a4326b740ab66e145f0/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/manchester-united-vs-aston-villa-2100-15-03-2026/601306567"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "English Premier League",
-            "team_a": "Manchester United",
-            "team_b": "Aston Villa",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/d39ce586fd7278342dde33b3090b3f75.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/a3c32d6a906083118cac2cb796edaab3.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f722946fe2cb.png?v=1773589414",
-            "thumb_key": "thumbs/kaytee-f722946fe2cb.webp"
-          }
-        },
-        {
-          "id": "kaytee-e319ec71bbff",
-          "name": "⚽ Nottingham Forest vs Fulham | 21:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e319ec71bbff.png?v=1773589415",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601306570",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601306570",
-                  "name": "Nottingham Forest vs Fulham",
-                  "streams": [
-                    {
-                      "id": "st-601306570",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6d407a7840",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b6b259326d9_133172/index.m3u8?expire=1774185689&sign=097786bf57522527af243a487681cedd",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/nottingham-forest-vs-fulham-2100-15-03-2026/601306570"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-9d923b9eac",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/e6a49058448f8c756d33a5dcd4bcefdd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/nottingham-forest-vs-fulham-2100-15-03-2026/601306570"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "English Premier League",
-            "team_a": "Nottingham Forest",
-            "team_b": "Fulham",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/62572999d107f777efa4aeb907443527.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/29982511f1ea861967c3e6478d6a8a68.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e319ec71bbff.png?v=1773589415",
-            "thumb_key": "thumbs/kaytee-e319ec71bbff.webp"
-          }
-        },
         {
           "id": "kaytee-6863a39a0156",
           "name": "⚽ Pisa vs Cagliari | 21:00",
@@ -285,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6863a39a0156.png?v=1773589417",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6863a39a0156.png?v=1773590351",
             "width": 1600,
             "height": 1200
           },
@@ -357,7 +99,7 @@
             "team_b": "Cagliari",
             "logo_a": "https://cdn.rapid-api.icu/football/team/7ca5de14056c7290f6787e0943aa11ad.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/dba65c184e03c860ed919ce192b86c5e.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6863a39a0156.png?v=1773589417",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6863a39a0156.png?v=1773590351",
             "thumb_key": "thumbs/kaytee-6863a39a0156.webp"
           }
         },
@@ -371,7 +113,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2ca94980998c.png?v=1773589419",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2ca94980998c.png?v=1773590351",
             "width": 1600,
             "height": 1200
           },
@@ -443,7 +185,7 @@
             "team_b": "Bologna",
             "logo_a": "https://cdn.rapid-api.icu/football/team/616bf242a532f72e970648f2ead423cf.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/bd12298fc3920bc20b7ad43b16ad9624.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2ca94980998c.png?v=1773589419",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2ca94980998c.png?v=1773590351",
             "thumb_key": "thumbs/kaytee-2ca94980998c.webp"
           }
         },
@@ -457,7 +199,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-507a98e74ed9.png?v=1773589421",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-507a98e74ed9.png?v=1773590351",
             "width": 1600,
             "height": 1200
           },
@@ -529,8 +271,232 @@
             "team_b": "Leeds United",
             "logo_a": "https://cdn.rapid-api.icu/football/team/42396d18444156e640c37476c2b41b93.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/cd46d2ed1d364308dc206c97b48ce556.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-507a98e74ed9.png?v=1773589421",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-507a98e74ed9.png?v=1773590351",
             "thumb_key": "thumbs/kaytee-507a98e74ed9.webp"
+          }
+        },
+        {
+          "id": "kaytee-081f93fdad96",
+          "name": "⚽ Dundee vs Dundee United | 21:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-081f93fdad96.png?v=1773590351",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601306591",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601306591",
+                  "name": "Dundee vs Dundee United",
+                  "streams": [
+                    {
+                      "id": "st-601306591",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ca61e78e47",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/e2d5a31139c7db123da6816f25abbb22/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/dundee-vs-dundee-united-2100-15-03-2026/601306591"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Scottish Premiership",
+            "team_a": "Dundee",
+            "team_b": "Dundee United",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/66353101398202ab87c6e04803b97e7b.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/39a72341d47b12221f9f959e52725d63.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-081f93fdad96.png?v=1773590351",
+            "thumb_key": "thumbs/kaytee-081f93fdad96.webp"
+          }
+        },
+        {
+          "id": "kaytee-a2c4899650d5",
+          "name": "⚽ SV Werder Bremen vs 1. FSV Mainz 05 | 21:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a2c4899650d5.png?v=1773590352",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601306921",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601306921",
+                  "name": "SV Werder Bremen vs 1. FSV Mainz 05",
+                  "streams": [
+                    {
+                      "id": "st-601306921",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-eb1547857b",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b6be1470a69_28/index.m3u8?expire=1774188692&sign=c5379d0623bee052703b052037765b61",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/sv-werder-bremen-vs-1-fsv-mainz-05-2130-15-03-2026/601306921"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-9242276df4",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/b6526f0404d4e152ed46ae3559b0df0b/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/sv-werder-bremen-vs-1-fsv-mainz-05-2130-15-03-2026/601306921"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Bundesliga",
+            "team_a": "SV Werder Bremen",
+            "team_b": "1. FSV Mainz 05",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/82e3b03a1df3d7ae3d38e9fdd24fe622.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/903089d338485f6c68fbc5da690a0628.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a2c4899650d5.png?v=1773590352",
+            "thumb_key": "thumbs/kaytee-a2c4899650d5.webp"
+          }
+        },
+        {
+          "id": "kaytee-6389142f529c",
+          "name": "⚽ Mario He vs Moritz Neuhausen | 22:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6389142f529c.png?v=1773590354",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601314556",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601314556",
+                  "name": "Mario He vs Moritz Neuhausen",
+                  "streams": [
+                    {
+                      "id": "st-601314556",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-947cee3215",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b68923326d9_103/index.m3u8?expire=1774175139&sign=13f4e9844ad2f6077c2d713090046545",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/mario-he-vs-moritz-neuhausen-2230-15-03-2026/601314556"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "European Open Pool Championship 2026",
+            "team_a": "Mario He",
+            "team_b": "Moritz Neuhausen",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/ce6c046fbd6b770c4cffa550600b3366.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/980f2ebfacd7f306e0ae3c10a0005812.webp",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6389142f529c.png?v=1773590354",
+            "thumb_key": "thumbs/kaytee-6389142f529c.webp"
           }
         }
       ]
