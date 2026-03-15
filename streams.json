@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-15T05:44:09.114535",
+  "updated_at": "2026-03-15T06:14:22.282100",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,299 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-5d061d36ad23",
-          "name": "⚽ Wollongong Wolves vs Spirit FC | 11:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5d061d36ad23.png?v=1773553434",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601305094",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601305094",
-                  "name": "Wollongong Wolves vs Spirit FC",
-                  "streams": [
-                    {
-                      "id": "st-601305094",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c0c5fab715",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b625fe326d8_74012/index.m3u8?expire=1774149758&sign=a1aa5224af4973c332ef34afb94617c2",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/wollongong-wolves-vs-spirit-fc-1100-15-03-2026/601305094"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-f7189a16f3",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/5aa01eb96d8767927f08cd1ef97256a8/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/wollongong-wolves-vs-spirit-fc-1100-15-03-2026/601305094"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Australia New South Wales Premier League",
-            "team_a": "Wollongong Wolves",
-            "team_b": "Spirit FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/efae44ec97227dca2a2b38a19823a2f2.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/22f0cc669b7a84a3b61e27dbb57cb139.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5d061d36ad23.png?v=1773553434",
-            "thumb_key": "thumbs/kaytee-5d061d36ad23.webp"
-          }
-        },
-        {
-          "id": "kaytee-1535c11ae5f2",
-          "name": "⚽ Vanraure Hachinohe FC vs Tochigi City | 11:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1535c11ae5f2.png?v=1773553436",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601305100",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601305100",
-                  "name": "Vanraure Hachinohe FC vs Tochigi City",
-                  "streams": [
-                    {
-                      "id": "st-601305100",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b38d6731b1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/bbfc77cb7c8448f6b0f1ed5e00f72812/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/vanraure-hachinohe-fc-vs-tochigi-city-1100-15-03-2026/601305100"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "J2/J3 100 Year Vision League",
-            "team_a": "Vanraure Hachinohe FC",
-            "team_b": "Tochigi City",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/3b0ad7d22d856a34a523cf4cecde0789.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/0587c755424c4e6290e45f9c52fb7b13.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1535c11ae5f2.png?v=1773553436",
-            "thumb_key": "thumbs/kaytee-1535c11ae5f2.webp"
-          }
-        },
-        {
-          "id": "kaytee-695b7179c6d7",
-          "name": "⚽ Blaublitz Akita vs Tochigi SC | 11:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-695b7179c6d7.png?v=1773553437",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601305103",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601305103",
-                  "name": "Blaublitz Akita vs Tochigi SC",
-                  "streams": [
-                    {
-                      "id": "st-601305103",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-de81324b8d",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/f708906279595c305a2d1090a083ecf7/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/blaublitz-akita-vs-tochigi-sc-1100-15-03-2026/601305103"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "J2/J3 100 Year Vision League",
-            "team_a": "Blaublitz Akita",
-            "team_b": "Tochigi SC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/7800ea1ee29937dbf7866cb6a275ef64.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/085e1ec0b3510610667169d0322bd17e.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-695b7179c6d7.png?v=1773553437",
-            "thumb_key": "thumbs/kaytee-695b7179c6d7.webp"
-          }
-        },
-        {
-          "id": "kaytee-2942b12a9aef",
-          "name": "⚽ Roasso Kumamoto vs Gainare Tottori | 11:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2942b12a9aef.png?v=1773553439",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601305106",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601305106",
-                  "name": "Roasso Kumamoto vs Gainare Tottori",
-                  "streams": [
-                    {
-                      "id": "st-601305106",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-10379b320a",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/c79c28edd0a00c007fa5f0ce6251c72f/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/roasso-kumamoto-vs-gainare-tottori-1100-15-03-2026/601305106"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "J2/J3 100 Year Vision League",
-            "team_a": "Roasso Kumamoto",
-            "team_b": "Gainare Tottori",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/809e95942827f1fca7b6c5cffd4777cb.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/ac6989e16cbd3e3a5c5aee60eb94206a.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2942b12a9aef.png?v=1773553439",
-            "thumb_key": "thumbs/kaytee-2942b12a9aef.webp"
-          }
-        },
         {
           "id": "kaytee-c0cea32299c9",
           "name": "⚽ Blacktown City Demons vs Marconi Stallions | 11:15",
@@ -320,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c0cea32299c9.png?v=1773553441",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c0cea32299c9.png?v=1773555244",
             "width": 1600,
             "height": 1200
           },
@@ -392,94 +99,8 @@
             "team_b": "Marconi Stallions",
             "logo_a": "https://cdn.rapid-api.icu/football/team/c074c4be85fe61509822008face2ef08.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/e1605aa2375e5aa780e43e89a0f1b080.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c0cea32299c9.png?v=1773553441",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c0cea32299c9.png?v=1773555244",
             "thumb_key": "thumbs/kaytee-c0cea32299c9.webp"
-          }
-        },
-        {
-          "id": "kaytee-2a769d8e8b7e",
-          "name": "⚽ Japan Women vs Philippines Women | 12:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2a769d8e8b7e.png?v=1773553442",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601305127",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601305127",
-                  "name": "Japan Women vs Philippines Women",
-                  "streams": [
-                    {
-                      "id": "st-601305127",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-70f7a23768",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b62c7d326d8_72787/index.m3u8?expire=1774151421&sign=f605b9a61f2dd6e165fa9a59d7f89829",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/japan-women-vs-philippines-women-1200-15-03-2026/601305127"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-099c79097d",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/d7dce9d87193037662834c0a1ddd4772/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/japan-women-vs-philippines-women-1200-15-03-2026/601305127"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Women’s Asian Cup",
-            "team_a": "Japan Women",
-            "team_b": "Philippines Women",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/511ce5ccb966e3fd16d3a8c1b99cc01a.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/3fe649ebb607f9ab42108bdcb0eeaf17.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2a769d8e8b7e.png?v=1773553442",
-            "thumb_key": "thumbs/kaytee-2a769d8e8b7e.webp"
           }
         },
         {
@@ -492,7 +113,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c72621062afb.png?v=1773553444",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c72621062afb.png?v=1773555245",
             "width": 1600,
             "height": 1200
           },
@@ -564,8 +185,387 @@
             "team_b": "Avispa Fukuoka",
             "logo_a": "https://cdn.rapid-api.icu/football/team/b28ace839956d8eacce11926ea5e43b3.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/bf0e2229b39b6cb6fd17e9d0f3fb747e.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c72621062afb.png?v=1773553444",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c72621062afb.png?v=1773555245",
             "thumb_key": "thumbs/kaytee-c72621062afb.webp"
+          }
+        },
+        {
+          "id": "kaytee-2a769d8e8b7e",
+          "name": "⚽ Japan Women vs Philippines Women | 12:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2a769d8e8b7e.png?v=1773555247",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601305127",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601305127",
+                  "name": "Japan Women vs Philippines Women",
+                  "streams": [
+                    {
+                      "id": "st-601305127",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-70f7a23768",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b62c7d326d8_72787/index.m3u8?expire=1774151421&sign=f605b9a61f2dd6e165fa9a59d7f89829",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/japan-women-vs-philippines-women-1200-15-03-2026/601305127"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-099c79097d",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/d7dce9d87193037662834c0a1ddd4772/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/japan-women-vs-philippines-women-1200-15-03-2026/601305127"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC Women’s Asian Cup",
+            "team_a": "Japan Women",
+            "team_b": "Philippines Women",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/511ce5ccb966e3fd16d3a8c1b99cc01a.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/3fe649ebb607f9ab42108bdcb0eeaf17.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2a769d8e8b7e.png?v=1773555247",
+            "thumb_key": "thumbs/kaytee-2a769d8e8b7e.webp"
+          }
+        },
+        {
+          "id": "kaytee-6b4c0a053d9c",
+          "name": "⚽ Jeju SK FC vs Football Club Seoul | 12:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6b4c0a053d9c.png?v=1773555249",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601305148",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601305148",
+                  "name": "Jeju SK FC vs Football Club Seoul",
+                  "streams": [
+                    {
+                      "id": "st-601305148",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-89202e3d70",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b63618326d8_136682/index.m3u8?expire=1774153880&sign=214c3566cc2a40fdd0de7fa5ab22015b",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/jeju-sk-fc-vs-football-club-seoul-1200-15-03-2026/601305148"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-ae2bedd7f3",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/3d9388b7c1f12435cee0eff88ff36bff/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/jeju-sk-fc-vs-football-club-seoul-1200-15-03-2026/601305148"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Korean K League 1",
+            "team_a": "Jeju SK FC",
+            "team_b": "Football Club Seoul",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/2d2abe914435bb9b7140cf2154c50de9.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/ad010af729c420626d1865ad744168d3.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6b4c0a053d9c.png?v=1773555249",
+            "thumb_key": "thumbs/kaytee-6b4c0a053d9c.webp"
+          }
+        },
+        {
+          "id": "kaytee-8f554fe5ee2c",
+          "name": "⚽ Sejong SA vs Geoje Citizen | 12:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8f554fe5ee2c.png?v=1773555252",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601304845",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601304845",
+                  "name": "Sejong SA vs Geoje Citizen",
+                  "streams": [
+                    {
+                      "id": "st-601304845",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7e6061d1fe",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/e50459b44806249d084cf1ef6011484e/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/sejong-sa-vs-geoje-citizen-1200-15-03-2026/601304845"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Korean K League 4",
+            "team_a": "Sejong SA",
+            "team_b": "Geoje Citizen",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/65a627b26a12fee546d516ce2a3982eb.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/82cddad4535a97f72cfe6d8d63ff8ed8.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8f554fe5ee2c.png?v=1773555252",
+            "thumb_key": "thumbs/kaytee-8f554fe5ee2c.webp"
+          }
+        },
+        {
+          "id": "kaytee-20024d75c6e7",
+          "name": "⚽ Jecheon Citizen FC vs Pyeongtaek Citizen | 12:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-20024d75c6e7.png?v=1773555254",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601304848",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601304848",
+                  "name": "Jecheon Citizen FC vs Pyeongtaek Citizen",
+                  "streams": [
+                    {
+                      "id": "st-601304848",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9b5bd4df68",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/24871417dfd54300618a83905b2244ed/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/jecheon-citizen-fc-vs-pyeongtaek-citizen-1200-15-03-2026/601304848"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Korean K League 4",
+            "team_a": "Jecheon Citizen FC",
+            "team_b": "Pyeongtaek Citizen",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/2097b02bb77549cb76329cd142761c72.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/3466ec3855405f63da99ce7013d3444b.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-20024d75c6e7.png?v=1773555254",
+            "thumb_key": "thumbs/kaytee-20024d75c6e7.webp"
+          }
+        },
+        {
+          "id": "kaytee-bfec655cc686",
+          "name": "⚽ Haman FC vs Gijang United | 12:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bfec655cc686.png?v=1773555256",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601304851",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601304851",
+                  "name": "Haman FC vs Gijang United",
+                  "streams": [
+                    {
+                      "id": "st-601304851",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ecf0f24e48",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/56d2cba1946be8d74f8e17820323d635/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/haman-fc-vs-gijang-united-1200-15-03-2026/601304851"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Korean K League 4",
+            "team_a": "Haman FC",
+            "team_b": "Gijang United",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/e984b5f764a158fa2836fd1ff6b7cfab.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/23e28101e102691522bc7b4a02a7fc1f.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bfec655cc686.png?v=1773555256",
+            "thumb_key": "thumbs/kaytee-bfec655cc686.webp"
           }
         },
         {
@@ -578,7 +578,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-04c8d7f51d61.png?v=1773553447",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-04c8d7f51d61.png?v=1773555259",
             "width": 1600,
             "height": 1200
           },
@@ -633,7 +633,7 @@
             "team_b": "LG Sakers",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/9bef33c943c16b7aedec052a581c14d2.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/d1734a5bdcd32d87993c722b8f5c108b.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-04c8d7f51d61.png?v=1773553447",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-04c8d7f51d61.png?v=1773555259",
             "thumb_key": "thumbs/kaytee-04c8d7f51d61.webp"
           }
         }
@@ -656,7 +656,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-30cb55afd69e.png?v=1773553446",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-30cb55afd69e.png?v=1773555258",
             "width": 1600,
             "height": 1200
           },
@@ -711,7 +711,7 @@
             "team_b": "Seoul Thunders",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/3e598258677ca4b7970d21e7f5f18ac2.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/619420e599f83b1d3616d9faf5397e4e.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-30cb55afd69e.png?v=1773553446",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-30cb55afd69e.png?v=1773555258",
             "thumb_key": "thumbs/kaytee-30cb55afd69e.webp"
           }
         }
@@ -734,7 +734,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b9602028aa5f.png?v=1773553447",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b9602028aa5f.png?v=1773555260",
             "width": 1600,
             "height": 1200
           },
@@ -789,7 +789,7 @@
             "team_b": "KAL Jumbos",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/10341499f6bc61ed1f1528af7c2b2222.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/ce9d0af1f3e46e04ef15507983839fcf.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b9602028aa5f.png?v=1773553447",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b9602028aa5f.png?v=1773555260",
             "thumb_key": "thumbs/kaytee-b9602028aa5f.webp"
           }
         }
@@ -812,7 +812,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-44bdafde7013.png?v=1773553449",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-44bdafde7013.png?v=1773555261",
             "width": 1600,
             "height": 1200
           },
@@ -867,8 +867,86 @@
             "team_b": "WEN Ruibo",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/896d75fae4391fe42ef5793abba43342.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/3cc87cdb6f8944547e1a71fa49849f70.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-44bdafde7013.png?v=1773553449",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-44bdafde7013.png?v=1773555261",
             "thumb_key": "thumbs/kaytee-44bdafde7013.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_billiard",
+      "name": "⏳ Sắp Live 🎱 Billiard",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-6b26162397af",
+          "name": "🎱 Han Ji-eun vs Kim Ga-young | 14:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6b26162397af.png?v=1773555262",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601314613",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601314613",
+                  "name": "Han Ji-eun vs Kim Ga-young",
+                  "streams": [
+                    {
+                      "id": "st-601314613",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-192fb919fd",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b64af170a69_144313/index.m3u8?expire=1774159217&sign=44832ce7515dc5c343529abbfd1038a7",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/han-jieun-vs-kim-gayoung-1400-15-03-2026/601314613"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "PBA-LPBA World Championship 2026",
+            "team_a": "Han Ji-eun",
+            "team_b": "Kim Ga-young",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a80c44adbb48162ca52811e925278b55.jpg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/59d465939819f0c24e54596de8d962ff.jpg",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6b26162397af.png?v=1773555262",
+            "thumb_key": "thumbs/kaytee-6b26162397af.webp"
           }
         }
       ]
