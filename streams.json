@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-15T15:02:48.306070",
+  "updated_at": "2026-03-15T15:39:36.807411",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6389142f529c.png?v=1773586950",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6389142f529c.png?v=1773589162",
             "width": 1600,
             "height": 1200
           },
@@ -82,13 +82,13 @@
             "team_b": "Joshua Filler",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/ce6c046fbd6b770c4cffa550600b3366.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/678b542f54374d34c84d5ada71346cf4.webp",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6389142f529c.png?v=1773586950",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6389142f529c.png?v=1773589162",
             "thumb_key": "thumbs/kaytee-6389142f529c.webp"
           }
         },
         {
-          "id": "kaytee-a596e7b4b261",
-          "name": "⚽ Cordoba vs Real Sociedad B | 20:00",
+          "id": "kaytee-71ef69b31d97",
+          "name": "⚽ Zaglebie Lubin vs Lech Poznan | 20:45",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -96,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a596e7b4b261.png?v=1773586955",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-71ef69b31d97.png?v=1773589164",
             "width": 1600,
             "height": 1200
           },
@@ -110,27 +110,27 @@
           ],
           "sources": [
             {
-              "id": "src-601306033",
+              "id": "src-601306555",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601306033",
-                  "name": "Cordoba vs Real Sociedad B",
+                  "id": "ct-601306555",
+                  "name": "Zaglebie Lubin vs Lech Poznan",
                   "streams": [
                     {
-                      "id": "st-601306033",
+                      "id": "st-601306555",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-5ad6fb3818",
+                          "id": "lnk-b4208a75bf",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live.alilicloud.com/live/ff25d50dbbdb51826b6944e57a842afb/playlist.m3u8",
+                          "url": "https://live.alilicloud.com/live/b33f1f89f8be8c9b43e7aa78ea7134ac/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/cordoba-vs-real-sociedad-b-2000-15-03-2026/601306033"
+                              "value": "https://bunchatv1.net/truc-tiep/zaglebie-lubin-vs-lech-poznan-2045-15-03-2026/601306555"
                             },
                             {
                               "key": "User-Agent",
@@ -146,220 +146,13 @@
             }
           ],
           "org_metadata": {
-            "league": "Spanish Segunda Division",
-            "team_a": "Cordoba",
-            "team_b": "Real Sociedad B",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/cd6fd11fd9ca07c46747cb03b87f4dbb.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/d29164c8a90c597e5333f1bf14f289f2.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a596e7b4b261.png?v=1773586955",
-            "thumb_key": "thumbs/kaytee-a596e7b4b261.webp"
-          }
-        },
-        {
-          "id": "kaytee-10832b7fb449",
-          "name": "⚽ Kasimpasa vs Eyupspor | 20:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-10832b7fb449.png?v=1773586958",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601306036",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601306036",
-                  "name": "Kasimpasa vs Eyupspor",
-                  "streams": [
-                    {
-                      "id": "st-601306036",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-19819cf699",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/13bcae9b73bcf9df167686b95df721f6/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/kasimpasa-vs-eyupspor-2000-15-03-2026/601306036"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Turkish Super League",
-            "team_a": "Kasimpasa",
-            "team_b": "Eyupspor",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/483f6ade158f44eb24849b6076377355.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/5a15fbeafbace6653cf789b2a252615f.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-10832b7fb449.png?v=1773586958",
-            "thumb_key": "thumbs/kaytee-10832b7fb449.webp"
-          }
-        },
-        {
-          "id": "kaytee-19feb9421993",
-          "name": "⚽ Juventus (w) vs AC Milan (w) | 20:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-19feb9421993.png?v=1773586960",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601306063",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601306063",
-                  "name": "Juventus (w) vs AC Milan (w)",
-                  "streams": [
-                    {
-                      "id": "st-601306063",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-353b877142",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/4b9337ef80b70a75fc489497999a0a8e/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/juventus-w-vs-ac-milan-w-2000-15-03-2026/601306063"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Italian Women's Serie A",
-            "team_a": "Juventus (w)",
-            "team_b": "AC Milan (w)",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/d7e0dd2c30416452115958332ba7c4ee.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/8bf8786fd3c0058094df2f7bf9616015.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-19feb9421993.png?v=1773586960",
-            "thumb_key": "thumbs/kaytee-19feb9421993.webp"
-          }
-        },
-        {
-          "id": "kaytee-9b7071028e96",
-          "name": "⚽ Feyenoord vs Excelsior SBV | 20:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9b7071028e96.png?v=1773586961",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601306237",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601306237",
-                  "name": "Feyenoord vs Excelsior SBV",
-                  "streams": [
-                    {
-                      "id": "st-601306237",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d01fc5dd64",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b6b13f326d9_73445/index.m3u8?expire=1774185407&sign=c0c763bfee54e9229942ed78859e3d69",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/feyenoord-vs-excelsior-sbv-2030-15-03-2026/601306237"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Netherlands Eredivisie",
-            "team_a": "Feyenoord",
-            "team_b": "Excelsior SBV",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/44073f2d2c979a9388f98505ac3b754d.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/57b4c68789a8bedcb43174f5f4eb164a.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9b7071028e96.png?v=1773586961",
-            "thumb_key": "thumbs/kaytee-9b7071028e96.webp"
+            "league": "PKO Bank Polski EKSTRAKLASA",
+            "team_a": "Zaglebie Lubin",
+            "team_b": "Lech Poznan",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/9d70c0303c9942dc0be30cc7e1fe4673.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/d49ab93fbac0f4602293bac98b94d9c0.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-71ef69b31d97.png?v=1773589164",
+            "thumb_key": "thumbs/kaytee-71ef69b31d97.webp"
           }
         },
         {
@@ -372,7 +165,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f722946fe2cb.png?v=1773586963",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f722946fe2cb.png?v=1773589167",
             "width": 1600,
             "height": 1200
           },
@@ -461,7 +254,7 @@
             "team_b": "Aston Villa",
             "logo_a": "https://cdn.rapid-api.icu/football/team/d39ce586fd7278342dde33b3090b3f75.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/a3c32d6a906083118cac2cb796edaab3.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f722946fe2cb.png?v=1773586963",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f722946fe2cb.png?v=1773589167",
             "thumb_key": "thumbs/kaytee-f722946fe2cb.webp"
           }
         },
@@ -475,7 +268,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e319ec71bbff.png?v=1773586965",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e319ec71bbff.png?v=1773589170",
             "width": 1600,
             "height": 1200
           },
@@ -547,7 +340,7 @@
             "team_b": "Fulham",
             "logo_a": "https://cdn.rapid-api.icu/football/team/62572999d107f777efa4aeb907443527.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/29982511f1ea861967c3e6478d6a8a68.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e319ec71bbff.png?v=1773586965",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e319ec71bbff.png?v=1773589170",
             "thumb_key": "thumbs/kaytee-e319ec71bbff.webp"
           }
         },
@@ -561,7 +354,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6863a39a0156.png?v=1773586967",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6863a39a0156.png?v=1773589173",
             "width": 1600,
             "height": 1200
           },
@@ -633,13 +426,13 @@
             "team_b": "Cagliari",
             "logo_a": "https://cdn.rapid-api.icu/football/team/7ca5de14056c7290f6787e0943aa11ad.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/dba65c184e03c860ed919ce192b86c5e.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6863a39a0156.png?v=1773586967",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6863a39a0156.png?v=1773589173",
             "thumb_key": "thumbs/kaytee-6863a39a0156.webp"
           }
         },
         {
-          "id": "kaytee-fab71db3c84d",
-          "name": "⚽ Alwi FARHAN vs Yushi TANAKA | 21:20",
+          "id": "kaytee-2ca94980998c",
+          "name": "⚽ Sassuolo vs Bologna | 21:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -647,7 +440,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fab71db3c84d.png?v=1773586968",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2ca94980998c.png?v=1773589175",
             "width": 1600,
             "height": 1200
           },
@@ -661,105 +454,27 @@
           ],
           "sources": [
             {
-              "id": "src-601314538",
+              "id": "src-601306561",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601314538",
-                  "name": "Alwi FARHAN vs Yushi TANAKA",
+                  "id": "ct-601306561",
+                  "name": "Sassuolo vs Bologna",
                   "streams": [
                     {
-                      "id": "st-601314538",
+                      "id": "st-601306561",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-4a0c3de4a9",
+                          "id": "lnk-497c5875f7",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b68393326d9_110198/index.m3u8?expire=1774173715&sign=314536c0be733071fc97d701dc275d2b",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b6a38f70a69_44731/index.m3u8?expire=1774181903&sign=a02ada49f61c1a02bf867153b96b2b36",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/alwi-farhan-vs-yushi-tanaka-2120-15-03-2026/601314538"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Sân 1 - YONEX Swiss Open 2026",
-            "team_a": "Alwi FARHAN",
-            "team_b": "Yushi TANAKA",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a11ebcdafa07805d8ed1334a4175bc19.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/02226a1430fbdc5928c3a6338ccd0311.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fab71db3c84d.png?v=1773586968",
-            "thumb_key": "thumbs/kaytee-fab71db3c84d.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "live_bóng_bàn",
-      "name": "🔴 Live 🏓 Bóng Bàn",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-7295f010ddc8",
-          "name": "🏓 RCD Mallorca vs RCD Espanyol de Barcelona | 20:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7295f010ddc8.png?v=1773586952",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601306027",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601306027",
-                  "name": "RCD Mallorca vs RCD Espanyol de Barcelona",
-                  "streams": [
-                    {
-                      "id": "st-601306027",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9026339b9f",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b6ab96326d9_88642/index.m3u8?expire=1774183958&sign=b519b62b74b70ef6c6e6a2e8fb55e981",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/rcd-mallorca-vs-rcd-espanyol-de-barcelona-2000-15-03-2026/601306027"
+                              "value": "https://bunchatv1.net/truc-tiep/sassuolo-vs-bologna-2100-15-03-2026/601306561"
                             },
                             {
                               "key": "User-Agent",
@@ -768,15 +483,15 @@
                           ]
                         },
                         {
-                          "id": "lnk-a0adf09b2d",
+                          "id": "lnk-1b35ae598d",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://live.alilicloud.com/live/1ab5d81518fd295bbb9d4e676e20d002/playlist.m3u8",
+                          "url": "https://live.alilicloud.com/live/02a949ea6179d25fb1f7752ca9d07601/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/rcd-mallorca-vs-rcd-espanyol-de-barcelona-2000-15-03-2026/601306027"
+                              "value": "https://bunchatv1.net/truc-tiep/sassuolo-vs-bologna-2100-15-03-2026/601306561"
                             },
                             {
                               "key": "User-Agent",
@@ -792,13 +507,99 @@
             }
           ],
           "org_metadata": {
-            "league": "Spanish La Liga",
-            "team_a": "RCD Mallorca",
-            "team_b": "RCD Espanyol de Barcelona",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/fdef90456d2a2eee09976c558457aec7.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/214049d4df11756a2eb21bbd8266e2a1.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7295f010ddc8.png?v=1773586952",
-            "thumb_key": "thumbs/kaytee-7295f010ddc8.webp"
+            "league": "Italian Serie A",
+            "team_a": "Sassuolo",
+            "team_b": "Bologna",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/616bf242a532f72e970648f2ead423cf.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/bd12298fc3920bc20b7ad43b16ad9624.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2ca94980998c.png?v=1773589175",
+            "thumb_key": "thumbs/kaytee-2ca94980998c.webp"
+          }
+        },
+        {
+          "id": "kaytee-507a98e74ed9",
+          "name": "⚽ Crystal Palace vs Leeds United | 21:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-507a98e74ed9.png?v=1773589176",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601306564",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601306564",
+                  "name": "Crystal Palace vs Leeds United",
+                  "streams": [
+                    {
+                      "id": "st-601306564",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fa4bc14bdf",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b6aec970a69_88186/index.m3u8?expire=1774184777&sign=a0faada47e1283bbabdef48f49ff5f4e",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/crystal-palace-vs-leeds-united-2100-15-03-2026/601306564"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-be69ed9d13",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/a67dc5e6f48253b8982e94fed6e463b5/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/crystal-palace-vs-leeds-united-2100-15-03-2026/601306564"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Premier League",
+            "team_a": "Crystal Palace",
+            "team_b": "Leeds United",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/42396d18444156e640c37476c2b41b93.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/cd46d2ed1d364308dc206c97b48ce556.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-507a98e74ed9.png?v=1773589176",
+            "thumb_key": "thumbs/kaytee-507a98e74ed9.webp"
           }
         }
       ]
