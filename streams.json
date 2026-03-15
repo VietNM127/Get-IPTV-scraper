@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-15T18:00:17.299938",
+  "updated_at": "2026-03-15T18:53:52.267571",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -18,8 +18,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-b840e2265c9e",
-          "name": "⚽ LKS Lodz vs Odra Opole | 23:00",
+          "id": "kaytee-179db891a85e",
+          "name": "⚽ Bo Rangers vs Lamboi | 23:30",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b840e2265c9e.png?v=1773597604",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-179db891a85e.png?v=1773600832",
             "width": 1600,
             "height": 1200
           },
@@ -41,27 +41,27 @@
           ],
           "sources": [
             {
-              "id": "src-601307329",
+              "id": "src-601314481",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601307329",
-                  "name": "LKS Lodz vs Odra Opole",
+                  "id": "ct-601314481",
+                  "name": "Bo Rangers vs Lamboi",
                   "streams": [
                     {
-                      "id": "st-601307329",
+                      "id": "st-601314481",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-1dc1756b03",
+                          "id": "lnk-16a26d2bb2",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live.alilicloud.com/live/bdfa8a7cb51be56f85a62d02607fdaa2/playlist.m3u8",
+                          "url": "https://live.alilicloud.com/live/e14243c04b9a0898a3b415e527a37338/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/lks-lodz-vs-odra-opole-2300-15-03-2026/601307329"
+                              "value": "https://bunchatv1.net/truc-tiep/bo-rangers-vs-lamboi-2330-15-03-2026/601314481"
                             },
                             {
                               "key": "User-Agent",
@@ -77,564 +77,13 @@
             }
           ],
           "org_metadata": {
-            "league": "Poland Liga 1",
-            "team_a": "LKS Lodz",
-            "team_b": "Odra Opole",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/56d3aeaa2fd038791adb4364e9543b82.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/f1f33ada6e71cb1b66b173d41479a883.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b840e2265c9e.png?v=1773597604",
-            "thumb_key": "thumbs/kaytee-b840e2265c9e.webp"
-          }
-        },
-        {
-          "id": "kaytee-44e6124150c3",
-          "name": "⚽ IMT Novi Beograd vs Crvena Zvezda | 23:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-44e6124150c3.png?v=1773597605",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601307332",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601307332",
-                  "name": "IMT Novi Beograd vs Crvena Zvezda",
-                  "streams": [
-                    {
-                      "id": "st-601307332",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-dd08dd4c9b",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/1049091dbf30c5bc3e1ead51684543dd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/imt-novi-beograd-vs-crvena-zvezda-2300-15-03-2026/601307332"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Serbian Super liga",
-            "team_a": "IMT Novi Beograd",
-            "team_b": "Crvena Zvezda",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/9c1777c5f9d29d3c8ce03960caa52a64.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/61a1f9406cde098a265280a3683da9b7.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-44e6124150c3.png?v=1773597605",
-            "thumb_key": "thumbs/kaytee-44e6124150c3.webp"
-          }
-        },
-        {
-          "id": "kaytee-b68bdc0450cd",
-          "name": "⚽ Rubin Kazan vs Lokomotiv Moscow | 23:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b68bdc0450cd.png?v=1773597608",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601307335",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601307335",
-                  "name": "Rubin Kazan vs Lokomotiv Moscow",
-                  "streams": [
-                    {
-                      "id": "st-601307335",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-cedf0ac525",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/a9c40169bf4ccb15580b64d08f17713f/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/rubin-kazan-vs-lokomotiv-moscow-2300-15-03-2026/601307335"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Russian Premier League",
-            "team_a": "Rubin Kazan",
-            "team_b": "Lokomotiv Moscow",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/db58fdf26d9c934236772a9721fa750b.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/5517b8865aa5280667bd899f6810d466.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b68bdc0450cd.png?v=1773597608",
-            "thumb_key": "thumbs/kaytee-b68bdc0450cd.webp"
-          }
-        },
-        {
-          "id": "kaytee-51cbf0723b1e",
-          "name": "⚽ KFUM Oslo vs Start Kristiansand | 23:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-51cbf0723b1e.png?v=1773597610",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601307524",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601307524",
-                  "name": "KFUM Oslo vs Start Kristiansand",
-                  "streams": [
-                    {
-                      "id": "st-601307524",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c78f4d3d2f",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/2e049be4f3c73ba9a6355bfc8be9f9c4/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/kfum-oslo-vs-start-kristiansand-2300-15-03-2026/601307524"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Norwegian Eliteserien",
-            "team_a": "KFUM Oslo",
-            "team_b": "Start Kristiansand",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/78581e2ef61df4a79eb3b24254665b88.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/ee17e7b8f55f0f6ffb1f766bc565f9a5.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-51cbf0723b1e.png?v=1773597610",
-            "thumb_key": "thumbs/kaytee-51cbf0723b1e.webp"
-          }
-        },
-        {
-          "id": "kaytee-bf34eb9ff993",
-          "name": "⚽ Havre Athletic Club vs Lyon | 23:15",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bf34eb9ff993.png?v=1773597612",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601307551",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601307551",
-                  "name": "Havre Athletic Club vs Lyon",
-                  "streams": [
-                    {
-                      "id": "st-601307551",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7d63e2d580",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b6d84d326d9_85514/index.m3u8?expire=1774195405&sign=0d8d0b01a26d598ae12123d1a3d14482",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/havre-athletic-club-vs-lyon-2315-15-03-2026/601307551"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-da0332fbbd",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/2c0b5de0d4c30862f0cd71e55d8c621b/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/havre-athletic-club-vs-lyon-2315-15-03-2026/601307551"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "French Ligue 1",
-            "team_a": "Havre Athletic Club",
-            "team_b": "Lyon",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/8fd50a53dad5ea4fd2d32bd3ce727f58.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/92fb3cf79ea2ba919b94b04668e13491.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bf34eb9ff993.png?v=1773597612",
-            "thumb_key": "thumbs/kaytee-bf34eb9ff993.webp"
-          }
-        },
-        {
-          "id": "kaytee-710e30061c53",
-          "name": "⚽ Metz vs Toulouse FC | 23:15",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-710e30061c53.png?v=1773597613",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601307554",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601307554",
-                  "name": "Metz vs Toulouse FC",
-                  "streams": [
-                    {
-                      "id": "st-601307554",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d524e38bb2",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/6759657752426853a146bb1fec575ba2/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/metz-vs-toulouse-fc-2315-15-03-2026/601307554"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "French Ligue 1",
-            "team_a": "Metz",
-            "team_b": "Toulouse FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/16fd214da24aef0bbb775e44fe7e79f2.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/2947fe2f42551a5b7eccca7fc948f879.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-710e30061c53.png?v=1773597613",
-            "thumb_key": "thumbs/kaytee-710e30061c53.webp"
-          }
-        },
-        {
-          "id": "kaytee-b48becf264c6",
-          "name": "⚽ Liverpool vs Tottenham Hotspur | 23:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b48becf264c6.png?v=1773597615",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601307572",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601307572",
-                  "name": "Liverpool vs Tottenham Hotspur",
-                  "streams": [
-                    {
-                      "id": "st-601307572",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-22d5aa83fd",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b6d74d70a69_133172/index.m3u8?expire=1774195149&sign=48144b8038e87d96a9bedc0a584077b6",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/liverpool-vs-tottenham-hotspur-2330-15-03-2026/601307572"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-c9737e4cca",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b6d74570a69_44731/index.m3u8?expire=1774195141&sign=cca14cf85abdf78e5808f8eb75e18f2e",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/liverpool-vs-tottenham-hotspur-2330-15-03-2026/601307572"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-6edcc5112b",
-                          "name": "Link 3",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/574a77b53bf593387ab33f71a85756e2/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/liverpool-vs-tottenham-hotspur-2330-15-03-2026/601307572"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "English Premier League",
-            "team_a": "Liverpool",
-            "team_b": "Tottenham Hotspur",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/1cb3d08adac0e2dc1c4f10429d055bfe.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/8b22ab4041e666b996a2d96f20dea707.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b48becf264c6.png?v=1773597615",
-            "thumb_key": "thumbs/kaytee-b48becf264c6.webp"
-          }
-        },
-        {
-          "id": "kaytee-63a23cee80f5",
-          "name": "⚽ SC Freiburg vs 1. FC Union Berlin | 23:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-63a23cee80f5.png?v=1773597617",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601307575",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601307575",
-                  "name": "SC Freiburg vs 1. FC Union Berlin",
-                  "streams": [
-                    {
-                      "id": "st-601307575",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8121761072",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b6d86f70a69_88186/index.m3u8?expire=1774195439&sign=cbc1ceb503708db2fc61f17411716a4a",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/sc-freiburg-vs-1-fc-union-berlin-2330-15-03-2026/601307575"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-a477a032c0",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/6a179c61419f2fc8ae93192fef5ba6da/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/sc-freiburg-vs-1-fc-union-berlin-2330-15-03-2026/601307575"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Bundesliga",
-            "team_a": "SC Freiburg",
-            "team_b": "1. FC Union Berlin",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/6508946c9a5fe22a8784b905b25e8c79.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/45ab4c846b0d4df5b002c571b16112dc.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-63a23cee80f5.png?v=1773597617",
-            "thumb_key": "thumbs/kaytee-63a23cee80f5.webp"
+            "league": "Sierra Leone Premier League",
+            "team_a": "Bo Rangers",
+            "team_b": "Lamboi",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/fb45c15b10b58f6aea87f77d24593ef9.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/79ffcdd49711effd18c9535fff5924a3.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-179db891a85e.png?v=1773600832",
+            "thumb_key": "thumbs/kaytee-179db891a85e.webp"
           }
         }
       ]
