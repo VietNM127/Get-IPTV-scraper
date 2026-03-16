@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-16T07:45:14.573470",
+  "updated_at": "2026-03-16T08:05:13.466097",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-217832605304.png?v=1773647112",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-217832605304.png?v=1773648309",
             "width": 1600,
             "height": 1200
           },
@@ -82,7 +82,7 @@
             "team_b": "Muir",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/40bd826b9586e6279788297dbef06991.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/6f22f950fd2625a8b0216caa0ab46758.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-217832605304.png?v=1773647112",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-217832605304.png?v=1773648309",
             "thumb_key": "thumbs/kaytee-217832605304.webp"
           }
         },
@@ -96,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5dafc6f1bee7.png?v=1773647114",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5dafc6f1bee7.png?v=1773648311",
             "width": 1600,
             "height": 1200
           },
@@ -151,8 +151,86 @@
             "team_b": "Hawassa City Fc (W)",
             "logo_a": "https://cdn.rapid-api.icu/football/team/88e7a5eb8c24d0120f301914e5ca8720.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/aafeb22e62efdea7e56af3f918e12765.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5dafc6f1bee7.png?v=1773647114",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5dafc6f1bee7.png?v=1773648311",
             "thumb_key": "thumbs/kaytee-5dafc6f1bee7.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_bóng_đá",
+      "name": "⏳ Sắp Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-2f6d43d76551",
+          "name": "⚽ Ulytau Zhezkazgan vs Kyzylzhar Petropavlovsk | 16:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2f6d43d76551.png?v=1773648313",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601308211",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601308211",
+                  "name": "Ulytau Zhezkazgan vs Kyzylzhar Petropavlovsk",
+                  "streams": [
+                    {
+                      "id": "st-601308211",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ab17754353",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b7b7b970a69_72787/index.m3u8?expire=1774252601&sign=8ef37047a0f3994ba7e120abaf24e885",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/ulytau-zhezkazgan-vs-kyzylzhar-petropavlovsk-1600-16-03-2026/601308211"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Kazakhstan Premier League",
+            "team_a": "Ulytau Zhezkazgan",
+            "team_b": "Kyzylzhar Petropavlovsk",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/1c0bf62c4b74951819a2f761c3d3b5fe.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/c61c3199500be14782a4d533db7e52a2.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2f6d43d76551.png?v=1773648313",
+            "thumb_key": "thumbs/kaytee-2f6d43d76551.webp"
           }
         }
       ]
