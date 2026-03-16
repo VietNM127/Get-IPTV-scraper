@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-16T16:34:10.289215",
+  "updated_at": "2026-03-16T16:53:56.752381",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-86ba08c50405.png?v=1773678843",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-86ba08c50405.png?v=1773680028",
             "width": 1600,
             "height": 1200
           },
@@ -99,7 +99,7 @@
             "team_b": "Ordabasy",
             "logo_a": "https://cdn.rapid-api.icu/football/team/16ccfd6042d1f791302c69eec646e081.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/56445b7fccea061fbee0ac71cbd53a83.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-86ba08c50405.png?v=1773678843",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-86ba08c50405.png?v=1773680028",
             "thumb_key": "thumbs/kaytee-86ba08c50405.webp"
           }
         },
@@ -113,7 +113,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-acfeb162f994.png?v=1773678845",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-acfeb162f994.png?v=1773680030",
             "width": 1600,
             "height": 1200
           },
@@ -185,7 +185,7 @@
             "team_b": "FC Noah",
             "logo_a": "https://cdn.rapid-api.icu/football/team/079bdbf302d4831bbbd8d623d25f27ff.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/5ef6703cd46b664af49e25a398161d6a.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-acfeb162f994.png?v=1773678845",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-acfeb162f994.png?v=1773680030",
             "thumb_key": "thumbs/kaytee-acfeb162f994.webp"
           }
         },
@@ -199,7 +199,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bdc29be8010f.png?v=1773678850",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bdc29be8010f.png?v=1773680034",
             "width": 1600,
             "height": 1200
           },
@@ -271,8 +271,77 @@
             "team_b": "OFK Beograd",
             "logo_a": "https://cdn.rapid-api.icu/football/team/7d35c67da2b80a3092e25e784ce21762.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/8db9790c6344a2972f45d95fb776877a.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bdc29be8010f.png?v=1773678850",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bdc29be8010f.png?v=1773680034",
             "thumb_key": "thumbs/kaytee-bdc29be8010f.webp"
+          }
+        },
+        {
+          "id": "kaytee-6fc1fd49cc03",
+          "name": "⚽ Downtown FC vs Wologisi FC | 23:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6fc1fd49cc03.png?v=1773680036",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601311118",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601311118",
+                  "name": "Downtown FC vs Wologisi FC",
+                  "streams": [
+                    {
+                      "id": "st-601311118",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d4f24065cb",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/9acf78cd995e957b30946a52918d2278/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/downtown-fc-vs-wologisi-fc-2300-16-03-2026/601311118"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Liberia First Division",
+            "team_a": "Downtown FC",
+            "team_b": "Wologisi FC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/9c61b908b155a0469c7abec3b2b76a5b.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/36cecdab1e12710176c8fc8eac554091.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6fc1fd49cc03.png?v=1773680036",
+            "thumb_key": "thumbs/kaytee-6fc1fd49cc03.webp"
           }
         }
       ]
@@ -294,7 +363,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-784833ab140a.png?v=1773678847",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-784833ab140a.png?v=1773680032",
             "width": 1600,
             "height": 1200
           },
@@ -366,7 +435,7 @@
             "team_b": "FC Unirea 2004 Slobozia",
             "logo_a": "https://cdn.rapid-api.icu/football/team/b7e1d23bb62776473efc5ef196a98de5.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/b17f903b42eebe1e7ad55f4f346d2bf8.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-784833ab140a.png?v=1773678847",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-784833ab140a.png?v=1773680032",
             "thumb_key": "thumbs/kaytee-784833ab140a.webp"
           }
         }
