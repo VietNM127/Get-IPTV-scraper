@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-16T06:54:37.695034",
+  "updated_at": "2026-03-16T07:45:14.573470",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-217832605304.png?v=1773644077",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-217832605304.png?v=1773647112",
             "width": 1600,
             "height": 1200
           },
@@ -82,8 +82,77 @@
             "team_b": "Muir",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/40bd826b9586e6279788297dbef06991.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/6f22f950fd2625a8b0216caa0ab46758.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-217832605304.png?v=1773644077",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-217832605304.png?v=1773647112",
             "thumb_key": "thumbs/kaytee-217832605304.webp"
+          }
+        },
+        {
+          "id": "kaytee-5dafc6f1bee7",
+          "name": "⚽ Ethio Electric FC Women vs Hawassa City Fc (W) | 14:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5dafc6f1bee7.png?v=1773647114",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601321798",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601321798",
+                  "name": "Ethio Electric FC Women vs Hawassa City Fc (W)",
+                  "streams": [
+                    {
+                      "id": "st-601321798",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8b80077be5",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/5a66e34a5b720de30f6cb038a3e6e8e0/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/ethio-electric-fc-women-vs-hawassa-city-fc-w-1400-16-03-2026/601321798"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ETH WL",
+            "team_a": "Ethio Electric FC Women",
+            "team_b": "Hawassa City Fc (W)",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/88e7a5eb8c24d0120f301914e5ca8720.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/aafeb22e62efdea7e56af3f918e12765.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5dafc6f1bee7.png?v=1773647114",
+            "thumb_key": "thumbs/kaytee-5dafc6f1bee7.webp"
           }
         }
       ]
