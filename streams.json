@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-16T14:52:25.534379",
+  "updated_at": "2026-03-16T15:18:40.247186",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,161 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-ed15ec70ad81",
-          "name": "⚽ S.S.D. Monza 1912 U19 vs Cesena U20 | 20:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ed15ec70ad81.png?v=1773672734",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601308253",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601308253",
-                  "name": "S.S.D. Monza 1912 U19 vs Cesena U20",
-                  "streams": [
-                    {
-                      "id": "st-601308253",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-efba030701",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b7f0f6326d9_44731/index.m3u8?expire=1774267254&sign=b3e6de1849dc84bfe4bb2c340cd7d527",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/ssd-monza-1912-u19-vs-cesena-u20-2000-16-03-2026/601308253"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-54d5fce63b",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/b326d00f4c8edd0d5b7d31df54d691d1/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/ssd-monza-1912-u19-vs-cesena-u20-2000-16-03-2026/601308253"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Italian Campionato Primavera 1",
-            "team_a": "S.S.D. Monza 1912 U19",
-            "team_b": "Cesena U20",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/165bfe439429851f53ac8eb52aeec998.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/87253ad073f688e6f06b92c663eec68b.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ed15ec70ad81.png?v=1773672734",
-            "thumb_key": "thumbs/kaytee-ed15ec70ad81.webp"
-          }
-        },
-        {
-          "id": "kaytee-5c0fa9bd5e28",
-          "name": "⚽ BG Green Farmers FC vs Association Sportif Inter Star | 20:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5c0fa9bd5e28.png?v=1773672736",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601312759",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601312759",
-                  "name": "BG Green Farmers FC vs Association Sportif Inter Star",
-                  "streams": [
-                    {
-                      "id": "st-601312759",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3230113bb9",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/f2530e45fda8d50e647b0d5509271a8d/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/bg-green-farmers-fc-vs-association-sportif-inter-star-2000-16-03-2026/601312759"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Burundi Premier League",
-            "team_a": "BG Green Farmers FC",
-            "team_b": "Association Sportif Inter Star",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/f9028927101100f9418cefd5118215fc.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/fa361fdfc028e30bd480baf010432b80.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5c0fa9bd5e28.png?v=1773672736",
-            "thumb_key": "thumbs/kaytee-5c0fa9bd5e28.webp"
-          }
-        },
         {
           "id": "kaytee-5defc7296f59",
           "name": "⚽ Kaisar Kyzylorda vs FC Astana | 21:00",
@@ -182,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5defc7296f59.png?v=1773672737",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5defc7296f59.png?v=1773674312",
             "width": 1600,
             "height": 1200
           },
@@ -254,266 +99,8 @@
             "team_b": "FC Astana",
             "logo_a": "https://cdn.rapid-api.icu/football/team/403bd68b4370ee76b7bfb01aa793fd02.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/5c481f41c0a1d43dcb508650562d840f.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5defc7296f59.png?v=1773672737",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5defc7296f59.png?v=1773674312",
             "thumb_key": "thumbs/kaytee-5defc7296f59.webp"
-          }
-        },
-        {
-          "id": "kaytee-5458a01fb519",
-          "name": "⚽ Punjab FC vs FC Goa | 21:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5458a01fb519.png?v=1773672739",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601308280",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601308280",
-                  "name": "Punjab FC vs FC Goa",
-                  "streams": [
-                    {
-                      "id": "st-601308280",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1586962e7b",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b8022a326d9_79/index.m3u8?expire=1774271658&sign=871c65ea4ab87eedd05badbd5e8e13e8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/punjab-fc-vs-fc-goa-2100-16-03-2026/601308280"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-dd5058e583",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/0c31dab78887bb376891e257d9f4bb24/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/punjab-fc-vs-fc-goa-2100-16-03-2026/601308280"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Indian Super League",
-            "team_a": "Punjab FC",
-            "team_b": "FC Goa",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/4e120222885562430b61627e85374a80.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/c510dae5d95168f431d517cb0d7fdad9.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5458a01fb519.png?v=1773672739",
-            "thumb_key": "thumbs/kaytee-5458a01fb519.webp"
-          }
-        },
-        {
-          "id": "kaytee-922a30011d31",
-          "name": "⚽ FC Kairat Almaty vs FK Aktobe Lento | 21:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-922a30011d31.png?v=1773672742",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601308283",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601308283",
-                  "name": "FC Kairat Almaty vs FK Aktobe Lento",
-                  "streams": [
-                    {
-                      "id": "st-601308283",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a23f52cfba",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b806f070a69_28/index.m3u8?expire=1774272880&sign=ad3364eb47d1fb3c887c6f1f26ab8a35",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/fc-kairat-almaty-vs-fk-aktobe-lento-2100-16-03-2026/601308283"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-104e7dcb1f",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/ab75bd25bc1eb3b0b3f8ee4317811d1d/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/fc-kairat-almaty-vs-fk-aktobe-lento-2100-16-03-2026/601308283"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Kazakhstan Premier League",
-            "team_a": "FC Kairat Almaty",
-            "team_b": "FK Aktobe Lento",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/3ef04912f88c3166f1a47864cde71949.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/e4e73b178c9fc00801c83684b02b6d81.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-922a30011d31.png?v=1773672742",
-            "thumb_key": "thumbs/kaytee-922a30011d31.webp"
-          }
-        },
-        {
-          "id": "kaytee-e5e5afd2f83d",
-          "name": "⚽ Irtysh Pavlodar vs FK Atyrau | 21:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e5e5afd2f83d.png?v=1773672743",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601308217",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601308217",
-                  "name": "Irtysh Pavlodar vs FK Atyrau",
-                  "streams": [
-                    {
-                      "id": "st-601308217",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b329ebc9a9",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b80c67326d9_128756/index.m3u8?expire=1774274279&sign=4682c4233b0ebe26baf3ebb1e76b3a06",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/irtysh-pavlodar-vs-fk-atyrau-2100-16-03-2026/601308217"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-3a9e9191c2",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/a718a5e8b1d8b03a707d49ff01348401/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/irtysh-pavlodar-vs-fk-atyrau-2100-16-03-2026/601308217"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Kazakhstan Premier League",
-            "team_a": "Irtysh Pavlodar",
-            "team_b": "FK Atyrau",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/97bfb8ef2c0abc2fd40185debc8dd497.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/b411990b3dc114af83c8fdaa26bbf5de.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e5e5afd2f83d.png?v=1773672743",
-            "thumb_key": "thumbs/kaytee-e5e5afd2f83d.webp"
           }
         },
         {
@@ -526,7 +113,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fcbd083dc63c.png?v=1773672745",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fcbd083dc63c.png?v=1773674314",
             "width": 1600,
             "height": 1200
           },
@@ -598,8 +185,266 @@
             "team_b": "Farense U23",
             "logo_a": "https://cdn.rapid-api.icu/football/team/32939cf38aa70bf3de1c06833da6bc50.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/edc92b9e77bc242d84f4d1332d09d311.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fcbd083dc63c.png?v=1773672745",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fcbd083dc63c.png?v=1773674314",
             "thumb_key": "thumbs/kaytee-fcbd083dc63c.webp"
+          }
+        },
+        {
+          "id": "kaytee-5458a01fb519",
+          "name": "⚽ Punjab FC vs FC Goa | 21:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5458a01fb519.png?v=1773674316",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601308280",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601308280",
+                  "name": "Punjab FC vs FC Goa",
+                  "streams": [
+                    {
+                      "id": "st-601308280",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1586962e7b",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b8022a326d9_79/index.m3u8?expire=1774271658&sign=871c65ea4ab87eedd05badbd5e8e13e8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/punjab-fc-vs-fc-goa-2100-16-03-2026/601308280"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-dd5058e583",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/0c31dab78887bb376891e257d9f4bb24/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/punjab-fc-vs-fc-goa-2100-16-03-2026/601308280"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Indian Super League",
+            "team_a": "Punjab FC",
+            "team_b": "FC Goa",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/4e120222885562430b61627e85374a80.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/c510dae5d95168f431d517cb0d7fdad9.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5458a01fb519.png?v=1773674316",
+            "thumb_key": "thumbs/kaytee-5458a01fb519.webp"
+          }
+        },
+        {
+          "id": "kaytee-922a30011d31",
+          "name": "⚽ FC Kairat Almaty vs FK Aktobe Lento | 21:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-922a30011d31.png?v=1773674318",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601308283",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601308283",
+                  "name": "FC Kairat Almaty vs FK Aktobe Lento",
+                  "streams": [
+                    {
+                      "id": "st-601308283",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a23f52cfba",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b806f070a69_28/index.m3u8?expire=1774272880&sign=ad3364eb47d1fb3c887c6f1f26ab8a35",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/fc-kairat-almaty-vs-fk-aktobe-lento-2100-16-03-2026/601308283"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-104e7dcb1f",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/ab75bd25bc1eb3b0b3f8ee4317811d1d/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/fc-kairat-almaty-vs-fk-aktobe-lento-2100-16-03-2026/601308283"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Kazakhstan Premier League",
+            "team_a": "FC Kairat Almaty",
+            "team_b": "FK Aktobe Lento",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/3ef04912f88c3166f1a47864cde71949.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/e4e73b178c9fc00801c83684b02b6d81.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-922a30011d31.png?v=1773674318",
+            "thumb_key": "thumbs/kaytee-922a30011d31.webp"
+          }
+        },
+        {
+          "id": "kaytee-e5e5afd2f83d",
+          "name": "⚽ Irtysh Pavlodar vs FK Atyrau | 21:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e5e5afd2f83d.png?v=1773674320",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601308217",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601308217",
+                  "name": "Irtysh Pavlodar vs FK Atyrau",
+                  "streams": [
+                    {
+                      "id": "st-601308217",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b329ebc9a9",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b80c67326d9_128756/index.m3u8?expire=1774274279&sign=4682c4233b0ebe26baf3ebb1e76b3a06",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/irtysh-pavlodar-vs-fk-atyrau-2100-16-03-2026/601308217"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-3a9e9191c2",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/a718a5e8b1d8b03a707d49ff01348401/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/irtysh-pavlodar-vs-fk-atyrau-2100-16-03-2026/601308217"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Kazakhstan Premier League",
+            "team_a": "Irtysh Pavlodar",
+            "team_b": "FK Atyrau",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/97bfb8ef2c0abc2fd40185debc8dd497.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/b411990b3dc114af83c8fdaa26bbf5de.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e5e5afd2f83d.png?v=1773674320",
+            "thumb_key": "thumbs/kaytee-e5e5afd2f83d.webp"
           }
         }
       ]
