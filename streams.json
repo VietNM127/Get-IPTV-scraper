@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-16T11:36:31.119627",
+  "updated_at": "2026-03-16T11:58:31.984275",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,144 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-5382d1b3f8d3",
-          "name": "⚽ Arba Minch (W) vs Bahir Dar Kenema FC (W) | 17:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5382d1b3f8d3.png?v=1773660982",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601321801",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601321801",
-                  "name": "Arba Minch (W) vs Bahir Dar Kenema FC (W)",
-                  "streams": [
-                    {
-                      "id": "st-601321801",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9f901199b5",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/4c6becef055f4de842729174e3058cf8/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/arba-minch-w-vs-bahir-dar-kenema-fc-w-1700-16-03-2026/601321801"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "ETH WL",
-            "team_a": "Arba Minch (W)",
-            "team_b": "Bahir Dar Kenema FC (W)",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/dfbc17d7bea78fec8f6df2f97d2ccb72.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/c67b9310b755b3331456cae838fb149c.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5382d1b3f8d3.png?v=1773660982",
-            "thumb_key": "thumbs/kaytee-5382d1b3f8d3.webp"
-          }
-        },
-        {
-          "id": "kaytee-ea2aa4984b16",
-          "name": "⚽ KoGas vs Anyang JungKwanJang | 17:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ea2aa4984b16.png?v=1773660984",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601314811",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601314811",
-                  "name": "KoGas vs Anyang JungKwanJang",
-                  "streams": [
-                    {
-                      "id": "st-601314811",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0f0df832d6",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b7cf8b70a69_42127/index.m3u8?expire=1774258699&sign=cbe69420d51c775abcb784627bc7aac8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/kogas-vs-anyang-jungkwanjang-1700-16-03-2026/601314811"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "KBL",
-            "team_a": "KoGas",
-            "team_b": "Anyang JungKwanJang",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a6eaaa3fbb4c559238e2429569526228.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/efde3ceb77e51abeba7b7cdc0954cdc2.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ea2aa4984b16.png?v=1773660984",
-            "thumb_key": "thumbs/kaytee-ea2aa4984b16.webp"
-          }
-        },
         {
           "id": "kaytee-f4839602f482",
           "name": "⚽ Bandirmaspor vs Iğdır FK | 17:30",
@@ -165,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f4839602f482.png?v=1773660985",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f4839602f482.png?v=1773662303",
             "width": 1600,
             "height": 1200
           },
@@ -237,7 +99,7 @@
             "team_b": "Iğdır FK",
             "logo_a": "https://cdn.rapid-api.icu/football/team/9dbbcf5ac9247c588c24a99cc0a0e8f5.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/29fe4bba24a993fa8057566c5166e68f.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f4839602f482.png?v=1773660985",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f4839602f482.png?v=1773662303",
             "thumb_key": "thumbs/kaytee-f4839602f482.webp"
           }
         },
@@ -251,7 +113,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-eaf40c88e4ac.png?v=1773660986",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-eaf40c88e4ac.png?v=1773662305",
             "width": 1600,
             "height": 1200
           },
@@ -323,7 +185,7 @@
             "team_b": "Lecce U20",
             "logo_a": "https://cdn.rapid-api.icu/football/team/bc7b022f17fc8c1ada066d3370f5aecb.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/111187735403171f460903cb8cd42bcf.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-eaf40c88e4ac.png?v=1773660986",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-eaf40c88e4ac.png?v=1773662305",
             "thumb_key": "thumbs/kaytee-eaf40c88e4ac.webp"
           }
         },
@@ -337,7 +199,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f19c26f7e616.png?v=1773660988",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f19c26f7e616.png?v=1773662306",
             "width": 1600,
             "height": 1200
           },
@@ -409,8 +271,77 @@
             "team_b": "Inter Milan (w)",
             "logo_a": "https://cdn.rapid-api.icu/football/team/caa4c9d0575c1f6eb9e5c408d7b814f9.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/ece43223dd5ca95c06190d491a8238e1.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f19c26f7e616.png?v=1773660988",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f19c26f7e616.png?v=1773662306",
             "thumb_key": "thumbs/kaytee-f19c26f7e616.webp"
+          }
+        },
+        {
+          "id": "kaytee-01641cfaf1cb",
+          "name": "⚽ Fc Meshakhte Tkibuli vs Dinamo Batumi | 18:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-01641cfaf1cb.png?v=1773662307",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601308244",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601308244",
+                  "name": "Fc Meshakhte Tkibuli vs Dinamo Batumi",
+                  "streams": [
+                    {
+                      "id": "st-601308244",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-077a52e891",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/402432c24eca99c2280f3e978aa320f2/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/fc-meshakhte-tkibuli-vs-dinamo-batumi-1800-16-03-2026/601308244"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Georgia Erovnuli Liga",
+            "team_a": "Fc Meshakhte Tkibuli",
+            "team_b": "Dinamo Batumi",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/6c4026b1738fc21db081f031cf8c8d39.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/90947f03d78b6634fe6ad3014329bc14.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-01641cfaf1cb.png?v=1773662307",
+            "thumb_key": "thumbs/kaytee-01641cfaf1cb.webp"
           }
         },
         {
@@ -423,7 +354,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4c9ed4ceb056.png?v=1773660989",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4c9ed4ceb056.png?v=1773662310",
             "width": 1600,
             "height": 1200
           },
@@ -478,7 +409,7 @@
             "team_b": "Mark Lloyd",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/4a07d45ffe0d80f45e4e99e027a95e53.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/3d8ae2a709ca9d82623a981486d762a8.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4c9ed4ceb056.png?v=1773660989",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4c9ed4ceb056.png?v=1773662310",
             "thumb_key": "thumbs/kaytee-4c9ed4ceb056.webp"
           }
         },
@@ -492,7 +423,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e243ee7623b3.png?v=1773660991",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e243ee7623b3.png?v=1773662311",
             "width": 1600,
             "height": 1200
           },
@@ -564,7 +495,7 @@
             "team_b": "FK Van Charentsavan",
             "logo_a": "https://cdn.rapid-api.icu/football/team/445b142144eafa15449f92563fd1b978.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/f233f6fd187259b5017a1cac48ddc1e6.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e243ee7623b3.png?v=1773660991",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e243ee7623b3.png?v=1773662311",
             "thumb_key": "thumbs/kaytee-e243ee7623b3.webp"
           }
         }
