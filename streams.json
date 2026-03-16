@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-16T11:13:31.102589",
+  "updated_at": "2026-03-16T11:36:31.119627",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -18,8 +18,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-b2fa4389b0e1",
-          "name": "⚽ Zhytomyr Women vs Vorskla Poltava W | 16:20",
+          "id": "kaytee-5382d1b3f8d3",
+          "name": "⚽ Arba Minch (W) vs Bahir Dar Kenema FC (W) | 17:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b2fa4389b0e1.png?v=1773659600",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5382d1b3f8d3.png?v=1773660982",
             "width": 1600,
             "height": 1200
           },
@@ -41,27 +41,27 @@
           ],
           "sources": [
             {
-              "id": "src-601321888",
+              "id": "src-601321801",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601321888",
-                  "name": "Zhytomyr Women vs Vorskla Poltava W",
+                  "id": "ct-601321801",
+                  "name": "Arba Minch (W) vs Bahir Dar Kenema FC (W)",
                   "streams": [
                     {
-                      "id": "st-601321888",
+                      "id": "st-601321801",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-cdedcfb3de",
+                          "id": "lnk-9f901199b5",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live.alilicloud.com/live/f07145dc8ea1cef9e5b27ed75a0c086b/playlist.m3u8",
+                          "url": "https://live.alilicloud.com/live/4c6becef055f4de842729174e3058cf8/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/zhytomyr-women-vs-vorskla-poltava-w-1620-16-03-2026/601321888"
+                              "value": "https://bunchatv1.net/truc-tiep/arba-minch-w-vs-bahir-dar-kenema-fc-w-1700-16-03-2026/601321801"
                             },
                             {
                               "key": "User-Agent",
@@ -77,185 +77,13 @@
             }
           ],
           "org_metadata": {
-            "league": "Ukrainian Women's Professional Football League",
-            "team_a": "Zhytomyr Women",
-            "team_b": "Vorskla Poltava W",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/e1598381b4475d517b2a030c879811d5.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/54ac7c788c3b646dbb8d82af1c94111f.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b2fa4389b0e1.png?v=1773659600",
-            "thumb_key": "thumbs/kaytee-b2fa4389b0e1.webp"
-          }
-        },
-        {
-          "id": "kaytee-0e189d8d6742",
-          "name": "⚽ Dagon Port vs Yadanabon FC | 16:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0e189d8d6742.png?v=1773659601",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601312750",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601312750",
-                  "name": "Dagon Port vs Yadanabon FC",
-                  "streams": [
-                    {
-                      "id": "st-601312750",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8dca5f1c7d",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b7e02e70a69_4908/index.m3u8?expire=1774262958&sign=a79da6852231985396a3a406d080608c",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/dagon-port-vs-yadanabon-fc-1630-16-03-2026/601312750"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-57031cb032",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/0e6487d926fa8f2dce9b06e5c2b44264/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/dagon-port-vs-yadanabon-fc-1630-16-03-2026/601312750"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Myanmar Professional League",
-            "team_a": "Dagon Port",
-            "team_b": "Yadanabon FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/becd43ab1a8ed0594efc2a513b1c33e4.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/d1bba4fe3e0e715cf55d89f74aa65bd2.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0e189d8d6742.png?v=1773659601",
-            "thumb_key": "thumbs/kaytee-0e189d8d6742.webp"
-          }
-        },
-        {
-          "id": "kaytee-47e4d136057a",
-          "name": "⚽ Rakhine United FC vs Ispe FC | 16:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-47e4d136057a.png?v=1773659603",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601312753",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601312753",
-                  "name": "Rakhine United FC vs Ispe FC",
-                  "streams": [
-                    {
-                      "id": "st-601312753",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c0fdc96517",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b7c6e570a69_73445/index.m3u8?expire=1774256485&sign=2980e16829683c4fa13128e96f8fbfa7",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/rakhine-united-fc-vs-ispe-fc-1630-16-03-2026/601312753"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-c0a0e26c6c",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/cbead2e07beb1160de51cc55945d0541/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/rakhine-united-fc-vs-ispe-fc-1630-16-03-2026/601312753"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Myanmar Professional League",
-            "team_a": "Rakhine United FC",
-            "team_b": "Ispe FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/28eb3cbdd54f97c70874e54e258d68af.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/47751f681935a504ad45c35e813c6baf.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-47e4d136057a.png?v=1773659603",
-            "thumb_key": "thumbs/kaytee-47e4d136057a.webp"
+            "league": "ETH WL",
+            "team_a": "Arba Minch (W)",
+            "team_b": "Bahir Dar Kenema FC (W)",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/dfbc17d7bea78fec8f6df2f97d2ccb72.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/c67b9310b755b3331456cae838fb149c.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5382d1b3f8d3.png?v=1773660982",
+            "thumb_key": "thumbs/kaytee-5382d1b3f8d3.webp"
           }
         },
         {
@@ -268,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ea2aa4984b16.png?v=1773659604",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ea2aa4984b16.png?v=1773660984",
             "width": 1600,
             "height": 1200
           },
@@ -323,7 +151,7 @@
             "team_b": "Anyang JungKwanJang",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a6eaaa3fbb4c559238e2429569526228.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/efde3ceb77e51abeba7b7cdc0954cdc2.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ea2aa4984b16.png?v=1773659604",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ea2aa4984b16.png?v=1773660984",
             "thumb_key": "thumbs/kaytee-ea2aa4984b16.webp"
           }
         },
@@ -337,7 +165,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f4839602f482.png?v=1773659606",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f4839602f482.png?v=1773660985",
             "width": 1600,
             "height": 1200
           },
@@ -409,7 +237,7 @@
             "team_b": "Iğdır FK",
             "logo_a": "https://cdn.rapid-api.icu/football/team/9dbbcf5ac9247c588c24a99cc0a0e8f5.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/29fe4bba24a993fa8057566c5166e68f.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f4839602f482.png?v=1773659606",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f4839602f482.png?v=1773660985",
             "thumb_key": "thumbs/kaytee-f4839602f482.webp"
           }
         },
@@ -423,7 +251,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-eaf40c88e4ac.png?v=1773659607",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-eaf40c88e4ac.png?v=1773660986",
             "width": 1600,
             "height": 1200
           },
@@ -495,22 +323,13 @@
             "team_b": "Lecce U20",
             "logo_a": "https://cdn.rapid-api.icu/football/team/bc7b022f17fc8c1ada066d3370f5aecb.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/111187735403171f460903cb8cd42bcf.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-eaf40c88e4ac.png?v=1773659607",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-eaf40c88e4ac.png?v=1773660986",
             "thumb_key": "thumbs/kaytee-eaf40c88e4ac.webp"
           }
-        }
-      ]
-    },
-    {
-      "id": "live_bóng_rổ",
-      "name": "🔴 Live 🏀 Bóng Rổ",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
+        },
         {
-          "id": "kaytee-e60546a724da",
-          "name": "🏀 Shakhtar Donetsk Women vs FC Kryvbas Kriviy Rih (w) | 16:00",
+          "id": "kaytee-f19c26f7e616",
+          "name": "⚽ Sassuolo (w) vs Inter Milan (w) | 18:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -518,7 +337,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e60546a724da.png?v=1773659597",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f19c26f7e616.png?v=1773660988",
             "width": 1600,
             "height": 1200
           },
@@ -532,27 +351,44 @@
           ],
           "sources": [
             {
-              "id": "src-601321810",
+              "id": "src-601308229",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601321810",
-                  "name": "Shakhtar Donetsk Women vs FC Kryvbas Kriviy Rih (w)",
+                  "id": "ct-601308229",
+                  "name": "Sassuolo (w) vs Inter Milan (w)",
                   "streams": [
                     {
-                      "id": "st-601321810",
+                      "id": "st-601308229",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-f72936ad55",
+                          "id": "lnk-f3a74c21f8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live.alilicloud.com/live/d8c0be1ff39bfe9c3cecd6152d1989ef/playlist.m3u8",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b7e878326d9_4908/index.m3u8?expire=1774265080&sign=a6000e78eac72f77ea93d7d6171d8d5f",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/shakhtar-donetsk-women-vs-fc-kryvbas-kriviy-rih-w-1600-16-03-2026/601321810"
+                              "value": "https://bunchatv1.net/truc-tiep/sassuolo-w-vs-inter-milan-w-1800-16-03-2026/601308229"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-d25a126732",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/4f57dd0b45424cd6a984c247fcad6649/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/sassuolo-w-vs-inter-milan-w-1800-16-03-2026/601308229"
                             },
                             {
                               "key": "User-Agent",
@@ -568,24 +404,84 @@
             }
           ],
           "org_metadata": {
-            "league": "Ukrainian Women's First League",
-            "team_a": "Shakhtar Donetsk Women",
-            "team_b": "FC Kryvbas Kriviy Rih (w)",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/8f7ce35e46ad099386fbb6fc620e0d6f.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/533755aae72c4fae338314b8e7397b83.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e60546a724da.png?v=1773659597",
-            "thumb_key": "thumbs/kaytee-e60546a724da.webp"
+            "league": "Italian Women's Serie A",
+            "team_a": "Sassuolo (w)",
+            "team_b": "Inter Milan (w)",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/caa4c9d0575c1f6eb9e5c408d7b814f9.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/ece43223dd5ca95c06190d491a8238e1.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f19c26f7e616.png?v=1773660988",
+            "thumb_key": "thumbs/kaytee-f19c26f7e616.webp"
           }
-        }
-      ]
-    },
-    {
-      "id": "upcoming_bóng_đá",
-      "name": "⏳ Sắp Live ⚽ Bóng Đá",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
+        },
+        {
+          "id": "kaytee-4c9ed4ceb056",
+          "name": "⚽ Judd  Trump vs Mark Lloyd | 18:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4c9ed4ceb056.png?v=1773660989",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601321834",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601321834",
+                  "name": "Judd  Trump vs Mark Lloyd",
+                  "streams": [
+                    {
+                      "id": "st-601321834",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9c9ffe4750",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b7e48c70a69_142246/index.m3u8?expire=1774264076&sign=575b85a817295eb7f64d00e9a61dbb52",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/judd--trump-vs-mark-lloyd-1830-16-03-2026/601321834"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Open 2026",
+            "team_a": "Judd  Trump",
+            "team_b": "Mark Lloyd",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/4a07d45ffe0d80f45e4e99e027a95e53.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/3d8ae2a709ca9d82623a981486d762a8.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4c9ed4ceb056.png?v=1773660989",
+            "thumb_key": "thumbs/kaytee-4c9ed4ceb056.webp"
+          }
+        },
         {
           "id": "kaytee-e243ee7623b3",
           "name": "⚽ Ararat-Armenia FC vs FK Van Charentsavan | 18:30",
@@ -596,16 +492,16 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e243ee7623b3.png?v=1773659609",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e243ee7623b3.png?v=1773660991",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "⏳ Sắp Live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -668,77 +564,8 @@
             "team_b": "FK Van Charentsavan",
             "logo_a": "https://cdn.rapid-api.icu/football/team/445b142144eafa15449f92563fd1b978.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/f233f6fd187259b5017a1cac48ddc1e6.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e243ee7623b3.png?v=1773659609",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e243ee7623b3.png?v=1773660991",
             "thumb_key": "thumbs/kaytee-e243ee7623b3.webp"
-          }
-        },
-        {
-          "id": "kaytee-4c9ed4ceb056",
-          "name": "⚽ Judd  Trump vs Mark Lloyd | 18:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4c9ed4ceb056.png?v=1773659611",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Sắp Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601321834",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601321834",
-                  "name": "Judd  Trump vs Mark Lloyd",
-                  "streams": [
-                    {
-                      "id": "st-601321834",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9c9ffe4750",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b7e48c70a69_142246/index.m3u8?expire=1774264076&sign=575b85a817295eb7f64d00e9a61dbb52",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/judd--trump-vs-mark-lloyd-1830-16-03-2026/601321834"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "World Open 2026",
-            "team_a": "Judd  Trump",
-            "team_b": "Mark Lloyd",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/4a07d45ffe0d80f45e4e99e027a95e53.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/3d8ae2a709ca9d82623a981486d762a8.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4c9ed4ceb056.png?v=1773659611",
-            "thumb_key": "thumbs/kaytee-4c9ed4ceb056.webp"
           }
         }
       ]
