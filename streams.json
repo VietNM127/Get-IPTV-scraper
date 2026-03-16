@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-16T16:53:56.752381",
+  "updated_at": "2026-03-16T17:42:43.525584",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,178 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-86ba08c50405",
-          "name": "⚽ Zhenis vs Ordabasy | 22:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-86ba08c50405.png?v=1773680028",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601308292",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601308292",
-                  "name": "Zhenis vs Ordabasy",
-                  "streams": [
-                    {
-                      "id": "st-601308292",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d990e3268c",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b80d7370a69_88186/index.m3u8?expire=1774274547&sign=226bda93017de6186c6fb349fa3f538c",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/zhenis-vs-ordabasy-2200-16-03-2026/601308292"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-5533983d46",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/dba972a1f433daf16758b19fc52727dc/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/zhenis-vs-ordabasy-2200-16-03-2026/601308292"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Kazakhstan Premier League",
-            "team_a": "Zhenis",
-            "team_b": "Ordabasy",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/16ccfd6042d1f791302c69eec646e081.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/56445b7fccea061fbee0ac71cbd53a83.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-86ba08c50405.png?v=1773680028",
-            "thumb_key": "thumbs/kaytee-86ba08c50405.webp"
-          }
-        },
-        {
-          "id": "kaytee-acfeb162f994",
-          "name": "⚽ Shirak vs FC Noah | 22:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-acfeb162f994.png?v=1773680030",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601308295",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601308295",
-                  "name": "Shirak vs FC Noah",
-                  "streams": [
-                    {
-                      "id": "st-601308295",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-cd1d21a819",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b819c1326d9_44731/index.m3u8?expire=1774277697&sign=599be922dbbc6ed6efeb96791e76ef87",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/shirak-vs-fc-noah-2200-16-03-2026/601308295"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-881411deca",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/e46fc7f0fc83f3cc448f29ca5cc4f480/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/shirak-vs-fc-noah-2200-16-03-2026/601308295"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Armenian Premier League",
-            "team_a": "Shirak",
-            "team_b": "FC Noah",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/079bdbf302d4831bbbd8d623d25f27ff.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/5ef6703cd46b664af49e25a398161d6a.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-acfeb162f994.png?v=1773680030",
-            "thumb_key": "thumbs/kaytee-acfeb162f994.webp"
-          }
-        },
         {
           "id": "kaytee-bdc29be8010f",
           "name": "⚽ FK Napredak Krusevac vs OFK Beograd | 23:00",
@@ -199,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bdc29be8010f.png?v=1773680034",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bdc29be8010f.png?v=1773682955",
             "width": 1600,
             "height": 1200
           },
@@ -271,13 +99,13 @@
             "team_b": "OFK Beograd",
             "logo_a": "https://cdn.rapid-api.icu/football/team/7d35c67da2b80a3092e25e784ce21762.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/8db9790c6344a2972f45d95fb776877a.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bdc29be8010f.png?v=1773680034",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bdc29be8010f.png?v=1773682955",
             "thumb_key": "thumbs/kaytee-bdc29be8010f.webp"
           }
         },
         {
-          "id": "kaytee-6fc1fd49cc03",
-          "name": "⚽ Downtown FC vs Wologisi FC | 23:00",
+          "id": "kaytee-b2f1b13d4503",
+          "name": "⚽ Arda vs FC Dobrudzha | 23:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -285,7 +113,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6fc1fd49cc03.png?v=1773680036",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b2f1b13d4503.png?v=1773682957",
             "width": 1600,
             "height": 1200
           },
@@ -299,105 +127,27 @@
           ],
           "sources": [
             {
-              "id": "src-601311118",
+              "id": "src-601308304",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601311118",
-                  "name": "Downtown FC vs Wologisi FC",
+                  "id": "ct-601308304",
+                  "name": "Arda vs FC Dobrudzha",
                   "streams": [
                     {
-                      "id": "st-601311118",
+                      "id": "st-601308304",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-d4f24065cb",
+                          "id": "lnk-c17721e288",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live.alilicloud.com/live/9acf78cd995e957b30946a52918d2278/playlist.m3u8",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b81dbe326d9_88642/index.m3u8?expire=1774278718&sign=4cd00279dd57668952b2039015618839",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/downtown-fc-vs-wologisi-fc-2300-16-03-2026/601311118"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Liberia First Division",
-            "team_a": "Downtown FC",
-            "team_b": "Wologisi FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/9c61b908b155a0469c7abec3b2b76a5b.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/36cecdab1e12710176c8fc8eac554091.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6fc1fd49cc03.png?v=1773680036",
-            "thumb_key": "thumbs/kaytee-6fc1fd49cc03.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "live_bóng_bàn",
-      "name": "🔴 Live 🏓 Bóng Bàn",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-784833ab140a",
-          "name": "🏓 FC Botosani vs FC Unirea 2004 Slobozia | 22:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-784833ab140a.png?v=1773680032",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601308925",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601308925",
-                  "name": "FC Botosani vs FC Unirea 2004 Slobozia",
-                  "streams": [
-                    {
-                      "id": "st-601308925",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-88675ceef7",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b81d3470a69_73445/index.m3u8?expire=1774278580&sign=dda2eb6442dabf983b1a14ac782d089f",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/fc-botosani-vs-fc-unirea-2004-slobozia-2230-16-03-2026/601308925"
+                              "value": "https://bunchatv1.net/truc-tiep/arda-vs-fc-dobrudzha-2300-16-03-2026/601308304"
                             },
                             {
                               "key": "User-Agent",
@@ -406,15 +156,15 @@
                           ]
                         },
                         {
-                          "id": "lnk-3ce0defe9d",
+                          "id": "lnk-db5fe7a4c0",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://live.alilicloud.com/live/8f8264e1b0749c7e4021affb477cdb6b/playlist.m3u8",
+                          "url": "https://live.alilicloud.com/live/228ee0ffaed07d9f065acabcc0a63612/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/fc-botosani-vs-fc-unirea-2004-slobozia-2230-16-03-2026/601308925"
+                              "value": "https://bunchatv1.net/truc-tiep/arda-vs-fc-dobrudzha-2300-16-03-2026/601308304"
                             },
                             {
                               "key": "User-Agent",
@@ -430,13 +180,237 @@
             }
           ],
           "org_metadata": {
-            "league": "Romanian Liga I",
-            "team_a": "FC Botosani",
-            "team_b": "FC Unirea 2004 Slobozia",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/b7e1d23bb62776473efc5ef196a98de5.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/b17f903b42eebe1e7ad55f4f346d2bf8.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-784833ab140a.png?v=1773680032",
-            "thumb_key": "thumbs/kaytee-784833ab140a.webp"
+            "league": "Bulgarian First League",
+            "team_a": "Arda",
+            "team_b": "FC Dobrudzha",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/cab5766b591c9836e3095d2471ad6e11.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/058ab0bb7d4a90ccef7c471cb9029b2f.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b2f1b13d4503.png?v=1773682957",
+            "thumb_key": "thumbs/kaytee-b2f1b13d4503.webp"
+          }
+        },
+        {
+          "id": "kaytee-082afbbbdc37",
+          "name": "⚽ Spaeri FC vs Samgurali Tskh | 23:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-082afbbbdc37.png?v=1773682960",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601308289",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601308289",
+                  "name": "Spaeri FC vs Samgurali Tskh",
+                  "streams": [
+                    {
+                      "id": "st-601308289",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5e39ccadb9",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/e500c8818b1104507c37777bdbdb8d2f/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/spaeri-fc-vs-samgurali-tskh-2300-16-03-2026/601308289"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Georgia Erovnuli Liga",
+            "team_a": "Spaeri FC",
+            "team_b": "Samgurali Tskh",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/432c13e823ffcc46ee9255384e525629.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/a9bea85988465e9accfae7984ac850eb.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-082afbbbdc37.png?v=1773682960",
+            "thumb_key": "thumbs/kaytee-082afbbbdc37.webp"
+          }
+        },
+        {
+          "id": "kaytee-72c2da9eff6d",
+          "name": "⚽ Dila Gori vs Torpedo Kutaisi | 23:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-72c2da9eff6d.png?v=1773682961",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601308307",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601308307",
+                  "name": "Dila Gori vs Torpedo Kutaisi",
+                  "streams": [
+                    {
+                      "id": "st-601308307",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-673a95f1cf",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/72e89782398aaf4f515bb04898deacb6/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/dila-gori-vs-torpedo-kutaisi-2300-16-03-2026/601308307"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Georgia Erovnuli Liga",
+            "team_a": "Dila Gori",
+            "team_b": "Torpedo Kutaisi",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/8d37df65ec99136141521145783ba119.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/cad9c0e0d8ed90e53989eb85f98940fa.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-72c2da9eff6d.png?v=1773682961",
+            "thumb_key": "thumbs/kaytee-72c2da9eff6d.webp"
+          }
+        },
+        {
+          "id": "kaytee-9de83c7a9d53",
+          "name": "⚽ Torpedo Moscow vs Neftekhimik Nizhnekamsk | 23:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9de83c7a9d53.png?v=1773682963",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601308313",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601308313",
+                  "name": "Torpedo Moscow vs Neftekhimik Nizhnekamsk",
+                  "streams": [
+                    {
+                      "id": "st-601308313",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-378ff4f034",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b82e3770a69_110198/index.m3u8?expire=1774282935&sign=6547d0541ea6ba7b98942242dbf943a2",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/torpedo-moscow-vs-neftekhimik-nizhnekamsk-2330-16-03-2026/601308313"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-f0ee61ea1d",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/3f2b04e8794a57ed3c1acdfac279c9b7/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/torpedo-moscow-vs-neftekhimik-nizhnekamsk-2330-16-03-2026/601308313"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Russian National Football League",
+            "team_a": "Torpedo Moscow",
+            "team_b": "Neftekhimik Nizhnekamsk",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/96f0d5ec582ed73e580e646551127d0e.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/e37b8f1e34de8f18adbb25aebc3d09d9.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9de83c7a9d53.png?v=1773682963",
+            "thumb_key": "thumbs/kaytee-9de83c7a9d53.webp"
           }
         }
       ]
