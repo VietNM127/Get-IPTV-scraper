@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-16T10:15:17.860816",
+  "updated_at": "2026-03-16T10:45:43.280612",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2f6d43d76551.png?v=1773656109",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2f6d43d76551.png?v=1773657931",
             "width": 1600,
             "height": 1200
           },
@@ -68,6 +68,23 @@
                               "value": "Mozilla/5.0"
                             }
                           ]
+                        },
+                        {
+                          "id": "lnk-12bc84eb56",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/296c44ba919d3e3ca1fb8115da810765/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/ulytau-zhezkazgan-vs-kyzylzhar-petropavlovsk-1600-16-03-2026/601308211"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
                         }
                       ]
                     }
@@ -82,8 +99,77 @@
             "team_b": "Kyzylzhar Petropavlovsk",
             "logo_a": "https://cdn.rapid-api.icu/football/team/1c0bf62c4b74951819a2f761c3d3b5fe.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/c61c3199500be14782a4d533db7e52a2.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2f6d43d76551.png?v=1773656109",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2f6d43d76551.png?v=1773657931",
             "thumb_key": "thumbs/kaytee-2f6d43d76551.webp"
+          }
+        },
+        {
+          "id": "kaytee-b2fa4389b0e1",
+          "name": "⚽ Zhytomyr Women vs Vorskla Poltava W | 16:20",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b2fa4389b0e1.png?v=1773657935",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601321888",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601321888",
+                  "name": "Zhytomyr Women vs Vorskla Poltava W",
+                  "streams": [
+                    {
+                      "id": "st-601321888",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-cdedcfb3de",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/f07145dc8ea1cef9e5b27ed75a0c086b/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/zhytomyr-women-vs-vorskla-poltava-w-1620-16-03-2026/601321888"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ukrainian Women's Professional Football League",
+            "team_a": "Zhytomyr Women",
+            "team_b": "Vorskla Poltava W",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/e1598381b4475d517b2a030c879811d5.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/54ac7c788c3b646dbb8d82af1c94111f.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b2fa4389b0e1.png?v=1773657935",
+            "thumb_key": "thumbs/kaytee-b2fa4389b0e1.webp"
           }
         },
         {
@@ -96,7 +182,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0e189d8d6742.png?v=1773656113",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0e189d8d6742.png?v=1773657937",
             "width": 1600,
             "height": 1200
           },
@@ -151,94 +237,8 @@
             "team_b": "Yadanabon FC",
             "logo_a": "https://cdn.rapid-api.icu/football/team/becd43ab1a8ed0594efc2a513b1c33e4.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/d1bba4fe3e0e715cf55d89f74aa65bd2.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0e189d8d6742.png?v=1773656113",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0e189d8d6742.png?v=1773657937",
             "thumb_key": "thumbs/kaytee-0e189d8d6742.webp"
-          }
-        },
-        {
-          "id": "kaytee-47e4d136057a",
-          "name": "⚽ Rakhine United FC vs Ispe FC | 16:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-47e4d136057a.png?v=1773656115",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601312753",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601312753",
-                  "name": "Rakhine United FC vs Ispe FC",
-                  "streams": [
-                    {
-                      "id": "st-601312753",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c0fdc96517",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b7c6e570a69_73445/index.m3u8?expire=1774256485&sign=2980e16829683c4fa13128e96f8fbfa7",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/rakhine-united-fc-vs-ispe-fc-1630-16-03-2026/601312753"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-c0a0e26c6c",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/cbead2e07beb1160de51cc55945d0541/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/rakhine-united-fc-vs-ispe-fc-1630-16-03-2026/601312753"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Myanmar Professional League",
-            "team_a": "Rakhine United FC",
-            "team_b": "Ispe FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/28eb3cbdd54f97c70874e54e258d68af.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/47751f681935a504ad45c35e813c6baf.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-47e4d136057a.png?v=1773656115",
-            "thumb_key": "thumbs/kaytee-47e4d136057a.webp"
           }
         },
         {
@@ -251,7 +251,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ea2aa4984b16.png?v=1773656117",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ea2aa4984b16.png?v=1773657938",
             "width": 1600,
             "height": 1200
           },
@@ -306,8 +306,94 @@
             "team_b": "Anyang JungKwanJang",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a6eaaa3fbb4c559238e2429569526228.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/efde3ceb77e51abeba7b7cdc0954cdc2.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ea2aa4984b16.png?v=1773656117",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ea2aa4984b16.png?v=1773657938",
             "thumb_key": "thumbs/kaytee-ea2aa4984b16.webp"
+          }
+        },
+        {
+          "id": "kaytee-f4839602f482",
+          "name": "⚽ Bandirmaspor vs Iğdır FK | 17:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f4839602f482.png?v=1773657939",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601308223",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601308223",
+                  "name": "Bandirmaspor vs Iğdır FK",
+                  "streams": [
+                    {
+                      "id": "st-601308223",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fea9b1207b",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b7db9170a69_6308/index.m3u8?expire=1774261777&sign=b440c3be2c3f8e04d7b9715dfc5bff90",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/bandirmaspor-vs-idr-fk-1730-16-03-2026/601308223"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-790b6ac06b",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/36449b2fcf9b649ecce3e3a1c73a5ac1/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/bandirmaspor-vs-idr-fk-1730-16-03-2026/601308223"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Turkish First League",
+            "team_a": "Bandirmaspor",
+            "team_b": "Iğdır FK",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/9dbbcf5ac9247c588c24a99cc0a0e8f5.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/29fe4bba24a993fa8057566c5166e68f.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f4839602f482.png?v=1773657939",
+            "thumb_key": "thumbs/kaytee-f4839602f482.webp"
           }
         }
       ]
@@ -329,7 +415,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e60546a724da.png?v=1773656111",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e60546a724da.png?v=1773657933",
             "width": 1600,
             "height": 1200
           },
@@ -384,8 +470,155 @@
             "team_b": "FC Kryvbas Kriviy Rih (w)",
             "logo_a": "https://cdn.rapid-api.icu/football/team/8f7ce35e46ad099386fbb6fc620e0d6f.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/533755aae72c4fae338314b8e7397b83.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e60546a724da.png?v=1773656111",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e60546a724da.png?v=1773657933",
             "thumb_key": "thumbs/kaytee-e60546a724da.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_bóng_đá",
+      "name": "⏳ Sắp Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-eaf40c88e4ac",
+          "name": "⚽ Parma U20 vs Lecce U20 | 18:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-eaf40c88e4ac.png?v=1773657941",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601308226",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601308226",
+                  "name": "Parma U20 vs Lecce U20",
+                  "streams": [
+                    {
+                      "id": "st-601308226",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7b02b3f584",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b7dc3870a69_133172/index.m3u8?expire=1774261944&sign=a874508c2aa0e6a8219265e768bfe765",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/parma-u20-vs-lecce-u20-1800-16-03-2026/601308226"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Italian Campionato Primavera 1",
+            "team_a": "Parma U20",
+            "team_b": "Lecce U20",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/bc7b022f17fc8c1ada066d3370f5aecb.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/111187735403171f460903cb8cd42bcf.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-eaf40c88e4ac.png?v=1773657941",
+            "thumb_key": "thumbs/kaytee-eaf40c88e4ac.webp"
+          }
+        },
+        {
+          "id": "kaytee-e243ee7623b3",
+          "name": "⚽ Ararat-Armenia FC vs FK Van Charentsavan | 18:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e243ee7623b3.png?v=1773657943",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601308241",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601308241",
+                  "name": "Ararat-Armenia FC vs FK Van Charentsavan",
+                  "streams": [
+                    {
+                      "id": "st-601308241",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1b65473800",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b7de5b326d9_79/index.m3u8?expire=1774262491&sign=d170f4720a2643534dfb8e648828ed22",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/araratarmenia-fc-vs-fk-van-charentsavan-1830-16-03-2026/601308241"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Armenian Premier League",
+            "team_a": "Ararat-Armenia FC",
+            "team_b": "FK Van Charentsavan",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/445b142144eafa15449f92563fd1b978.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/f233f6fd187259b5017a1cac48ddc1e6.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e243ee7623b3.png?v=1773657943",
+            "thumb_key": "thumbs/kaytee-e243ee7623b3.webp"
           }
         }
       ]
