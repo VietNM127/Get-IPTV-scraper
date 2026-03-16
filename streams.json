@@ -8,6 +8,85 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-16T05:30:10.371429",
-  "groups": []
+  "updated_at": "2026-03-16T05:59:24.059764",
+  "groups": [
+    {
+      "id": "upcoming_bóng_đá",
+      "name": "⏳ Sắp Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-217832605304",
+          "name": "⚽ Ronnie O'Sullivan vs Muir | 13:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-217832605304.png?v=1773640764",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601321831",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601321831",
+                  "name": "Ronnie O'Sullivan vs Muir",
+                  "streams": [
+                    {
+                      "id": "st-601321831",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0ede4af9a3",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b797e6326d9_142246/index.m3u8?expire=1774244454&sign=aa662e1145aa970a18bae7bd81a29f21",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/ronnie-osullivan-vs-muir-1300-16-03-2026/601321831"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Open 2026",
+            "team_a": "Ronnie O'Sullivan",
+            "team_b": "Muir",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/40bd826b9586e6279788297dbef06991.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/6f22f950fd2625a8b0216caa0ab46758.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-217832605304.png?v=1773640764",
+            "thumb_key": "thumbs/kaytee-217832605304.webp"
+          }
+        }
+      ]
+    }
+  ]
 }
