@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-16T11:58:31.984275",
+  "updated_at": "2026-03-16T12:36:18.235286",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,92 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-f4839602f482",
-          "name": "⚽ Bandirmaspor vs Iğdır FK | 17:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f4839602f482.png?v=1773662303",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601308223",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601308223",
-                  "name": "Bandirmaspor vs Iğdır FK",
-                  "streams": [
-                    {
-                      "id": "st-601308223",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fea9b1207b",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b7db9170a69_6308/index.m3u8?expire=1774261777&sign=b440c3be2c3f8e04d7b9715dfc5bff90",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/bandirmaspor-vs-idr-fk-1730-16-03-2026/601308223"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-790b6ac06b",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/36449b2fcf9b649ecce3e3a1c73a5ac1/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/bandirmaspor-vs-idr-fk-1730-16-03-2026/601308223"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Turkish First League",
-            "team_a": "Bandirmaspor",
-            "team_b": "Iğdır FK",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/9dbbcf5ac9247c588c24a99cc0a0e8f5.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/29fe4bba24a993fa8057566c5166e68f.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f4839602f482.png?v=1773662303",
-            "thumb_key": "thumbs/kaytee-f4839602f482.webp"
-          }
-        },
         {
           "id": "kaytee-eaf40c88e4ac",
           "name": "⚽ Parma U20 vs Lecce U20 | 18:00",
@@ -113,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-eaf40c88e4ac.png?v=1773662305",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-eaf40c88e4ac.png?v=1773664560",
             "width": 1600,
             "height": 1200
           },
@@ -185,7 +99,7 @@
             "team_b": "Lecce U20",
             "logo_a": "https://cdn.rapid-api.icu/football/team/bc7b022f17fc8c1ada066d3370f5aecb.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/111187735403171f460903cb8cd42bcf.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-eaf40c88e4ac.png?v=1773662305",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-eaf40c88e4ac.png?v=1773664560",
             "thumb_key": "thumbs/kaytee-eaf40c88e4ac.webp"
           }
         },
@@ -199,7 +113,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f19c26f7e616.png?v=1773662306",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f19c26f7e616.png?v=1773664562",
             "width": 1600,
             "height": 1200
           },
@@ -271,7 +185,7 @@
             "team_b": "Inter Milan (w)",
             "logo_a": "https://cdn.rapid-api.icu/football/team/caa4c9d0575c1f6eb9e5c408d7b814f9.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/ece43223dd5ca95c06190d491a8238e1.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f19c26f7e616.png?v=1773662306",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f19c26f7e616.png?v=1773664562",
             "thumb_key": "thumbs/kaytee-f19c26f7e616.webp"
           }
         },
@@ -285,7 +199,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-01641cfaf1cb.png?v=1773662307",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-01641cfaf1cb.png?v=1773664564",
             "width": 1600,
             "height": 1200
           },
@@ -340,8 +254,77 @@
             "team_b": "Dinamo Batumi",
             "logo_a": "https://cdn.rapid-api.icu/football/team/6c4026b1738fc21db081f031cf8c8d39.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/90947f03d78b6634fe6ad3014329bc14.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-01641cfaf1cb.png?v=1773662307",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-01641cfaf1cb.png?v=1773664564",
             "thumb_key": "thumbs/kaytee-01641cfaf1cb.webp"
+          }
+        },
+        {
+          "id": "kaytee-782848087a4c",
+          "name": "⚽ Dinamo KyivU21 vs Rukh Vynnyky U21 | 18:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-782848087a4c.png?v=1773664565",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601312756",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601312756",
+                  "name": "Dinamo KyivU21 vs Rukh Vynnyky U21",
+                  "streams": [
+                    {
+                      "id": "st-601312756",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6abb8fde5e",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/d217165e625f96fa59a80b8de85a64ac/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/dinamo-kyivu21-vs-rukh-vynnyky-u21-1800-16-03-2026/601312756"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ukrainian Youth Team Championship",
+            "team_a": "Dinamo KyivU21",
+            "team_b": "Rukh Vynnyky U21",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/cbf49d81936244e2d110ded8ffb1f33c.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/8678cd816f38929f7d8bcac07ccb395f.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-782848087a4c.png?v=1773664565",
+            "thumb_key": "thumbs/kaytee-782848087a4c.webp"
           }
         },
         {
@@ -354,7 +337,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4c9ed4ceb056.png?v=1773662310",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4c9ed4ceb056.png?v=1773664574",
             "width": 1600,
             "height": 1200
           },
@@ -409,7 +392,7 @@
             "team_b": "Mark Lloyd",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/4a07d45ffe0d80f45e4e99e027a95e53.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/3d8ae2a709ca9d82623a981486d762a8.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4c9ed4ceb056.png?v=1773662310",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4c9ed4ceb056.png?v=1773664574",
             "thumb_key": "thumbs/kaytee-4c9ed4ceb056.webp"
           }
         },
@@ -423,7 +406,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e243ee7623b3.png?v=1773662311",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e243ee7623b3.png?v=1773664576",
             "width": 1600,
             "height": 1200
           },
@@ -495,8 +478,94 @@
             "team_b": "FK Van Charentsavan",
             "logo_a": "https://cdn.rapid-api.icu/football/team/445b142144eafa15449f92563fd1b978.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/f233f6fd187259b5017a1cac48ddc1e6.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e243ee7623b3.png?v=1773662311",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e243ee7623b3.png?v=1773664576",
             "thumb_key": "thumbs/kaytee-e243ee7623b3.webp"
+          }
+        },
+        {
+          "id": "kaytee-ea97e80ddd4f",
+          "name": "⚽ Tobol Kostanai vs FC Zhetysu Taldykorgan | 19:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ea97e80ddd4f.png?v=1773664578",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601308247",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601308247",
+                  "name": "Tobol Kostanai vs FC Zhetysu Taldykorgan",
+                  "streams": [
+                    {
+                      "id": "st-601308247",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9b7ef74153",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b7e8ac326d9_128756/index.m3u8?expire=1774265132&sign=c61adda803491dc319f5aa4fc623da18",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/tobol-kostanai-vs-fc-zhetysu-taldykorgan-1900-16-03-2026/601308247"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-edc8ffbde7",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/26cf0c84ea32a9225b519d95eda4c8c1/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/tobol-kostanai-vs-fc-zhetysu-taldykorgan-1900-16-03-2026/601308247"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Kazakhstan Premier League",
+            "team_a": "Tobol Kostanai",
+            "team_b": "FC Zhetysu Taldykorgan",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/88927cd47c8746dd990d0a19fae7b97b.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/d170d88f6e60eeee57486405474e1f9f.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ea97e80ddd4f.png?v=1773664578",
+            "thumb_key": "thumbs/kaytee-ea97e80ddd4f.webp"
           }
         }
       ]
