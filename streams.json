@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-17T13:52:04.413654",
+  "updated_at": "2026-03-17T14:46:37.272312",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,161 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-c9c503f85a01",
-          "name": "⚽ Shanxi Zhongyu vs Beijing Royal Fighters | 18:35",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c9c503f85a01.png?v=1773755519",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601321864",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601321864",
-                  "name": "Shanxi Zhongyu vs Beijing Royal Fighters",
-                  "streams": [
-                    {
-                      "id": "st-601321864",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2266d8c977",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b932d2326d9_4733/index.m3u8?expire=1774349650&sign=f12176b36b6e2cd92dd451a615e0ea51",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/shanxi-zhongyu-vs-beijing-royal-fighters-1835-17-03-2026/601321864"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "CBA",
-            "team_a": "Shanxi Zhongyu",
-            "team_b": "Beijing Royal Fighters",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/2a7551dc7e9fbb0a844291cfb6453ae4.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/690b75e84eae0109a09dd80edba8b339.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c9c503f85a01.png?v=1773755519",
-            "thumb_key": "thumbs/kaytee-c9c503f85a01.webp"
-          }
-        },
-        {
-          "id": "kaytee-ad18e06a4ba2",
-          "name": "⚽ FK Kaspyi Aktau vs Okzhetpes | 19:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ad18e06a4ba2.png?v=1773755521",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601309174",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601309174",
-                  "name": "FK Kaspyi Aktau vs Okzhetpes",
-                  "streams": [
-                    {
-                      "id": "st-601309174",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f4e770443d",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b93d0f70a69_79/index.m3u8?expire=1774352271&sign=72a7cf72bbc91ee4b44cb08808311740",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/fk-kaspyi-aktau-vs-okzhetpes-1900-17-03-2026/601309174"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-4168ecf03c",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/d7dda979adb4f5686481e62309d8da8b/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/fk-kaspyi-aktau-vs-okzhetpes-1900-17-03-2026/601309174"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Kazakhstan Premier League",
-            "team_a": "FK Kaspyi Aktau",
-            "team_b": "Okzhetpes",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/093b019417397a95732e569df7f2a8f0.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/0cdeb1ea76b968c9b9147db96e1c6f6f.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ad18e06a4ba2.png?v=1773755521",
-            "thumb_key": "thumbs/kaytee-ad18e06a4ba2.webp"
-          }
-        },
         {
           "id": "kaytee-8505a1549ac7",
           "name": "⚽ Atletico de Madrid U19 vs Club Brugge U19 | 20:00",
@@ -182,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8505a1549ac7.png?v=1773755523",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8505a1549ac7.png?v=1773758790",
             "width": 1600,
             "height": 1200
           },
@@ -254,8 +99,86 @@
             "team_b": "Club Brugge U19",
             "logo_a": "https://cdn.rapid-api.icu/football/team/dd126282a3ed968b622055c808ad82c4.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/2949f63aa1981975fdb031ffabd20eeb.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8505a1549ac7.png?v=1773755523",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8505a1549ac7.png?v=1773758790",
             "thumb_key": "thumbs/kaytee-8505a1549ac7.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_bóng_đá",
+      "name": "⏳ Sắp Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-2c3ad4813ec4",
+          "name": "⚽ Villarreal U19 vs Paris Saint Germain U19 | 22:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2c3ad4813ec4.png?v=1773758792",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601312777",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601312777",
+                  "name": "Villarreal U19 vs Paris Saint Germain U19",
+                  "streams": [
+                    {
+                      "id": "st-601312777",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-154bd58526",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b96077326d9_28/index.m3u8?expire=1774361335&sign=5e0819512941486b96f67829ec43f336",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/villarreal-u19-vs-paris-saint-germain-u19-2200-17-03-2026/601312777"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Youth League",
+            "team_a": "Villarreal U19",
+            "team_b": "Paris Saint Germain U19",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/aecc25c138f425cbadd3ddf98f0b6751.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/a19104d7fe30a4a261411778eebba452.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2c3ad4813ec4.png?v=1773758792",
+            "thumb_key": "thumbs/kaytee-2c3ad4813ec4.webp"
           }
         }
       ]
@@ -268,6 +191,144 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "kaytee-6f7f558dbaa3",
+          "name": "🏸 PAI Yu Po vs Kaoru SUGIYAMA | 22:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6f7f558dbaa3.png?v=1773758795",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601322041",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601322041",
+                  "name": "PAI Yu Po vs Kaoru SUGIYAMA",
+                  "streams": [
+                    {
+                      "id": "st-601322041",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1bd3764c15",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b9664770a69_85714/index.m3u8?expire=1774362823&sign=7606cc247011043e763ad56475ad1a0e",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/pai-yu-po-vs-kaoru-sugiyama-2200-17-03-2026/601322041"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sân 1 - Orleans Masters Badminton 2026",
+            "team_a": "PAI Yu Po",
+            "team_b": "Kaoru SUGIYAMA",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/e32a1a1fbe69efa7fa64beb55cbb3f44.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/f5460d92e8c7512ddffe7474dc2119a7.jpg",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6f7f558dbaa3.png?v=1773758795",
+            "thumb_key": "thumbs/kaytee-6f7f558dbaa3.webp"
+          }
+        },
+        {
+          "id": "kaytee-c832e62f9db1",
+          "name": "🏸 Anouk NAMBOT / Anouk NAMBOT vs ONG Xin Yee / ONG Xin Yee | 22:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c832e62f9db1.png?v=1773758795",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601322044",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601322044",
+                  "name": "Anouk NAMBOT / Anouk NAMBOT vs ONG Xin Yee / ONG Xin Yee",
+                  "streams": [
+                    {
+                      "id": "st-601322044",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bf89252a42",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b966a770a69_138846/index.m3u8?expire=1774362919&sign=7a0c949e56c9093830ead19bdabf0f47",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/anouk-nambot--anouk-nambot-vs-ong-xin-yee--ong-xin-yee-2200-17-03-2026/601322044"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sân 2 - Orleans Masters Badminton 2026",
+            "team_a": "Anouk NAMBOT / Anouk NAMBOT",
+            "team_b": "ONG Xin Yee / ONG Xin Yee",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/617f05c2c545f7a0167a564dba7416c4.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/51f63c286cb881c4611883a60791ec76.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c832e62f9db1.png?v=1773758795",
+            "thumb_key": "thumbs/kaytee-c832e62f9db1.webp"
+          }
+        },
+        {
           "id": "kaytee-25487bba3680",
           "name": "🏸 Leo Rolly CARNANDO / Bagas MAULANA vs CHEN Cheng Kuan / LIN Bing-We | 22:10",
           "type": "single",
@@ -277,7 +338,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-25487bba3680.png?v=1773755523",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-25487bba3680.png?v=1773758796",
             "width": 1600,
             "height": 1200
           },
@@ -332,7 +393,7 @@
             "team_b": "CHEN Cheng Kuan / LIN Bing-We",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/4446b82fe10dc6bf86cf89041be3b9a6.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/25b04dd413a754856fb3fb726580f3ca.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-25487bba3680.png?v=1773755523",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-25487bba3680.png?v=1773758796",
             "thumb_key": "thumbs/kaytee-25487bba3680.webp"
           }
         },
@@ -346,7 +407,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-520c805d9ea7.png?v=1773755524",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-520c805d9ea7.png?v=1773758797",
             "width": 1600,
             "height": 1200
           },
@@ -401,7 +462,7 @@
             "team_b": "LUO Yi / WANG",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/344d90a98fdaf9f3f50ee8a6d550b1ba.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/09295396d83f1e8d0cb3f68339bdc367.webp",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-520c805d9ea7.png?v=1773755524",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-520c805d9ea7.png?v=1773758797",
             "thumb_key": "thumbs/kaytee-520c805d9ea7.webp"
           }
         }
