@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-17T15:03:38.988792",
+  "updated_at": "2026-03-17T15:50:22.165307",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,6 +17,92 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "kaytee-4894a012d7a9",
+          "name": "⚽ Braga U23 vs Leixoes U23 | 22:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4894a012d7a9.png?v=1773762610",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601309213",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601309213",
+                  "name": "Braga U23 vs Leixoes U23",
+                  "streams": [
+                    {
+                      "id": "st-601309213",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0d18bf496a",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b96b7c70a69_72787/index.m3u8?expire=1774364156&sign=18fb3a356b38f3e66c3f5193237fe712",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/braga-u23-vs-leixoes-u23-2200-17-03-2026/601309213"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-72ba007ddb",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/8b4cc7c3d27d4b99694c75bc1f5e993a/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/braga-u23-vs-leixoes-u23-2200-17-03-2026/601309213"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Portuguese U23 League",
+            "team_a": "Braga U23",
+            "team_b": "Leixoes U23",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/b6a144b441bfd3ff6d4179d4b04b9693.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/d5db95a6441ae92e5dd150663f89dc64.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4894a012d7a9.png?v=1773762610",
+            "thumb_key": "thumbs/kaytee-4894a012d7a9.webp"
+          }
+        },
         {
           "id": "kaytee-2c3ad4813ec4",
           "name": "⚽ Villarreal U19 vs Paris Saint Germain U19 | 22:00",
@@ -27,7 +113,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2c3ad4813ec4.png?v=1773759813",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2c3ad4813ec4.png?v=1773762612",
             "width": 1600,
             "height": 1200
           },
@@ -68,6 +154,23 @@
                               "value": "Mozilla/5.0"
                             }
                           ]
+                        },
+                        {
+                          "id": "lnk-79ae1c5d7a",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/159e35c83db71ffbd05501a0143a7225/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/villarreal-u19-vs-paris-saint-germain-u19-2200-17-03-2026/601312777"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
                         }
                       ]
                     }
@@ -82,8 +185,77 @@
             "team_b": "Paris Saint Germain U19",
             "logo_a": "https://cdn.rapid-api.icu/football/team/aecc25c138f425cbadd3ddf98f0b6751.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/a19104d7fe30a4a261411778eebba452.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2c3ad4813ec4.png?v=1773759813",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2c3ad4813ec4.png?v=1773762612",
             "thumb_key": "thumbs/kaytee-2c3ad4813ec4.webp"
+          }
+        },
+        {
+          "id": "kaytee-0140453bf0ef",
+          "name": "⚽ DC Power (W) vs Carolina Ascent (W) | 22:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0140453bf0ef.png?v=1773762617",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601309855",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601309855",
+                  "name": "DC Power (W) vs Carolina Ascent (W)",
+                  "streams": [
+                    {
+                      "id": "st-601309855",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-55e360c0ff",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/47470018e52bcd0d6956c83079069008/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/dc-power-w-vs-carolina-ascent-w-2230-17-03-2026/601309855"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "USL Super League Women",
+            "team_a": "DC Power (W)",
+            "team_b": "Carolina Ascent (W)",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/1863f435e01cec7867b68a942fa7eaa6.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/7b76a5cfdec448a5b396332082b99769.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0140453bf0ef.png?v=1773762617",
+            "thumb_key": "thumbs/kaytee-0140453bf0ef.webp"
           }
         }
       ]
@@ -97,7 +269,7 @@
       "channels": [
         {
           "id": "kaytee-6f7f558dbaa3",
-          "name": "🏸 PAI Yu Po vs Kaoru SUGIYAMA | 22:00",
+          "name": "🏸 Lauren LAM /  Allison Quynh LEE vs Debora JILLE/Isabel LOHAU | 22:10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -105,7 +277,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6f7f558dbaa3.png?v=1773759816",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6f7f558dbaa3.png?v=1773762614",
             "width": 1600,
             "height": 1200
           },
@@ -124,7 +296,7 @@
               "contents": [
                 {
                   "id": "ct-601322041",
-                  "name": "PAI Yu Po vs Kaoru SUGIYAMA",
+                  "name": "Lauren LAM /  Allison Quynh LEE vs Debora JILLE/Isabel LOHAU",
                   "streams": [
                     {
                       "id": "st-601322041",
@@ -139,7 +311,7 @@
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/pai-yu-po-vs-kaoru-sugiyama-2200-17-03-2026/601322041"
+                              "value": "https://bunchatv1.net/truc-tiep/lauren-lam---allison-quynh-lee-vs-debora-jilleisabel-lohau-2210-17-03-2026/601322041"
                             },
                             {
                               "key": "User-Agent",
@@ -156,170 +328,14 @@
           ],
           "org_metadata": {
             "league": "Sân 1 - Orleans Masters Badminton 2026",
-            "team_a": "PAI Yu Po",
-            "team_b": "Kaoru SUGIYAMA",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/e32a1a1fbe69efa7fa64beb55cbb3f44.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/f5460d92e8c7512ddffe7474dc2119a7.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6f7f558dbaa3.png?v=1773759816",
+            "team_a": "Lauren LAM /  Allison Quynh LEE",
+            "team_b": "Debora JILLE/Isabel LOHAU",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/d76a67ece12ce728601c01ece19bec0e.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/f2c1f8428df624610cf1bf5363241f20.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6f7f558dbaa3.png?v=1773762614",
             "thumb_key": "thumbs/kaytee-6f7f558dbaa3.webp"
           }
         },
-        {
-          "id": "kaytee-c832e62f9db1",
-          "name": "🏸 Anouk NAMBOT / Anouk NAMBOT vs ONG Xin Yee / ONG Xin Yee | 22:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c832e62f9db1.png?v=1773759817",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601322044",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601322044",
-                  "name": "Anouk NAMBOT / Anouk NAMBOT vs ONG Xin Yee / ONG Xin Yee",
-                  "streams": [
-                    {
-                      "id": "st-601322044",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bf89252a42",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b966a770a69_138846/index.m3u8?expire=1774362919&sign=7a0c949e56c9093830ead19bdabf0f47",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/anouk-nambot--anouk-nambot-vs-ong-xin-yee--ong-xin-yee-2200-17-03-2026/601322044"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Sân 2 - Orleans Masters Badminton 2026",
-            "team_a": "Anouk NAMBOT / Anouk NAMBOT",
-            "team_b": "ONG Xin Yee / ONG Xin Yee",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/617f05c2c545f7a0167a564dba7416c4.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/51f63c286cb881c4611883a60791ec76.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c832e62f9db1.png?v=1773759817",
-            "thumb_key": "thumbs/kaytee-c832e62f9db1.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "upcoming_bóng_đá",
-      "name": "⏳ Sắp Live ⚽ Bóng Đá",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-4894a012d7a9",
-          "name": "⚽ Braga U23 vs Leixoes U23 | 22:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4894a012d7a9.png?v=1773759811",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Sắp Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601309213",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601309213",
-                  "name": "Braga U23 vs Leixoes U23",
-                  "streams": [
-                    {
-                      "id": "st-601309213",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0d18bf496a",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b96b7c70a69_72787/index.m3u8?expire=1774364156&sign=18fb3a356b38f3e66c3f5193237fe712",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/braga-u23-vs-leixoes-u23-2200-17-03-2026/601309213"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Portuguese U23 League",
-            "team_a": "Braga U23",
-            "team_b": "Leixoes U23",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/b6a144b441bfd3ff6d4179d4b04b9693.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/d5db95a6441ae92e5dd150663f89dc64.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4894a012d7a9.png?v=1773759811",
-            "thumb_key": "thumbs/kaytee-4894a012d7a9.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "upcoming_cầu_lông",
-      "name": "⏳ Sắp Live 🏸 Cầu Lông",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
         {
           "id": "kaytee-25487bba3680",
           "name": "🏸 Leo Rolly CARNANDO / Bagas MAULANA vs CHEN Cheng Kuan / LIN Bing-We | 22:10",
@@ -330,16 +346,16 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-25487bba3680.png?v=1773759818",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-25487bba3680.png?v=1773762615",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "⏳ Sắp Live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -385,7 +401,7 @@
             "team_b": "CHEN Cheng Kuan / LIN Bing-We",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/4446b82fe10dc6bf86cf89041be3b9a6.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/25b04dd413a754856fb3fb726580f3ca.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-25487bba3680.png?v=1773759818",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-25487bba3680.png?v=1773762615",
             "thumb_key": "thumbs/kaytee-25487bba3680.webp"
           }
         },
@@ -399,16 +415,16 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-520c805d9ea7.png?v=1773759818",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-520c805d9ea7.png?v=1773762616",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "⏳ Sắp Live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -454,8 +470,233 @@
             "team_b": "LUO Yi / WANG",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/344d90a98fdaf9f3f50ee8a6d550b1ba.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/09295396d83f1e8d0cb3f68339bdc367.webp",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-520c805d9ea7.png?v=1773759818",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-520c805d9ea7.png?v=1773762616",
             "thumb_key": "thumbs/kaytee-520c805d9ea7.webp"
+          }
+        },
+        {
+          "id": "kaytee-c832e62f9db1",
+          "name": "🏸 Kate FROST /  Paige WOODS vs Lin C. / Yang C. Y. | 22:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c832e62f9db1.png?v=1773762618",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601322044",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601322044",
+                  "name": "Kate FROST /  Paige WOODS vs Lin C. / Yang C. Y.",
+                  "streams": [
+                    {
+                      "id": "st-601322044",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bf89252a42",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b966a770a69_138846/index.m3u8?expire=1774362919&sign=7a0c949e56c9093830ead19bdabf0f47",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/kate-frost---paige-woods-vs-lin-c--yang-c-y-2230-17-03-2026/601322044"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sân 2 - Orleans Masters Badminton 2026",
+            "team_a": "Kate FROST /  Paige WOODS",
+            "team_b": "Lin C. / Yang C. Y.",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/8a956633c46d785780f3dc6d58bdd273.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/fa4de9c67e5055c821129d3cf820e2de.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c832e62f9db1.png?v=1773762618",
+            "thumb_key": "thumbs/kaytee-c832e62f9db1.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_bóng_đá",
+      "name": "⏳ Sắp Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-90645a3c485a",
+          "name": "⚽ Lokomotiv Sofia vs Septemvri Sofia | 23:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-90645a3c485a.png?v=1773762620",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601309216",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601309216",
+                  "name": "Lokomotiv Sofia vs Septemvri Sofia",
+                  "streams": [
+                    {
+                      "id": "st-601309216",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-187916c638",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b9736670a69_79/index.m3u8?expire=1774366182&sign=e8f0295f0d62a0904a870ab7d2e8ad07",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/lokomotiv-sofia-vs-septemvri-sofia-2300-17-03-2026/601309216"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Bulgarian First League",
+            "team_a": "Lokomotiv Sofia",
+            "team_b": "Septemvri Sofia",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/eddf8d0f309490d5e64ad445895eedb1.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/a6f81856a35217b82fb2e20d28c3dcab.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-90645a3c485a.png?v=1773762620",
+            "thumb_key": "thumbs/kaytee-90645a3c485a.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_bóng_bàn",
+      "name": "⏳ Sắp Live 🏓 Bóng Bàn",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-df6640a5a18d",
+          "name": "🏓 FK Krasnodar vs CSKA Moscow | 23:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-df6640a5a18d.png?v=1773762622",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601309858",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601309858",
+                  "name": "FK Krasnodar vs CSKA Moscow",
+                  "streams": [
+                    {
+                      "id": "st-601309858",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7d892f13d2",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b977bb326d9_88642/index.m3u8?expire=1774367291&sign=95301264fd5cc1664c758afa52ee78db",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/fk-krasnodar-vs-cska-moscow-2330-17-03-2026/601309858"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Russian Cup",
+            "team_a": "FK Krasnodar",
+            "team_b": "CSKA Moscow",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/ee170662c1911f3d2f7746f6539f2604.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/1eae81e51945df5660e24dc6f0ea353c.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-df6640a5a18d.png?v=1773762622",
+            "thumb_key": "thumbs/kaytee-df6640a5a18d.webp"
           }
         }
       ]
