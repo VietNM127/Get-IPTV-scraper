@@ -8,106 +8,11 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-17T14:46:37.272312",
+  "updated_at": "2026-03-17T15:03:38.988792",
   "groups": [
     {
       "id": "live_bóng_đá",
       "name": "🔴 Live ⚽ Bóng Đá",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-8505a1549ac7",
-          "name": "⚽ Atletico de Madrid U19 vs Club Brugge U19 | 20:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8505a1549ac7.png?v=1773758790",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601312771",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601312771",
-                  "name": "Atletico de Madrid U19 vs Club Brugge U19",
-                  "streams": [
-                    {
-                      "id": "st-601312771",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4f0eab99bd",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b94211326d9_72787/index.m3u8?expire=1774353553&sign=591a6e8ea5526a157c8dd7cc55308f09",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/atletico-de-madrid-u19-vs-club-brugge-u19-2000-17-03-2026/601312771"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-9a188df0d5",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/8928929d293633618af9c9fb6c607fea/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/atletico-de-madrid-u19-vs-club-brugge-u19-2000-17-03-2026/601312771"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Youth League",
-            "team_a": "Atletico de Madrid U19",
-            "team_b": "Club Brugge U19",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/dd126282a3ed968b622055c808ad82c4.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/2949f63aa1981975fdb031ffabd20eeb.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8505a1549ac7.png?v=1773758790",
-            "thumb_key": "thumbs/kaytee-8505a1549ac7.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "upcoming_bóng_đá",
-      "name": "⏳ Sắp Live ⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -122,16 +27,16 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2c3ad4813ec4.png?v=1773758792",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2c3ad4813ec4.png?v=1773759813",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "⏳ Sắp Live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -177,15 +82,15 @@
             "team_b": "Paris Saint Germain U19",
             "logo_a": "https://cdn.rapid-api.icu/football/team/aecc25c138f425cbadd3ddf98f0b6751.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/a19104d7fe30a4a261411778eebba452.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2c3ad4813ec4.png?v=1773758792",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2c3ad4813ec4.png?v=1773759813",
             "thumb_key": "thumbs/kaytee-2c3ad4813ec4.webp"
           }
         }
       ]
     },
     {
-      "id": "upcoming_cầu_lông",
-      "name": "⏳ Sắp Live 🏸 Cầu Lông",
+      "id": "live_cầu_lông",
+      "name": "🔴 Live 🏸 Cầu Lông",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -200,16 +105,16 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6f7f558dbaa3.png?v=1773758795",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6f7f558dbaa3.png?v=1773759816",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "⏳ Sắp Live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -255,7 +160,7 @@
             "team_b": "Kaoru SUGIYAMA",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/e32a1a1fbe69efa7fa64beb55cbb3f44.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/f5460d92e8c7512ddffe7474dc2119a7.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6f7f558dbaa3.png?v=1773758795",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6f7f558dbaa3.png?v=1773759816",
             "thumb_key": "thumbs/kaytee-6f7f558dbaa3.webp"
           }
         },
@@ -269,16 +174,16 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c832e62f9db1.png?v=1773758795",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c832e62f9db1.png?v=1773759817",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "⏳ Sắp Live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -324,10 +229,97 @@
             "team_b": "ONG Xin Yee / ONG Xin Yee",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/617f05c2c545f7a0167a564dba7416c4.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/51f63c286cb881c4611883a60791ec76.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c832e62f9db1.png?v=1773758795",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c832e62f9db1.png?v=1773759817",
             "thumb_key": "thumbs/kaytee-c832e62f9db1.webp"
           }
-        },
+        }
+      ]
+    },
+    {
+      "id": "upcoming_bóng_đá",
+      "name": "⏳ Sắp Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-4894a012d7a9",
+          "name": "⚽ Braga U23 vs Leixoes U23 | 22:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4894a012d7a9.png?v=1773759811",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601309213",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601309213",
+                  "name": "Braga U23 vs Leixoes U23",
+                  "streams": [
+                    {
+                      "id": "st-601309213",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0d18bf496a",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b96b7c70a69_72787/index.m3u8?expire=1774364156&sign=18fb3a356b38f3e66c3f5193237fe712",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/braga-u23-vs-leixoes-u23-2200-17-03-2026/601309213"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Portuguese U23 League",
+            "team_a": "Braga U23",
+            "team_b": "Leixoes U23",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/b6a144b441bfd3ff6d4179d4b04b9693.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/d5db95a6441ae92e5dd150663f89dc64.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4894a012d7a9.png?v=1773759811",
+            "thumb_key": "thumbs/kaytee-4894a012d7a9.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_cầu_lông",
+      "name": "⏳ Sắp Live 🏸 Cầu Lông",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
         {
           "id": "kaytee-25487bba3680",
           "name": "🏸 Leo Rolly CARNANDO / Bagas MAULANA vs CHEN Cheng Kuan / LIN Bing-We | 22:10",
@@ -338,7 +330,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-25487bba3680.png?v=1773758796",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-25487bba3680.png?v=1773759818",
             "width": 1600,
             "height": 1200
           },
@@ -393,7 +385,7 @@
             "team_b": "CHEN Cheng Kuan / LIN Bing-We",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/4446b82fe10dc6bf86cf89041be3b9a6.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/25b04dd413a754856fb3fb726580f3ca.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-25487bba3680.png?v=1773758796",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-25487bba3680.png?v=1773759818",
             "thumb_key": "thumbs/kaytee-25487bba3680.webp"
           }
         },
@@ -407,7 +399,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-520c805d9ea7.png?v=1773758797",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-520c805d9ea7.png?v=1773759818",
             "width": 1600,
             "height": 1200
           },
@@ -462,7 +454,7 @@
             "team_b": "LUO Yi / WANG",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/344d90a98fdaf9f3f50ee8a6d550b1ba.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/09295396d83f1e8d0cb3f68339bdc367.webp",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-520c805d9ea7.png?v=1773758797",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-520c805d9ea7.png?v=1773759818",
             "thumb_key": "thumbs/kaytee-520c805d9ea7.webp"
           }
         }
