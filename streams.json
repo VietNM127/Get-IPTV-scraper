@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-17T17:48:57.451762",
+  "updated_at": "2026-03-17T18:35:29.619013",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -18,8 +18,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-90645a3c485a",
-          "name": "⚽ Lokomotiv Sofia vs Septemvri Sofia | 23:00",
+          "id": "kaytee-7ac5b922fb6d",
+          "name": "⚽ AS Bakaridjan vs Derby Académie | 23:45",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-90645a3c485a.png?v=1773769730",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7ac5b922fb6d.png?v=1773772527",
             "width": 1600,
             "height": 1200
           },
@@ -41,182 +41,27 @@
           ],
           "sources": [
             {
-              "id": "src-601309216",
+              "id": "src-601321957",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601309216",
-                  "name": "Lokomotiv Sofia vs Septemvri Sofia",
+                  "id": "ct-601321957",
+                  "name": "AS Bakaridjan vs Derby Académie",
                   "streams": [
                     {
-                      "id": "st-601309216",
+                      "id": "st-601321957",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-187916c638",
+                          "id": "lnk-5a4e9b8594",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b9736670a69_79/index.m3u8?expire=1774366182&sign=e8f0295f0d62a0904a870ab7d2e8ad07",
+                          "url": "https://live.alilicloud.com/live/dc51df0dea47aad95b61017421ec3ae5/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/lokomotiv-sofia-vs-septemvri-sofia-2300-17-03-2026/601309216"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-adb75c6b81",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/c8c86f06312f2eae707b8989e29ba794/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/lokomotiv-sofia-vs-septemvri-sofia-2300-17-03-2026/601309216"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Bulgarian First League",
-            "team_a": "Lokomotiv Sofia",
-            "team_b": "Septemvri Sofia",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/eddf8d0f309490d5e64ad445895eedb1.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/a6f81856a35217b82fb2e20d28c3dcab.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-90645a3c485a.png?v=1773769730",
-            "thumb_key": "thumbs/kaytee-90645a3c485a.webp"
-          }
-        },
-        {
-          "id": "kaytee-e65946bd752b",
-          "name": "⚽ Mexico (w) U17 vs Jamaica Women U17 | 23:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e65946bd752b.png?v=1773769732",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601314973",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601314973",
-                  "name": "Mexico (w) U17 vs Jamaica Women U17",
-                  "streams": [
-                    {
-                      "id": "st-601314973",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b8745ae98d",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/0194ab1734428fc4ca0fd0ea03bc5a03/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/mexico-w-u17-vs-jamaica-women-u17-2300-17-03-2026/601314973"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "CONCACAF U17 Women's Championship",
-            "team_a": "Mexico (w) U17",
-            "team_b": "Jamaica Women U17",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/f904f450cfa28ec39ee5e70393739f93.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/a485db87c0b15cc2bfa5153c0c71c7a3.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e65946bd752b.png?v=1773769732",
-            "thumb_key": "thumbs/kaytee-e65946bd752b.webp"
-          }
-        },
-        {
-          "id": "kaytee-64df836f59dc",
-          "name": "⚽ US Bougouni vs Real Bamako | 23:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-64df836f59dc.png?v=1773769734",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601322137",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601322137",
-                  "name": "US Bougouni vs Real Bamako",
-                  "streams": [
-                    {
-                      "id": "st-601322137",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9ed92711f5",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/71e53dad0d71cb4d82b39183d2c3f704/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/us-bougouni-vs-real-bamako-2300-17-03-2026/601322137"
+                              "value": "https://bunchatv1.net/truc-tiep/as-bakaridjan-vs-derby-academie-2345-17-03-2026/601321957"
                             },
                             {
                               "key": "User-Agent",
@@ -233,95 +78,17 @@
           ],
           "org_metadata": {
             "league": "Mali Premiere Division",
-            "team_a": "US Bougouni",
-            "team_b": "Real Bamako",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/7a90d615b9c5202bf9b78bfa23bebf08.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/df94cb238e2f7ac5bfeb0a3701a0271e.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-64df836f59dc.png?v=1773769734",
-            "thumb_key": "thumbs/kaytee-64df836f59dc.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "live_cầu_lông",
-      "name": "🔴 Live 🏸 Cầu Lông",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-6f7f558dbaa3",
-          "name": "🏸 Julien MAIO/William VILLEGER vs Peeratchai SUKPHUN / Pakkapon TEERARATSAKUL | 22:50",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6f7f558dbaa3.png?v=1773769728",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601322041",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601322041",
-                  "name": "Julien MAIO/William VILLEGER vs Peeratchai SUKPHUN / Pakkapon TEERARATSAKUL",
-                  "streams": [
-                    {
-                      "id": "st-601322041",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1bd3764c15",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b9664770a69_85714/index.m3u8?expire=1774362823&sign=7606cc247011043e763ad56475ad1a0e",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/julien-maiowilliam-villeger-vs-peeratchai-sukphun--pakkapon-teeraratsakul-2250-17-03-2026/601322041"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Sân 1 - Orleans Masters Badminton 2026",
-            "team_a": "Julien MAIO/William VILLEGER",
-            "team_b": "Peeratchai SUKPHUN / Pakkapon TEERARATSAKUL",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/27dee61e8b430ee96ecfd99ed59317bf.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/bbe344a57234795986538071709b90f8.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6f7f558dbaa3.png?v=1773769728",
-            "thumb_key": "thumbs/kaytee-6f7f558dbaa3.webp"
+            "team_a": "AS Bakaridjan",
+            "team_b": "Derby Académie",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/c22abb6cc20dfeb661d182454537b749.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/07853a497a06d4d3b71b3a238242eef9.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7ac5b922fb6d.png?v=1773772527",
+            "thumb_key": "thumbs/kaytee-7ac5b922fb6d.webp"
           }
         },
         {
-          "id": "kaytee-25487bba3680",
-          "name": "🏸 GEISS /  JANSEN vs M ARDIANTO/R HIDAYAT | 23:35",
+          "id": "kaytee-82f734660162",
+          "name": "⚽ Onze Createurs vs AS Korofina | 23:45",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -329,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-25487bba3680.png?v=1773769736",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-82f734660162.png?v=1773772529",
             "width": 1600,
             "height": 1200
           },
@@ -343,27 +110,27 @@
           ],
           "sources": [
             {
-              "id": "src-601322050",
+              "id": "src-601322080",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601322050",
-                  "name": "GEISS /  JANSEN vs M ARDIANTO/R HIDAYAT",
+                  "id": "ct-601322080",
+                  "name": "Onze Createurs vs AS Korofina",
                   "streams": [
                     {
-                      "id": "st-601322050",
+                      "id": "st-601322080",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-9834da0f9e",
+                          "id": "lnk-95f990f6c6",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b90d98326d9_142210/index.m3u8?expire=1774340120&sign=27fa3df03b16c040f5a971c3eadb5595",
+                          "url": "https://live.alilicloud.com/live/04587157d74701e97d941e53d8b0ddee/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/geiss---jansen-vs-m-ardiantor-hidayat-2335-17-03-2026/601322050"
+                              "value": "https://bunchatv1.net/truc-tiep/onze-createurs-vs-as-korofina-2345-17-03-2026/601322080"
                             },
                             {
                               "key": "User-Agent",
@@ -379,177 +146,13 @@
             }
           ],
           "org_metadata": {
-            "league": "Sân 3 - Orleans Masters Badminton 2026",
-            "team_a": "GEISS /  JANSEN",
-            "team_b": "M ARDIANTO/R HIDAYAT",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/7518db66c965509f259e5f120c6c1d0d.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/9159ca11144c605c139b08c964d07caf.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-25487bba3680.png?v=1773769736",
-            "thumb_key": "thumbs/kaytee-25487bba3680.webp"
-          }
-        },
-        {
-          "id": "kaytee-c832e62f9db1",
-          "name": "🏸 Donovan Willard WEE/Jia Hao Howin WONG vs INDRA / JOAQUIN | 23:45",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c832e62f9db1.png?v=1773769737",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601322044",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601322044",
-                  "name": "Donovan Willard WEE/Jia Hao Howin WONG vs INDRA / JOAQUIN",
-                  "streams": [
-                    {
-                      "id": "st-601322044",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bf89252a42",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b966a770a69_138846/index.m3u8?expire=1774362919&sign=7a0c949e56c9093830ead19bdabf0f47",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/donovan-willard-weejia-hao-howin-wong-vs-indra--joaquin-2345-17-03-2026/601322044"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Sân 2 - Orleans Masters Badminton 2026",
-            "team_a": "Donovan Willard WEE/Jia Hao Howin WONG",
-            "team_b": "INDRA / JOAQUIN",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/e220c25ed606680348650f47c56e5573.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/066623b2192dd7e9cb55f9f5fe0d6109.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c832e62f9db1.png?v=1773769737",
-            "thumb_key": "thumbs/kaytee-c832e62f9db1.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "live_bóng_bàn",
-      "name": "🔴 Live 🏓 Bóng Bàn",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-df6640a5a18d",
-          "name": "🏓 FK Krasnodar vs CSKA Moscow | 23:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-df6640a5a18d.png?v=1773769736",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601309858",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601309858",
-                  "name": "FK Krasnodar vs CSKA Moscow",
-                  "streams": [
-                    {
-                      "id": "st-601309858",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7d892f13d2",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b977bb326d9_88642/index.m3u8?expire=1774367291&sign=95301264fd5cc1664c758afa52ee78db",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/fk-krasnodar-vs-cska-moscow-2330-17-03-2026/601309858"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-682e2c277f",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/49e89ca63667584fbdb8980937823e2c/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/fk-krasnodar-vs-cska-moscow-2330-17-03-2026/601309858"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Russian Cup",
-            "team_a": "FK Krasnodar",
-            "team_b": "CSKA Moscow",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/ee170662c1911f3d2f7746f6539f2604.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/1eae81e51945df5660e24dc6f0ea353c.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-df6640a5a18d.png?v=1773769736",
-            "thumb_key": "thumbs/kaytee-df6640a5a18d.webp"
+            "league": "Mali Premiere Division",
+            "team_a": "Onze Createurs",
+            "team_b": "AS Korofina",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/cac6a022808457fc0e3b73ae3ba808fe.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/bfe5a4619f2eb038a6cf951c104d75f2.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-82f734660162.png?v=1773772529",
+            "thumb_key": "thumbs/kaytee-82f734660162.webp"
           }
         }
       ]
