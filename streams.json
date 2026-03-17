@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-17T10:32:46.083721",
+  "updated_at": "2026-03-17T11:26:16.907398",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,144 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-7914fbec27c2",
-          "name": "⚽ Adelaide vs South East Melbourne | 15:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7914fbec27c2.png?v=1773743556",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601321867",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601321867",
-                  "name": "Adelaide vs South East Melbourne",
-                  "streams": [
-                    {
-                      "id": "st-601321867",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ef59f1efc0",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b90933326d9_4733/index.m3u8?expire=1774338995&sign=392358991edcf38fdcfcf2608b6cecef",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/adelaide-vs-south-east-melbourne-1530-17-03-2026/601321867"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "NBL",
-            "team_a": "Adelaide",
-            "team_b": "South East Melbourne",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/21f9c0700d2402e93d4a9c49bd4854e7.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/7c169cd0be437260821ef33aa8dd29c6.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7914fbec27c2.png?v=1773743556",
-            "thumb_key": "thumbs/kaytee-7914fbec27c2.webp"
-          }
-        },
-        {
-          "id": "kaytee-5e832287d2ae",
-          "name": "⚽ Yarmanya United FC vs Thitsar Arman FC | 16:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5e832287d2ae.png?v=1773743558",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601314919",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601314919",
-                  "name": "Yarmanya United FC vs Thitsar Arman FC",
-                  "streams": [
-                    {
-                      "id": "st-601314919",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6a22c8df50",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/a1f14a78046a5deb954aa66162934204/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/yarmanya-united-fc-vs-thitsar-arman-fc-1600-17-03-2026/601314919"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Myanmar Professional League",
-            "team_a": "Yarmanya United FC",
-            "team_b": "Thitsar Arman FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/d20eb37b84651856f8524464b9d9273e.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/620580ad384044d097de6cc7c3a3cc45.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5e832287d2ae.png?v=1773743558",
-            "thumb_key": "thumbs/kaytee-5e832287d2ae.webp"
-          }
-        },
         {
           "id": "kaytee-bfc26e24bbb6",
           "name": "⚽ Mahar United vs Ayeyawady united | 16:30",
@@ -165,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bfc26e24bbb6.png?v=1773743560",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bfc26e24bbb6.png?v=1773746759",
             "width": 1600,
             "height": 1200
           },
@@ -220,7 +82,7 @@
             "team_b": "Ayeyawady united",
             "logo_a": "https://cdn.rapid-api.icu/football/team/3325b113293eb88e285eee071941783f.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/0fa22db02182e418b4982b5be594bdf9.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bfc26e24bbb6.png?v=1773743560",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bfc26e24bbb6.png?v=1773746759",
             "thumb_key": "thumbs/kaytee-bfc26e24bbb6.webp"
           }
         },
@@ -234,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6ad35c628b25.png?v=1773743564",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6ad35c628b25.png?v=1773746764",
             "width": 1600,
             "height": 1200
           },
@@ -275,6 +137,23 @@
                               "value": "Mozilla/5.0"
                             }
                           ]
+                        },
+                        {
+                          "id": "lnk-c4c559ae8e",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/9ced0e4a9ba7f975634d40a1616975a4/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/gimcheon-sangmu-football-club-vs-gwangju-football-club-1730-17-03-2026/601309162"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
                         }
                       ]
                     }
@@ -289,7 +168,7 @@
             "team_b": "Gwangju Football Club",
             "logo_a": "https://cdn.rapid-api.icu/football/team/4a3e50e90ab721c1782568a287bd5358.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/2e8e1e2a893d37e3f7260e97c807c28a.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6ad35c628b25.png?v=1773743564",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6ad35c628b25.png?v=1773746764",
             "thumb_key": "thumbs/kaytee-6ad35c628b25.webp"
           }
         },
@@ -303,7 +182,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c1951a55cfd9.png?v=1773743566",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c1951a55cfd9.png?v=1773746766",
             "width": 1600,
             "height": 1200
           },
@@ -358,8 +237,77 @@
             "team_b": "Real Kashmir",
             "logo_a": "https://cdn.rapid-api.icu/football/team/19ec1494454de9b2f61bdf76bdaf5838.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/fe10a186341a15e4a76d83cdd434a1b5.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c1951a55cfd9.png?v=1773743566",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c1951a55cfd9.png?v=1773746766",
             "thumb_key": "thumbs/kaytee-c1951a55cfd9.webp"
+          }
+        },
+        {
+          "id": "kaytee-58eab34e7ffe",
+          "name": "⚽ Grange Thistle SC vs Southside Eagles | 17:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-58eab34e7ffe.png?v=1773746768",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601322059",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601322059",
+                  "name": "Grange Thistle SC vs Southside Eagles",
+                  "streams": [
+                    {
+                      "id": "st-601322059",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d5f75fcb8b",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/00aa16ed4bd4da9638ea0607ba70b39a/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/grange-thistle-sc-vs-southside-eagles-1730-17-03-2026/601322059"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "QLD D2",
+            "team_a": "Grange Thistle SC",
+            "team_b": "Southside Eagles",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/a026a7d347c6229f28b72552d12f8265.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/959622e4ada5a88652672ae91d8ba17d.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-58eab34e7ffe.png?v=1773746768",
+            "thumb_key": "thumbs/kaytee-58eab34e7ffe.webp"
           }
         }
       ]
@@ -372,146 +320,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-25487bba3680",
-          "name": "🏸 Ditlev Jaeger HOLM vs HU Zhe An | 15:10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-25487bba3680.png?v=1773743555",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601322050",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601322050",
-                  "name": "Ditlev Jaeger HOLM vs HU Zhe An",
-                  "streams": [
-                    {
-                      "id": "st-601322050",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9834da0f9e",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b90d98326d9_142210/index.m3u8?expire=1774340120&sign=27fa3df03b16c040f5a971c3eadb5595",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/ditlev-jaeger-holm-vs-hu-zhe-an-1510-17-03-2026/601322050"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Sân 3 - Orleans Masters Badminton 2026",
-            "team_a": "Ditlev Jaeger HOLM",
-            "team_b": "HU Zhe An",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/2834daf99bdaff519c76b228ebb085cd.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/71e247724e5e29fb765f8414b72e6ede.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-25487bba3680.png?v=1773743555",
-            "thumb_key": "thumbs/kaytee-25487bba3680.webp"
-          }
-        },
-        {
-          "id": "kaytee-520c805d9ea7",
-          "name": "🏸 Rachel SUGDEN vs Kaoru SUGIYAMA | 15:10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-520c805d9ea7.png?v=1773743555",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601322053",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601322053",
-                  "name": "Rachel SUGDEN vs Kaoru SUGIYAMA",
-                  "streams": [
-                    {
-                      "id": "st-601322053",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0978af19e8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b90c2b326d9_85706/index.m3u8?expire=1774339755&sign=29047f910fa93dc017a753e0d7588bda",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/rachel-sugden-vs-kaoru-sugiyama-1510-17-03-2026/601322053"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Sân 4 - Orleans Masters Badminton 2026",
-            "team_a": "Rachel SUGDEN",
-            "team_b": "Kaoru SUGIYAMA",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/b5d73388b1de656c39fc505f7feed5f2.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/f5460d92e8c7512ddffe7474dc2119a7.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-520c805d9ea7.png?v=1773743555",
-            "thumb_key": "thumbs/kaytee-520c805d9ea7.webp"
-          }
-        },
-        {
           "id": "kaytee-6f7f558dbaa3",
-          "name": "🏸 Enogat ROY vs Yaro VAN DELSEN | 17:00",
+          "name": "🏸 LAI Po Yu/LIN Xiao Min vs Andy BUIJK/Meerte LOOS | 17:35",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -519,7 +329,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6f7f558dbaa3.png?v=1773743561",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6f7f558dbaa3.png?v=1773746770",
             "width": 1600,
             "height": 1200
           },
@@ -538,7 +348,7 @@
               "contents": [
                 {
                   "id": "ct-601322041",
-                  "name": "Enogat ROY vs Yaro VAN DELSEN",
+                  "name": "LAI Po Yu/LIN Xiao Min vs Andy BUIJK/Meerte LOOS",
                   "streams": [
                     {
                       "id": "st-601322041",
@@ -553,7 +363,7 @@
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/enogat-roy-vs-yaro-van-delsen-1700-17-03-2026/601322041"
+                              "value": "https://bunchatv1.net/truc-tiep/lai-po-yulin-xiao-min-vs-andy-buijkmeerte-loos-1735-17-03-2026/601322041"
                             },
                             {
                               "key": "User-Agent",
@@ -570,12 +380,150 @@
           ],
           "org_metadata": {
             "league": "Sân 1 - Orleans Masters Badminton 2026",
-            "team_a": "Enogat ROY",
-            "team_b": "Yaro VAN DELSEN",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a804fac5b71c1354f74c63503bf13e6a.jpg",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/e76ce583528cad231b4917d4e8ef614d.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6f7f558dbaa3.png?v=1773743561",
+            "team_a": "LAI Po Yu/LIN Xiao Min",
+            "team_b": "Andy BUIJK/Meerte LOOS",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a7cc2964c7a5dbc52cad3785f7f4d533.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/6fac7d6d6fc4a99cd06dfacc2a000351.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6f7f558dbaa3.png?v=1773746770",
             "thumb_key": "thumbs/kaytee-6f7f558dbaa3.webp"
+          }
+        },
+        {
+          "id": "kaytee-25487bba3680",
+          "name": "🏸 SAEHENG / SAEHENG vs MAMMERI / MAMMERI | 17:45",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-25487bba3680.png?v=1773746771",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601322050",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601322050",
+                  "name": "SAEHENG / SAEHENG vs MAMMERI / MAMMERI",
+                  "streams": [
+                    {
+                      "id": "st-601322050",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9834da0f9e",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b90d98326d9_142210/index.m3u8?expire=1774340120&sign=27fa3df03b16c040f5a971c3eadb5595",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/saeheng--saeheng-vs-mammeri--mammeri-1745-17-03-2026/601322050"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sân 3 - Orleans Masters Badminton 2026",
+            "team_a": "SAEHENG / SAEHENG",
+            "team_b": "MAMMERI / MAMMERI",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a57875876e129e6f04cbaa37fb9fbb0b.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/e5574a88dc13e2703c25c6278e6bd6c1.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-25487bba3680.png?v=1773746771",
+            "thumb_key": "thumbs/kaytee-25487bba3680.webp"
+          }
+        },
+        {
+          "id": "kaytee-520c805d9ea7",
+          "name": "🏸 Minoru KOGA vs Riki TAKEI | 17:45",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-520c805d9ea7.png?v=1773746774",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601322053",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601322053",
+                  "name": "Minoru KOGA vs Riki TAKEI",
+                  "streams": [
+                    {
+                      "id": "st-601322053",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0978af19e8",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b90c2b326d9_85706/index.m3u8?expire=1774339755&sign=29047f910fa93dc017a753e0d7588bda",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/minoru-koga-vs-riki-takei-1745-17-03-2026/601322053"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sân 4 - Orleans Masters Badminton 2026",
+            "team_a": "Minoru KOGA",
+            "team_b": "Riki TAKEI",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/75c4387c3711a78afe64f00984355f5a.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/29cf08bdd2c7eedec2a740a6e68b110a.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-520c805d9ea7.png?v=1773746774",
+            "thumb_key": "thumbs/kaytee-520c805d9ea7.webp"
           }
         }
       ]
@@ -597,7 +545,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e6fb4c61ea73.png?v=1773743561",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e6fb4c61ea73.png?v=1773746762",
             "width": 1600,
             "height": 1200
           },
@@ -652,7 +600,7 @@
             "team_b": "IBK W",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/bd574463d4d1b1af4918924d021d4f0a.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/a25d1fc24aa85e0580b4c7881f232646.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e6fb4c61ea73.png?v=1773743561",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e6fb4c61ea73.png?v=1773746762",
             "thumb_key": "thumbs/kaytee-e6fb4c61ea73.webp"
           }
         },
@@ -666,7 +614,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e8d620c49a23.png?v=1773743562",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e8d620c49a23.png?v=1773746763",
             "width": 1600,
             "height": 1200
           },
@@ -721,8 +669,155 @@
             "team_b": "Woori",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/dc59a49e8f652e7feba74ad3ffb383b6.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/244ebe83a326615e6863e3555c09e69e.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e8d620c49a23.png?v=1773743562",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e8d620c49a23.png?v=1773746763",
             "thumb_key": "thumbs/kaytee-e8d620c49a23.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_bóng_đá",
+      "name": "⏳ Sắp Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-43bbb904cabe",
+          "name": "⚽ Guangdong vs Xinjiang | 18:35",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-43bbb904cabe.png?v=1773746776",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601321861",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601321861",
+                  "name": "Guangdong vs Xinjiang",
+                  "streams": [
+                    {
+                      "id": "st-601321861",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-042e5e7fea",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b9378c326d9_42127/index.m3u8?expire=1774350860&sign=cf43cb92b668f25402982b3ce07a688e",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/guangdong-vs-xinjiang-1835-17-03-2026/601321861"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CBA",
+            "team_a": "Guangdong",
+            "team_b": "Xinjiang",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/d3c311fb581d8757b1b9f4b9d30e32dc.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/3072a00829e2e1a2bf21884e11dc200e.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-43bbb904cabe.png?v=1773746776",
+            "thumb_key": "thumbs/kaytee-43bbb904cabe.webp"
+          }
+        },
+        {
+          "id": "kaytee-c9c503f85a01",
+          "name": "⚽ Shanxi Zhongyu vs Beijing Royal Fighters | 18:35",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c9c503f85a01.png?v=1773746776",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601321864",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601321864",
+                  "name": "Shanxi Zhongyu vs Beijing Royal Fighters",
+                  "streams": [
+                    {
+                      "id": "st-601321864",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2266d8c977",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b932d2326d9_4733/index.m3u8?expire=1774349650&sign=f12176b36b6e2cd92dd451a615e0ea51",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/shanxi-zhongyu-vs-beijing-royal-fighters-1835-17-03-2026/601321864"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CBA",
+            "team_a": "Shanxi Zhongyu",
+            "team_b": "Beijing Royal Fighters",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/2a7551dc7e9fbb0a844291cfb6453ae4.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/690b75e84eae0109a09dd80edba8b339.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c9c503f85a01.png?v=1773746776",
+            "thumb_key": "thumbs/kaytee-c9c503f85a01.webp"
           }
         }
       ]
