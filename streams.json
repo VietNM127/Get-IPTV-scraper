@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-17T09:34:26.271099",
+  "updated_at": "2026-03-17T10:30:45.485572",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,92 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-309f581b1986",
-          "name": "⚽ Sydney FC vs Melbourne City | 15:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-309f581b1986.png?v=1773740054",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601309150",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601309150",
-                  "name": "Sydney FC vs Melbourne City",
-                  "streams": [
-                    {
-                      "id": "st-601309150",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-dc7329662a",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b9019d326d9_103/index.m3u8?expire=1774337053&sign=5cc7e7b9d29f57ae1c2f67db103d24ee",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/sydney-fc-vs-melbourne-city-1500-17-03-2026/601309150"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-d7871976de",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/888b87b041a4abfdf182b060fdcbb3f7/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/sydney-fc-vs-melbourne-city-1500-17-03-2026/601309150"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Australia A-League",
-            "team_a": "Sydney FC",
-            "team_b": "Melbourne City",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/a0c772584c00e1b6efd1c421344cd005.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/c24f327d053d80fe6584b4c42d5cca13.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-309f581b1986.png?v=1773740054",
-            "thumb_key": "thumbs/kaytee-309f581b1986.webp"
-          }
-        },
         {
           "id": "kaytee-7914fbec27c2",
           "name": "⚽ Adelaide vs South East Melbourne | 15:30",
@@ -113,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7914fbec27c2.png?v=1773740058",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7914fbec27c2.png?v=1773743436",
             "width": 1600,
             "height": 1200
           },
@@ -168,8 +82,77 @@
             "team_b": "South East Melbourne",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/21f9c0700d2402e93d4a9c49bd4854e7.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/7c169cd0be437260821ef33aa8dd29c6.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7914fbec27c2.png?v=1773740058",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7914fbec27c2.png?v=1773743436",
             "thumb_key": "thumbs/kaytee-7914fbec27c2.webp"
+          }
+        },
+        {
+          "id": "kaytee-5e832287d2ae",
+          "name": "⚽ Yarmanya United FC vs Thitsar Arman FC | 16:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5e832287d2ae.png?v=1773743438",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601314919",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601314919",
+                  "name": "Yarmanya United FC vs Thitsar Arman FC",
+                  "streams": [
+                    {
+                      "id": "st-601314919",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6a22c8df50",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/a1f14a78046a5deb954aa66162934204/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/yarmanya-united-fc-vs-thitsar-arman-fc-1600-17-03-2026/601314919"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Myanmar Professional League",
+            "team_a": "Yarmanya United FC",
+            "team_b": "Thitsar Arman FC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/d20eb37b84651856f8524464b9d9273e.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/620580ad384044d097de6cc7c3a3cc45.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5e832287d2ae.png?v=1773743438",
+            "thumb_key": "thumbs/kaytee-5e832287d2ae.webp"
           }
         },
         {
@@ -182,7 +165,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bfc26e24bbb6.png?v=1773740061",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bfc26e24bbb6.png?v=1773743440",
             "width": 1600,
             "height": 1200
           },
@@ -237,7 +220,7 @@
             "team_b": "Ayeyawady united",
             "logo_a": "https://cdn.rapid-api.icu/football/team/3325b113293eb88e285eee071941783f.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/0fa22db02182e418b4982b5be594bdf9.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bfc26e24bbb6.png?v=1773740061",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bfc26e24bbb6.png?v=1773743440",
             "thumb_key": "thumbs/kaytee-bfc26e24bbb6.webp"
           }
         }
@@ -260,7 +243,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-25487bba3680.png?v=1773740057",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-25487bba3680.png?v=1773743435",
             "width": 1600,
             "height": 1200
           },
@@ -315,7 +298,7 @@
             "team_b": "HU Zhe An",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/2834daf99bdaff519c76b228ebb085cd.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/71e247724e5e29fb765f8414b72e6ede.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-25487bba3680.png?v=1773740057",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-25487bba3680.png?v=1773743435",
             "thumb_key": "thumbs/kaytee-25487bba3680.webp"
           }
         },
@@ -329,7 +312,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-520c805d9ea7.png?v=1773740057",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-520c805d9ea7.png?v=1773743436",
             "width": 1600,
             "height": 1200
           },
@@ -384,13 +367,13 @@
             "team_b": "Kaoru SUGIYAMA",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/b5d73388b1de656c39fc505f7feed5f2.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/f5460d92e8c7512ddffe7474dc2119a7.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-520c805d9ea7.png?v=1773740057",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-520c805d9ea7.png?v=1773743436",
             "thumb_key": "thumbs/kaytee-520c805d9ea7.webp"
           }
         },
         {
           "id": "kaytee-6f7f558dbaa3",
-          "name": "🏸 Irina Amalie ANDERSEN vs EE Yu-Hsuan | 16:00",
+          "name": "🏸 Enogat ROY vs Yaro VAN DELSEN | 17:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -398,7 +381,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6f7f558dbaa3.png?v=1773740059",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6f7f558dbaa3.png?v=1773743441",
             "width": 1600,
             "height": 1200
           },
@@ -417,7 +400,7 @@
               "contents": [
                 {
                   "id": "ct-601322041",
-                  "name": "Irina Amalie ANDERSEN vs EE Yu-Hsuan",
+                  "name": "Enogat ROY vs Yaro VAN DELSEN",
                   "streams": [
                     {
                       "id": "st-601322041",
@@ -432,7 +415,7 @@
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/irina-amalie-andersen-vs-ee-yuhsuan-1600-17-03-2026/601322041"
+                              "value": "https://bunchatv1.net/truc-tiep/enogat-roy-vs-yaro-van-delsen-1700-17-03-2026/601322041"
                             },
                             {
                               "key": "User-Agent",
@@ -449,12 +432,159 @@
           ],
           "org_metadata": {
             "league": "Sân 1 - Orleans Masters Badminton 2026",
-            "team_a": "Irina Amalie ANDERSEN",
-            "team_b": "EE Yu-Hsuan",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/e988538073fc7ec981e2f326d2e987ee.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/dd0ea1310af15ff20cd3b05248885669.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6f7f558dbaa3.png?v=1773740059",
+            "team_a": "Enogat ROY",
+            "team_b": "Yaro VAN DELSEN",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a804fac5b71c1354f74c63503bf13e6a.jpg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/e76ce583528cad231b4917d4e8ef614d.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6f7f558dbaa3.png?v=1773743441",
             "thumb_key": "thumbs/kaytee-6f7f558dbaa3.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_bóng_chuyền",
+      "name": "🔴 Live 🏐 Bóng Chuyền",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-e6fb4c61ea73",
+          "name": "🏐 Expressway Co W vs IBK W | 17:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e6fb4c61ea73.png?v=1773743442",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601309423",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601309423",
+                  "name": "Expressway Co W vs IBK W",
+                  "streams": [
+                    {
+                      "id": "st-601309423",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-544611a920",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b91d00326d9_128756/index.m3u8?expire=1774344064&sign=f332eb83703c3cee3d5629f2eedf71f8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/expressway-co-w-vs-ibk-w-1700-17-03-2026/601309423"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Volleyball League Women",
+            "team_a": "Expressway Co W",
+            "team_b": "IBK W",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/bd574463d4d1b1af4918924d021d4f0a.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/a25d1fc24aa85e0580b4c7881f232646.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e6fb4c61ea73.png?v=1773743442",
+            "thumb_key": "thumbs/kaytee-e6fb4c61ea73.webp"
+          }
+        },
+        {
+          "id": "kaytee-e8d620c49a23",
+          "name": "🏐 Samsung Blue Fangs vs Woori | 17:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e8d620c49a23.png?v=1773743442",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601309441",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601309441",
+                  "name": "Samsung Blue Fangs vs Woori",
+                  "streams": [
+                    {
+                      "id": "st-601309441",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7d3299125f",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b91f7970a69_88642/index.m3u8?expire=1774344697&sign=47eda13ca447d1e68fe6b1c8d30862a0",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/samsung-blue-fangs-vs-woori-1700-17-03-2026/601309441"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Volleyball League",
+            "team_a": "Samsung Blue Fangs",
+            "team_b": "Woori",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/dc59a49e8f652e7feba74ad3ffb383b6.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/244ebe83a326615e6863e3555c09e69e.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e8d620c49a23.png?v=1773743442",
+            "thumb_key": "thumbs/kaytee-e8d620c49a23.webp"
           }
         }
       ]
@@ -476,7 +606,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6ad35c628b25.png?v=1773740066",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6ad35c628b25.png?v=1773743444",
             "width": 1600,
             "height": 1200
           },
@@ -531,22 +661,13 @@
             "team_b": "Gwangju Football Club",
             "logo_a": "https://cdn.rapid-api.icu/football/team/4a3e50e90ab721c1782568a287bd5358.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/2e8e1e2a893d37e3f7260e97c807c28a.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6ad35c628b25.png?v=1773740066",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6ad35c628b25.png?v=1773743444",
             "thumb_key": "thumbs/kaytee-6ad35c628b25.webp"
           }
-        }
-      ]
-    },
-    {
-      "id": "upcoming_bóng_chuyền",
-      "name": "⏳ Sắp Live 🏐 Bóng Chuyền",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
+        },
         {
-          "id": "kaytee-e6fb4c61ea73",
-          "name": "🏐 Expressway Co W vs IBK W | 17:00",
+          "id": "kaytee-c1951a55cfd9",
+          "name": "⚽ Rajasthan United FC vs Real Kashmir | 17:30",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -554,7 +675,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e6fb4c61ea73.png?v=1773740064",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c1951a55cfd9.png?v=1773743445",
             "width": 1600,
             "height": 1200
           },
@@ -568,27 +689,27 @@
           ],
           "sources": [
             {
-              "id": "src-601309423",
+              "id": "src-601309165",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601309423",
-                  "name": "Expressway Co W vs IBK W",
+                  "id": "ct-601309165",
+                  "name": "Rajasthan United FC vs Real Kashmir",
                   "streams": [
                     {
-                      "id": "st-601309423",
+                      "id": "st-601309165",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-544611a920",
+                          "id": "lnk-427d5d13aa",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b91d00326d9_128756/index.m3u8?expire=1774344064&sign=f332eb83703c3cee3d5629f2eedf71f8",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b9280c70a69_74012/index.m3u8?expire=1774346892&sign=cd7378d9fcca898fee477aa460e92fa0",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/expressway-co-w-vs-ibk-w-1700-17-03-2026/601309423"
+                              "value": "https://bunchatv1.net/truc-tiep/rajasthan-united-fc-vs-real-kashmir-1730-17-03-2026/601309165"
                             },
                             {
                               "key": "User-Agent",
@@ -604,91 +725,13 @@
             }
           ],
           "org_metadata": {
-            "league": "Volleyball League Women",
-            "team_a": "Expressway Co W",
-            "team_b": "IBK W",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/bd574463d4d1b1af4918924d021d4f0a.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/a25d1fc24aa85e0580b4c7881f232646.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e6fb4c61ea73.png?v=1773740064",
-            "thumb_key": "thumbs/kaytee-e6fb4c61ea73.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "upcoming_bóng_bàn",
-      "name": "⏳ Sắp Live 🏓 Bóng Bàn",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-a99b48cf9955",
-          "name": "🏓 FC Chernigiv vs FK Yarud Mariupol | 17:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a99b48cf9955.png?v=1773740063",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Sắp Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601309156",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601309156",
-                  "name": "FC Chernigiv vs FK Yarud Mariupol",
-                  "streams": [
-                    {
-                      "id": "st-601309156",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-72d5b15847",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b91e8970a69_6308/index.m3u8?expire=1774344457&sign=2535bf35da1afeefe105d6d268f904a3",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/fc-chernigiv-vs-fk-yarud-mariupol-1700-17-03-2026/601309156"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Ukrainian Cup",
-            "team_a": "FC Chernigiv",
-            "team_b": "FK Yarud Mariupol",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/99ba7fc8678d8ee40ab1c56443f4b1a3.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/e661cbf86fd6a27dc9be868d9207399d.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a99b48cf9955.png?v=1773740063",
-            "thumb_key": "thumbs/kaytee-a99b48cf9955.webp"
+            "league": "Indian League Division 1",
+            "team_a": "Rajasthan United FC",
+            "team_b": "Real Kashmir",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/19ec1494454de9b2f61bdf76bdaf5838.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/fe10a186341a15e4a76d83cdd434a1b5.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c1951a55cfd9.png?v=1773743445",
+            "thumb_key": "thumbs/kaytee-c1951a55cfd9.webp"
           }
         }
       ]
