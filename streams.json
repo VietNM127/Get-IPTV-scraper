@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-17T07:34:28.089027",
+  "updated_at": "2026-03-17T07:44:43.590141",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b15e3bd5ce95.png?v=1773732866",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b15e3bd5ce95.png?v=1773733481",
             "width": 1600,
             "height": 1200
           },
@@ -82,7 +82,7 @@
             "team_b": "Florian  Nuessle",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/1262257acccc49e87e91344866e8c9eb.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/1262257acccc49e87e91344866e8c9eb.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b15e3bd5ce95.png?v=1773732866",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b15e3bd5ce95.png?v=1773733481",
             "thumb_key": "thumbs/kaytee-b15e3bd5ce95.webp"
           }
         }
@@ -105,7 +105,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-309f581b1986.png?v=1773732868",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-309f581b1986.png?v=1773733482",
             "width": 1600,
             "height": 1200
           },
@@ -160,8 +160,86 @@
             "team_b": "Melbourne City",
             "logo_a": "https://cdn.rapid-api.icu/football/team/a0c772584c00e1b6efd1c421344cd005.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/c24f327d053d80fe6584b4c42d5cca13.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-309f581b1986.png?v=1773732868",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-309f581b1986.png?v=1773733482",
             "thumb_key": "thumbs/kaytee-309f581b1986.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_cầu_lông",
+      "name": "⏳ Sắp Live 🏸 Cầu Lông",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-6f7f558dbaa3",
+          "name": "🏸 M KRUSE vs Takuma OBAYASHI | 15:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6f7f558dbaa3.png?v=1773733483",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601322041",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601322041",
+                  "name": "M KRUSE vs Takuma OBAYASHI",
+                  "streams": [
+                    {
+                      "id": "st-601322041",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e705630c80",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b904f0326d9_18754/index.m3u8?expire=1774337904&sign=8ef2a809c32e791d4a2ea83ab69dc784",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/m-kruse-vs-takuma-obayashi-1500-17-03-2026/601322041"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sân 1 - Orleans Masters Badminton 2026",
+            "team_a": "M KRUSE",
+            "team_b": "Takuma OBAYASHI",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/84c7b433319d20545ad8db1e86d564ec.svg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/820c8d40d6f49fd6f669abd4e7d6f095.jpg",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6f7f558dbaa3.png?v=1773733483",
+            "thumb_key": "thumbs/kaytee-6f7f558dbaa3.webp"
           }
         }
       ]
