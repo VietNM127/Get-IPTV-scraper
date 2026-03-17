@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-17T18:35:29.619013",
+  "updated_at": "2026-03-17T18:41:44.906999",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7ac5b922fb6d.png?v=1773772527",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7ac5b922fb6d.png?v=1773772904",
             "width": 1600,
             "height": 1200
           },
@@ -82,77 +82,8 @@
             "team_b": "Derby Académie",
             "logo_a": "https://cdn.rapid-api.icu/football/team/c22abb6cc20dfeb661d182454537b749.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/07853a497a06d4d3b71b3a238242eef9.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7ac5b922fb6d.png?v=1773772527",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7ac5b922fb6d.png?v=1773772904",
             "thumb_key": "thumbs/kaytee-7ac5b922fb6d.webp"
-          }
-        },
-        {
-          "id": "kaytee-82f734660162",
-          "name": "⚽ Onze Createurs vs AS Korofina | 23:45",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-82f734660162.png?v=1773772529",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601322080",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601322080",
-                  "name": "Onze Createurs vs AS Korofina",
-                  "streams": [
-                    {
-                      "id": "st-601322080",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-95f990f6c6",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/04587157d74701e97d941e53d8b0ddee/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/onze-createurs-vs-as-korofina-2345-17-03-2026/601322080"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Mali Premiere Division",
-            "team_a": "Onze Createurs",
-            "team_b": "AS Korofina",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/cac6a022808457fc0e3b73ae3ba808fe.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/bfe5a4619f2eb038a6cf951c104d75f2.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-82f734660162.png?v=1773772529",
-            "thumb_key": "thumbs/kaytee-82f734660162.webp"
           }
         }
       ]
