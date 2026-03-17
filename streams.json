@@ -8,6 +8,85 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-17T05:46:59.133357",
-  "groups": []
+  "updated_at": "2026-03-17T06:17:02.205831",
+  "groups": [
+    {
+      "id": "live_bóng_đá",
+      "name": "🔴 Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-b15e3bd5ce95",
+          "name": "⚽ Florian  Nuessle vs Florian  Nuessle | 13:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b15e3bd5ce95.png?v=1773728222",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601321942",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601321942",
+                  "name": "Florian  Nuessle vs Florian  Nuessle",
+                  "streams": [
+                    {
+                      "id": "st-601321942",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c32be658e8",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b8a928326d9_142246/index.m3u8?expire=1774314408&sign=9e978ff5a90e70bef5d15d96638074f4",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/florian--nuessle-vs-florian--nuessle-1300-17-03-2026/601321942"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Open 2026",
+            "team_a": "Florian  Nuessle",
+            "team_b": "Florian  Nuessle",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/1262257acccc49e87e91344866e8c9eb.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/1262257acccc49e87e91344866e8c9eb.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b15e3bd5ce95.png?v=1773728222",
+            "thumb_key": "thumbs/kaytee-b15e3bd5ce95.webp"
+          }
+        }
+      ]
+    }
+  ]
 }
