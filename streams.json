@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-17T03:37:25.784999",
+  "updated_at": "2026-03-17T04:44:20.118575",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,161 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-b15e3bd5ce95",
-          "name": "⚽ Haotian vs Kyren Wilson | 08:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b15e3bd5ce95.png?v=1773718636",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601321942",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601321942",
-                  "name": "Haotian vs Kyren Wilson",
-                  "streams": [
-                    {
-                      "id": "st-601321942",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c32be658e8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b8a928326d9_142246/index.m3u8?expire=1774314408&sign=9e978ff5a90e70bef5d15d96638074f4",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/haotian-vs-kyren-wilson-0830-17-03-2026/601321942"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "World Open 2026",
-            "team_a": "Haotian",
-            "team_b": "Kyren Wilson",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/68190e58e78f12c2983b09b8784d1211.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/742b3a829fb38a061d6a76202404b5dd.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b15e3bd5ce95.png?v=1773718636",
-            "thumb_key": "thumbs/kaytee-b15e3bd5ce95.webp"
-          }
-        },
-        {
-          "id": "kaytee-397e7cd3a337",
-          "name": "⚽ Club America (w) vs Toluca (w) | 09:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-397e7cd3a337.png?v=1773718639",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601309144",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601309144",
-                  "name": "Club America (w) vs Toluca (w)",
-                  "streams": [
-                    {
-                      "id": "st-601309144",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a52998b3f8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b8abe8326d9_74012/index.m3u8?expire=1774315112&sign=e5d7a25d6781303d99801a341ef6cabc",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/club-america-w-vs-toluca-w-0900-17-03-2026/601309144"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-e9f3927251",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/81966aca98b786da65d318c504b8f3fe/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/club-america-w-vs-toluca-w-0900-17-03-2026/601309144"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Mexico Liga MX Femenil",
-            "team_a": "Club America (w)",
-            "team_b": "Toluca (w)",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/988d4c293006d45d1f453c9ee2884022.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/680f427a2bc69ae676240a60d8aa2bdb.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-397e7cd3a337.png?v=1773718639",
-            "thumb_key": "thumbs/kaytee-397e7cd3a337.webp"
-          }
-        },
         {
           "id": "kaytee-b6d72ff65482",
           "name": "⚽ Leon (w) vs Mazatlan FC (w) | 10:05",
@@ -182,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b6d72ff65482.png?v=1773718644",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b6d72ff65482.png?v=1773722658",
             "width": 1600,
             "height": 1200
           },
@@ -254,7 +99,7 @@
             "team_b": "Mazatlan FC (w)",
             "logo_a": "https://cdn.rapid-api.icu/football/team/8e279a6f57d4768f5f1fa3bb28fd3a8a.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/c87378cb2b4fd7ec95945b863e2e75c2.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b6d72ff65482.png?v=1773718644",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b6d72ff65482.png?v=1773722658",
             "thumb_key": "thumbs/kaytee-b6d72ff65482.webp"
           }
         }
@@ -268,75 +113,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-b1ca48b6485a",
-          "name": "🏀 Houston Rockets vs Los Angeles Lakers | 08:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b1ca48b6485a.png?v=1773718637",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601310692",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601310692",
-                  "name": "Houston Rockets vs Los Angeles Lakers",
-                  "streams": [
-                    {
-                      "id": "st-601310692",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7dbfb5658f",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b8af22326d9_42127/index.m3u8?expire=1774315938&sign=18871b1e56efbae9f0afbbbac10de140",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/houston-rockets-vs-los-angeles-lakers-0830-17-03-2026/601310692"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "NBA",
-            "team_a": "Houston Rockets",
-            "team_b": "Los Angeles Lakers",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/f2ccea244e52871508761dd546e14a53.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/feb6335bd6d4cb2e6b6cb6cb43c0e0a1.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b1ca48b6485a.png?v=1773718637",
-            "thumb_key": "thumbs/kaytee-b1ca48b6485a.webp"
-          }
-        },
-        {
           "id": "kaytee-f6d4c630d70b",
           "name": "🏀 Los Angeles Clippers vs San Antonio Spurs | 09:00",
           "type": "single",
@@ -346,7 +122,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f6d4c630d70b.png?v=1773718642",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f6d4c630d70b.png?v=1773722656",
             "width": 1600,
             "height": 1200
           },
@@ -401,7 +177,7 @@
             "team_b": "San Antonio Spurs",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/166d854bec894fccec7fec32048f4094.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/fcb0d98ef40bc3ab0404e77a6a02a947.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f6d4c630d70b.png?v=1773718642",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f6d4c630d70b.png?v=1773722656",
             "thumb_key": "thumbs/kaytee-f6d4c630d70b.webp"
           }
         }
@@ -424,7 +200,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2173250031ca.png?v=1773718645",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2173250031ca.png?v=1773722660",
             "width": 1600,
             "height": 1200
           },
@@ -479,7 +255,7 @@
             "team_b": "Australia Women",
             "logo_a": "https://cdn.rapid-api.icu/football/team/d7284374f0dbd15edab5227f4dd34db5.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/16e07f20613d448ad440f7445ce8dd5a.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2173250031ca.png?v=1773718645",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2173250031ca.png?v=1773722660",
             "thumb_key": "thumbs/kaytee-2173250031ca.webp"
           }
         }
