@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-17T06:46:15.834315",
+  "updated_at": "2026-03-17T07:34:28.089027",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b15e3bd5ce95.png?v=1773729975",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b15e3bd5ce95.png?v=1773732866",
             "width": 1600,
             "height": 1200
           },
@@ -82,8 +82,86 @@
             "team_b": "Florian  Nuessle",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/1262257acccc49e87e91344866e8c9eb.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/1262257acccc49e87e91344866e8c9eb.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b15e3bd5ce95.png?v=1773729975",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b15e3bd5ce95.png?v=1773732866",
             "thumb_key": "thumbs/kaytee-b15e3bd5ce95.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_bóng_đá",
+      "name": "⏳ Sắp Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-309f581b1986",
+          "name": "⚽ Sydney FC vs Melbourne City | 15:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-309f581b1986.png?v=1773732868",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601309150",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601309150",
+                  "name": "Sydney FC vs Melbourne City",
+                  "streams": [
+                    {
+                      "id": "st-601309150",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-dc7329662a",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b9019d326d9_103/index.m3u8?expire=1774337053&sign=5cc7e7b9d29f57ae1c2f67db103d24ee",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/sydney-fc-vs-melbourne-city-1500-17-03-2026/601309150"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Australia A-League",
+            "team_a": "Sydney FC",
+            "team_b": "Melbourne City",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/a0c772584c00e1b6efd1c421344cd005.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/c24f327d053d80fe6584b4c42d5cca13.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-309f581b1986.png?v=1773732868",
+            "thumb_key": "thumbs/kaytee-309f581b1986.webp"
           }
         }
       ]
