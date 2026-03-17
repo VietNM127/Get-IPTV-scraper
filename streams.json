@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-17T02:50:37.222784",
+  "updated_at": "2026-03-17T03:37:25.784999",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,316 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-dcb427da9472",
-          "name": "⚽ Atlas (w) vs Monterrey (w) | 08:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-dcb427da9472.png?v=1773715823",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601309132",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601309132",
-                  "name": "Atlas (w) vs Monterrey (w)",
-                  "streams": [
-                    {
-                      "id": "st-601309132",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c247cdf176",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b8a85b70a69_128756/index.m3u8?expire=1774314203&sign=05bc11096c94f937abdf83197b0ddf16",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/atlas-w-vs-monterrey-w-0800-17-03-2026/601309132"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-e9a6ee1031",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/dc1f5d66ba0b2e70e5b893aba0be3bab/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/atlas-w-vs-monterrey-w-0800-17-03-2026/601309132"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Mexico Liga MX Femenil",
-            "team_a": "Atlas (w)",
-            "team_b": "Monterrey (w)",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/3dc17d0d3fe8cbf2adacc03198f09779.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/c32ddb0be3a23ceca9a2ccfb599438eb.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-dcb427da9472.png?v=1773715823",
-            "thumb_key": "thumbs/kaytee-dcb427da9472.webp"
-          }
-        },
-        {
-          "id": "kaytee-29a7df40d064",
-          "name": "⚽ Escorpiones Belen vs AD Cariari Pococi | 08:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-29a7df40d064.png?v=1773715825",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601309129",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601309129",
-                  "name": "Escorpiones Belen vs AD Cariari Pococi",
-                  "streams": [
-                    {
-                      "id": "st-601309129",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b17b6d2ffe",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/21052bcfa620256fc0738455b848bc9e/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/escorpiones-belen-vs-ad-cariari-pococi-0800-17-03-2026/601309129"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Costa Rica 2.Liga",
-            "team_a": "Escorpiones Belen",
-            "team_b": "AD Cariari Pococi",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/0604e2ebbd9f4650cea0491167ecbd32.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/e4f1fe382bd21b400493031bf386c1d5.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-29a7df40d064.png?v=1773715825",
-            "thumb_key": "thumbs/kaytee-29a7df40d064.webp"
-          }
-        },
-        {
-          "id": "kaytee-be584f94d016",
-          "name": "⚽ Instituto de Córdoba vs CA Independiente | 08:15",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-be584f94d016.png?v=1773715827",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601309135",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601309135",
-                  "name": "Instituto de Córdoba vs CA Independiente",
-                  "streams": [
-                    {
-                      "id": "st-601309135",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-80f52b19f1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b8a56e70a69_133172/index.m3u8?expire=1774313454&sign=078a2104ce19b065b641a604b910506d",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/instituto-de-cordoba-vs-ca-independiente-0815-17-03-2026/601309135"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-03eb2c1867",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/91949e77935448fcab755442b3aa2297/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/instituto-de-cordoba-vs-ca-independiente-0815-17-03-2026/601309135"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Argentine Division 1",
-            "team_a": "Instituto de Córdoba",
-            "team_b": "CA Independiente",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/a01279fdf6589b3c11529ca1ab4201fc.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/47174721b260fae6e833329c13c9f2ee.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-be584f94d016.png?v=1773715827",
-            "thumb_key": "thumbs/kaytee-be584f94d016.webp"
-          }
-        },
-        {
-          "id": "kaytee-aa5097f57fcc",
-          "name": "⚽ Deportes Quindio vs Real Soacha Cundinamarca | 08:20",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-aa5097f57fcc.png?v=1773715830",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601309138",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601309138",
-                  "name": "Deportes Quindio vs Real Soacha Cundinamarca",
-                  "streams": [
-                    {
-                      "id": "st-601309138",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a376ea9e30",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/bd08ef1e296ecc18f528aca60e173fe5/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/deportes-quindio-vs-real-soacha-cundinamarca-0820-17-03-2026/601309138"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Colombian Torneo BetPlay Dimayor",
-            "team_a": "Deportes Quindio",
-            "team_b": "Real Soacha Cundinamarca",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/aac05c0fbd8ec8adb8da8345d288bb07.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/50fbe18e0f3a8bba0049607f8780eed0.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-aa5097f57fcc.png?v=1773715830",
-            "thumb_key": "thumbs/kaytee-aa5097f57fcc.webp"
-          }
-        },
         {
           "id": "kaytee-b15e3bd5ce95",
           "name": "⚽ Haotian vs Kyren Wilson | 08:30",
@@ -337,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b15e3bd5ce95.png?v=1773715833",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b15e3bd5ce95.png?v=1773718636",
             "width": 1600,
             "height": 1200
           },
@@ -392,7 +82,7 @@
             "team_b": "Kyren Wilson",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/68190e58e78f12c2983b09b8784d1211.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/742b3a829fb38a061d6a76202404b5dd.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b15e3bd5ce95.png?v=1773715833",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b15e3bd5ce95.png?v=1773718636",
             "thumb_key": "thumbs/kaytee-b15e3bd5ce95.webp"
           }
         },
@@ -406,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-397e7cd3a337.png?v=1773715836",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-397e7cd3a337.png?v=1773718639",
             "width": 1600,
             "height": 1200
           },
@@ -478,8 +168,94 @@
             "team_b": "Toluca (w)",
             "logo_a": "https://cdn.rapid-api.icu/football/team/988d4c293006d45d1f453c9ee2884022.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/680f427a2bc69ae676240a60d8aa2bdb.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-397e7cd3a337.png?v=1773715836",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-397e7cd3a337.png?v=1773718639",
             "thumb_key": "thumbs/kaytee-397e7cd3a337.webp"
+          }
+        },
+        {
+          "id": "kaytee-b6d72ff65482",
+          "name": "⚽ Leon (w) vs Mazatlan FC (w) | 10:05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b6d72ff65482.png?v=1773718644",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601309147",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601309147",
+                  "name": "Leon (w) vs Mazatlan FC (w)",
+                  "streams": [
+                    {
+                      "id": "st-601309147",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b905453107",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b8bbbe326d9_72787/index.m3u8?expire=1774319166&sign=834b034226faaaf38323d8a6e3fcc382",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/leon-w-vs-mazatlan-fc-w-1005-17-03-2026/601309147"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-b0e4f426f2",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/37277150605193e76e0a71db37d8e27a/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/leon-w-vs-mazatlan-fc-w-1005-17-03-2026/601309147"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Mexico Liga MX Femenil",
+            "team_a": "Leon (w)",
+            "team_b": "Mazatlan FC (w)",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/8e279a6f57d4768f5f1fa3bb28fd3a8a.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/c87378cb2b4fd7ec95945b863e2e75c2.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b6d72ff65482.png?v=1773718644",
+            "thumb_key": "thumbs/kaytee-b6d72ff65482.webp"
           }
         }
       ]
@@ -501,7 +277,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b1ca48b6485a.png?v=1773715834",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b1ca48b6485a.png?v=1773718637",
             "width": 1600,
             "height": 1200
           },
@@ -556,7 +332,7 @@
             "team_b": "Los Angeles Lakers",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/f2ccea244e52871508761dd546e14a53.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/feb6335bd6d4cb2e6b6cb6cb43c0e0a1.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b1ca48b6485a.png?v=1773715834",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b1ca48b6485a.png?v=1773718637",
             "thumb_key": "thumbs/kaytee-b1ca48b6485a.webp"
           }
         },
@@ -570,7 +346,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f6d4c630d70b.png?v=1773715837",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f6d4c630d70b.png?v=1773718642",
             "width": 1600,
             "height": 1200
           },
@@ -625,8 +401,86 @@
             "team_b": "San Antonio Spurs",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/166d854bec894fccec7fec32048f4094.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/fcb0d98ef40bc3ab0404e77a6a02a947.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f6d4c630d70b.png?v=1773715837",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f6d4c630d70b.png?v=1773718642",
             "thumb_key": "thumbs/kaytee-f6d4c630d70b.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_bóng_đá",
+      "name": "⏳ Sắp Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-2173250031ca",
+          "name": "⚽ China Women vs Australia Women | 17:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2173250031ca.png?v=1773718645",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601309153",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601309153",
+                  "name": "China Women vs Australia Women",
+                  "streams": [
+                    {
+                      "id": "st-601309153",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e830443d1f",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/5cdd3842d80fabd5d2649a1128d52514/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/china-women-vs-australia-women-1700-17-03-2026/601309153"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC Women’s Asian Cup",
+            "team_a": "China Women",
+            "team_b": "Australia Women",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/d7284374f0dbd15edab5227f4dd34db5.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/16e07f20613d448ad440f7445ce8dd5a.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2173250031ca.png?v=1773718645",
+            "thumb_key": "thumbs/kaytee-2173250031ca.webp"
           }
         }
       ]
