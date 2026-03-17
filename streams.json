@@ -8,89 +8,11 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-17T07:44:43.590141",
+  "updated_at": "2026-03-17T08:29:09.668544",
   "groups": [
     {
       "id": "live_bóng_đá",
       "name": "🔴 Live ⚽ Bóng Đá",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-b15e3bd5ce95",
-          "name": "⚽ Florian  Nuessle vs Florian  Nuessle | 13:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b15e3bd5ce95.png?v=1773733481",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601321942",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601321942",
-                  "name": "Florian  Nuessle vs Florian  Nuessle",
-                  "streams": [
-                    {
-                      "id": "st-601321942",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c32be658e8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b8a928326d9_142246/index.m3u8?expire=1774314408&sign=9e978ff5a90e70bef5d15d96638074f4",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/florian--nuessle-vs-florian--nuessle-1300-17-03-2026/601321942"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "World Open 2026",
-            "team_a": "Florian  Nuessle",
-            "team_b": "Florian  Nuessle",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/1262257acccc49e87e91344866e8c9eb.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/1262257acccc49e87e91344866e8c9eb.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b15e3bd5ce95.png?v=1773733481",
-            "thumb_key": "thumbs/kaytee-b15e3bd5ce95.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "upcoming_bóng_đá",
-      "name": "⏳ Sắp Live ⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -105,16 +27,16 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-309f581b1986.png?v=1773733482",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-309f581b1986.png?v=1773736142",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "⏳ Sắp Live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -146,6 +68,23 @@
                               "value": "Mozilla/5.0"
                             }
                           ]
+                        },
+                        {
+                          "id": "lnk-d7871976de",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/888b87b041a4abfdf182b060fdcbb3f7/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/sydney-fc-vs-melbourne-city-1500-17-03-2026/601309150"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
                         }
                       ]
                     }
@@ -160,15 +99,15 @@
             "team_b": "Melbourne City",
             "logo_a": "https://cdn.rapid-api.icu/football/team/a0c772584c00e1b6efd1c421344cd005.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/c24f327d053d80fe6584b4c42d5cca13.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-309f581b1986.png?v=1773733482",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-309f581b1986.png?v=1773736142",
             "thumb_key": "thumbs/kaytee-309f581b1986.webp"
           }
         }
       ]
     },
     {
-      "id": "upcoming_cầu_lông",
-      "name": "⏳ Sắp Live 🏸 Cầu Lông",
+      "id": "live_cầu_lông",
+      "name": "🔴 Live 🏸 Cầu Lông",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -183,16 +122,16 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6f7f558dbaa3.png?v=1773733483",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6f7f558dbaa3.png?v=1773736147",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "⏳ Sắp Live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -238,8 +177,224 @@
             "team_b": "Takuma OBAYASHI",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/84c7b433319d20545ad8db1e86d564ec.svg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/820c8d40d6f49fd6f669abd4e7d6f095.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6f7f558dbaa3.png?v=1773733483",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6f7f558dbaa3.png?v=1773736147",
             "thumb_key": "thumbs/kaytee-6f7f558dbaa3.webp"
+          }
+        },
+        {
+          "id": "kaytee-25487bba3680",
+          "name": "🏸 Ditlev Jaeger HOLM vs HU Zhe An | 15:10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-25487bba3680.png?v=1773736148",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601322050",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601322050",
+                  "name": "Ditlev Jaeger HOLM vs HU Zhe An",
+                  "streams": [
+                    {
+                      "id": "st-601322050",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9834da0f9e",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b90d98326d9_142210/index.m3u8?expire=1774340120&sign=27fa3df03b16c040f5a971c3eadb5595",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/ditlev-jaeger-holm-vs-hu-zhe-an-1510-17-03-2026/601322050"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sân 3 - Orleans Masters Badminton 2026",
+            "team_a": "Ditlev Jaeger HOLM",
+            "team_b": "HU Zhe An",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/2834daf99bdaff519c76b228ebb085cd.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/71e247724e5e29fb765f8414b72e6ede.jpg",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-25487bba3680.png?v=1773736148",
+            "thumb_key": "thumbs/kaytee-25487bba3680.webp"
+          }
+        },
+        {
+          "id": "kaytee-520c805d9ea7",
+          "name": "🏸 Rachel SUGDEN vs Kaoru SUGIYAMA | 15:10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-520c805d9ea7.png?v=1773736148",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601322053",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601322053",
+                  "name": "Rachel SUGDEN vs Kaoru SUGIYAMA",
+                  "streams": [
+                    {
+                      "id": "st-601322053",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0978af19e8",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b90c2b326d9_85706/index.m3u8?expire=1774339755&sign=29047f910fa93dc017a753e0d7588bda",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/rachel-sugden-vs-kaoru-sugiyama-1510-17-03-2026/601322053"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sân 4 - Orleans Masters Badminton 2026",
+            "team_a": "Rachel SUGDEN",
+            "team_b": "Kaoru SUGIYAMA",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/b5d73388b1de656c39fc505f7feed5f2.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/f5460d92e8c7512ddffe7474dc2119a7.jpg",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-520c805d9ea7.png?v=1773736148",
+            "thumb_key": "thumbs/kaytee-520c805d9ea7.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_bóng_đá",
+      "name": "⏳ Sắp Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-7914fbec27c2",
+          "name": "⚽ Adelaide vs South East Melbourne | 15:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7914fbec27c2.png?v=1773736149",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601321867",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601321867",
+                  "name": "Adelaide vs South East Melbourne",
+                  "streams": [
+                    {
+                      "id": "st-601321867",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ef59f1efc0",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b90933326d9_4733/index.m3u8?expire=1774338995&sign=392358991edcf38fdcfcf2608b6cecef",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/adelaide-vs-south-east-melbourne-1530-17-03-2026/601321867"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NBL",
+            "team_a": "Adelaide",
+            "team_b": "South East Melbourne",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/21f9c0700d2402e93d4a9c49bd4854e7.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/7c169cd0be437260821ef33aa8dd29c6.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7914fbec27c2.png?v=1773736149",
+            "thumb_key": "thumbs/kaytee-7914fbec27c2.webp"
           }
         }
       ]
