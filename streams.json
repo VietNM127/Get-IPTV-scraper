@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-18T08:03:31.294324",
+  "updated_at": "2026-03-18T09:03:18.797244",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -18,77 +18,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-c783be123a6a",
-          "name": "⚽ Nafri vs Persimi Sarmi | 13:45",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c783be123a6a.png?v=1773821007",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601324621",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601324621",
-                  "name": "Nafri vs Persimi Sarmi",
-                  "streams": [
-                    {
-                      "id": "st-601324621",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c7f4a34efc",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/c4b522ee2d6f0f0feda35e6ae5c3ea25/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/nafri-vs-persimi-sarmi-1345-18-03-2026/601324621"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Indo D4",
-            "team_a": "Nafri",
-            "team_b": "Persimi Sarmi",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/f654b91dcb4016a6921db5ec10d80bf6.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/03e72a46927b197ff48a950fd0d94821.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c783be123a6a.png?v=1773821007",
-            "thumb_key": "thumbs/kaytee-c783be123a6a.webp"
-          }
-        },
-        {
           "id": "kaytee-9f57b73f955d",
-          "name": "⚽ Delhi FC XI vs Friends United | 14:40",
+          "name": "⚽ Delhi FC XI vs Friends United | 14:30",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -96,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9f57b73f955d.png?v=1773821008",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9f57b73f955d.png?v=1773824583",
             "width": 1600,
             "height": 1200
           },
@@ -130,7 +61,7 @@
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/delhi-fc-xi-vs-friends-united-1440-18-03-2026/601324336"
+                              "value": "https://bunchatv1.net/truc-tiep/delhi-fc-xi-vs-friends-united-1430-18-03-2026/601324336"
                             },
                             {
                               "key": "User-Agent",
@@ -151,22 +82,13 @@
             "team_b": "Friends United",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/ca5403b0cf2a546b4271a0f0d60e3153.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/f46fe8c3899d29720c61e9f93f041d23.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9f57b73f955d.png?v=1773821008",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9f57b73f955d.png?v=1773824583",
             "thumb_key": "thumbs/kaytee-9f57b73f955d.webp"
           }
-        }
-      ]
-    },
-    {
-      "id": "live_cầu_lông",
-      "name": "🔴 Live 🏸 Cầu Lông",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
+        },
         {
-          "id": "kaytee-05856ff4fec2",
-          "name": "🏸 LIN Xiao Min / WANG Yu Qiao vs LI Yi Jing/WANG Yi Duo | 15:00",
+          "id": "kaytee-723ae18aef3e",
+          "name": "⚽ Hekari Souths United FC vs Tahiti United FC | 15:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -174,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-05856ff4fec2.png?v=1773821008",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-723ae18aef3e.png?v=1773824586",
             "width": 1600,
             "height": 1200
           },
@@ -188,27 +110,27 @@
           ],
           "sources": [
             {
-              "id": "src-601324474",
+              "id": "src-601310239",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601324474",
-                  "name": "LIN Xiao Min / WANG Yu Qiao vs LI Yi Jing/WANG Yi Duo",
+                  "id": "ct-601310239",
+                  "name": "Hekari Souths United FC vs Tahiti United FC",
                   "streams": [
                     {
-                      "id": "st-601324474",
+                      "id": "st-601310239",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-89f9e69174",
+                          "id": "lnk-3666fcc696",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69ba5b5370a69_18754/index.m3u8?expire=1774425555&sign=a6645bee6be34f0a4d180e41693f4256",
+                          "url": "https://live.alilicloud.com/live/d0d3c97170592186ff5dfe03b743ff71/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/lin-xiao-min--wang-yu-qiao-vs-li-yi-jingwang-yi-duo-1500-18-03-2026/601324474"
+                              "value": "https://bunchatv1.net/truc-tiep/hekari-souths-united-fc-vs-tahiti-united-fc-1500-18-03-2026/601310239"
                             },
                             {
                               "key": "User-Agent",
@@ -224,24 +146,84 @@
             }
           ],
           "org_metadata": {
-            "league": "Sân 1 - Orleans Masters Badminton 2026",
-            "team_a": "LIN Xiao Min / WANG Yu Qiao",
-            "team_b": "LI Yi Jing/WANG Yi Duo",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/c11c75fd751d708e7a3546a9e6b523d2.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/bbad9ab3fc94997d68d1ade8be80e618.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-05856ff4fec2.png?v=1773821008",
-            "thumb_key": "thumbs/kaytee-05856ff4fec2.webp"
+            "league": "OFC P L",
+            "team_a": "Hekari Souths United FC",
+            "team_b": "Tahiti United FC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/d5fdde8a6a54b3af6579c0045191928a.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/1f64b50649c4ac1dfd8338ba79d21b88.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-723ae18aef3e.png?v=1773824586",
+            "thumb_key": "thumbs/kaytee-723ae18aef3e.webp"
           }
-        }
-      ]
-    },
-    {
-      "id": "upcoming_bóng_đá",
-      "name": "⏳ Sắp Live ⚽ Bóng Đá",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
+        },
+        {
+          "id": "kaytee-d80ab43fd879",
+          "name": "⚽ Tuloy FC vs Mendiola FC 1991 | 15:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d80ab43fd879.png?v=1773824592",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601310242",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601310242",
+                  "name": "Tuloy FC vs Mendiola FC 1991",
+                  "streams": [
+                    {
+                      "id": "st-601310242",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-625a5dcd96",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/078e5fdbffedec92c61a6eb6bd4b41d7/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/tuloy-fc-vs-mendiola-fc-1991-1530-18-03-2026/601310242"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Philippines United Football League",
+            "team_a": "Tuloy FC",
+            "team_b": "Mendiola FC 1991",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/cc52312b693e424017d7d2fff01a44e3.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/fa48f80e2e4045104fb1830e47ff1f42.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d80ab43fd879.png?v=1773824592",
+            "thumb_key": "thumbs/kaytee-d80ab43fd879.webp"
+          }
+        },
         {
           "id": "kaytee-05a49ce2b681",
           "name": "⚽ TPHCM vs Biên Phòng MB | 15:30",
@@ -252,16 +234,16 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-05a49ce2b681.png?v=1773821009",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-05a49ce2b681.png?v=1773824592",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "⏳ Sắp Live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -307,8 +289,474 @@
             "team_b": "Biên Phòng MB",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/9781966109ed2bbef20782294e255e63.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/78cc8c7732dacf1c3f0289a77295f0e9.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-05a49ce2b681.png?v=1773821009",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-05a49ce2b681.png?v=1773824592",
             "thumb_key": "thumbs/kaytee-05a49ce2b681.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_cầu_lông",
+      "name": "🔴 Live 🏸 Cầu Lông",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-05856ff4fec2",
+          "name": "🏸 Nguyễn Thùy Linh vs LIN Hsiang Ti | 15:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-05856ff4fec2.png?v=1773824584",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601324474",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601324474",
+                  "name": "Nguyễn Thùy Linh vs LIN Hsiang Ti",
+                  "streams": [
+                    {
+                      "id": "st-601324474",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-89f9e69174",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69ba5b5370a69_18754/index.m3u8?expire=1774425555&sign=a6645bee6be34f0a4d180e41693f4256",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/nguyen-thuy-linh-vs-lin-hsiang-ti-1500-18-03-2026/601324474"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sân 1 - Orleans Masters Badminton 2026",
+            "team_a": "Nguyễn Thùy Linh",
+            "team_b": "LIN Hsiang Ti",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/665a2b534a0a474142896ee2e1e73ad7.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/c6c829ab8e9e9cde43ecd78a56a74f78.jpg",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-05856ff4fec2.png?v=1773824584",
+            "thumb_key": "thumbs/kaytee-05856ff4fec2.webp"
+          }
+        },
+        {
+          "id": "kaytee-9b7b5f5ce070",
+          "name": "🏸 Manami SUIZU vs SANTHOSH RAMRAJ | 15:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9b7b5f5ce070.png?v=1773824587",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601324477",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601324477",
+                  "name": "Manami SUIZU vs SANTHOSH RAMRAJ",
+                  "streams": [
+                    {
+                      "id": "st-601324477",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f3a95a13f6",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69ba5cf470a69_142210/index.m3u8?expire=1774425972&sign=4527b5bc972ed3faf8bf98eaf7e51f7b",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/manami-suizu-vs-santhosh-ramraj-1500-18-03-2026/601324477"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sân 2 - Orleans Masters Badminton 2026",
+            "team_a": "Manami SUIZU",
+            "team_b": "SANTHOSH RAMRAJ",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/87ec64e0efb782b8da2d405915d1fe38.jpg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/c3dbc0d6b151f7d4a03fea27ae743fb4.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9b7b5f5ce070.png?v=1773824587",
+            "thumb_key": "thumbs/kaytee-9b7b5f5ce070.webp"
+          }
+        },
+        {
+          "id": "kaytee-357b880f2a06",
+          "name": "🏸 Mihajlo TOMIC/ Andjela Vitman vs Zhu Yi Jun/ Li Qian | 15:10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-357b880f2a06.png?v=1773824589",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601324480",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601324480",
+                  "name": "Mihajlo TOMIC/ Andjela Vitman vs Zhu Yi Jun/ Li Qian",
+                  "streams": [
+                    {
+                      "id": "st-601324480",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d5ad291e8c",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69ba5f6470a69_85706/index.m3u8?expire=1774426596&sign=6bcbc3ea4b202d6781cf491bf820016a",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/mihajlo-tomic-andjela-vitman-vs-zhu-yi-jun-li-qian-1510-18-03-2026/601324480"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sân 3 - Orleans Masters Badminton 2026",
+            "team_a": "Mihajlo TOMIC/ Andjela Vitman",
+            "team_b": "Zhu Yi Jun/ Li Qian",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/dd7af556f8f19e0538f8768a518da0c0.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/d111fe6b8f6f19c78aa55cd9a515e18b.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-357b880f2a06.png?v=1773824589",
+            "thumb_key": "thumbs/kaytee-357b880f2a06.webp"
+          }
+        },
+        {
+          "id": "kaytee-eec3f5499276",
+          "name": "🏸 Hina AKECHI vs Nozomi OKUHARA | 15:10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-eec3f5499276.png?v=1773824590",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601324483",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601324483",
+                  "name": "Hina AKECHI vs Nozomi OKUHARA",
+                  "streams": [
+                    {
+                      "id": "st-601324483",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3f7d907863",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69ba60a6326d9_85714/index.m3u8?expire=1774426918&sign=2a11ad714d74e21cffc79d9349a3f6a4",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/hina-akechi-vs-nozomi-okuhara-1510-18-03-2026/601324483"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sân 4 - Orleans Masters Badminton 2026",
+            "team_a": "Hina AKECHI",
+            "team_b": "Nozomi OKUHARA",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/12fd23a748ebb8241e113939f4f28a2c.jpg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/c68fb073199e692bf44b0fe2a3d2eb83.jpg",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-eec3f5499276.png?v=1773824590",
+            "thumb_key": "thumbs/kaytee-eec3f5499276.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_bóng_đá",
+      "name": "⏳ Sắp Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-3b745db8296c",
+          "name": "⚽ Shan United vs Hantharwady United | 16:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3b745db8296c.png?v=1773824594",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601315063",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601315063",
+                  "name": "Shan United vs Hantharwady United",
+                  "streams": [
+                    {
+                      "id": "st-601315063",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-20b33f062f",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69ba5d68326d9_72787/index.m3u8?expire=1774426088&sign=e64f9d38adb4a01d63bcfd3dccbef5cd",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/shan-united-vs-hantharwady-united-1600-18-03-2026/601315063"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-8b8826bcf9",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/f2bf1e6a39ddf4dcbe289cb93d5eba68/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/shan-united-vs-hantharwady-united-1600-18-03-2026/601315063"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Myanmar Professional League",
+            "team_a": "Shan United",
+            "team_b": "Hantharwady United",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/81591ca25d2179a9877ec9c24bbe59e3.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/d6a96f7603b190bb46e2de96cf41d9a0.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3b745db8296c.png?v=1773824594",
+            "thumb_key": "thumbs/kaytee-3b745db8296c.webp"
+          }
+        },
+        {
+          "id": "kaytee-9b2c1e0ba648",
+          "name": "⚽ Yangon United vs Dagon Star United | 16:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9b2c1e0ba648.png?v=1773824596",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601315066",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601315066",
+                  "name": "Yangon United vs Dagon Star United",
+                  "streams": [
+                    {
+                      "id": "st-601315066",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a1325b6e36",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69ba6679326d9_73445/index.m3u8?expire=1774428409&sign=cc20b37b54a2ea7b36652ef33aaa1feb",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/yangon-united-vs-dagon-star-united-1600-18-03-2026/601315066"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-cd0f310a96",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/3147fa1def930e478e4f41f894b74105/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/yangon-united-vs-dagon-star-united-1600-18-03-2026/601315066"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Myanmar Professional League",
+            "team_a": "Yangon United",
+            "team_b": "Dagon Star United",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/545790121cf7b80b0f02caec40a31ea6.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/6fcaab610a987b2cabcbbc43d70a795f.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9b2c1e0ba648.png?v=1773824596",
+            "thumb_key": "thumbs/kaytee-9b2c1e0ba648.webp"
           }
         },
         {
@@ -321,7 +769,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d3c4c4427faf.png?v=1773821011",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d3c4c4427faf.png?v=1773824598",
             "width": 1600,
             "height": 1200
           },
@@ -376,7 +824,7 @@
             "team_b": "Japan Women",
             "logo_a": "https://cdn.rapid-api.icu/football/team/6815c4937ea1796c0a6c182f10185c40.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/511ce5ccb966e3fd16d3a8c1b99cc01a.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d3c4c4427faf.png?v=1773821011",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d3c4c4427faf.png?v=1773824598",
             "thumb_key": "thumbs/kaytee-d3c4c4427faf.webp"
           }
         }
