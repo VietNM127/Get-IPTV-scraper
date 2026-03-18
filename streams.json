@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-18T06:13:39.530822",
+  "updated_at": "2026-03-18T07:09:59.209951",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-31c98bb05d72.png?v=1773814418",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-31c98bb05d72.png?v=1773817795",
             "width": 1600,
             "height": 1200
           },
@@ -99,8 +99,77 @@
             "team_b": "Adelaide United Women",
             "logo_a": "https://cdn.rapid-api.icu/football/team/6d2cab607ba1b908c2c71225581b06ee.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/0a79a11cfb91e468fed7174e9a6b58f3.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-31c98bb05d72.png?v=1773814418",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-31c98bb05d72.png?v=1773817795",
             "thumb_key": "thumbs/kaytee-31c98bb05d72.webp"
+          }
+        },
+        {
+          "id": "kaytee-d6acb1973b7f",
+          "name": "⚽ VTV Bình Điền Long An vs Hà Nội | 13:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d6acb1973b7f.png?v=1773817797",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601324387",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601324387",
+                  "name": "VTV Bình Điền Long An vs Hà Nội",
+                  "streams": [
+                    {
+                      "id": "st-601324387",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5f8a4fe4f8",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69ba4514326d9_42127/index.m3u8?expire=1774419860&sign=ce72660c97dc158ab3d01c1f904cce87",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/vtv-binh-dien-long-an-vs-ha-noi-1330-18-03-2026/601324387"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Cúp Hoa Lư 2026",
+            "team_a": "VTV Bình Điền Long An",
+            "team_b": "Hà Nội",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a2849bb78e88719edb22c3d236937795.jpg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/52103380d1122a8b8c1be85f2976f61e.jpg",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d6acb1973b7f.png?v=1773817797",
+            "thumb_key": "thumbs/kaytee-d6acb1973b7f.webp"
           }
         }
       ]
@@ -122,7 +191,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d3c4c4427faf.png?v=1773814419",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d3c4c4427faf.png?v=1773817799",
             "width": 1600,
             "height": 1200
           },
@@ -177,7 +246,7 @@
             "team_b": "Japan Women",
             "logo_a": "https://cdn.rapid-api.icu/football/team/6815c4937ea1796c0a6c182f10185c40.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/511ce5ccb966e3fd16d3a8c1b99cc01a.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d3c4c4427faf.png?v=1773814419",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d3c4c4427faf.png?v=1773817799",
             "thumb_key": "thumbs/kaytee-d3c4c4427faf.webp"
           }
         }
