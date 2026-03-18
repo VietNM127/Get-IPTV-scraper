@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-18T04:49:04.430531",
+  "updated_at": "2026-03-18T05:09:15.635072",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,161 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-16477308ba5b",
-          "name": "⚽ Cruz Azul vs Monterrey | 10:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-16477308ba5b.png?v=1773809340",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601310227",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601310227",
-                  "name": "Cruz Azul vs Monterrey",
-                  "streams": [
-                    {
-                      "id": "st-601310227",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9e3292be97",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69ba0b1870a69_124958/index.m3u8?expire=1774405016&sign=069e990ed501f38bf3e5188c9548721a",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/cruz-azul-vs-monterrey-1000-18-03-2026/601310227"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-129e04978f",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/f8d1c8d7ce291c7e8e0acf2df674fcfc/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/cruz-azul-vs-monterrey-1000-18-03-2026/601310227"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "CNCF CHL",
-            "team_a": "Cruz Azul",
-            "team_b": "Monterrey",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/2addd50487c8f61276d5fff8714f6a5c.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/5c3f819a35454f424d85df5757650f8b.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-16477308ba5b.png?v=1773809340",
-            "thumb_key": "thumbs/kaytee-16477308ba5b.webp"
-          }
-        },
-        {
-          "id": "kaytee-c49491c282c5",
-          "name": "⚽ Tijuana (w) vs Unam Pumas (w) | 10:06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c49491c282c5.png?v=1773809341",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601310230",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601310230",
-                  "name": "Tijuana (w) vs Unam Pumas (w)",
-                  "streams": [
-                    {
-                      "id": "st-601310230",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8b2b040e61",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/af1197d9b1ce73afaeaed281428ee273/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/tijuana-w-vs-unam-pumas-w-1006-18-03-2026/601310230"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Mexico Liga MX Femenil",
-            "team_a": "Tijuana (w)",
-            "team_b": "Unam Pumas (w)",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/d69f7b4e5781756f141810f0716bcbe6.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/920c76f9a745c87b6d43aaeb8483a960.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c49491c282c5.png?v=1773809341",
-            "thumb_key": "thumbs/kaytee-c49491c282c5.webp"
-          }
-        },
         {
           "id": "kaytee-03ca832cae60",
           "name": "⚽ Vanuatu United FC vs Auckland FC Reserves | 11:00",
@@ -182,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-03ca832cae60.png?v=1773809343",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-03ca832cae60.png?v=1773810552",
             "width": 1600,
             "height": 1200
           },
@@ -237,7 +82,7 @@
             "team_b": "Auckland FC Reserves",
             "logo_a": "https://cdn.rapid-api.icu/football/team/91fc808349562b542c2423bc02d024f6.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/c6cb750c514ef46797d8950e649d0aad.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-03ca832cae60.png?v=1773809343",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-03ca832cae60.png?v=1773810552",
             "thumb_key": "thumbs/kaytee-03ca832cae60.webp"
           }
         }
@@ -260,7 +105,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-31c98bb05d72.png?v=1773809344",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-31c98bb05d72.png?v=1773810553",
             "width": 1600,
             "height": 1200
           },
@@ -315,8 +160,77 @@
             "team_b": "Adelaide United Women",
             "logo_a": "https://cdn.rapid-api.icu/football/team/6d2cab607ba1b908c2c71225581b06ee.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/0a79a11cfb91e468fed7174e9a6b58f3.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-31c98bb05d72.png?v=1773809344",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-31c98bb05d72.png?v=1773810553",
             "thumb_key": "thumbs/kaytee-31c98bb05d72.webp"
+          }
+        },
+        {
+          "id": "kaytee-d3c4c4427faf",
+          "name": "⚽ South Korea Women vs Japan Women | 16:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d3c4c4427faf.png?v=1773810555",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601310245",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601310245",
+                  "name": "South Korea Women vs Japan Women",
+                  "streams": [
+                    {
+                      "id": "st-601310245",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b1311c0df0",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/a023e189fca7941e8e12102410ebb9c5/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/south-korea-women-vs-japan-women-1600-18-03-2026/601310245"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC Women’s Asian Cup",
+            "team_a": "South Korea Women",
+            "team_b": "Japan Women",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/6815c4937ea1796c0a6c182f10185c40.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/511ce5ccb966e3fd16d3a8c1b99cc01a.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d3c4c4427faf.png?v=1773810555",
+            "thumb_key": "thumbs/kaytee-d3c4c4427faf.webp"
           }
         }
       ]
