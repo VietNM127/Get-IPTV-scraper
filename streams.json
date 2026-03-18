@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-18T07:19:09.660493",
+  "updated_at": "2026-03-18T08:01:04.978759",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,92 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-31c98bb05d72",
-          "name": "⚽ Melbourne City Women vs Adelaide United Women | 12:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-31c98bb05d72.png?v=1773818344",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601310236",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601310236",
-                  "name": "Melbourne City Women vs Adelaide United Women",
-                  "streams": [
-                    {
-                      "id": "st-601310236",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5ec8c3c9e5",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69ba2a80326d9_133172/index.m3u8?expire=1774413056&sign=5eebe7d2b99f5ef4932bcc40a3bc475f",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/melbourne-city-women-vs-adelaide-united-women-1230-18-03-2026/601310236"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-b9c6f34921",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/d7cfd3de85ea5b7bf4881cd2d143392e/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/melbourne-city-women-vs-adelaide-united-women-1230-18-03-2026/601310236"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Australia W-League",
-            "team_a": "Melbourne City Women",
-            "team_b": "Adelaide United Women",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/6d2cab607ba1b908c2c71225581b06ee.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/0a79a11cfb91e468fed7174e9a6b58f3.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-31c98bb05d72.png?v=1773818344",
-            "thumb_key": "thumbs/kaytee-31c98bb05d72.webp"
-          }
-        },
         {
           "id": "kaytee-d6acb1973b7f",
           "name": "⚽ VTV Bình Điền Long An vs Hà Nội | 13:30",
@@ -113,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d6acb1973b7f.png?v=1773818347",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d6acb1973b7f.png?v=1773820861",
             "width": 1600,
             "height": 1200
           },
@@ -168,8 +82,146 @@
             "team_b": "Hà Nội",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a2849bb78e88719edb22c3d236937795.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/52103380d1122a8b8c1be85f2976f61e.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d6acb1973b7f.png?v=1773818347",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d6acb1973b7f.png?v=1773820861",
             "thumb_key": "thumbs/kaytee-d6acb1973b7f.webp"
+          }
+        },
+        {
+          "id": "kaytee-c783be123a6a",
+          "name": "⚽ Nafri vs Persimi Sarmi | 13:45",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c783be123a6a.png?v=1773820861",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601324621",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601324621",
+                  "name": "Nafri vs Persimi Sarmi",
+                  "streams": [
+                    {
+                      "id": "st-601324621",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c7f4a34efc",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/c4b522ee2d6f0f0feda35e6ae5c3ea25/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/nafri-vs-persimi-sarmi-1345-18-03-2026/601324621"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Indo D4",
+            "team_a": "Nafri",
+            "team_b": "Persimi Sarmi",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/f654b91dcb4016a6921db5ec10d80bf6.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/03e72a46927b197ff48a950fd0d94821.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c783be123a6a.png?v=1773820861",
+            "thumb_key": "thumbs/kaytee-c783be123a6a.webp"
+          }
+        },
+        {
+          "id": "kaytee-9f57b73f955d",
+          "name": "⚽ Delhi FC XI vs Friends United | 14:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9f57b73f955d.png?v=1773820862",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601324336",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601324336",
+                  "name": "Delhi FC XI vs Friends United",
+                  "streams": [
+                    {
+                      "id": "st-601324336",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6f532a4d04",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/2ee21bfa007d83de0259bec0c530ed21/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/delhi-fc-xi-vs-friends-united-1430-18-03-2026/601324336"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "IND DSD",
+            "team_a": "Delhi FC XI",
+            "team_b": "Friends United",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/ca5403b0cf2a546b4271a0f0d60e3153.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/f46fe8c3899d29720c61e9f93f041d23.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9f57b73f955d.png?v=1773820862",
+            "thumb_key": "thumbs/kaytee-9f57b73f955d.webp"
           }
         }
       ]
@@ -182,6 +234,75 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "kaytee-05a49ce2b681",
+          "name": "⚽ TPHCM vs Biên Phòng MB | 15:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-05a49ce2b681.png?v=1773820863",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601322296",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601322296",
+                  "name": "TPHCM vs Biên Phòng MB",
+                  "streams": [
+                    {
+                      "id": "st-601322296",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-42b66e34c0",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69ba56cf70a69_88642/index.m3u8?expire=1774424399&sign=5d91a175c90afb155318f55dd2a6457e",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/tphcm-vs-bien-phong-mb-1530-18-03-2026/601322296"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Cúp Hoa Lư 2026",
+            "team_a": "TPHCM",
+            "team_b": "Biên Phòng MB",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/9781966109ed2bbef20782294e255e63.jpg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/78cc8c7732dacf1c3f0289a77295f0e9.jpg",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-05a49ce2b681.png?v=1773820863",
+            "thumb_key": "thumbs/kaytee-05a49ce2b681.webp"
+          }
+        },
+        {
           "id": "kaytee-d3c4c4427faf",
           "name": "⚽ South Korea Women vs Japan Women | 16:00",
           "type": "single",
@@ -191,7 +312,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d3c4c4427faf.png?v=1773818349",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d3c4c4427faf.png?v=1773820864",
             "width": 1600,
             "height": 1200
           },
@@ -246,8 +367,86 @@
             "team_b": "Japan Women",
             "logo_a": "https://cdn.rapid-api.icu/football/team/6815c4937ea1796c0a6c182f10185c40.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/511ce5ccb966e3fd16d3a8c1b99cc01a.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d3c4c4427faf.png?v=1773818349",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d3c4c4427faf.png?v=1773820864",
             "thumb_key": "thumbs/kaytee-d3c4c4427faf.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_cầu_lông",
+      "name": "⏳ Sắp Live 🏸 Cầu Lông",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-05856ff4fec2",
+          "name": "🏸 LIN Xiao Min / WANG Yu Qiao vs LI Yi Jing/WANG Yi Duo | 15:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-05856ff4fec2.png?v=1773820863",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601324474",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601324474",
+                  "name": "LIN Xiao Min / WANG Yu Qiao vs LI Yi Jing/WANG Yi Duo",
+                  "streams": [
+                    {
+                      "id": "st-601324474",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-89f9e69174",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69ba5b5370a69_18754/index.m3u8?expire=1774425555&sign=a6645bee6be34f0a4d180e41693f4256",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/lin-xiao-min--wang-yu-qiao-vs-li-yi-jingwang-yi-duo-1500-18-03-2026/601324474"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sân 1 - Orleans Masters Badminton 2026",
+            "team_a": "LIN Xiao Min / WANG Yu Qiao",
+            "team_b": "LI Yi Jing/WANG Yi Duo",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/c11c75fd751d708e7a3546a9e6b523d2.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/bbad9ab3fc94997d68d1ade8be80e618.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-05856ff4fec2.png?v=1773820863",
+            "thumb_key": "thumbs/kaytee-05856ff4fec2.webp"
           }
         }
       ]
