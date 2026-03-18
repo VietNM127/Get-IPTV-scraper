@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-18T02:44:17.022661",
+  "updated_at": "2026-03-18T03:15:38.904801",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,230 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-f1afc187ee15",
-          "name": "⚽ Alajuelense vs Los Angeles FC | 08:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f1afc187ee15.png?v=1773801846",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601310218",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601310218",
-                  "name": "Alajuelense vs Los Angeles FC",
-                  "streams": [
-                    {
-                      "id": "st-601310218",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5f9101c0a0",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b9f125326d9_74012/index.m3u8?expire=1774398373&sign=d6142b8a10a4a240a34793684f37eef1",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/alajuelense-vs-los-angeles-fc-0800-18-03-2026/601310218"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-f92a98ada7",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/7e96fbab749689426281f2ba0e1f1b49/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/alajuelense-vs-los-angeles-fc-0800-18-03-2026/601310218"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "CNCF CHL",
-            "team_a": "Alajuelense",
-            "team_b": "Los Angeles FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/9c5ad5227377e12b87f77790d3d88c1c.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f1afc187ee15.png?v=1773801846",
-            "thumb_key": "thumbs/kaytee-f1afc187ee15.webp"
-          }
-        },
-        {
-          "id": "kaytee-ba7cf14c7ccc",
-          "name": "⚽ Santos Laguna (w) vs Cruz Azul (w) | 08:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ba7cf14c7ccc.png?v=1773801848",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601310215",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601310215",
-                  "name": "Santos Laguna (w) vs Cruz Azul (w)",
-                  "streams": [
-                    {
-                      "id": "st-601310215",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5b3f5ae5a9",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/ec21824425efd459410334d0a9baf646/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/santos-laguna-w-vs-cruz-azul-w-0800-18-03-2026/601310215"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Mexico Liga MX Femenil",
-            "team_a": "Santos Laguna (w)",
-            "team_b": "Cruz Azul (w)",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/018ffc6f0b8298870a01ad4da5f86e7f.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/f41d59f7b14442ff24cb224e8e91db5d.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ba7cf14c7ccc.png?v=1773801848",
-            "thumb_key": "thumbs/kaytee-ba7cf14c7ccc.webp"
-          }
-        },
-        {
-          "id": "kaytee-416274965823",
-          "name": "⚽ Weymouth Wales vs Bagatelle SS | 08:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-416274965823.png?v=1773801850",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601322017",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601322017",
-                  "name": "Weymouth Wales vs Bagatelle SS",
-                  "streams": [
-                    {
-                      "id": "st-601322017",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bf4c3e6f5e",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/a4bb251be101c7c3d3b4c335730b2388/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/weymouth-wales-vs-bagatelle-ss-0800-18-03-2026/601322017"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Barbados Premier League",
-            "team_a": "Weymouth Wales",
-            "team_b": "Bagatelle SS",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/d7d3179c24f64b2349eb6756c9f7cd93.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/23f090a665b269191a724d348bfa8102.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-416274965823.png?v=1773801850",
-            "thumb_key": "thumbs/kaytee-416274965823.webp"
-          }
-        },
         {
           "id": "kaytee-00112922146e",
           "name": "⚽ Millonarios vs Atletico Nacional Medellin | 08:30",
@@ -251,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-00112922146e.png?v=1773801851",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-00112922146e.png?v=1773803730",
             "width": 1600,
             "height": 1200
           },
@@ -323,8 +99,163 @@
             "team_b": "Atletico Nacional Medellin",
             "logo_a": "https://cdn.rapid-api.icu/football/team/88bf2a10fe7e8d3f9a21b73f3f77fcde.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/4ee24366d09a9239bb2c4207a5008111.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-00112922146e.png?v=1773801851",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-00112922146e.png?v=1773803730",
             "thumb_key": "thumbs/kaytee-00112922146e.webp"
+          }
+        },
+        {
+          "id": "kaytee-918f392d9f19",
+          "name": "⚽ Phoenix Rising FC vs San Ramon | 09:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-918f392d9f19.png?v=1773803733",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601310224",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601310224",
+                  "name": "Phoenix Rising FC vs San Ramon",
+                  "streams": [
+                    {
+                      "id": "st-601310224",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b1e8ac6778",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/d0bf6b30b14c82f0a2b73c1703cd4a19/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/phoenix-rising-fc-vs-san-ramon-0900-18-03-2026/601310224"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "United States Open Cup",
+            "team_a": "Phoenix Rising FC",
+            "team_b": "San Ramon",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/d3700266512d9e222ed3a87c49876fc9.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/9e2a3c54477e2a00cbd5e6708710b87e.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-918f392d9f19.png?v=1773803733",
+            "thumb_key": "thumbs/kaytee-918f392d9f19.webp"
+          }
+        },
+        {
+          "id": "kaytee-16477308ba5b",
+          "name": "⚽ Cruz Azul vs Monterrey | 10:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-16477308ba5b.png?v=1773803738",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601310227",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601310227",
+                  "name": "Cruz Azul vs Monterrey",
+                  "streams": [
+                    {
+                      "id": "st-601310227",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9e3292be97",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69ba0b1870a69_124958/index.m3u8?expire=1774405016&sign=069e990ed501f38bf3e5188c9548721a",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/cruz-azul-vs-monterrey-1000-18-03-2026/601310227"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-129e04978f",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/f8d1c8d7ce291c7e8e0acf2df674fcfc/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/cruz-azul-vs-monterrey-1000-18-03-2026/601310227"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CNCF CHL",
+            "team_a": "Cruz Azul",
+            "team_b": "Monterrey",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/2addd50487c8f61276d5fff8714f6a5c.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/5c3f819a35454f424d85df5757650f8b.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-16477308ba5b.png?v=1773803738",
+            "thumb_key": "thumbs/kaytee-16477308ba5b.webp"
           }
         }
       ]
@@ -346,7 +277,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-994796de0e75.png?v=1773801854",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-994796de0e75.png?v=1773803736",
             "width": 1600,
             "height": 1200
           },
@@ -401,7 +332,7 @@
             "team_b": "Philadelphia 76ers",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/d734dd7151e82d5c185ed20968505758.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/0f99bfb04f15e140367c7014698a2cd0.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-994796de0e75.png?v=1773801854",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-994796de0e75.png?v=1773803736",
             "thumb_key": "thumbs/kaytee-994796de0e75.webp"
           }
         },
@@ -415,7 +346,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d46d8259965a.png?v=1773801855",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d46d8259965a.png?v=1773803737",
             "width": 1600,
             "height": 1200
           },
@@ -470,86 +401,8 @@
             "team_b": "San Antonio Spurs",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/1c1bdb90a0592bc8f82c42c0448fc4d2.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/fcb0d98ef40bc3ab0404e77a6a02a947.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d46d8259965a.png?v=1773801855",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d46d8259965a.png?v=1773803737",
             "thumb_key": "thumbs/kaytee-d46d8259965a.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "upcoming_bóng_đá",
-      "name": "⏳ Sắp Live ⚽ Bóng Đá",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-16477308ba5b",
-          "name": "⚽ Cruz Azul vs Monterrey | 10:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-16477308ba5b.png?v=1773801857",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Sắp Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601310227",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601310227",
-                  "name": "Cruz Azul vs Monterrey",
-                  "streams": [
-                    {
-                      "id": "st-601310227",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9e3292be97",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69ba0b1870a69_124958/index.m3u8?expire=1774405016&sign=069e990ed501f38bf3e5188c9548721a",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/cruz-azul-vs-monterrey-1000-18-03-2026/601310227"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "CNCF CHL",
-            "team_a": "Cruz Azul",
-            "team_b": "Monterrey",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/2addd50487c8f61276d5fff8714f6a5c.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/5c3f819a35454f424d85df5757650f8b.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-16477308ba5b.png?v=1773801857",
-            "thumb_key": "thumbs/kaytee-16477308ba5b.webp"
           }
         }
       ]
