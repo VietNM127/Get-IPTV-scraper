@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-18T17:15:31.725059",
+  "updated_at": "2026-03-18T17:34:27.665944",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,230 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-73feb5e9c6fd",
-          "name": "⚽ Zenit St. Petersburg vs FK Makhachkala | 22:15",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-73feb5e9c6fd.png?v=1773854122",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601310467",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601310467",
-                  "name": "Zenit St. Petersburg vs FK Makhachkala",
-                  "streams": [
-                    {
-                      "id": "st-601310467",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2f36f22a28",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bab46e326d9_4908/index.m3u8?expire=1774448366&sign=e548cead79c191dae55b3334c888520e",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/zenit-st-petersburg-vs-fk-makhachkala-2215-18-03-2026/601310467"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-57ffc585d9",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/85ab02ae2e95e42e7659577f27cc1c6e/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/zenit-st-petersburg-vs-fk-makhachkala-2215-18-03-2026/601310467"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Russian Cup",
-            "team_a": "Zenit St. Petersburg",
-            "team_b": "FK Makhachkala",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/19d5361bfdffa4bfc2f936cbb65fd317.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/26cece8c2572a1d82b90fefc2c71e8ad.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-73feb5e9c6fd.png?v=1773854122",
-            "thumb_key": "thumbs/kaytee-73feb5e9c6fd.webp"
-          }
-        },
-        {
-          "id": "kaytee-5f7abeaca54a",
-          "name": "⚽ Sporting Braga vs Ferencvarosi TC | 22:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5f7abeaca54a.png?v=1773854124",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601310470",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601310470",
-                  "name": "Sporting Braga vs Ferencvarosi TC",
-                  "streams": [
-                    {
-                      "id": "st-601310470",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-68bc94e605",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/f9d53b4866559f3dde258db016c210d5/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/sporting-braga-vs-ferencvarosi-tc-2230-18-03-2026/601310470"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Europa League",
-            "team_a": "Sporting Braga",
-            "team_b": "Ferencvarosi TC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/1fe75f826dab40e6e89cbe961c7e9116.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/202e45f30a94193466ba2ae8a96e7685.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5f7abeaca54a.png?v=1773854124",
-            "thumb_key": "thumbs/kaytee-5f7abeaca54a.webp"
-          }
-        },
-        {
-          "id": "kaytee-6dd97aecb006",
-          "name": "⚽ KP Calisia Kalisz vs Stal Stalowa Wola | 23:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6dd97aecb006.png?v=1773854126",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601310473",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601310473",
-                  "name": "KP Calisia Kalisz vs Stal Stalowa Wola",
-                  "streams": [
-                    {
-                      "id": "st-601310473",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ede87d8e5b",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/cff7c820ee7e2e82719c430c6140008f/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/kp-calisia-kalisz-vs-stal-stalowa-wola-2300-18-03-2026/601310473"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Poland Liga 2",
-            "team_a": "KP Calisia Kalisz",
-            "team_b": "Stal Stalowa Wola",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/d458ec9a2e4fd8a610dcc597fd047fd9.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/e8d24d07f817e283e09068fd2e97df65.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6dd97aecb006.png?v=1773854126",
-            "thumb_key": "thumbs/kaytee-6dd97aecb006.webp"
-          }
-        },
         {
           "id": "kaytee-ab8b3281fd77",
           "name": "⚽ Kudrivka vs Polissya Zhytomyr | 23:00",
@@ -251,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ab8b3281fd77.png?v=1773854128",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ab8b3281fd77.png?v=1773855257",
             "width": 1600,
             "height": 1200
           },
@@ -323,8 +99,215 @@
             "team_b": "Polissya Zhytomyr",
             "logo_a": "https://cdn.rapid-api.icu/football/team/5eab2b12a063dde5bc6e048524c39909.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/af718a29d1eacceec7da5c5815b1679b.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ab8b3281fd77.png?v=1773854128",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ab8b3281fd77.png?v=1773855257",
             "thumb_key": "thumbs/kaytee-ab8b3281fd77.webp"
+          }
+        },
+        {
+          "id": "kaytee-6dd97aecb006",
+          "name": "⚽ KP Calisia Kalisz vs Stal Stalowa Wola | 23:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6dd97aecb006.png?v=1773855258",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601310473",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601310473",
+                  "name": "KP Calisia Kalisz vs Stal Stalowa Wola",
+                  "streams": [
+                    {
+                      "id": "st-601310473",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ede87d8e5b",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/cff7c820ee7e2e82719c430c6140008f/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/kp-calisia-kalisz-vs-stal-stalowa-wola-2300-18-03-2026/601310473"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Poland Liga 2",
+            "team_a": "KP Calisia Kalisz",
+            "team_b": "Stal Stalowa Wola",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/d458ec9a2e4fd8a610dcc597fd047fd9.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/e8d24d07f817e283e09068fd2e97df65.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6dd97aecb006.png?v=1773855258",
+            "thumb_key": "thumbs/kaytee-6dd97aecb006.webp"
+          }
+        },
+        {
+          "id": "kaytee-cce4168cff39",
+          "name": "⚽ FK Minija vs Hegelmann Litauen II | 23:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cce4168cff39.png?v=1773855260",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601310506",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601310506",
+                  "name": "FK Minija vs Hegelmann Litauen II",
+                  "streams": [
+                    {
+                      "id": "st-601310506",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1b654fd87d",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/e5c100b332b25e439a70cfa2321b82e0/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/fk-minija-vs-hegelmann-litauen-ii-2300-18-03-2026/601310506"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Lithuanian I Lyga",
+            "team_a": "FK Minija",
+            "team_b": "Hegelmann Litauen II",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/4e8dc5f7b9e7a1b6de067b6e1e25797f.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/61ca5810a99a2f5a6258729064132138.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cce4168cff39.png?v=1773855260",
+            "thumb_key": "thumbs/kaytee-cce4168cff39.webp"
+          }
+        },
+        {
+          "id": "kaytee-5f4bef392ee5",
+          "name": "⚽ Lietava Jonava vs BE1 NFA | 23:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5f4bef392ee5.png?v=1773855262",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601310509",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601310509",
+                  "name": "Lietava Jonava vs BE1 NFA",
+                  "streams": [
+                    {
+                      "id": "st-601310509",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-dade363654",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/9d046ab95721b384de28002bb6242132/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/lietava-jonava-vs-be1-nfa-2300-18-03-2026/601310509"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Lithuanian I Lyga",
+            "team_a": "Lietava Jonava",
+            "team_b": "BE1 NFA",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/8ccc5aeecf7538661685e34dc7cde2f0.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/d5504815877bbdf6c6e485a5e397d0eb.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5f4bef392ee5.png?v=1773855262",
+            "thumb_key": "thumbs/kaytee-5f4bef392ee5.webp"
           }
         }
       ]
@@ -337,144 +320,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-ffea4e0ba09b",
-          "name": "🎾 Zhang Z. vs Mannarino A. | 22:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ffea4e0ba09b.png?v=1773854120",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601324723",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601324723",
-                  "name": "Zhang Z. vs Mannarino A.",
-                  "streams": [
-                    {
-                      "id": "st-601324723",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2edfc360b4",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bac47f70a69_42127/index.m3u8?expire=1774452479&sign=b42ecb9b5ac875a60de8ab038f496a01",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/zhang-z-vs-mannarino-a-2200-18-03-2026/601324723"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "ATP MIAMI 2026",
-            "team_a": "Zhang Z.",
-            "team_b": "Mannarino A.",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/b8dd4bf27940f09808083d02f91e2b31.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/b88fa9c8e2043c8789b8ed0a5c084600.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ffea4e0ba09b.png?v=1773854120",
-            "thumb_key": "thumbs/kaytee-ffea4e0ba09b.webp"
-          }
-        },
-        {
-          "id": "kaytee-5a607171b73e",
-          "name": "🎾 Mpetshi Perricard G. vs Ugo Carabelli C. | 22:05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5a607171b73e.png?v=1773854121",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601324720",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601324720",
-                  "name": "Mpetshi Perricard G. vs Ugo Carabelli C.",
-                  "streams": [
-                    {
-                      "id": "st-601324720",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b60193d28e",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69babeca326d9_112310/index.m3u8?expire=1774451018&sign=f2f998b21047a3e62262d6c74f2d811d",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/mpetshi-perricard-g-vs-ugo-carabelli-c-2205-18-03-2026/601324720"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "ATP MIAMI 2026",
-            "team_a": "Mpetshi Perricard G.",
-            "team_b": "Ugo Carabelli C.",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/d04545472ce61a052aff676102c44742.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/7c7ed67dcebb59134d457410b8518d57.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5a607171b73e.png?v=1773854121",
-            "thumb_key": "thumbs/kaytee-5a607171b73e.webp"
-          }
-        },
-        {
           "id": "kaytee-96e83bdb16f5",
           "name": "🎾 Opelka R. vs Borges N. | 23:30",
           "type": "single",
@@ -484,7 +329,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-96e83bdb16f5.png?v=1773854129",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-96e83bdb16f5.png?v=1773855266",
             "width": 1600,
             "height": 1200
           },
@@ -539,7 +384,7 @@
             "team_b": "Borges N.",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/df8abc4b900953ed2dcb3724988f7e2b.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/8475dadfd1cb2df08adfea283fbd8943.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-96e83bdb16f5.png?v=1773854129",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-96e83bdb16f5.png?v=1773855266",
             "thumb_key": "thumbs/kaytee-96e83bdb16f5.webp"
           }
         }
@@ -562,7 +407,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9b7b5f5ce070.png?v=1773854129",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9b7b5f5ce070.png?v=1773855265",
             "width": 1600,
             "height": 1200
           },
@@ -617,7 +462,7 @@
             "team_b": "WANG Po-Wei",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/f65eaf46a4529f259052b4b536defb48.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/29392cbd343fdb102bd508034b7681fe.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9b7b5f5ce070.png?v=1773854129",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9b7b5f5ce070.png?v=1773855265",
             "thumb_key": "thumbs/kaytee-9b7b5f5ce070.webp"
           }
         },
@@ -631,7 +476,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-357b880f2a06.png?v=1773854130",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-357b880f2a06.png?v=1773855266",
             "width": 1600,
             "height": 1200
           },
@@ -686,77 +531,8 @@
             "team_b": "Joakim OLDORFF",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/edd68492edc6df972a95f97889ee3c9d.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/101f39e01bf5fe36f690f7a313e373ca.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-357b880f2a06.png?v=1773854130",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-357b880f2a06.png?v=1773855266",
             "thumb_key": "thumbs/kaytee-357b880f2a06.webp"
-          }
-        },
-        {
-          "id": "kaytee-05856ff4fec2",
-          "name": "🏸 CHOU Tien Chen vs Kantaphon WANGCHAROEN | 23:36",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-05856ff4fec2.png?v=1773854131",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601324474",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601324474",
-                  "name": "CHOU Tien Chen vs Kantaphon WANGCHAROEN",
-                  "streams": [
-                    {
-                      "id": "st-601324474",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-89f9e69174",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69ba5b5370a69_18754/index.m3u8?expire=1774425555&sign=a6645bee6be34f0a4d180e41693f4256",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/chou-tien-chen-vs-kantaphon-wangcharoen-2336-18-03-2026/601324474"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Sân 1 - Orleans Masters Badminton 2026",
-            "team_a": "CHOU Tien Chen",
-            "team_b": "Kantaphon WANGCHAROEN",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/8df073cf885b46498506eeff12bcd142.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/4a56f5dda6b077adea8d6cde6bc629c3.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-05856ff4fec2.png?v=1773854131",
-            "thumb_key": "thumbs/kaytee-05856ff4fec2.webp"
           }
         },
         {
@@ -769,7 +545,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-eec3f5499276.png?v=1773854131",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-eec3f5499276.png?v=1773855267",
             "width": 1600,
             "height": 1200
           },
@@ -824,7 +600,7 @@
             "team_b": "Jason GUNAWAN",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/71e247724e5e29fb765f8414b72e6ede.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/570d7f47eed7ea32287c89c3a786abef.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-eec3f5499276.png?v=1773854131",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-eec3f5499276.png?v=1773855267",
             "thumb_key": "thumbs/kaytee-eec3f5499276.webp"
           }
         }
