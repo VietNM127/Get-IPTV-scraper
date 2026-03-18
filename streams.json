@@ -8,6 +8,655 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-17T23:50:50.129997",
-  "groups": []
+  "updated_at": "2026-03-18T00:02:08.510422",
+  "groups": [
+    {
+      "id": "live_bóng_đá",
+      "name": "🔴 Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-2b8b982d1bf5",
+          "name": "⚽ Richmond Kickers vs Northern Virginia FC | 05:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2b8b982d1bf5.png?v=1773792117",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601310176",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601310176",
+                  "name": "Richmond Kickers vs Northern Virginia FC",
+                  "streams": [
+                    {
+                      "id": "st-601310176",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9632ae7125",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/690b7ef2ce9d83bd42c1e55be289ee72/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/richmond-kickers-vs-northern-virginia-fc-0530-18-03-2026/601310176"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "United States Open Cup",
+            "team_a": "Richmond Kickers",
+            "team_b": "Northern Virginia FC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/9481fdb686a097b03b454ffd6a396304.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/245bf92a25c98f9b30700963e5c2da72.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2b8b982d1bf5.png?v=1773792117",
+            "thumb_key": "thumbs/kaytee-2b8b982d1bf5.webp"
+          }
+        },
+        {
+          "id": "kaytee-22182574f646",
+          "name": "⚽ Academia Puerto Cabello vs Universidad Central de Venezuela | 05:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-22182574f646.png?v=1773792119",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601311352",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601311352",
+                  "name": "Academia Puerto Cabello vs Universidad Central de Venezuela",
+                  "streams": [
+                    {
+                      "id": "st-601311352",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8f83212395",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/bc74d8077107deb467608c43225915b3/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/academia-puerto-cabello-vs-universidad-central-de-venezuela-0530-18-03-2026/601311352"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Venezuela Primera Division",
+            "team_a": "Academia Puerto Cabello",
+            "team_b": "Universidad Central de Venezuela",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/358d4cc3b8103bbfb54f7edab8486ce5.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/3656d046d7ca027ff1aa38d4b5e4b6bb.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-22182574f646.png?v=1773792119",
+            "thumb_key": "thumbs/kaytee-22182574f646.webp"
+          }
+        },
+        {
+          "id": "kaytee-76ad26a15d1d",
+          "name": "⚽ Millonarios (w) vs Once Caldas (w) | 05:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-76ad26a15d1d.png?v=1773792121",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601322167",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601322167",
+                  "name": "Millonarios (w) vs Once Caldas (w)",
+                  "streams": [
+                    {
+                      "id": "st-601322167",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ae8b411311",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/68c66e36706bc8b86271c8779c4dcd12/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/millonarios-w-vs-once-caldas-w-0530-18-03-2026/601322167"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Colombian Liga Betplay Femenina",
+            "team_a": "Millonarios (w)",
+            "team_b": "Once Caldas (w)",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/3d65a7382e5a580a8c453988da6d9f26.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/f529593ffa9143cbbe4eb930d1375dfb.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-76ad26a15d1d.png?v=1773792121",
+            "thumb_key": "thumbs/kaytee-76ad26a15d1d.webp"
+          }
+        },
+        {
+          "id": "kaytee-39c37478e04b",
+          "name": "⚽ Vermont Green vs Portland Hearts of Pine | 06:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-39c37478e04b.png?v=1773792123",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601310182",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601310182",
+                  "name": "Vermont Green vs Portland Hearts of Pine",
+                  "streams": [
+                    {
+                      "id": "st-601310182",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e19ae816dd",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/9a19e3ae12863fb0c3506c9f3e76a970/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/vermont-green-vs-portland-hearts-of-pine-0600-18-03-2026/601310182"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "United States Open Cup",
+            "team_a": "Vermont Green",
+            "team_b": "Portland Hearts of Pine",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/ea661a6cada8b11b916dc91b5556fc25.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/6c3ba934b89ea578ff5e491ff2989284.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-39c37478e04b.png?v=1773792123",
+            "thumb_key": "thumbs/kaytee-39c37478e04b.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_bóng_rổ",
+      "name": "🔴 Live 🏀 Bóng Rổ",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-78d353ace513",
+          "name": "🏀 Charlotte Hornets vs Miami Heat | 06:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-78d353ace513.png?v=1773792124",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601311676",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601311676",
+                  "name": "Charlotte Hornets vs Miami Heat",
+                  "streams": [
+                    {
+                      "id": "st-601311676",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6aab8b3600",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b9dd8a326d9_42127/index.m3u8?expire=1774393354&sign=94e10646a4dcc79c772184748ac603dc",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/charlotte-hornets-vs-miami-heat-0600-18-03-2026/601311676"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NBA",
+            "team_a": "Charlotte Hornets",
+            "team_b": "Miami Heat",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/895412f016798df5a1f6bc83b210d614.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/30e69e359eaf94547bf5ed1a31f1c1b7.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-78d353ace513.png?v=1773792124",
+            "thumb_key": "thumbs/kaytee-78d353ace513.webp"
+          }
+        },
+        {
+          "id": "kaytee-11752a4d77b4",
+          "name": "🏀 Washington Wizards vs Detroit Pistons | 06:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-11752a4d77b4.png?v=1773792125",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601311682",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601311682",
+                  "name": "Washington Wizards vs Detroit Pistons",
+                  "streams": [
+                    {
+                      "id": "st-601311682",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d2400ab1eb",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b9d651326d9_72787/index.m3u8?expire=1774391505&sign=04d33c42f6c265d588fada40393765f0",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/washington-wizards-vs-detroit-pistons-0600-18-03-2026/601311682"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NBA",
+            "team_a": "Washington Wizards",
+            "team_b": "Detroit Pistons",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/c40200654bbbf3f99c058cea77120aaf.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/d12774b3339413a0eef3c2da2ae5a342.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-11752a4d77b4.png?v=1773792125",
+            "thumb_key": "thumbs/kaytee-11752a4d77b4.webp"
+          }
+        },
+        {
+          "id": "kaytee-2392733b60f3",
+          "name": "🏀 New York Knicks vs Indiana Pacers | 06:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2392733b60f3.png?v=1773792125",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601311685",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601311685",
+                  "name": "New York Knicks vs Indiana Pacers",
+                  "streams": [
+                    {
+                      "id": "st-601311685",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4e8aae3cb1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b9e337326d9_4439/index.m3u8?expire=1774394807&sign=5a9b28ba1c511a56dcfe7cf95e5f1027",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/new-york-knicks-vs-indiana-pacers-0630-18-03-2026/601311685"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NBA",
+            "team_a": "New York Knicks",
+            "team_b": "Indiana Pacers",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/c970d7df9c0cf1411c1322724ca253d9.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/5257ef2bea4400b9b0b46c638a87e229.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2392733b60f3.png?v=1773792125",
+            "thumb_key": "thumbs/kaytee-2392733b60f3.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_bóng_đá",
+      "name": "⏳ Sắp Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-8d9cc7c1fe5c",
+          "name": "⚽ Gimnasia y Esgrima de Mendoza vs Estudiantes La Plata | 07:15",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8d9cc7c1fe5c.png?v=1773792127",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601310209",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601310209",
+                  "name": "Gimnasia y Esgrima de Mendoza vs Estudiantes La Plata",
+                  "streams": [
+                    {
+                      "id": "st-601310209",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-24085cfd22",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b9e425326d9_128756/index.m3u8?expire=1774395045&sign=42cb47f5ea29ce7672c9e539d6fef606",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/gimnasia-y-esgrima-de-mendoza-vs-estudiantes-la-plata-0715-18-03-2026/601310209"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Argentine Division 1",
+            "team_a": "Gimnasia y Esgrima de Mendoza",
+            "team_b": "Estudiantes La Plata",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/532600afe76be2528effd5790fb51a33.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/815c22bf4ba2ec7ac989fe89c0dd6ecc.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8d9cc7c1fe5c.png?v=1773792127",
+            "thumb_key": "thumbs/kaytee-8d9cc7c1fe5c.webp"
+          }
+        },
+        {
+          "id": "kaytee-71064ea7619e",
+          "name": "⚽ Central Cordoba SDE vs Deportivo Riestra | 07:15",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-71064ea7619e.png?v=1773792128",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601310212",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601310212",
+                  "name": "Central Cordoba SDE vs Deportivo Riestra",
+                  "streams": [
+                    {
+                      "id": "st-601310212",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-cbe43ee072",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b9e952326d9_133172/index.m3u8?expire=1774396370&sign=b0d0132b1fc2c951ea29acf9e4d5acf6",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/central-cordoba-sde-vs-deportivo-riestra-0715-18-03-2026/601310212"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Argentine Division 1",
+            "team_a": "Central Cordoba SDE",
+            "team_b": "Deportivo Riestra",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/73eb62698518ab54028aee31105931ae.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/b9eb3a2ccc44b65d7bd365ad417ddb04.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-71064ea7619e.png?v=1773792128",
+            "thumb_key": "thumbs/kaytee-71064ea7619e.webp"
+          }
+        }
+      ]
+    }
+  ]
 }
