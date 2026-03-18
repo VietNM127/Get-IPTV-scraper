@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-18T14:54:45.975763",
+  "updated_at": "2026-03-18T15:10:38.101291",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,230 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-233617bf5eb2",
-          "name": "⚽ Real Madrid U19 vs Sporting CP U19 | 20:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-233617bf5eb2.png?v=1773845674",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601312807",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601312807",
-                  "name": "Real Madrid U19 vs Sporting CP U19",
-                  "streams": [
-                    {
-                      "id": "st-601312807",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e13c8e25ca",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69ba9a9e326d9_88186/index.m3u8?expire=1774441758&sign=bd789d0d13fa903bf42af4a9a3af2b85",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/real-madrid-u19-vs-sporting-cp-u19-2000-18-03-2026/601312807"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-0039e44e69",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/5155cb741f306145858fbc6ffcb437e5/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/real-madrid-u19-vs-sporting-cp-u19-2000-18-03-2026/601312807"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Youth League",
-            "team_a": "Real Madrid U19",
-            "team_b": "Sporting CP U19",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/5e754f0f66a62ae8806a63677b45caa4.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/fdd4da5bb1bc131fdc2f771f786420c8.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-233617bf5eb2.png?v=1773845674",
-            "thumb_key": "thumbs/kaytee-233617bf5eb2.webp"
-          }
-        },
-        {
-          "id": "kaytee-97a5013accec",
-          "name": "⚽ Ferencvarosi TC (w) vs Gyori Dozsa (w) | 20:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-97a5013accec.png?v=1773845676",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601322281",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601322281",
-                  "name": "Ferencvarosi TC (w) vs Gyori Dozsa (w)",
-                  "streams": [
-                    {
-                      "id": "st-601322281",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9eef2c805f",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/db6ef9b6d6c8df074df598be48dc97c5/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/ferencvarosi-tc-w-vs-gyori-dozsa-w-2000-18-03-2026/601322281"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Hungary Women's Cup",
-            "team_a": "Ferencvarosi TC (w)",
-            "team_b": "Gyori Dozsa (w)",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/883169c9ba58036fc6361a4e2b73d0c4.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/e3439075be97032417ed99437cdc3a21.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-97a5013accec.png?v=1773845676",
-            "thumb_key": "thumbs/kaytee-97a5013accec.webp"
-          }
-        },
-        {
-          "id": "kaytee-438309f0920c",
-          "name": "⚽ Diosgyori VTK (w) vs Budapest Honved FC(w) | 20:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-438309f0920c.png?v=1773845678",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601322314",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601322314",
-                  "name": "Diosgyori VTK (w) vs Budapest Honved FC(w)",
-                  "streams": [
-                    {
-                      "id": "st-601322314",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a023730f58",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/2e8e354b2887db737b875c0783dbf7c6/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/diosgyori-vtk-w-vs-budapest-honved-fcw-2000-18-03-2026/601322314"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Hungary Women's Cup",
-            "team_a": "Diosgyori VTK (w)",
-            "team_b": "Budapest Honved FC(w)",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/96281992c0f0aba2d410797fa8f5dab7.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/d92a23ee6d5cab3d524ec417893b6da6.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-438309f0920c.png?v=1773845678",
-            "thumb_key": "thumbs/kaytee-438309f0920c.webp"
-          }
-        },
         {
           "id": "kaytee-1072c7ff35cd",
           "name": "⚽ FK Iskra Danilovgrad vs FK Grbalj Radanovici | 20:30",
@@ -251,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1072c7ff35cd.png?v=1773845679",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1072c7ff35cd.png?v=1773846617",
             "width": 1600,
             "height": 1200
           },
@@ -306,7 +82,7 @@
             "team_b": "FK Grbalj Radanovici",
             "logo_a": "https://cdn.rapid-api.icu/football/team/41df36f49119080aa03d84059fdad92e.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/23db36ed4ce1b2c012e744cce1020fd9.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1072c7ff35cd.png?v=1773845679",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1072c7ff35cd.png?v=1773846617",
             "thumb_key": "thumbs/kaytee-1072c7ff35cd.webp"
           }
         },
@@ -320,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e2d59c572780.png?v=1773845680",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e2d59c572780.png?v=1773846618",
             "width": 1600,
             "height": 1200
           },
@@ -375,7 +151,7 @@
             "team_b": "LPB Ninh Bình",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/e35ae9330db5de3a7a5c033d1b084619.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/1cba7cb1c7477b57e50a66aa4d9bb5d6.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e2d59c572780.png?v=1773845680",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e2d59c572780.png?v=1773846618",
             "thumb_key": "thumbs/kaytee-e2d59c572780.webp"
           }
         },
@@ -389,7 +165,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a89524467db5.png?v=1773845682",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a89524467db5.png?v=1773846619",
             "width": 1600,
             "height": 1200
           },
@@ -461,8 +237,353 @@
             "team_b": "PDRM FC",
             "logo_a": "https://cdn.rapid-api.icu/football/team/3ab85cf20a3ed001a60a9fcd8ec09afe.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/8f622c311f98f5193c354dfa4793aa12.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a89524467db5.png?v=1773845682",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a89524467db5.png?v=1773846619",
             "thumb_key": "thumbs/kaytee-a89524467db5.webp"
+          }
+        },
+        {
+          "id": "kaytee-d49d22f37b68",
+          "name": "⚽ Kastrioti Kruje vs Burreli | 21:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d49d22f37b68.png?v=1773846621",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601310377",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601310377",
+                  "name": "Kastrioti Kruje vs Burreli",
+                  "streams": [
+                    {
+                      "id": "st-601310377",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d39ac8d760",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/fc5ca5d07e824109f476518f94a93f3d/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/kastrioti-kruje-vs-burreli-2100-18-03-2026/601310377"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Albanian Division 1",
+            "team_a": "Kastrioti Kruje",
+            "team_b": "Burreli",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/3e4ab239a39c04fa7086fc2d09ca121c.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/d47425ddf0f2e5e6d1b7375e889d5edd.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d49d22f37b68.png?v=1773846621",
+            "thumb_key": "thumbs/kaytee-d49d22f37b68.webp"
+          }
+        },
+        {
+          "id": "kaytee-b9c1f37c44be",
+          "name": "⚽ KF Laci vs Besa Kavaje | 21:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b9c1f37c44be.png?v=1773846623",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601310380",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601310380",
+                  "name": "KF Laci vs Besa Kavaje",
+                  "streams": [
+                    {
+                      "id": "st-601310380",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f6ea566bbf",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/7ca3d761a88568f3f672b3f97ca89e03/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/kf-laci-vs-besa-kavaje-2100-18-03-2026/601310380"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Albanian Division 1",
+            "team_a": "KF Laci",
+            "team_b": "Besa Kavaje",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/8ead3f356012e9bb657e2e77eb4d4f96.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/f8f5161cf94df05793592f5fab95138b.jpg",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b9c1f37c44be.png?v=1773846623",
+            "thumb_key": "thumbs/kaytee-b9c1f37c44be.webp"
+          }
+        },
+        {
+          "id": "kaytee-3e0fbf2f6a80",
+          "name": "⚽ KS Perparimi Kukesi vs Lushnja KS | 21:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3e0fbf2f6a80.png?v=1773846625",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601310386",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601310386",
+                  "name": "KS Perparimi Kukesi vs Lushnja KS",
+                  "streams": [
+                    {
+                      "id": "st-601310386",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-67bba4e4f7",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/fd406e95fd77948423aed1dbb331ee9d/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/ks-perparimi-kukesi-vs-lushnja-ks-2100-18-03-2026/601310386"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Albanian Division 1",
+            "team_a": "KS Perparimi Kukesi",
+            "team_b": "Lushnja KS",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/559e23ba146507d39fb7a3bf57236202.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/c9f06bc7b46d0247a91c8fc665c13d0e.jpg",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3e0fbf2f6a80.png?v=1773846625",
+            "thumb_key": "thumbs/kaytee-3e0fbf2f6a80.webp"
+          }
+        },
+        {
+          "id": "kaytee-ec2c28f990cf",
+          "name": "⚽ KF Luftetari vs Apolonia Fier | 21:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ec2c28f990cf.png?v=1773846627",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601310389",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601310389",
+                  "name": "KF Luftetari vs Apolonia Fier",
+                  "streams": [
+                    {
+                      "id": "st-601310389",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a9f17b6070",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/2a679e7dcb8a8bd496f05fb9146367c8/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/kf-luftetari-vs-apolonia-fier-2100-18-03-2026/601310389"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Albanian Division 1",
+            "team_a": "KF Luftetari",
+            "team_b": "Apolonia Fier",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/ba2fa31a611d73643d38311061b1083d.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/4f81b1d964419548f01ca35bbaeeda75.jpg",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ec2c28f990cf.png?v=1773846627",
+            "thumb_key": "thumbs/kaytee-ec2c28f990cf.webp"
+          }
+        },
+        {
+          "id": "kaytee-1271a68fe8e8",
+          "name": "⚽ Pogradeci vs KS Iliria Fushe | 21:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1271a68fe8e8.png?v=1773846629",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601310392",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601310392",
+                  "name": "Pogradeci vs KS Iliria Fushe",
+                  "streams": [
+                    {
+                      "id": "st-601310392",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d686a96605",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/0e1551c2fade563b098b8981c6886fe3/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/pogradeci-vs-ks-iliria-fushe-2100-18-03-2026/601310392"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Albanian Division 1",
+            "team_a": "Pogradeci",
+            "team_b": "KS Iliria Fushe",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/8fb134f258b1f7865a6ab2d935a897c9.jpg",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/0f7986451519be33ceadc905e72f8c14.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1271a68fe8e8.png?v=1773846629",
+            "thumb_key": "thumbs/kaytee-1271a68fe8e8.webp"
           }
         },
         {
@@ -475,7 +596,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7ca456ea4dd7.png?v=1773845683",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7ca456ea4dd7.png?v=1773846632",
             "width": 1600,
             "height": 1200
           },
@@ -530,8 +651,241 @@
             "team_b": "Navbahor Namangan",
             "logo_a": "https://cdn.rapid-api.icu/football/team/e353807a23ce0c8d0d21e091d5f21972.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/38282bbb6c7407024187ae929dab2274.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7ca456ea4dd7.png?v=1773845683",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7ca456ea4dd7.png?v=1773846632",
             "thumb_key": "thumbs/kaytee-7ca456ea4dd7.webp"
+          }
+        },
+        {
+          "id": "kaytee-f242c7bfb269",
+          "name": "⚽ Xorazm Urganch vs Kuruvchi Bunyodkor | 21:15",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f242c7bfb269.png?v=1773846634",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601310503",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601310503",
+                  "name": "Xorazm Urganch vs Kuruvchi Bunyodkor",
+                  "streams": [
+                    {
+                      "id": "st-601310503",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f564b48d9f",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69ba9d2a70a69_6308/index.m3u8?expire=1774442410&sign=a1b3281f90f92bf77bf88435e6c890b9",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/xorazm-urganch-vs-kuruvchi-bunyodkor-2115-18-03-2026/601310503"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-986e11c6ee",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/ded2b85a3b53ee0adf798e586d3851ce/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/xorazm-urganch-vs-kuruvchi-bunyodkor-2115-18-03-2026/601310503"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Uzbekistan Super League",
+            "team_a": "Xorazm Urganch",
+            "team_b": "Kuruvchi Bunyodkor",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/cb045077b1cf7fa3c7a1aec74546bb15.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/6e8f68d93b3613b3d8229a1403dbb7e1.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f242c7bfb269.png?v=1773846634",
+            "thumb_key": "thumbs/kaytee-f242c7bfb269.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_tennis",
+      "name": "🔴 Live 🎾 Tennis",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-baa0f3f08de2",
+          "name": "🎾 Shapovalov D. vs Van De Zandschulp B. | 22:05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-baa0f3f08de2.png?v=1773846637",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601324717",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601324717",
+                  "name": "Shapovalov D. vs Van De Zandschulp B.",
+                  "streams": [
+                    {
+                      "id": "st-601324717",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2dba7f11ff",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69babf0570a69_4733/index.m3u8?expire=1774451077&sign=f85bc6916a046eb2cd468bd2c69b4eea",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/shapovalov-d-vs-van-de-zandschulp-b-2205-18-03-2026/601324717"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ATP MIAMI 2026",
+            "team_a": "Shapovalov D.",
+            "team_b": "Van De Zandschulp B.",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/9fef6f90abaa29c133e8055a5d652f03.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/1006c124d9f5ecea93c1e38ab153b4aa.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-baa0f3f08de2.png?v=1773846637",
+            "thumb_key": "thumbs/kaytee-baa0f3f08de2.webp"
+          }
+        },
+        {
+          "id": "kaytee-5a607171b73e",
+          "name": "🎾 Mpetshi Perricard G. vs Ugo Carabelli C. | 22:05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5a607171b73e.png?v=1773846638",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601324720",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601324720",
+                  "name": "Mpetshi Perricard G. vs Ugo Carabelli C.",
+                  "streams": [
+                    {
+                      "id": "st-601324720",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b60193d28e",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69babeca326d9_112310/index.m3u8?expire=1774451018&sign=f2f998b21047a3e62262d6c74f2d811d",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/mpetshi-perricard-g-vs-ugo-carabelli-c-2205-18-03-2026/601324720"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ATP MIAMI 2026",
+            "team_a": "Mpetshi Perricard G.",
+            "team_b": "Ugo Carabelli C.",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/d04545472ce61a052aff676102c44742.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/7c7ed67dcebb59134d457410b8518d57.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5a607171b73e.png?v=1773846638",
+            "thumb_key": "thumbs/kaytee-5a607171b73e.webp"
           }
         }
       ]
@@ -553,7 +907,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-eec3f5499276.png?v=1773845673",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-eec3f5499276.png?v=1773846615",
             "width": 1600,
             "height": 1200
           },
@@ -608,77 +962,8 @@
             "team_b": "SUNG Shuo Yun",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/b657f9ca94a1b2e33d85fb865607f361.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/4408359cded178318725aa7f94a33ecf.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-eec3f5499276.png?v=1773845673",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-eec3f5499276.png?v=1773846615",
             "thumb_key": "thumbs/kaytee-eec3f5499276.webp"
-          }
-        },
-        {
-          "id": "kaytee-05856ff4fec2",
-          "name": "🏸 Line CHRISTOPHERSEN vs Wen Yu ZHANG | 21:23",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-05856ff4fec2.png?v=1773845684",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601324474",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601324474",
-                  "name": "Line CHRISTOPHERSEN vs Wen Yu ZHANG",
-                  "streams": [
-                    {
-                      "id": "st-601324474",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-89f9e69174",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69ba5b5370a69_18754/index.m3u8?expire=1774425555&sign=a6645bee6be34f0a4d180e41693f4256",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/line-christophersen-vs-wen-yu-zhang-2123-18-03-2026/601324474"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Sân 1 - Orleans Masters Badminton 2026",
-            "team_a": "Line CHRISTOPHERSEN",
-            "team_b": "Wen Yu ZHANG",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/74bbcff4848212bcc31b887f4a99e24f.jpg",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/11b3623a1fb8fd1ce0ecb848cc36199d.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-05856ff4fec2.png?v=1773845684",
-            "thumb_key": "thumbs/kaytee-05856ff4fec2.webp"
           }
         },
         {
@@ -691,7 +976,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9b7b5f5ce070.png?v=1773845685",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9b7b5f5ce070.png?v=1773846635",
             "width": 1600,
             "height": 1200
           },
@@ -746,7 +1031,7 @@
             "team_b": "Pakkapon TEERARATSAKUL / Sapsiree TAERATTANACHAI",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/d82a0f025f619f066b43fbf90c9da575.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/81469bfd328d4680e820f5c572e98838.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9b7b5f5ce070.png?v=1773845685",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9b7b5f5ce070.png?v=1773846635",
             "thumb_key": "thumbs/kaytee-9b7b5f5ce070.webp"
           }
         },
@@ -760,7 +1045,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-357b880f2a06.png?v=1773845685",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-357b880f2a06.png?v=1773846636",
             "width": 1600,
             "height": 1200
           },
@@ -815,8 +1100,77 @@
             "team_b": "Karupathevan LETSHANAA",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/e32a1a1fbe69efa7fa64beb55cbb3f44.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/c68b682aeaa8d9e5130f83e1ac5af369.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-357b880f2a06.png?v=1773845685",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-357b880f2a06.png?v=1773846636",
             "thumb_key": "thumbs/kaytee-357b880f2a06.webp"
+          }
+        },
+        {
+          "id": "kaytee-05856ff4fec2",
+          "name": "🏸 Thom GICQUEL / Delphine DELRUE vs CHEN Cheng Kuan / LIN Bing-We | 22:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-05856ff4fec2.png?v=1773846636",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601324474",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601324474",
+                  "name": "Thom GICQUEL / Delphine DELRUE vs CHEN Cheng Kuan / LIN Bing-We",
+                  "streams": [
+                    {
+                      "id": "st-601324474",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-89f9e69174",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69ba5b5370a69_18754/index.m3u8?expire=1774425555&sign=a6645bee6be34f0a4d180e41693f4256",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/thom-gicquel--delphine-delrue-vs-chen-cheng-kuan--lin-bingwe-2200-18-03-2026/601324474"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sân 1 - Orleans Masters Badminton 2026",
+            "team_a": "Thom GICQUEL / Delphine DELRUE",
+            "team_b": "CHEN Cheng Kuan / LIN Bing-We",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/5c6941aace9528826b2807b9d67b681e.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/25b04dd413a754856fb3fb726580f3ca.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-05856ff4fec2.png?v=1773846636",
+            "thumb_key": "thumbs/kaytee-05856ff4fec2.webp"
           }
         }
       ]
