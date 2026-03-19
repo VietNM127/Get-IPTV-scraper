@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-19T05:07:38.965621",
+  "updated_at": "2026-03-19T06:08:32.062736",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-829d3792e464.png?v=1773896858",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-829d3792e464.png?v=1773900502",
             "width": 1600,
             "height": 1200
           },
@@ -82,8 +82,224 @@
             "team_b": "Bula FC",
             "logo_a": "https://cdn.rapid-api.icu/football/team/4143e0be3b405b7b829d35753362559d.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/3ba9e68b96950ffe8b5b4fb2508cf3dd.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-829d3792e464.png?v=1773896858",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-829d3792e464.png?v=1773900502",
             "thumb_key": "thumbs/kaytee-829d3792e464.webp"
+          }
+        },
+        {
+          "id": "kaytee-983fc07c1302",
+          "name": "⚽ Ronnie O'Sullivan vs Shaun Murphy | 13:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-983fc07c1302.png?v=1773900506",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601324729",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601324729",
+                  "name": "Ronnie O'Sullivan vs Shaun Murphy",
+                  "streams": [
+                    {
+                      "id": "st-601324729",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7f4e292809",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bb8a24326d9_142246/index.m3u8?expire=1774503076&sign=76109caf4f55c59f2be0b442065c80f6",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/ronnie-osullivan-vs-shaun-murphy-1300-19-03-2026/601324729"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Open 2026",
+            "team_a": "Ronnie O'Sullivan",
+            "team_b": "Shaun Murphy",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/40bd826b9586e6279788297dbef06991.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/69b4a4fb608a3d23104d56ebe97a51be.webp",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-983fc07c1302.png?v=1773900506",
+            "thumb_key": "thumbs/kaytee-983fc07c1302.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_bóng_đá",
+      "name": "⏳ Sắp Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-310d2d060486",
+          "name": "⚽ Chinese Taipei (w) vs North Korea (w) | 16:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-310d2d060486.png?v=1773900508",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601311523",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601311523",
+                  "name": "Chinese Taipei (w) vs North Korea (w)",
+                  "streams": [
+                    {
+                      "id": "st-601311523",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3e3f0d3b2c",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/753eafc9b95d0bb4a472ab4403c85318/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/chinese-taipei-w-vs-north-korea-w-1600-19-03-2026/601311523"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC Women’s Asian Cup",
+            "team_a": "Chinese Taipei (w)",
+            "team_b": "North Korea (w)",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/74eb0c64d3d5eb724d982a8b150d8943.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/3dcedcc7589fb823493164d4476aa41f.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-310d2d060486.png?v=1773900508",
+            "thumb_key": "thumbs/kaytee-310d2d060486.webp"
+          }
+        },
+        {
+          "id": "kaytee-ce5b864ab848",
+          "name": "⚽ Judd Trump vs Robbie Williams | 18:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ce5b864ab848.png?v=1773900512",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601324732",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601324732",
+                  "name": "Judd Trump vs Robbie Williams",
+                  "streams": [
+                    {
+                      "id": "st-601324732",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fd167889a4",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bb8a1e326d9_142246/index.m3u8?expire=1774503070&sign=862180408877927125107e0319d6f3b7",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/judd-trump-vs-robbie-williams-1830-19-03-2026/601324732"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Open 2026",
+            "team_a": "Judd Trump",
+            "team_b": "Robbie Williams",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/9e4bab4e5cea82af5793b6ee02ebf2a9.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/cd8a398e0dd41e31d0211f65e360df2f.jpg",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ce5b864ab848.png?v=1773900512",
+            "thumb_key": "thumbs/kaytee-ce5b864ab848.webp"
           }
         }
       ]
