@@ -8,6 +8,662 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-18T23:58:27.760904",
-  "groups": []
+  "updated_at": "2026-03-19T03:15:03.595409",
+  "groups": [
+    {
+      "id": "live_bóng_đá",
+      "name": "🔴 Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-825562b82e63",
+          "name": "⚽ Deportivo Cali vs Independiente Santa Fe | 08:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-825562b82e63.png?v=1773890096",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601311478",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601311478",
+                  "name": "Deportivo Cali vs Independiente Santa Fe",
+                  "streams": [
+                    {
+                      "id": "st-601311478",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8227967236",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bb4695326d9_133172/index.m3u8?expire=1774485781&sign=8eea759b4109e51859c4d253dea060d4",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/deportivo-cali-vs-independiente-santa-fe-0830-19-03-2026/601311478"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-17639c85c2",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/7c1cceb09dea68b885ff4f850c0bd7f1/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/deportivo-cali-vs-independiente-santa-fe-0830-19-03-2026/601311478"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Categoría Primera A",
+            "team_a": "Deportivo Cali",
+            "team_b": "Independiente Santa Fe",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/b997a2811a0caed43ff38b631a708420.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/3e5d2a8571f005656c62c1b0bdbaae03.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-825562b82e63.png?v=1773890096",
+            "thumb_key": "thumbs/kaytee-825562b82e63.webp"
+          }
+        },
+        {
+          "id": "kaytee-96c803942024",
+          "name": "⚽ New Mexico United vs Cruizers FC | 08:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-96c803942024.png?v=1773890097",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601311481",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601311481",
+                  "name": "New Mexico United vs Cruizers FC",
+                  "streams": [
+                    {
+                      "id": "st-601311481",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fcfb3e707a",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/c755d59c51b8ce34eb00f4cb478af388/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/new-mexico-united-vs-cruizers-fc-0830-19-03-2026/601311481"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "United States Open Cup",
+            "team_a": "New Mexico United",
+            "team_b": "Cruizers FC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/bced686ea9d08190520be6eaaa6edf0b.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/f4d5b82f092138ca6018ddb1124286a6.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-96c803942024.png?v=1773890097",
+            "thumb_key": "thumbs/kaytee-96c803942024.webp"
+          }
+        },
+        {
+          "id": "kaytee-1b367c921f47",
+          "name": "⚽ Tampico Madero vs Correcaminos UAT | 09:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1b367c921f47.png?v=1773890100",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601311487",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601311487",
+                  "name": "Tampico Madero vs Correcaminos UAT",
+                  "streams": [
+                    {
+                      "id": "st-601311487",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8808349115",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/a4e9f34098c13836c75d92f4e9a37096/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/tampico-madero-vs-correcaminos-uat-0900-19-03-2026/601311487"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Mexico Ascenso MX",
+            "team_a": "Tampico Madero",
+            "team_b": "Correcaminos UAT",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/8ca7ce17e1edd9f9e517060d10cb0680.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/45017300c2ad7193a16f5f3aec27bde2.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1b367c921f47.png?v=1773890100",
+            "thumb_key": "thumbs/kaytee-1b367c921f47.webp"
+          }
+        },
+        {
+          "id": "kaytee-4cbef7eedecc",
+          "name": "⚽ Sacramento Republic FC vs El Farolito SC | 09:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4cbef7eedecc.png?v=1773890101",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601311493",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601311493",
+                  "name": "Sacramento Republic FC vs El Farolito SC",
+                  "streams": [
+                    {
+                      "id": "st-601311493",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-014d8c10e1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/16393851b2b49ff1b5cb230beaf2e69c/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/sacramento-republic-fc-vs-el-farolito-sc-0900-19-03-2026/601311493"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "United States Open Cup",
+            "team_a": "Sacramento Republic FC",
+            "team_b": "El Farolito SC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/3b1eedbf7ab45c8c57b3eeb7c7ade1c6.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/79fb3fd6093b4f0c34f0ab1115ee309d.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4cbef7eedecc.png?v=1773890101",
+            "thumb_key": "thumbs/kaytee-4cbef7eedecc.webp"
+          }
+        },
+        {
+          "id": "kaytee-d4abc63f5b70",
+          "name": "⚽ Chivas Guadalajara vs Club Leon | 09:07",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d4abc63f5b70.png?v=1773890102",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601311496",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601311496",
+                  "name": "Chivas Guadalajara vs Club Leon",
+                  "streams": [
+                    {
+                      "id": "st-601311496",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d076cb741d",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bb5cce326d9_95554/index.m3u8?expire=1774491470&sign=11dac741c6a0528298385a8c7132c60c",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/chivas-guadalajara-vs-club-leon-0907-19-03-2026/601311496"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-bcfc41a894",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/5dbb6d643d40381ddbadd7c95d71e051/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/chivas-guadalajara-vs-club-leon-0907-19-03-2026/601311496"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Mexico Liga MX",
+            "team_a": "Chivas Guadalajara",
+            "team_b": "Club Leon",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/872867a492989e6a9a0785cfd0a40680.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/4695f653aca6ac49ff2baa4a961fa67b.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d4abc63f5b70.png?v=1773890102",
+            "thumb_key": "thumbs/kaytee-d4abc63f5b70.webp"
+          }
+        },
+        {
+          "id": "kaytee-a154eefd813a",
+          "name": "⚽ Uzbekistan Women vs Philippines Women | 10:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a154eefd813a.png?v=1773890102",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601311508",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601311508",
+                  "name": "Uzbekistan Women vs Philippines Women",
+                  "streams": [
+                    {
+                      "id": "st-601311508",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1c722087d8",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bb66bd326d9_74012/index.m3u8?expire=1774494013&sign=cd887f4ed1722dd93b0357a7978d2cc0",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/uzbekistan-women-vs-philippines-women-1000-19-03-2026/601311508"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-1f449b8a5d",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/ea5b7fcb80f603983c4873f484b85018/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/uzbekistan-women-vs-philippines-women-1000-19-03-2026/601311508"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC Women’s Asian Cup",
+            "team_a": "Uzbekistan Women",
+            "team_b": "Philippines Women",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/70eed785b5436fc5344c9e1f2b7e9547.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/3fe649ebb607f9ab42108bdcb0eeaf17.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a154eefd813a.png?v=1773890102",
+            "thumb_key": "thumbs/kaytee-a154eefd813a.webp"
+          }
+        },
+        {
+          "id": "kaytee-d3890b6bdf43",
+          "name": "⚽ Toluca vs San Diego FC | 10:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d3890b6bdf43.png?v=1773890103",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601311511",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601311511",
+                  "name": "Toluca vs San Diego FC",
+                  "streams": [
+                    {
+                      "id": "st-601311511",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-996b0167d0",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bb5da0326d9_72787/index.m3u8?expire=1774491680&sign=9d748bb37fbbc6dbad6dbb2c33334e2a",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/toluca-vs-san-diego-fc-1000-19-03-2026/601311511"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-232fb20a1c",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/d7ce29652cfa9f837deac161ca992912/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/toluca-vs-san-diego-fc-1000-19-03-2026/601311511"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CNCF CHL",
+            "team_a": "Toluca",
+            "team_b": "San Diego FC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/725ccd5793be6b4f8dd917170dd17d04.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/4431a6b60ebf9369297717921a290687.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d3890b6bdf43.png?v=1773890103",
+            "thumb_key": "thumbs/kaytee-d3890b6bdf43.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_bóng_rổ",
+      "name": "🔴 Live 🏀 Bóng Rổ",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-62077b0f2abf",
+          "name": "🏀 Houston Rockets vs Los Angeles Lakers | 08:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-62077b0f2abf.png?v=1773890099",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601311721",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601311721",
+                  "name": "Houston Rockets vs Los Angeles Lakers",
+                  "streams": [
+                    {
+                      "id": "st-601311721",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5b15155e71",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bb4add70a69_4733/index.m3u8?expire=1774486877&sign=47ac5d6a646530af5686264986551e42",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/houston-rockets-vs-los-angeles-lakers-0830-19-03-2026/601311721"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-b915470750",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bb516a70a69_42127/index.m3u8?expire=1774488554&sign=7dc4fedace2cba004532ff0445ca6a48",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/houston-rockets-vs-los-angeles-lakers-0830-19-03-2026/601311721"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NBA",
+            "team_a": "Houston Rockets",
+            "team_b": "Los Angeles Lakers",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/f2ccea244e52871508761dd546e14a53.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/feb6335bd6d4cb2e6b6cb6cb43c0e0a1.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-62077b0f2abf.png?v=1773890099",
+            "thumb_key": "thumbs/kaytee-62077b0f2abf.webp"
+          }
+        }
+      ]
+    }
+  ]
 }
