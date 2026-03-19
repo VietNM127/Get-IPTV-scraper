@@ -8,167 +8,11 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-19T09:01:24.252952",
+  "updated_at": "2026-03-19T09:57:14.425461",
   "groups": [
     {
       "id": "live_bóng_đá",
       "name": "🔴 Live ⚽ Bóng Đá",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-ffab3c554704",
-          "name": "⚽ Công an TPHCM vs TPHCM | 16:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ffab3c554704.png?v=1773910880",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601324708",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601324708",
-                  "name": "Công an TPHCM vs TPHCM",
-                  "streams": [
-                    {
-                      "id": "st-601324708",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f5f730179b",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bbb33a70a69_128756/index.m3u8?expire=1774513594&sign=dfa1684c73d96f8984fce403202b36a5",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/cong-an-tphcm-vs-tphcm-1600-19-03-2026/601324708"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Cúp Hoa Lư 2026 - Nam",
-            "team_a": "Công an TPHCM",
-            "team_b": "TPHCM",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/64be5559beb034d8ac9a377b49ef9380.jpg",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/23057d487844e08e19a0c51997d3987c.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ffab3c554704.png?v=1773910880",
-            "thumb_key": "thumbs/kaytee-ffab3c554704.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "live_bóng_rổ",
-      "name": "🔴 Live 🏀 Bóng Rổ",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-561f167e3259",
-          "name": "🏀 Solomon Kings FC vs South Melbourne | 15:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-561f167e3259.png?v=1773910877",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601311520",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601311520",
-                  "name": "Solomon Kings FC vs South Melbourne",
-                  "streams": [
-                    {
-                      "id": "st-601311520",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0b6d925c9a",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/7fd2f343efeb03f13dd0580f97fd4189/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/solomon-kings-fc-vs-south-melbourne-1500-19-03-2026/601311520"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "OFC P L",
-            "team_a": "Solomon Kings FC",
-            "team_b": "South Melbourne",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/b4cb6ea7beafaf3b649d4d3e7a8eef62.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/3728683390847f335552d077cf0b8752.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-561f167e3259.png?v=1773910877",
-            "thumb_key": "thumbs/kaytee-561f167e3259.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "upcoming_bóng_đá",
-      "name": "⏳ Sắp Live ⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -183,16 +27,16 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-310d2d060486.png?v=1773910881",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-310d2d060486.png?v=1773914227",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "⏳ Sắp Live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -255,8 +99,233 @@
             "team_b": "North Korea (w)",
             "logo_a": "https://cdn.rapid-api.icu/football/team/74eb0c64d3d5eb724d982a8b150d8943.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/3dcedcc7589fb823493164d4476aa41f.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-310d2d060486.png?v=1773910881",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-310d2d060486.png?v=1773914227",
             "thumb_key": "thumbs/kaytee-310d2d060486.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_bóng_rổ",
+      "name": "🔴 Live 🏀 Bóng Rổ",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-561f167e3259",
+          "name": "🏀 Solomon Kings FC vs South Melbourne | 15:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-561f167e3259.png?v=1773914225",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601311520",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601311520",
+                  "name": "Solomon Kings FC vs South Melbourne",
+                  "streams": [
+                    {
+                      "id": "st-601311520",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0b6d925c9a",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/7fd2f343efeb03f13dd0580f97fd4189/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/solomon-kings-fc-vs-south-melbourne-1500-19-03-2026/601311520"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "OFC P L",
+            "team_a": "Solomon Kings FC",
+            "team_b": "South Melbourne",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/b4cb6ea7beafaf3b649d4d3e7a8eef62.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/3728683390847f335552d077cf0b8752.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-561f167e3259.png?v=1773914225",
+            "thumb_key": "thumbs/kaytee-561f167e3259.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_bóng_đá",
+      "name": "⏳ Sắp Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-c8f41c49936e",
+          "name": "⚽ Chanmari FC vs Shillong Lajong FC | 17:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c8f41c49936e.png?v=1773914229",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601311526",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601311526",
+                  "name": "Chanmari FC vs Shillong Lajong FC",
+                  "streams": [
+                    {
+                      "id": "st-601311526",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1da785a21f",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bbc3fd326d9_95554/index.m3u8?expire=1774517885&sign=abfe16653e0185de0c46d74fa91abe5e",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/chanmari-fc-vs-shillong-lajong-fc-1730-19-03-2026/601311526"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Indian League Division 1",
+            "team_a": "Chanmari FC",
+            "team_b": "Shillong Lajong FC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/205111004b08c5b99ee531ade038964e.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/cc5e70a5cfd524b023e0c54984cd6921.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c8f41c49936e.png?v=1773914229",
+            "thumb_key": "thumbs/kaytee-c8f41c49936e.webp"
+          }
+        },
+        {
+          "id": "kaytee-6fcee2736e5c",
+          "name": "⚽ FK Oleksandria vs Dynamo Kyiv | 18:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6fcee2736e5c.png?v=1773914231",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601311529",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601311529",
+                  "name": "FK Oleksandria vs Dynamo Kyiv",
+                  "streams": [
+                    {
+                      "id": "st-601311529",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-18940de037",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bbc7a0326d9_128756/index.m3u8?expire=1774518816&sign=5322e8730d930fa814902597faeb9f25",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/fk-oleksandria-vs-dynamo-kyiv-1800-19-03-2026/601311529"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ukrainian Premier League",
+            "team_a": "FK Oleksandria",
+            "team_b": "Dynamo Kyiv",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/71c1af49010593b29f9fa41aa0e21b49.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/77c049e20cd5b3a779fcf70ac08f21c3.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6fcee2736e5c.png?v=1773914231",
+            "thumb_key": "thumbs/kaytee-6fcee2736e5c.webp"
           }
         },
         {
@@ -269,7 +338,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ce5b864ab848.png?v=1773910884",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ce5b864ab848.png?v=1773914234",
             "width": 1600,
             "height": 1200
           },
@@ -324,7 +393,7 @@
             "team_b": "Robbie Williams",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/9e4bab4e5cea82af5793b6ee02ebf2a9.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/cd8a398e0dd41e31d0211f65e360df2f.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ce5b864ab848.png?v=1773910884",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ce5b864ab848.png?v=1773914234",
             "thumb_key": "thumbs/kaytee-ce5b864ab848.webp"
           }
         }
