@@ -8,8 +8,86 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-19T08:56:31.095507",
+  "updated_at": "2026-03-19T09:01:24.252952",
   "groups": [
+    {
+      "id": "live_bóng_đá",
+      "name": "🔴 Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-ffab3c554704",
+          "name": "⚽ Công an TPHCM vs TPHCM | 16:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ffab3c554704.png?v=1773910880",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601324708",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601324708",
+                  "name": "Công an TPHCM vs TPHCM",
+                  "streams": [
+                    {
+                      "id": "st-601324708",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f5f730179b",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bbb33a70a69_128756/index.m3u8?expire=1774513594&sign=dfa1684c73d96f8984fce403202b36a5",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/cong-an-tphcm-vs-tphcm-1600-19-03-2026/601324708"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Cúp Hoa Lư 2026 - Nam",
+            "team_a": "Công an TPHCM",
+            "team_b": "TPHCM",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/64be5559beb034d8ac9a377b49ef9380.jpg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/23057d487844e08e19a0c51997d3987c.jpg",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ffab3c554704.png?v=1773910880",
+            "thumb_key": "thumbs/kaytee-ffab3c554704.webp"
+          }
+        }
+      ]
+    },
     {
       "id": "live_bóng_rổ",
       "name": "🔴 Live 🏀 Bóng Rổ",
@@ -27,7 +105,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-561f167e3259.png?v=1773910585",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-561f167e3259.png?v=1773910877",
             "width": 1600,
             "height": 1200
           },
@@ -82,7 +160,7 @@
             "team_b": "South Melbourne",
             "logo_a": "https://cdn.rapid-api.icu/football/team/b4cb6ea7beafaf3b649d4d3e7a8eef62.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/3728683390847f335552d077cf0b8752.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-561f167e3259.png?v=1773910585",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-561f167e3259.png?v=1773910877",
             "thumb_key": "thumbs/kaytee-561f167e3259.webp"
           }
         }
@@ -105,7 +183,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-310d2d060486.png?v=1773910587",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-310d2d060486.png?v=1773910881",
             "width": 1600,
             "height": 1200
           },
@@ -177,77 +255,8 @@
             "team_b": "North Korea (w)",
             "logo_a": "https://cdn.rapid-api.icu/football/team/74eb0c64d3d5eb724d982a8b150d8943.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/3dcedcc7589fb823493164d4476aa41f.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-310d2d060486.png?v=1773910587",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-310d2d060486.png?v=1773910881",
             "thumb_key": "thumbs/kaytee-310d2d060486.webp"
-          }
-        },
-        {
-          "id": "kaytee-ffab3c554704",
-          "name": "⚽ Công an TPHCM vs TPHCM | 16:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ffab3c554704.png?v=1773910589",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Sắp Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601324708",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601324708",
-                  "name": "Công an TPHCM vs TPHCM",
-                  "streams": [
-                    {
-                      "id": "st-601324708",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f5f730179b",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bbb33a70a69_128756/index.m3u8?expire=1774513594&sign=dfa1684c73d96f8984fce403202b36a5",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/cong-an-tphcm-vs-tphcm-1600-19-03-2026/601324708"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Cúp Hoa Lư 2026 - Nam",
-            "team_a": "Công an TPHCM",
-            "team_b": "TPHCM",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/64be5559beb034d8ac9a377b49ef9380.jpg",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/23057d487844e08e19a0c51997d3987c.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ffab3c554704.png?v=1773910589",
-            "thumb_key": "thumbs/kaytee-ffab3c554704.webp"
           }
         },
         {
@@ -260,7 +269,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ce5b864ab848.png?v=1773910591",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ce5b864ab848.png?v=1773910884",
             "width": 1600,
             "height": 1200
           },
@@ -315,7 +324,7 @@
             "team_b": "Robbie Williams",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/9e4bab4e5cea82af5793b6ee02ebf2a9.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/cd8a398e0dd41e31d0211f65e360df2f.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ce5b864ab848.png?v=1773910591",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ce5b864ab848.png?v=1773910884",
             "thumb_key": "thumbs/kaytee-ce5b864ab848.webp"
           }
         }
