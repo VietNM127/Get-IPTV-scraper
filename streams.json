@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-19T10:57:15.014395",
+  "updated_at": "2026-03-19T11:31:35.694682",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,92 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-310d2d060486",
-          "name": "⚽ Chinese Taipei (w) vs North Korea (w) | 16:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-310d2d060486.png?v=1773917825",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601311523",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601311523",
-                  "name": "Chinese Taipei (w) vs North Korea (w)",
-                  "streams": [
-                    {
-                      "id": "st-601311523",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-287a9f981b",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bbb2e5326d9_88642/index.m3u8?expire=1774513509&sign=4597d8a426caff298e13a6c50287f177",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/chinese-taipei-w-vs-north-korea-w-1600-19-03-2026/601311523"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-3e3f0d3b2c",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/753eafc9b95d0bb4a472ab4403c85318/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/chinese-taipei-w-vs-north-korea-w-1600-19-03-2026/601311523"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Women’s Asian Cup",
-            "team_a": "Chinese Taipei (w)",
-            "team_b": "North Korea (w)",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/74eb0c64d3d5eb724d982a8b150d8943.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/3dcedcc7589fb823493164d4476aa41f.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-310d2d060486.png?v=1773917825",
-            "thumb_key": "thumbs/kaytee-310d2d060486.webp"
-          }
-        },
         {
           "id": "kaytee-59b1417d80b8",
           "name": "⚽ Goyang Sono vs KCC Egis | 17:00",
@@ -113,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-59b1417d80b8.png?v=1773917827",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-59b1417d80b8.png?v=1773919882",
             "width": 1600,
             "height": 1200
           },
@@ -168,7 +82,7 @@
             "team_b": "KCC Egis",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/3e598258677ca4b7970d21e7f5f18ac2.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/86532c33f37fb33686a09815b3d6b9c6.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-59b1417d80b8.png?v=1773917827",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-59b1417d80b8.png?v=1773919882",
             "thumb_key": "thumbs/kaytee-59b1417d80b8.webp"
           }
         },
@@ -182,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c8f41c49936e.png?v=1773917829",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c8f41c49936e.png?v=1773919885",
             "width": 1600,
             "height": 1200
           },
@@ -254,8 +168,465 @@
             "team_b": "Shillong Lajong FC",
             "logo_a": "https://cdn.rapid-api.icu/football/team/205111004b08c5b99ee531ade038964e.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/cc5e70a5cfd524b023e0c54984cd6921.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c8f41c49936e.png?v=1773917829",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c8f41c49936e.png?v=1773919885",
             "thumb_key": "thumbs/kaytee-c8f41c49936e.webp"
+          }
+        },
+        {
+          "id": "kaytee-6fcee2736e5c",
+          "name": "⚽ FK Oleksandria vs Dynamo Kyiv | 18:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6fcee2736e5c.png?v=1773919887",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601311529",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601311529",
+                  "name": "FK Oleksandria vs Dynamo Kyiv",
+                  "streams": [
+                    {
+                      "id": "st-601311529",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-18940de037",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bbc7a0326d9_128756/index.m3u8?expire=1774518816&sign=5322e8730d930fa814902597faeb9f25",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/fk-oleksandria-vs-dynamo-kyiv-1800-19-03-2026/601311529"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-1eae036425",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/4d318e22c83f59bc810c57318c02bcc5/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/fk-oleksandria-vs-dynamo-kyiv-1800-19-03-2026/601311529"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ukrainian Premier League",
+            "team_a": "FK Oleksandria",
+            "team_b": "Dynamo Kyiv",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/71c1af49010593b29f9fa41aa0e21b49.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/77c049e20cd5b3a779fcf70ac08f21c3.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6fcee2736e5c.png?v=1773919887",
+            "thumb_key": "thumbs/kaytee-6fcee2736e5c.webp"
+          }
+        },
+        {
+          "id": "kaytee-f42c88efd492",
+          "name": "⚽ Karvan Evlakh vs Zira FK | 18:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f42c88efd492.png?v=1773919889",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601311538",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601311538",
+                  "name": "Karvan Evlakh vs Zira FK",
+                  "streams": [
+                    {
+                      "id": "st-601311538",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a49b5a482c",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bbc86f326d9_28/index.m3u8?expire=1774519023&sign=dc79a2e57157e426b5c4d541eb8bac5a",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/karvan-evlakh-vs-zira-fk-1800-19-03-2026/601311538"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Azerbaijan Premier League",
+            "team_a": "Karvan Evlakh",
+            "team_b": "Zira FK",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/aa6d9f240dd67791dd86ff4de072d846.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/78d040926970a0ccc54c3b1f13a6d568.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f42c88efd492.png?v=1773919889",
+            "thumb_key": "thumbs/kaytee-f42c88efd492.webp"
+          }
+        },
+        {
+          "id": "kaytee-b5d53fb631a8",
+          "name": "⚽ Simal FK vs Zaqatala FK | 18:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b5d53fb631a8.png?v=1773919891",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601311541",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601311541",
+                  "name": "Simal FK vs Zaqatala FK",
+                  "streams": [
+                    {
+                      "id": "st-601311541",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b143f2be73",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bbc21470a69_85514/index.m3u8?expire=1774517396&sign=6c425c0a517f3eea7f854d4762565a28",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/simal-fk-vs-zaqatala-fk-1800-19-03-2026/601311541"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-f3eb938fea",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/215db298a42a691bd6e949e56858c843/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/simal-fk-vs-zaqatala-fk-1800-19-03-2026/601311541"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Azerbaijan First Division",
+            "team_a": "Simal FK",
+            "team_b": "Zaqatala FK",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/0ab30ccb3c3f94ad592e8c357eff7ea4.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/62df271d4693324655e258e10b20b913.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b5d53fb631a8.png?v=1773919891",
+            "thumb_key": "thumbs/kaytee-b5d53fb631a8.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_cầu_lông",
+      "name": "🔴 Live 🏸 Cầu Lông",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-78a5e418a4f1",
+          "name": "🏸 Hathaithip MIJAD /  N.TUNGKASATAN vs R HIROKAMI/S HOBARA | 18:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-78a5e418a4f1.png?v=1773919891",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601325443",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601325443",
+                  "name": "Hathaithip MIJAD /  N.TUNGKASATAN vs R HIROKAMI/S HOBARA",
+                  "streams": [
+                    {
+                      "id": "st-601325443",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7cf5701b79",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bbda4970a69_85714/index.m3u8?expire=1774523593&sign=def1e225c56ed04521285d57d813877c",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/hathaithip-mijad---ntungkasatan-vs-r-hirokamis-hobara-1800-19-03-2026/601325443"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sân 1 - Orleans Masters Badminton 2026",
+            "team_a": "Hathaithip MIJAD /  N.TUNGKASATAN",
+            "team_b": "R HIROKAMI/S HOBARA",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/bbcb317bec1d94f73c93869a528a56ff.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/b7bb957d792d2af33779a83a02d1e491.webp",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-78a5e418a4f1.png?v=1773919891",
+            "thumb_key": "thumbs/kaytee-78a5e418a4f1.webp"
+          }
+        },
+        {
+          "id": "kaytee-955947a771c2",
+          "name": "🏸 LIN Xiao Min / WANG Yu Qiao vs BAO Li Jing /  LUO Xu Min | 18:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-955947a771c2.png?v=1773919892",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601325452",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601325452",
+                  "name": "LIN Xiao Min / WANG Yu Qiao vs BAO Li Jing /  LUO Xu Min",
+                  "streams": [
+                    {
+                      "id": "st-601325452",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3c9775c4a7",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bbd52a70a69_18754/index.m3u8?expire=1774522282&sign=085b9e8973878a5bf8f09a4cc551e986",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/lin-xiao-min--wang-yu-qiao-vs-bao-li-jing---luo-xu-min-1800-19-03-2026/601325452"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sân 3 - Orleans Masters Badminton 2026",
+            "team_a": "LIN Xiao Min / WANG Yu Qiao",
+            "team_b": "BAO Li Jing /  LUO Xu Min",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/c11c75fd751d708e7a3546a9e6b523d2.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/553bf6bdabe3cb5f75a97e9bd0431813.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-955947a771c2.png?v=1773919892",
+            "thumb_key": "thumbs/kaytee-955947a771c2.webp"
+          }
+        },
+        {
+          "id": "kaytee-5ff26cf75d3b",
+          "name": "🏸 Eng Keat Wesley KOH / Junsuke KUBO vs Hiroki OKAMURA/Kyohei YAMASHITA | 18:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5ff26cf75d3b.png?v=1773919893",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601325455",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601325455",
+                  "name": "Eng Keat Wesley KOH / Junsuke KUBO vs Hiroki OKAMURA/Kyohei YAMASHITA",
+                  "streams": [
+                    {
+                      "id": "st-601325455",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d4eb2de027",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bbd8a6326d9_85706/index.m3u8?expire=1774523174&sign=f28a7cf84a2b7b69eba67d35a907222a",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/eng-keat-wesley-koh--junsuke-kubo-vs-hiroki-okamurakyohei-yamashita-1800-19-03-2026/601325455"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sân 4 - Orleans Masters Badminton 2026",
+            "team_a": "Eng Keat Wesley KOH / Junsuke KUBO",
+            "team_b": "Hiroki OKAMURA/Kyohei YAMASHITA",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/5df31208895d139b7957ec922de81449.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/22c90bf8e03b1e014c1e8b38aa8e939f.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5ff26cf75d3b.png?v=1773919893",
+            "thumb_key": "thumbs/kaytee-5ff26cf75d3b.webp"
           }
         }
       ]
@@ -277,7 +648,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c40c3f64f1d0.png?v=1773917828",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c40c3f64f1d0.png?v=1773919883",
             "width": 1600,
             "height": 1200
           },
@@ -332,7 +703,7 @@
             "team_b": "KAL Jumbos",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/c375e5d271b7cc9b6f39043cd75b29ba.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/ce9d0af1f3e46e04ef15507983839fcf.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c40c3f64f1d0.png?v=1773917828",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c40c3f64f1d0.png?v=1773919883",
             "thumb_key": "thumbs/kaytee-c40c3f64f1d0.webp"
           }
         }
@@ -346,144 +717,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-6fcee2736e5c",
-          "name": "⚽ FK Oleksandria vs Dynamo Kyiv | 18:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6fcee2736e5c.png?v=1773917831",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Sắp Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601311529",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601311529",
-                  "name": "FK Oleksandria vs Dynamo Kyiv",
-                  "streams": [
-                    {
-                      "id": "st-601311529",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-18940de037",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bbc7a0326d9_128756/index.m3u8?expire=1774518816&sign=5322e8730d930fa814902597faeb9f25",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/fk-oleksandria-vs-dynamo-kyiv-1800-19-03-2026/601311529"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Ukrainian Premier League",
-            "team_a": "FK Oleksandria",
-            "team_b": "Dynamo Kyiv",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/71c1af49010593b29f9fa41aa0e21b49.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/77c049e20cd5b3a779fcf70ac08f21c3.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6fcee2736e5c.png?v=1773917831",
-            "thumb_key": "thumbs/kaytee-6fcee2736e5c.webp"
-          }
-        },
-        {
-          "id": "kaytee-f42c88efd492",
-          "name": "⚽ Karvan Evlakh vs Zira FK | 18:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f42c88efd492.png?v=1773917833",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Sắp Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601311538",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601311538",
-                  "name": "Karvan Evlakh vs Zira FK",
-                  "streams": [
-                    {
-                      "id": "st-601311538",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a49b5a482c",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bbc86f326d9_28/index.m3u8?expire=1774519023&sign=dc79a2e57157e426b5c4d541eb8bac5a",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/karvan-evlakh-vs-zira-fk-1800-19-03-2026/601311538"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Azerbaijan Premier League",
-            "team_a": "Karvan Evlakh",
-            "team_b": "Zira FK",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/aa6d9f240dd67791dd86ff4de072d846.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/78d040926970a0ccc54c3b1f13a6d568.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f42c88efd492.png?v=1773917833",
-            "thumb_key": "thumbs/kaytee-f42c88efd492.webp"
-          }
-        },
-        {
           "id": "kaytee-ce5b864ab848",
           "name": "⚽ Judd Trump vs Robbie Williams | 18:30",
           "type": "single",
@@ -493,7 +726,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ce5b864ab848.png?v=1773917835",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ce5b864ab848.png?v=1773919894",
             "width": 1600,
             "height": 1200
           },
@@ -519,11 +752,11 @@
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-fd167889a4",
+                          "id": "lnk-7f4e292809",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bb8a1e326d9_142246/index.m3u8?expire=1774503070&sign=862180408877927125107e0319d6f3b7",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bb8a24326d9_142246/index.m3u8?expire=1774503076&sign=76109caf4f55c59f2be0b442065c80f6",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -548,22 +781,13 @@
             "team_b": "Robbie Williams",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/9e4bab4e5cea82af5793b6ee02ebf2a9.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/cd8a398e0dd41e31d0211f65e360df2f.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ce5b864ab848.png?v=1773917835",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ce5b864ab848.png?v=1773919894",
             "thumb_key": "thumbs/kaytee-ce5b864ab848.webp"
           }
-        }
-      ]
-    },
-    {
-      "id": "upcoming_cầu_lông",
-      "name": "⏳ Sắp Live 🏸 Cầu Lông",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
+        },
         {
-          "id": "kaytee-955947a771c2",
-          "name": "🏸 LIN Xiao Min / WANG Yu Qiao vs BAO Li Jing /  LUO Xu Min | 18:00",
+          "id": "kaytee-bd0811d8c2ec",
+          "name": "⚽ Fujian vs Beijing | 18:30",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -571,7 +795,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-955947a771c2.png?v=1773917833",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bd0811d8c2ec.png?v=1773919895",
             "width": 1600,
             "height": 1200
           },
@@ -585,27 +809,27 @@
           ],
           "sources": [
             {
-              "id": "src-601325452",
+              "id": "src-601325431",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601325452",
-                  "name": "LIN Xiao Min / WANG Yu Qiao vs BAO Li Jing /  LUO Xu Min",
+                  "id": "ct-601325431",
+                  "name": "Fujian vs Beijing",
                   "streams": [
                     {
-                      "id": "st-601325452",
+                      "id": "st-601325431",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-3c9775c4a7",
+                          "id": "lnk-85f8410b2a",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bbd52a70a69_18754/index.m3u8?expire=1774522282&sign=085b9e8973878a5bf8f09a4cc551e986",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bbdaf4326d9_42127/index.m3u8?expire=1774523764&sign=5ce150ae30711e6955b0ae19f744d24d",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/lin-xiao-min--wang-yu-qiao-vs-bao-li-jing---luo-xu-min-1800-19-03-2026/601325452"
+                              "value": "https://bunchatv1.net/truc-tiep/fujian-vs-beijing-1830-19-03-2026/601325431"
                             },
                             {
                               "key": "User-Agent",
@@ -621,13 +845,91 @@
             }
           ],
           "org_metadata": {
-            "league": "Sân 3 - Orleans Masters Badminton 2026",
-            "team_a": "LIN Xiao Min / WANG Yu Qiao",
-            "team_b": "BAO Li Jing /  LUO Xu Min",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/c11c75fd751d708e7a3546a9e6b523d2.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/553bf6bdabe3cb5f75a97e9bd0431813.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-955947a771c2.png?v=1773917833",
-            "thumb_key": "thumbs/kaytee-955947a771c2.webp"
+            "league": "CBA",
+            "team_a": "Fujian",
+            "team_b": "Beijing",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/5578032484946d8b55721b4210e2f189.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/7e0b2835897203d3485820166420071b.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bd0811d8c2ec.png?v=1773919895",
+            "thumb_key": "thumbs/kaytee-bd0811d8c2ec.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_bóng_rổ",
+      "name": "⏳ Sắp Live 🏀 Bóng Rổ",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-935457d25275",
+          "name": "🏀 Sichuan vs Ningbo Rockets | 18:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-935457d25275.png?v=1773919895",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601325434",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601325434",
+                  "name": "Sichuan vs Ningbo Rockets",
+                  "streams": [
+                    {
+                      "id": "st-601325434",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-751ec7e8a4",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bbd5db70a69_4733/index.m3u8?expire=1774522459&sign=d9da55807e59530147a7dc5ef822ddb4",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/sichuan-vs-ningbo-rockets-1830-19-03-2026/601325434"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CBA",
+            "team_a": "Sichuan",
+            "team_b": "Ningbo Rockets",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/508d617078d2147908d26c79830fd89f.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/9ad6797989de0a22360cf3cc414e694d.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-935457d25275.png?v=1773919895",
+            "thumb_key": "thumbs/kaytee-935457d25275.webp"
           }
         }
       ]
