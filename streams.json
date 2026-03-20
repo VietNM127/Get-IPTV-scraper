@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-20T11:20:39.735479",
+  "updated_at": "2026-03-20T11:39:47.681176",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-db11d0ad58d6.png?v=1774005626",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-db11d0ad58d6.png?v=1774006769",
             "width": 1600,
             "height": 1200
           },
@@ -82,13 +82,13 @@
             "team_b": "Công an TPHCM",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/78cc8c7732dacf1c3f0289a77295f0e9.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/64be5559beb034d8ac9a377b49ef9380.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-db11d0ad58d6.png?v=1774005626",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-db11d0ad58d6.png?v=1774006769",
             "thumb_key": "thumbs/kaytee-db11d0ad58d6.webp"
           }
         },
         {
-          "id": "kaytee-aa05003a3f58",
-          "name": "⚽ Launceston City vs Riverside Olympic | 16:15",
+          "id": "kaytee-2df99a5cc269",
+          "name": "⚽ Salisbury Inter (w) vs West Adelaide (w) | 16:45",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -96,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-aa05003a3f58.png?v=1774005628",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2df99a5cc269.png?v=1774006771",
             "width": 1600,
             "height": 1200
           },
@@ -110,27 +110,27 @@
           ],
           "sources": [
             {
-              "id": "src-601313113",
+              "id": "src-601325647",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601313113",
-                  "name": "Launceston City vs Riverside Olympic",
+                  "id": "ct-601325647",
+                  "name": "Salisbury Inter (w) vs West Adelaide (w)",
                   "streams": [
                     {
-                      "id": "st-601313113",
+                      "id": "st-601325647",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-207ecec47e",
+                          "id": "lnk-b620a9e9a7",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live.alilicloud.com/live/ef365c16437724117a777c8873074f18/playlist.m3u8",
+                          "url": "https://live.alilicloud.com/live/afb70319da99c238253e433176c38cd7/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/launceston-city-vs-riverside-olympic-1615-20-03-2026/601313113"
+                              "value": "https://bunchatv1.net/truc-tiep/salisbury-inter-w-vs-west-adelaide-w-1645-20-03-2026/601325647"
                             },
                             {
                               "key": "User-Agent",
@@ -146,340 +146,13 @@
             }
           ],
           "org_metadata": {
-            "league": "Australia Tasmania National Premier League",
-            "team_a": "Launceston City",
-            "team_b": "Riverside Olympic",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/f5303a9bc7a98344ffa9b7c060817077.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/4ea82e0f00672dd97bbde5702923463f.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-aa05003a3f58.png?v=1774005628",
-            "thumb_key": "thumbs/kaytee-aa05003a3f58.webp"
-          }
-        },
-        {
-          "id": "kaytee-925151e5779a",
-          "name": "⚽ Eastern Suburbs Brisbane vs Gold Coast Knights | 16:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-925151e5779a.png?v=1774005630",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601313122",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601313122",
-                  "name": "Eastern Suburbs Brisbane vs Gold Coast Knights",
-                  "streams": [
-                    {
-                      "id": "st-601313122",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fcc611d580",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bd11c170a69_88642/index.m3u8?expire=1774603329&sign=3e70271d334f503d7d805338b8076d38",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/eastern-suburbs-brisbane-vs-gold-coast-knights-1630-20-03-2026/601313122"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-30d5fe3d4e",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/41b0aff829c9a198795070c310dd947a/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/eastern-suburbs-brisbane-vs-gold-coast-knights-1630-20-03-2026/601313122"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Australia National Premier Leagues Queensland",
-            "team_a": "Eastern Suburbs Brisbane",
-            "team_b": "Gold Coast Knights",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/e529be33935e79024a46400f621a5683.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/165b0184ea713b45d4453dd4e4fdfdb2.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-925151e5779a.png?v=1774005630",
-            "thumb_key": "thumbs/kaytee-925151e5779a.webp"
-          }
-        },
-        {
-          "id": "kaytee-7565a3b05f5d",
-          "name": "⚽ Peninsula Power vs Gold Coast United | 16:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7565a3b05f5d.png?v=1774005631",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601313125",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601313125",
-                  "name": "Peninsula Power vs Gold Coast United",
-                  "streams": [
-                    {
-                      "id": "st-601313125",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2c3195fa39",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bd0fda70a69_103/index.m3u8?expire=1774602842&sign=c38e0b8cd1614b6c43866acadc25bcbf",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/peninsula-power-vs-gold-coast-united-1630-20-03-2026/601313125"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-f0e672b4ad",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/0c1813058c8c0d43cde0d642e50c0d5a/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/peninsula-power-vs-gold-coast-united-1630-20-03-2026/601313125"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Australia National Premier Leagues Queensland",
-            "team_a": "Peninsula Power",
-            "team_b": "Gold Coast United",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/1fb0f48eaeeab5946deb0073f4163eac.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/f00d005ccfbd4f7c15df6e374cd02727.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7565a3b05f5d.png?v=1774005631",
-            "thumb_key": "thumbs/kaytee-7565a3b05f5d.webp"
-          }
-        },
-        {
-          "id": "kaytee-adef2e412f0d",
-          "name": "⚽ Preston Lions vs Avondale FC | 16:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-adef2e412f0d.png?v=1774005633",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601313137",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601313137",
-                  "name": "Preston Lions vs Avondale FC",
-                  "streams": [
-                    {
-                      "id": "st-601313137",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8ec3cf6a05",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bd0b9270a69_124958/index.m3u8?expire=1774601746&sign=7b2c352ce8c00bd3534fe7925c412faf",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/preston-lions-vs-avondale-fc-1630-20-03-2026/601313137"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-c997b865f7",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/028c8695e643b0a6077a10ee80a1af24/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/preston-lions-vs-avondale-fc-1630-20-03-2026/601313137"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Premier Leagues Victoria",
-            "team_a": "Preston Lions",
-            "team_b": "Avondale FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/6dff2291fe2e822de2e8068a182c4759.jpg",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/ff2e694966de559719f778b5c79ea2ad.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-adef2e412f0d.png?v=1774005633",
-            "thumb_key": "thumbs/kaytee-adef2e412f0d.webp"
-          }
-        },
-        {
-          "id": "kaytee-8d760bc62637",
-          "name": "⚽ West Torrens Birkalla vs White City Woodville | 16:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8d760bc62637.png?v=1774005634",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601313128",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601313128",
-                  "name": "West Torrens Birkalla vs White City Woodville",
-                  "streams": [
-                    {
-                      "id": "st-601313128",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-92cf51b09a",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/c315e2c710c9feb3800be939d7a4c1dd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/west-torrens-birkalla-vs-white-city-woodville-1630-20-03-2026/601313128"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "South Australia National Premier Leagues",
-            "team_a": "West Torrens Birkalla",
-            "team_b": "White City Woodville",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/c524354a372c83245e6d4cb8afbc234f.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/2c2d46d2dee049dbc7db6a2cc9e7096d.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8d760bc62637.png?v=1774005634",
-            "thumb_key": "thumbs/kaytee-8d760bc62637.webp"
+            "league": "South Australia Women's Premier League",
+            "team_a": "Salisbury Inter (w)",
+            "team_b": "West Adelaide (w)",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/d12d4c7fd6484bf33257913584c8df42.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/26671012b1f898238821ab2be203e213.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2df99a5cc269.png?v=1774006771",
+            "thumb_key": "thumbs/kaytee-2df99a5cc269.webp"
           }
         },
         {
@@ -492,7 +165,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-382a6dd3bad1.png?v=1774005637",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-382a6dd3bad1.png?v=1774006773",
             "width": 1600,
             "height": 1200
           },
@@ -564,8 +237,146 @@
             "team_b": "Irtysh Pavlodar",
             "logo_a": "https://cdn.rapid-api.icu/football/team/c61c3199500be14782a4d533db7e52a2.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/97bfb8ef2c0abc2fd40185debc8dd497.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-382a6dd3bad1.png?v=1774005637",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-382a6dd3bad1.png?v=1774006773",
             "thumb_key": "thumbs/kaytee-382a6dd3bad1.webp"
+          }
+        },
+        {
+          "id": "kaytee-a1c7babaafbf",
+          "name": "⚽ Adelaide Comets FC vs Adelaide United FC (Youth) | 17:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a1c7babaafbf.png?v=1774006775",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601313143",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601313143",
+                  "name": "Adelaide Comets FC vs Adelaide United FC (Youth)",
+                  "streams": [
+                    {
+                      "id": "st-601313143",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-74a217da9d",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/531902b1d8c87bd3343e3ec106729dbd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/adelaide-comets-fc-vs-adelaide-united-fc-youth-1700-20-03-2026/601313143"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "South Australia National Premier Leagues",
+            "team_a": "Adelaide Comets FC",
+            "team_b": "Adelaide United FC (Youth)",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/861a7e12ebda4bd651b701e069cde5c5.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/4179d3ee85aa9fbb149be924db04ac07.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a1c7babaafbf.png?v=1774006775",
+            "thumb_key": "thumbs/kaytee-a1c7babaafbf.webp"
+          }
+        },
+        {
+          "id": "kaytee-1e45b30292a5",
+          "name": "⚽ Mlada Boleslav U19 vs Vysocina Jihlava U19 | 17:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1e45b30292a5.png?v=1774006777",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601313149",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601313149",
+                  "name": "Mlada Boleslav U19 vs Vysocina Jihlava U19",
+                  "streams": [
+                    {
+                      "id": "st-601313149",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0590ba4906",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/367bc4457a950fb3a5c04ab55e4e7c76/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/mlada-boleslav-u19-vs-vysocina-jihlava-u19-1700-20-03-2026/601313149"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Czech U19 League",
+            "team_a": "Mlada Boleslav U19",
+            "team_b": "Vysocina Jihlava U19",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/4da6034233783da3d2dbdd84c860b34b.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/d12671e0b9c773726b5eb2996c3c8caf.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1e45b30292a5.png?v=1774006777",
+            "thumb_key": "thumbs/kaytee-1e45b30292a5.webp"
           }
         },
         {
@@ -578,7 +389,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-45d7a96eb5ed.png?v=1774005638",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-45d7a96eb5ed.png?v=1774006779",
             "width": 1600,
             "height": 1200
           },
@@ -633,8 +444,370 @@
             "team_b": "KoGas",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/94854e24c2811a0de9ad2a4d4ff6dd29.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/a6eaaa3fbb4c559238e2429569526228.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-45d7a96eb5ed.png?v=1774005638",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-45d7a96eb5ed.png?v=1774006779",
             "thumb_key": "thumbs/kaytee-45d7a96eb5ed.webp"
+          }
+        },
+        {
+          "id": "kaytee-211352e33387",
+          "name": "⚽ Gokulam Kerala FC vs Dempo | 17:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-211352e33387.png?v=1774006782",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601313332",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601313332",
+                  "name": "Gokulam Kerala FC vs Dempo",
+                  "streams": [
+                    {
+                      "id": "st-601313332",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-209b03a1ff",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/abcfd51bd8f6b6c13e19b18efdd0cc88/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/gokulam-kerala-fc-vs-dempo-1730-20-03-2026/601313332"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Indian League Division 1",
+            "team_a": "Gokulam Kerala FC",
+            "team_b": "Dempo",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/de93947f56982669438acc9e0dfe8e76.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/23184d4df8fb45f4e0de26ce3a2a99c4.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-211352e33387.png?v=1774006782",
+            "thumb_key": "thumbs/kaytee-211352e33387.webp"
+          }
+        },
+        {
+          "id": "kaytee-86b74f4f162f",
+          "name": "⚽ Dalian Yingbo FC vs Shanghai Port FC | 18:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-86b74f4f162f.png?v=1774006783",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601313170",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601313170",
+                  "name": "Dalian Yingbo FC vs Shanghai Port FC",
+                  "streams": [
+                    {
+                      "id": "st-601313170",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-327bbddead",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bd228a70a69_73445/index.m3u8?expire=1774607626&sign=b348b2124ec8ab4f90df7f8730a985f3",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/dalian-yingbo-fc-vs-shanghai-port-fc-1800-20-03-2026/601313170"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-f010c143fd",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/8a0b10919b5424b33187468368fd4342/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/dalian-yingbo-fc-vs-shanghai-port-fc-1800-20-03-2026/601313170"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Chinese Football Super League",
+            "team_a": "Dalian Yingbo FC",
+            "team_b": "Shanghai Port FC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/0e5467034917e26c6e60a7162711c150.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/c4e143e537412003565cdb7c2d212538.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-86b74f4f162f.png?v=1774006783",
+            "thumb_key": "thumbs/kaytee-86b74f4f162f.webp"
+          }
+        },
+        {
+          "id": "kaytee-7078402d1948",
+          "name": "⚽ Jiangsu Dragons vs Guangdong | 18:35",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7078402d1948.png?v=1774006784",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601325722",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601325722",
+                  "name": "Jiangsu Dragons vs Guangdong",
+                  "streams": [
+                    {
+                      "id": "st-601325722",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-038927b819",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bd2c6e70a69_145690/index.m3u8?expire=1774610158&sign=0828e8fe963bc1968287352225251c95",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/jiangsu-dragons-vs-guangdong-1835-20-03-2026/601325722"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CBA",
+            "team_a": "Jiangsu Dragons",
+            "team_b": "Guangdong",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/f27e45dc86e63982cbbbefad9e65c6be.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/d3c311fb581d8757b1b9f4b9d30e32dc.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7078402d1948.png?v=1774006784",
+            "thumb_key": "thumbs/kaytee-7078402d1948.webp"
+          }
+        },
+        {
+          "id": "kaytee-632963e1d41c",
+          "name": "⚽ Shandong vs Tianjin | 18:35",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-632963e1d41c.png?v=1774006785",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601325725",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601325725",
+                  "name": "Shandong vs Tianjin",
+                  "streams": [
+                    {
+                      "id": "st-601325725",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9e7bb95a05",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bd2f7b70a69_138846/index.m3u8?expire=1774610939&sign=cc67cd2c26f593f83efab3fb812d99d7",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/shandong-vs-tianjin-1835-20-03-2026/601325725"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CBA",
+            "team_a": "Shandong",
+            "team_b": "Tianjin",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/e50bcd068875d5e261edc40941ad95a5.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/90b1968cc5c0dceca92fbda0233678e6.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-632963e1d41c.png?v=1774006785",
+            "thumb_key": "thumbs/kaytee-632963e1d41c.webp"
+          }
+        },
+        {
+          "id": "kaytee-0f22d29f114c",
+          "name": "⚽ Zhejiang Guangsha vs Beijing Royal Fighters | 18:35",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0f22d29f114c.png?v=1774006787",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601325728",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601325728",
+                  "name": "Zhejiang Guangsha vs Beijing Royal Fighters",
+                  "streams": [
+                    {
+                      "id": "st-601325728",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ad850a3285",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bd2ebf326d9_85706/index.m3u8?expire=1774610751&sign=8c2a9172d524bd017b5129ed8ee2923a",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/zhejiang-guangsha-vs-beijing-royal-fighters-1835-20-03-2026/601325728"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CBA",
+            "team_a": "Zhejiang Guangsha",
+            "team_b": "Beijing Royal Fighters",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/80d5807666696ea76ce8fd77e21e58c0.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/690b75e84eae0109a09dd80edba8b339.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0f22d29f114c.png?v=1774006787",
+            "thumb_key": "thumbs/kaytee-0f22d29f114c.webp"
           }
         }
       ]
@@ -656,7 +829,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5c47bf1a5734.png?v=1774005637",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5c47bf1a5734.png?v=1774006778",
             "width": 1600,
             "height": 1200
           },
@@ -711,7 +884,7 @@
             "team_b": "Lauren LAM /  Allison Quynh LEE",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/06b9f07a2df87f6bfe6d5c8fbd13d515.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/d76a67ece12ce728601c01ece19bec0e.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5c47bf1a5734.png?v=1774005637",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5c47bf1a5734.png?v=1774006778",
             "thumb_key": "thumbs/kaytee-5c47bf1a5734.webp"
           }
         },
@@ -725,7 +898,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e97a42c4686a.png?v=1774005638",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e97a42c4686a.png?v=1774006780",
             "width": 1600,
             "height": 1200
           },
@@ -780,155 +953,8 @@
             "team_b": "Nguyễn Thùy Linh",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/c68fb073199e692bf44b0fe2a3d2eb83.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/665a2b534a0a474142896ee2e1e73ad7.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e97a42c4686a.png?v=1774005638",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e97a42c4686a.png?v=1774006780",
             "thumb_key": "thumbs/kaytee-e97a42c4686a.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "upcoming_bóng_đá",
-      "name": "⏳ Sắp Live ⚽ Bóng Đá",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-997c87e7f4e6",
-          "name": "⚽ Judd Trump vs Hossein Vafaei | 18:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-997c87e7f4e6.png?v=1774005639",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Sắp Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601326685",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601326685",
-                  "name": "Judd Trump vs Hossein Vafaei",
-                  "streams": [
-                    {
-                      "id": "st-601326685",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bb1dd9e062",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bcddb7326d9_142246/index.m3u8?expire=1774590007&sign=7f810e2cdd864caaa5766ade4532029a",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/judd-trump-vs-hossein-vafaei-1830-20-03-2026/601326685"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "World Open 2026",
-            "team_a": "Judd Trump",
-            "team_b": "Hossein Vafaei",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a4033d94b44175cc09c91c207d15cd66.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/2a7f122eab81789a7d2cd6f789c7b440.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-997c87e7f4e6.png?v=1774005639",
-            "thumb_key": "thumbs/kaytee-997c87e7f4e6.webp"
-          }
-        },
-        {
-          "id": "kaytee-7078402d1948",
-          "name": "⚽ Jiangsu Dragons vs Guangdong | 18:35",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7078402d1948.png?v=1774005639",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Sắp Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601325722",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601325722",
-                  "name": "Jiangsu Dragons vs Guangdong",
-                  "streams": [
-                    {
-                      "id": "st-601325722",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-038927b819",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bd2c6e70a69_145690/index.m3u8?expire=1774610158&sign=0828e8fe963bc1968287352225251c95",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/jiangsu-dragons-vs-guangdong-1835-20-03-2026/601325722"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "CBA",
-            "team_a": "Jiangsu Dragons",
-            "team_b": "Guangdong",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/f27e45dc86e63982cbbbefad9e65c6be.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/d3c311fb581d8757b1b9f4b9d30e32dc.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7078402d1948.png?v=1774005639",
-            "thumb_key": "thumbs/kaytee-7078402d1948.webp"
           }
         }
       ]
