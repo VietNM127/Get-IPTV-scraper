@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-20T00:56:57.264602",
+  "updated_at": "2026-03-20T03:33:06.447494",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -18,8 +18,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-ac15073017de",
-          "name": "⚽ CR Flamengo vs Remo Belem (PA) | 06:00",
+          "id": "kaytee-05a286ae5937",
+          "name": "⚽ Dep.Independiente Medellin vs Atletico Junior Barranquilla | 08:30",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ac15073017de.png?v=1773968201",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-05a286ae5937.png?v=1773977581",
             "width": 1600,
             "height": 1200
           },
@@ -41,27 +41,27 @@
           ],
           "sources": [
             {
-              "id": "src-601312999",
+              "id": "src-601313032",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601312999",
-                  "name": "CR Flamengo vs Remo Belem (PA)",
+                  "id": "ct-601313032",
+                  "name": "Dep.Independiente Medellin vs Atletico Junior Barranquilla",
                   "streams": [
                     {
-                      "id": "st-601312999",
+                      "id": "st-601313032",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-398a2284ff",
+                          "id": "lnk-933ea31572",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bc85fb326d9_124958/index.m3u8?expire=1774567547&sign=492e4bf257a2b90214c89b615e26199c",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bc9c4a326d9_88642/index.m3u8?expire=1774573258&sign=7efb92af46516b1301cce36993fa220c",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/cr-flamengo-vs-remo-belem-pa-0600-20-03-2026/601312999"
+                              "value": "https://bunchatv1.net/truc-tiep/depindependiente-medellin-vs-atletico-junior-barranquilla-0830-20-03-2026/601313032"
                             },
                             {
                               "key": "User-Agent",
@@ -70,153 +70,15 @@
                           ]
                         },
                         {
-                          "id": "lnk-5f3b53c2d5",
+                          "id": "lnk-e7d9013a7e",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://live.alilicloud.com/live/3a2534ab793fb81b474d0d2838e39a3d/playlist.m3u8",
+                          "url": "https://live.alilicloud.com/live/81522bf17590c57968f3ed72d426e1b0/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/cr-flamengo-vs-remo-belem-pa-0600-20-03-2026/601312999"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Brazilian Serie A",
-            "team_a": "CR Flamengo",
-            "team_b": "Remo Belem (PA)",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/f19b2f9fa5b0c72acc262bc4f0d2cd77.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/fb9a4cf4290646122b3afe17bd914737.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ac15073017de.png?v=1773968201",
-            "thumb_key": "thumbs/kaytee-ac15073017de.webp"
-          }
-        },
-        {
-          "id": "kaytee-f43996ff89e4",
-          "name": "⚽ Lexington vs Flower City Union | 06:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f43996ff89e4.png?v=1773968203",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601313002",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601313002",
-                  "name": "Lexington vs Flower City Union",
-                  "streams": [
-                    {
-                      "id": "st-601313002",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f94cd1339c",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/12a12e3244e7ed46cf0c81754462849e/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/lexington-vs-flower-city-union-0600-20-03-2026/601313002"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "United States Open Cup",
-            "team_a": "Lexington",
-            "team_b": "Flower City Union",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/9b0e43ca0195227d6fefc8b082963330.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/e7ecd300336964cbabb4ca9d07cfbf1f.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f43996ff89e4.png?v=1773968203",
-            "thumb_key": "thumbs/kaytee-f43996ff89e4.webp"
-          }
-        },
-        {
-          "id": "kaytee-5384bed87c51",
-          "name": "⚽ Deportes Tolima vs Fortaleza F.C | 06:20",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5384bed87c51.png?v=1773968209",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601313011",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601313011",
-                  "name": "Deportes Tolima vs Fortaleza F.C",
-                  "streams": [
-                    {
-                      "id": "st-601313011",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-14944602c0",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/0675b3fae50bb2ad582e0a4622be0945/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/deportes-tolima-vs-fortaleza-fc-0620-20-03-2026/601313011"
+                              "value": "https://bunchatv1.net/truc-tiep/depindependiente-medellin-vs-atletico-junior-barranquilla-0830-20-03-2026/601313032"
                             },
                             {
                               "key": "User-Agent",
@@ -233,17 +95,17 @@
           ],
           "org_metadata": {
             "league": "Categoría Primera A",
-            "team_a": "Deportes Tolima",
-            "team_b": "Fortaleza F.C",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/40f17f08ff7bb44a641273044db78c64.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/5a721f997fe18b1c151116a96b1b4ea8.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5384bed87c51.png?v=1773968209",
-            "thumb_key": "thumbs/kaytee-5384bed87c51.webp"
+            "team_a": "Dep.Independiente Medellin",
+            "team_b": "Atletico Junior Barranquilla",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/6eef3985d6a6d69a6e5374e27b13b35f.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/fd3230c7fa4ad7bde28c640f2f32ca43.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-05a286ae5937.png?v=1773977581",
+            "thumb_key": "thumbs/kaytee-05a286ae5937.webp"
           }
         },
         {
-          "id": "kaytee-ecdd822df806",
-          "name": "⚽ Westchester SC vs NY Renegades | 06:30",
+          "id": "kaytee-6d9ba288cf5e",
+          "name": "⚽ Xelaju MC vs CSD Municipal | 09:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -251,7 +113,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ecdd822df806.png?v=1773968210",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6d9ba288cf5e.png?v=1773977583",
             "width": 1600,
             "height": 1200
           },
@@ -265,27 +127,27 @@
           ],
           "sources": [
             {
-              "id": "src-601313014",
+              "id": "src-601315432",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601313014",
-                  "name": "Westchester SC vs NY Renegades",
+                  "id": "ct-601315432",
+                  "name": "Xelaju MC vs CSD Municipal",
                   "streams": [
                     {
-                      "id": "st-601313014",
+                      "id": "st-601315432",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-0c9e141b64",
+                          "id": "lnk-b0ca4205f3",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live.alilicloud.com/live/a9a8b2ea47e41978673a5ab038ac7892/playlist.m3u8",
+                          "url": "https://live.alilicloud.com/live/7f1820ad2494249a952f67fcc1446051/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/westchester-sc-vs-ny-renegades-0630-20-03-2026/601313014"
+                              "value": "https://bunchatv1.net/truc-tiep/xelaju-mc-vs-csd-municipal-0900-20-03-2026/601315432"
                             },
                             {
                               "key": "User-Agent",
@@ -301,99 +163,13 @@
             }
           ],
           "org_metadata": {
-            "league": "United States Open Cup",
-            "team_a": "Westchester SC",
-            "team_b": "NY Renegades",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/9ffe2e4428207cc8a9ad6735442d5150.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/8f5af7494596344ae806138193c8a353.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ecdd822df806.png?v=1773968210",
-            "thumb_key": "thumbs/kaytee-ecdd822df806.webp"
-          }
-        },
-        {
-          "id": "kaytee-f3b54946442e",
-          "name": "⚽ Chapecoense SC vs Corinthians Paulista (SP) | 07:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f3b54946442e.png?v=1773968215",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601313023",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601313023",
-                  "name": "Chapecoense SC vs Corinthians Paulista (SP)",
-                  "streams": [
-                    {
-                      "id": "st-601313023",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-81d50499fc",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bc9377326d9_73445/index.m3u8?expire=1774570999&sign=37eea89840683fa2f687f593090d2f19",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/chapecoense-sc-vs-corinthians-paulista-sp-0730-20-03-2026/601313023"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-584bbdf9c3",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/bf76179a9956f46d6764b2131cf9eba6/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/chapecoense-sc-vs-corinthians-paulista-sp-0730-20-03-2026/601313023"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Brazilian Serie A",
-            "team_a": "Chapecoense SC",
-            "team_b": "Corinthians Paulista (SP)",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/4970b9a9a215c78759a6bb84ecaa3701.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/aa4d61da1df31972e52e1e62f90ec558.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f3b54946442e.png?v=1773968215",
-            "thumb_key": "thumbs/kaytee-f3b54946442e.webp"
+            "league": "Guatemala Liga Nacional",
+            "team_a": "Xelaju MC",
+            "team_b": "CSD Municipal",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/b0ec985cd57cba37048de614c46660e5.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/314911335094cf9787d5791c85fdf676.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6d9ba288cf5e.png?v=1773977583",
+            "thumb_key": "thumbs/kaytee-6d9ba288cf5e.webp"
           }
         }
       ]
@@ -406,8 +182,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-d01732b37420",
-          "name": "🏀 Charlotte Hornets vs Orlando Magic | 06:00",
+          "id": "kaytee-4efdce894c87",
+          "name": "🏀 Sacramento Kings vs Philadelphia 76ers | 09:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -415,7 +191,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d01732b37420.png?v=1773968205",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4efdce894c87.png?v=1773977586",
             "width": 1600,
             "height": 1200
           },
@@ -429,27 +205,27 @@
           ],
           "sources": [
             {
-              "id": "src-601325530",
+              "id": "src-601325551",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601325530",
-                  "name": "Charlotte Hornets vs Orlando Magic",
+                  "id": "ct-601325551",
+                  "name": "Sacramento Kings vs Philadelphia 76ers",
                   "streams": [
                     {
-                      "id": "st-601325530",
+                      "id": "st-601325551",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-9a82e3b420",
+                          "id": "lnk-a1bc175d48",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bc77fb326d9_42127/index.m3u8?expire=1774563963&sign=8d1a63f15ac06e03a3ad5210a706080a",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bca76370a69_42127/index.m3u8?expire=1774576099&sign=898073f8171faab55a695e45628b3f1c",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/charlotte-hornets-vs-orlando-magic-0600-20-03-2026/601325530"
+                              "value": "https://bunchatv1.net/truc-tiep/sacramento-kings-vs-philadelphia-76ers-0900-20-03-2026/601325551"
                             },
                             {
                               "key": "User-Agent",
@@ -466,297 +242,12 @@
           ],
           "org_metadata": {
             "league": "NBA",
-            "team_a": "Charlotte Hornets",
-            "team_b": "Orlando Magic",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/895412f016798df5a1f6bc83b210d614.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/85e76f47cc49038ac802bd67d50c215e.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d01732b37420.png?v=1773968205",
-            "thumb_key": "thumbs/kaytee-d01732b37420.webp"
-          }
-        },
-        {
-          "id": "kaytee-136c2566d732",
-          "name": "🏀 Washington Wizards vs Detroit Pistons | 06:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-136c2566d732.png?v=1773968207",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601325533",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601325533",
-                  "name": "Washington Wizards vs Detroit Pistons",
-                  "streams": [
-                    {
-                      "id": "st-601325533",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b5ab598d9d",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bc7bdd326d9_72787/index.m3u8?expire=1774564957&sign=4eb6d67b4dbeff00d54fa6384aa967be",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/washington-wizards-vs-detroit-pistons-0600-20-03-2026/601325533"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "NBA",
-            "team_a": "Washington Wizards",
-            "team_b": "Detroit Pistons",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/c40200654bbbf3f99c058cea77120aaf.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/d12774b3339413a0eef3c2da2ae5a342.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-136c2566d732.png?v=1773968207",
-            "thumb_key": "thumbs/kaytee-136c2566d732.webp"
-          }
-        },
-        {
-          "id": "kaytee-4e0d2cdd0b2d",
-          "name": "🏀 Chicago Bulls vs Cleveland Cavaliers | 07:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4e0d2cdd0b2d.png?v=1773968212",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601325536",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601325536",
-                  "name": "Chicago Bulls vs Cleveland Cavaliers",
-                  "streams": [
-                    {
-                      "id": "st-601325536",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6b8e0a24d8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bc8c9570a69_112310/index.m3u8?expire=1774569237&sign=c18cda3c3c63ed636e0ff0e5a61f3711",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/chicago-bulls-vs-cleveland-cavaliers-0700-20-03-2026/601325536"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "NBA",
-            "team_a": "Chicago Bulls",
-            "team_b": "Cleveland Cavaliers",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/860dc5563d084864497c5abf8e415e5e.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/6a622d89b1921efe3b8700ae976b59dc.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4e0d2cdd0b2d.png?v=1773968212",
-            "thumb_key": "thumbs/kaytee-4e0d2cdd0b2d.webp"
-          }
-        },
-        {
-          "id": "kaytee-aeee7b8d78a0",
-          "name": "🏀 Miami Heat vs Los Angeles Lakers | 07:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-aeee7b8d78a0.png?v=1773968213",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601325539",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601325539",
-                  "name": "Miami Heat vs Los Angeles Lakers",
-                  "streams": [
-                    {
-                      "id": "st-601325539",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-320a22bd26",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bc88a170a69_145690/index.m3u8?expire=1774568225&sign=50d75813674111b1ec516a3c171e809f",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/miami-heat-vs-los-angeles-lakers-0700-20-03-2026/601325539"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "NBA",
-            "team_a": "Miami Heat",
-            "team_b": "Los Angeles Lakers",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/30e69e359eaf94547bf5ed1a31f1c1b7.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/feb6335bd6d4cb2e6b6cb6cb43c0e0a1.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-aeee7b8d78a0.png?v=1773968213",
-            "thumb_key": "thumbs/kaytee-aeee7b8d78a0.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "upcoming_bóng_đá",
-      "name": "⏳ Sắp Live ⚽ Bóng Đá",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-173dcb337b7c",
-          "name": "⚽ Tigres UANL vs FC Cincinnati | 08:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-173dcb337b7c.png?v=1773968217",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Sắp Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601313029",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601313029",
-                  "name": "Tigres UANL vs FC Cincinnati",
-                  "streams": [
-                    {
-                      "id": "st-601313029",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5b7e5bfb90",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bc92e4326d9_124958/index.m3u8?expire=1774570852&sign=da24d837a85e95482a78c85208bec3ed",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/tigres-uanl-vs-fc-cincinnati-0800-20-03-2026/601313029"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "CNCF CHL",
-            "team_a": "Tigres UANL",
-            "team_b": "FC Cincinnati",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/a7df6424c12ac9b7a6e5ca3ff953d5b3.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/1d14acf20b6647d3bf1f70959a875c8f.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-173dcb337b7c.png?v=1773968217",
-            "thumb_key": "thumbs/kaytee-173dcb337b7c.webp"
+            "team_a": "Sacramento Kings",
+            "team_b": "Philadelphia 76ers",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/1c1bdb90a0592bc8f82c42c0448fc4d2.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/0f99bfb04f15e140367c7014698a2cd0.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4efdce894c87.png?v=1773977586",
+            "thumb_key": "thumbs/kaytee-4efdce894c87.webp"
           }
         }
       ]
