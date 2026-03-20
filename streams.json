@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-20T09:35:29.744750",
+  "updated_at": "2026-03-20T09:51:44.930691",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,144 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-568a21bd265d",
-          "name": "⚽ Flinders United (W) vs West Torrens Birkalla (w) | 14:45",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-568a21bd265d.png?v=1773999318",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601325638",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601325638",
-                  "name": "Flinders United (W) vs West Torrens Birkalla (w)",
-                  "streams": [
-                    {
-                      "id": "st-601325638",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b6270103d4",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/4158daf0d469b20bec5cde378896ac58/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/flinders-united-w-vs-west-torrens-birkalla-w-1445-20-03-2026/601325638"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "South Australia Women's Premier League",
-            "team_a": "Flinders United (W)",
-            "team_b": "West Torrens Birkalla (w)",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/fcfbd78176c2c4f711c7cec9fa9c4b55.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/22b8a1add9247e3d7ab27d27e4f15fa8.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-568a21bd265d.png?v=1773999318",
-            "thumb_key": "thumbs/kaytee-568a21bd265d.webp"
-          }
-        },
-        {
-          "id": "kaytee-5a765fdb803c",
-          "name": "⚽ Adelaide Comets (w) vs Modbury Vista (w) | 14:45",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5a765fdb803c.png?v=1773999320",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601325641",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601325641",
-                  "name": "Adelaide Comets (w) vs Modbury Vista (w)",
-                  "streams": [
-                    {
-                      "id": "st-601325641",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7e6c51e23e",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/a927cf53c22ef6f7849c9d351e4215d8/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/adelaide-comets-w-vs-modbury-vista-w-1445-20-03-2026/601325641"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "South Australia Women's Premier League",
-            "team_a": "Adelaide Comets (w)",
-            "team_b": "Modbury Vista (w)",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/816831c713b812714fdb6bef37fb16f0.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/9dcbd133c8d975a901ccb080ae8e0f4b.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5a765fdb803c.png?v=1773999320",
-            "thumb_key": "thumbs/kaytee-5a765fdb803c.webp"
-          }
-        },
         {
           "id": "kaytee-4bec98a6cb54",
           "name": "⚽ Sydney FC Women vs Wellington Phoenix Women | 15:00",
@@ -165,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4bec98a6cb54.png?v=1773999321",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4bec98a6cb54.png?v=1774000295",
             "width": 1600,
             "height": 1200
           },
@@ -237,7 +99,7 @@
             "team_b": "Wellington Phoenix Women",
             "logo_a": "https://cdn.rapid-api.icu/football/team/64f6d95d32cb430272a5a69e1288b5cc.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/c548bc71feff7cc3f6da3184d0f8da14.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4bec98a6cb54.png?v=1773999321",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4bec98a6cb54.png?v=1774000295",
             "thumb_key": "thumbs/kaytee-4bec98a6cb54.webp"
           }
         },
@@ -251,7 +113,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7395e06aaa97.png?v=1773999323",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7395e06aaa97.png?v=1774000296",
             "width": 1600,
             "height": 1200
           },
@@ -323,8 +185,146 @@
             "team_b": "University NSW",
             "logo_a": "https://cdn.rapid-api.icu/football/team/6fb81e8272c1a862f2afe6e9858391af.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/cdee9eb9cab2e697281160e0b138446a.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7395e06aaa97.png?v=1773999323",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7395e06aaa97.png?v=1774000296",
             "thumb_key": "thumbs/kaytee-7395e06aaa97.webp"
+          }
+        },
+        {
+          "id": "kaytee-5bb988f0abc8",
+          "name": "⚽ Box Hill (w) vs Melbourne Victory FC Youth(W) | 15:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5bb988f0abc8.png?v=1774000299",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601313062",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601313062",
+                  "name": "Box Hill (w) vs Melbourne Victory FC Youth(W)",
+                  "streams": [
+                    {
+                      "id": "st-601313062",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bac51cc7b9",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/f793b6473c5959c8f0a33ffb6ed77f43/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/box-hill-w-vs-melbourne-victory-fc-youthw-1530-20-03-2026/601313062"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Australia Victorian Women's Premier League",
+            "team_a": "Box Hill (w)",
+            "team_b": "Melbourne Victory FC Youth(W)",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/826b807221d9a7cc3bd6df7797853920.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/68e09edfa0e55191e2c350e32afd5abd.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5bb988f0abc8.png?v=1774000299",
+            "thumb_key": "thumbs/kaytee-5bb988f0abc8.webp"
+          }
+        },
+        {
+          "id": "kaytee-2dd5531ff46b",
+          "name": "⚽ Manly Utd (w) vs Northern Tigers FC (w) | 15:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2dd5531ff46b.png?v=1774000300",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601315447",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601315447",
+                  "name": "Manly Utd (w) vs Northern Tigers FC (w)",
+                  "streams": [
+                    {
+                      "id": "st-601315447",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7817a5b6a0",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/34b90f879789d8f004de0ffb09960cde/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/manly-utd-w-vs-northern-tigers-fc-w-1530-20-03-2026/601315447"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Australia New South Wales Women's League",
+            "team_a": "Manly Utd (w)",
+            "team_b": "Northern Tigers FC (w)",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/e9a8f3000a1829934f19a82c1e07c881.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/cb35a94c7b53170e13d6cd08cc236583.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2dd5531ff46b.png?v=1774000300",
+            "thumb_key": "thumbs/kaytee-2dd5531ff46b.webp"
           }
         },
         {
@@ -337,7 +337,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cfc8aab9d0af.png?v=1773999327",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cfc8aab9d0af.png?v=1774000301",
             "width": 1600,
             "height": 1200
           },
@@ -409,7 +409,7 @@
             "team_b": "Adelaide United",
             "logo_a": "https://cdn.rapid-api.icu/football/team/9054259e823c101ccfe523cd527c2e5b.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/a27d297d3cfaa7a71ce91a3fa0d40dbf.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cfc8aab9d0af.png?v=1773999327",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cfc8aab9d0af.png?v=1774000301",
             "thumb_key": "thumbs/kaytee-cfc8aab9d0af.webp"
           }
         },
@@ -423,7 +423,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-db11d0ad58d6.png?v=1773999329",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-db11d0ad58d6.png?v=1774000304",
             "width": 1600,
             "height": 1200
           },
@@ -478,7 +478,7 @@
             "team_b": "Công an TPHCM",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/78cc8c7732dacf1c3f0289a77295f0e9.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/64be5559beb034d8ac9a377b49ef9380.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-db11d0ad58d6.png?v=1773999329",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-db11d0ad58d6.png?v=1774000304",
             "thumb_key": "thumbs/kaytee-db11d0ad58d6.webp"
           }
         }
@@ -501,7 +501,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-26117f8b88fa.png?v=1773999325",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-26117f8b88fa.png?v=1774000297",
             "width": 1600,
             "height": 1200
           },
@@ -573,7 +573,7 @@
             "team_b": "Green Gully Cavaliers",
             "logo_a": "https://cdn.rapid-api.icu/football/team/5016a715cb2eee1c7938f3170ad7d0ed.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/2deaa16d0a3b5ee928f88705d6d159ea.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-26117f8b88fa.png?v=1773999325",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-26117f8b88fa.png?v=1774000297",
             "thumb_key": "thumbs/kaytee-26117f8b88fa.webp"
           }
         }
@@ -596,7 +596,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e97a42c4686a.png?v=1773999328",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e97a42c4686a.png?v=1774000303",
             "width": 1600,
             "height": 1200
           },
@@ -651,7 +651,7 @@
             "team_b": "HU Ke Yuan / LIN Xiang Yi",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/b44364f930239af333f0c6bab1ca406e.webp",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/3d945d9c62b179fa7c3037dd3e0d21af.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e97a42c4686a.png?v=1773999328",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e97a42c4686a.png?v=1774000303",
             "thumb_key": "thumbs/kaytee-e97a42c4686a.webp"
           }
         }
@@ -674,7 +674,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-997c87e7f4e6.png?v=1773999329",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-997c87e7f4e6.png?v=1774000304",
             "width": 1600,
             "height": 1200
           },
@@ -729,7 +729,7 @@
             "team_b": "Hossein Vafaei",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a4033d94b44175cc09c91c207d15cd66.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/2a7f122eab81789a7d2cd6f789c7b440.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-997c87e7f4e6.png?v=1773999329",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-997c87e7f4e6.png?v=1774000304",
             "thumb_key": "thumbs/kaytee-997c87e7f4e6.webp"
           }
         }
