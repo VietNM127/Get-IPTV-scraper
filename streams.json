@@ -8,172 +8,8 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-20T18:27:59.855750",
+  "updated_at": "2026-03-20T19:02:26.163831",
   "groups": [
-    {
-      "id": "live_bóng_đá",
-      "name": "🔴 Live ⚽ Bóng Đá",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-1c0af9993f09",
-          "name": "⚽ Rotor Volgograd vs Fakel Voronezh | 23:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1c0af9993f09.png?v=1774031277",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601313407",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601313407",
-                  "name": "Rotor Volgograd vs Fakel Voronezh",
-                  "streams": [
-                    {
-                      "id": "st-601313407",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-84f23333ea",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bd6838326d9_6308/index.m3u8?expire=1774625464&sign=c79906b1aec3c9e21237cd5a3ff4e3e2",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/rotor-volgograd-vs-fakel-voronezh-2330-20-03-2026/601313407"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-5b415cde7b",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/19819f46e2bf283421aec3beb564a2d0/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/rotor-volgograd-vs-fakel-voronezh-2330-20-03-2026/601313407"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Russian National Football League",
-            "team_a": "Rotor Volgograd",
-            "team_b": "Fakel Voronezh",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/6ae485ecee17acfc249fa06c8500d0a0.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/30c9a3c424abbef33fd4f1d00eb09b0c.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1c0af9993f09.png?v=1774031277",
-            "thumb_key": "thumbs/kaytee-1c0af9993f09.webp"
-          }
-        },
-        {
-          "id": "kaytee-e5c0a4b72741",
-          "name": "⚽ Lamboi vs FC Kallon | 23:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e5c0a4b72741.png?v=1774031279",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601325785",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601325785",
-                  "name": "Lamboi vs FC Kallon",
-                  "streams": [
-                    {
-                      "id": "st-601325785",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-dda12fb54e",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/6a9c2ed44703c29667b31126dbbafd50/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/lamboi-vs-fc-kallon-2330-20-03-2026/601325785"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Sierra Leone Premier League",
-            "team_a": "Lamboi",
-            "team_b": "FC Kallon",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/79ffcdd49711effd18c9535fff5924a3.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/eb0ba740eb5a54ac4ab2b611acf6cba2.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e5c0a4b72741.png?v=1774031279",
-            "thumb_key": "thumbs/kaytee-e5c0a4b72741.webp"
-          }
-        }
-      ]
-    },
     {
       "id": "live_tennis",
       "name": "🔴 Live 🎾 Tennis",
@@ -191,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c7ae22b8487c.png?v=1774031275",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c7ae22b8487c.png?v=1774033346",
             "width": 1600,
             "height": 1200
           },
@@ -246,7 +82,7 @@
             "team_b": "Ethan Quinn",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/98e8579d1e2bc4fb0dba8274afd761f3.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/24d88e803c160ef313397e38631417c9.webp",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c7ae22b8487c.png?v=1774031275",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c7ae22b8487c.png?v=1774033346",
             "thumb_key": "thumbs/kaytee-c7ae22b8487c.webp"
           }
         }
