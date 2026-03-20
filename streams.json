@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-20T14:10:08.286686",
+  "updated_at": "2026-03-20T15:02:06.210868",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,161 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-ea3a31f23726",
-          "name": "⚽ Ho Chi Minh City FC vs Đồng Nai | 19:15",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ea3a31f23726.png?v=1774015797",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601313239",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601313239",
-                  "name": "Ho Chi Minh City FC vs Đồng Nai",
-                  "streams": [
-                    {
-                      "id": "st-601313239",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b5df986f7c",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bd2f5a70a69_103/index.m3u8?expire=1774610906&sign=e59a7b583555633f99e16cd5dc48df81",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/ho-chi-minh-city-fc-vs-dong-nai-1915-20-03-2026/601313239"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-4890263ad0",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/1103af9092d1d19c9cc60185150e902e/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/ho-chi-minh-city-fc-vs-dong-nai-1915-20-03-2026/601313239"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Vietnam National Cup",
-            "team_a": "Ho Chi Minh City FC",
-            "team_b": "Đồng Nai",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/99dd3ac7267c0e3870d9ad785e6f9661.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/a9741c7972e214b1c312092c8b51acd8.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ea3a31f23726.png?v=1774015797",
-            "thumb_key": "thumbs/kaytee-ea3a31f23726.webp"
-          }
-        },
-        {
-          "id": "kaytee-baca477fefa0",
-          "name": "⚽ LPB Ninh Bình vs Binh chủng Thông tin | 19:15",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-baca477fefa0.png?v=1774015800",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601325524",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601325524",
-                  "name": "LPB Ninh Bình vs Binh chủng Thông tin",
-                  "streams": [
-                    {
-                      "id": "st-601325524",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7c6447165a",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bd3709326d9_128756/index.m3u8?expire=1774612873&sign=a7bd8836ddb0cc6eebd85726df9e411f",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/lpb-ninh-binh-vs-binh-chung-thong-tin-1915-20-03-2026/601325524"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Cúp Hoa Lư 2026 - Nữ",
-            "team_a": "LPB Ninh Bình",
-            "team_b": "Binh chủng Thông tin",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/1cba7cb1c7477b57e50a66aa4d9bb5d6.jpg",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/97cd4764d37f6693055ec3664f378222.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-baca477fefa0.png?v=1774015800",
-            "thumb_key": "thumbs/kaytee-baca477fefa0.webp"
-          }
-        },
         {
           "id": "kaytee-d3b43fe7f5c6",
           "name": "⚽ Aizawl FC vs Diamond Harbour FC | 20:00",
@@ -182,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d3b43fe7f5c6.png?v=1774015802",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d3b43fe7f5c6.png?v=1774018912",
             "width": 1600,
             "height": 1200
           },
@@ -254,94 +99,8 @@
             "team_b": "Diamond Harbour FC",
             "logo_a": "https://cdn.rapid-api.icu/football/team/0851c8b7fadde83f3330e2b8164837a8.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/f601740eead6a4749ce13184b54f223d.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d3b43fe7f5c6.png?v=1774015802",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d3b43fe7f5c6.png?v=1774018912",
             "thumb_key": "thumbs/kaytee-d3b43fe7f5c6.webp"
-          }
-        },
-        {
-          "id": "kaytee-a39e4dbefce6",
-          "name": "⚽ Ordabasy vs Kaisar Kyzylorda | 20:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a39e4dbefce6.png?v=1774015804",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601313323",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601313323",
-                  "name": "Ordabasy vs Kaisar Kyzylorda",
-                  "streams": [
-                    {
-                      "id": "st-601313323",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f4d0ab19b9",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bd33ea326d9_44731/index.m3u8?expire=1774612074&sign=32f70b073db293ad267e414335d83f48",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/ordabasy-vs-kaisar-kyzylorda-2000-20-03-2026/601313323"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-8e0a1904ef",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/690ed8de8403fa4f0bd698ddcadfdd43/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/ordabasy-vs-kaisar-kyzylorda-2000-20-03-2026/601313323"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Kazakhstan Premier League",
-            "team_a": "Ordabasy",
-            "team_b": "Kaisar Kyzylorda",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/56445b7fccea061fbee0ac71cbd53a83.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/403bd68b4370ee76b7bfb01aa793fd02.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a39e4dbefce6.png?v=1774015804",
-            "thumb_key": "thumbs/kaytee-a39e4dbefce6.webp"
           }
         },
         {
@@ -354,7 +113,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3ad4c913cc81.png?v=1774015806",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3ad4c913cc81.png?v=1774018914",
             "width": 1600,
             "height": 1200
           },
@@ -426,8 +185,318 @@
             "team_b": "Pakhtakor",
             "logo_a": "https://cdn.rapid-api.icu/football/team/0eff3f54d4407ac2e90783bc6654e657.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/78dd333913352de8fc4e8b0834636245.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3ad4c913cc81.png?v=1774015806",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3ad4c913cc81.png?v=1774018914",
             "thumb_key": "thumbs/kaytee-3ad4c913cc81.webp"
+          }
+        },
+        {
+          "id": "kaytee-d52db0f1386c",
+          "name": "⚽ Royal Vision vs Olympique Star | 20:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d52db0f1386c.png?v=1774018916",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601315480",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601315480",
+                  "name": "Royal Vision vs Olympique Star",
+                  "streams": [
+                    {
+                      "id": "st-601315480",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-81a15ee30a",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/90126d153196b4d28dfc8887ca1b3226/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/royal-vision-vs-olympique-star-2030-20-03-2026/601315480"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Burundi Premier League",
+            "team_a": "Royal Vision",
+            "team_b": "Olympique Star",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/a458c2e8bd9beb250e93990ec62ceb8d.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/1d05ed145c2dcd5ed931b4060674a80c.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d52db0f1386c.png?v=1774018916",
+            "thumb_key": "thumbs/kaytee-d52db0f1386c.webp"
+          }
+        },
+        {
+          "id": "kaytee-189914e92e18",
+          "name": "⚽ Bumamuru vs Kayanza Utd | 20:50",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-189914e92e18.png?v=1774018918",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601315489",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601315489",
+                  "name": "Bumamuru vs Kayanza Utd",
+                  "streams": [
+                    {
+                      "id": "st-601315489",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4b440a63f6",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/30eb370e4d99abdcac5dbc707931b0e7/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/bumamuru-vs-kayanza-utd-2050-20-03-2026/601315489"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Burundi Premier League",
+            "team_a": "Bumamuru",
+            "team_b": "Kayanza Utd",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/fd74d518bdf5c3aa3f6b3601ed3aa980.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/ced8963a34524d242ee9666043eb88f1.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-189914e92e18.png?v=1774018918",
+            "thumb_key": "thumbs/kaytee-189914e92e18.webp"
+          }
+        },
+        {
+          "id": "kaytee-0718f4330b6a",
+          "name": "⚽ Mohun Bagan Super Giant vs Mumbai City FC | 21:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0718f4330b6a.png?v=1774018920",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601313350",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601313350",
+                  "name": "Mohun Bagan Super Giant vs Mumbai City FC",
+                  "streams": [
+                    {
+                      "id": "st-601313350",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4a5c7ea5da",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bd5246326d9_85514/index.m3u8?expire=1774619846&sign=c58316e5cae1845bb5a3fe05d951ac63",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/mohun-bagan-super-giant-vs-mumbai-city-fc--2100-20-03-2026/601313350"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-42dfc0bfd6",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/a38e13a10f304a7fdd1245fbf8f0394d/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/mohun-bagan-super-giant-vs-mumbai-city-fc--2100-20-03-2026/601313350"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Indian Super League",
+            "team_a": "Mohun Bagan Super Giant",
+            "team_b": "Mumbai City FC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/94f4b5c04d9b9d9e41c9d0cdabbb9e21.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/e1389bf32867c3b93e09fc194cb545d8.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0718f4330b6a.png?v=1774018920",
+            "thumb_key": "thumbs/kaytee-0718f4330b6a.webp"
+          }
+        },
+        {
+          "id": "kaytee-e9ca44d5ce72",
+          "name": "⚽ FC Astana vs Tobol Kostanai | 21:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e9ca44d5ce72.png?v=1774018922",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601313353",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601313353",
+                  "name": "FC Astana vs Tobol Kostanai",
+                  "streams": [
+                    {
+                      "id": "st-601313353",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-628d20f475",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bd49c270a69_73445/index.m3u8?expire=1774617666&sign=e3f88db053ccc0fd149ac3753568eedb",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/fc-astana-vs-tobol-kostanai-2100-20-03-2026/601313353"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-fed187a619",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/974b2504bad3eedb5f1e287c4c3292a1/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/fc-astana-vs-tobol-kostanai-2100-20-03-2026/601313353"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Kazakhstan Premier League",
+            "team_a": "FC Astana",
+            "team_b": "Tobol Kostanai",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/5c481f41c0a1d43dcb508650562d840f.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/88927cd47c8746dd990d0a19fae7b97b.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e9ca44d5ce72.png?v=1774018922",
+            "thumb_key": "thumbs/kaytee-e9ca44d5ce72.webp"
           }
         },
         {
@@ -440,7 +509,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-64b3e37c167c.png?v=1774015806",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-64b3e37c167c.png?v=1774018924",
             "width": 1600,
             "height": 1200
           },
@@ -495,7 +564,7 @@
             "team_b": "Thể Công Tân Cảng",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/1cba7cb1c7477b57e50a66aa4d9bb5d6.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/9293c85e50108a0acdf51897531398f0.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-64b3e37c167c.png?v=1774015806",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-64b3e37c167c.png?v=1774018924",
             "thumb_key": "thumbs/kaytee-64b3e37c167c.webp"
           }
         }
@@ -509,75 +578,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-e97a42c4686a",
-          "name": "🏸 Isharani BARUAH vs Malvika BANSOD | 23:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e97a42c4686a.png?v=1774015807",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Sắp Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601326820",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601326820",
-                  "name": "Isharani BARUAH vs Malvika BANSOD",
-                  "streams": [
-                    {
-                      "id": "st-601326820",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c44daa3b9a",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bd0a8c70a69_18754/index.m3u8?expire=1774601484&sign=d09ec8d69310a4d6edff7112d0ee4939",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/isharani-baruah-vs-malvika-bansod-2300-20-03-2026/601326820"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Sân 2 - Orleans Masters Badminton 2026",
-            "team_a": "Isharani BARUAH",
-            "team_b": "Malvika BANSOD",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/32b86b756560858db719ea1015c69b60.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/b657f9ca94a1b2e33d85fb865607f361.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e97a42c4686a.png?v=1774015807",
-            "thumb_key": "thumbs/kaytee-e97a42c4686a.webp"
-          }
-        },
-        {
           "id": "kaytee-5c47bf1a5734",
           "name": "🏸 Pitchamon OPATNIPUTH vs Riko GUNJI | 23:00",
           "type": "single",
@@ -587,7 +587,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5c47bf1a5734.png?v=1774015808",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5c47bf1a5734.png?v=1774018925",
             "width": 1600,
             "height": 1200
           },
@@ -642,8 +642,77 @@
             "team_b": "Riko GUNJI",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/d7a14d64e4da3ddaed23b91ee57f1ba9.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/800ba46323707241529172b020986363.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5c47bf1a5734.png?v=1774015808",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5c47bf1a5734.png?v=1774018925",
             "thumb_key": "thumbs/kaytee-5c47bf1a5734.webp"
+          }
+        },
+        {
+          "id": "kaytee-e97a42c4686a",
+          "name": "🏸 Isharani BARUAH vs Malvika BANSOD | 23:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e97a42c4686a.png?v=1774018926",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601326820",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601326820",
+                  "name": "Isharani BARUAH vs Malvika BANSOD",
+                  "streams": [
+                    {
+                      "id": "st-601326820",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c44daa3b9a",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bd0a8c70a69_18754/index.m3u8?expire=1774601484&sign=d09ec8d69310a4d6edff7112d0ee4939",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/isharani-baruah-vs-malvika-bansod-2300-20-03-2026/601326820"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sân 2 - Orleans Masters Badminton 2026",
+            "team_a": "Isharani BARUAH",
+            "team_b": "Malvika BANSOD",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/32b86b756560858db719ea1015c69b60.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/b657f9ca94a1b2e33d85fb865607f361.jpg",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e97a42c4686a.png?v=1774018926",
+            "thumb_key": "thumbs/kaytee-e97a42c4686a.webp"
           }
         }
       ]
