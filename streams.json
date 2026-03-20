@@ -8,158 +8,11 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-20T05:07:16.291670",
+  "updated_at": "2026-03-20T06:07:09.715898",
   "groups": [
     {
       "id": "live_bóng_đá",
       "name": "🔴 Live ⚽ Bóng Đá",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-b967b3de3f96",
-          "name": "⚽ Briobecca Urayasu vs Yokogawa Musashino FC | 11:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b967b3de3f96.png?v=1773983231",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601315441",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601315441",
-                  "name": "Briobecca Urayasu vs Yokogawa Musashino FC",
-                  "streams": [
-                    {
-                      "id": "st-601315441",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e4c5239aff",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/2362444ddf4ceb41cfa11bceca1529f9/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/briobecca-urayasu-vs-yokogawa-musashino-fc-1100-20-03-2026/601315441"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Japanese Football League",
-            "team_a": "Briobecca Urayasu",
-            "team_b": "Yokogawa Musashino FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/7d932dfc6184b11de923cff4501fee01.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/e2473e30597b13682634eee883fc7799.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b967b3de3f96.png?v=1773983231",
-            "thumb_key": "thumbs/kaytee-b967b3de3f96.webp"
-          }
-        },
-        {
-          "id": "kaytee-f4c221ed5029",
-          "name": "⚽ Verspah Oita vs Maruyasu Okazaki | 11:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f4c221ed5029.png?v=1773983232",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601315444",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601315444",
-                  "name": "Verspah Oita vs Maruyasu Okazaki",
-                  "streams": [
-                    {
-                      "id": "st-601315444",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-12233c8554",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/91b2c0d55bd65dbec65fd93e8a37b071/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/verspah-oita-vs-maruyasu-okazaki-1100-20-03-2026/601315444"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Japanese Football League",
-            "team_a": "Verspah Oita",
-            "team_b": "Maruyasu Okazaki",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/778a55c75fcc204d5bb048507d47b94d.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/5e9c5787e22ccc293bd023543dc8ec7f.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f4c221ed5029.png?v=1773983232",
-            "thumb_key": "thumbs/kaytee-f4c221ed5029.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "upcoming_bóng_đá",
-      "name": "⏳ Sắp Live ⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -174,16 +27,16 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-254cd8a9f154.png?v=1773983234",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-254cd8a9f154.png?v=1773986823",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "⏳ Sắp Live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -215,6 +68,23 @@
                               "value": "Mozilla/5.0"
                             }
                           ]
+                        },
+                        {
+                          "id": "lnk-595041ecbe",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/fdf099ff0914198a22441f60423fc0bb/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/albirex-niigata-vs-kataller-toyama-1200-20-03-2026/601313038"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
                         }
                       ]
                     }
@@ -229,7 +99,7 @@
             "team_b": "Kataller Toyama",
             "logo_a": "https://cdn.rapid-api.icu/football/team/a4bfaa33f9e24bdb4a4952a0b4aab142.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/8b9ca3d6a9a5b9573992e58b972e96fd.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-254cd8a9f154.png?v=1773983234",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-254cd8a9f154.png?v=1773986823",
             "thumb_key": "thumbs/kaytee-254cd8a9f154.webp"
           }
         },
@@ -243,16 +113,16 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6c85c4abf63b.png?v=1773983236",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6c85c4abf63b.png?v=1773986825",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "⏳ Sắp Live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -315,8 +185,224 @@
             "team_b": "Shonan Bellmare",
             "logo_a": "https://cdn.rapid-api.icu/football/team/0a999ff8b768f0b5efb87511dc863265.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/d66d58c237a45ea74399342c59a8d8be.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6c85c4abf63b.png?v=1773983236",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6c85c4abf63b.png?v=1773986825",
             "thumb_key": "thumbs/kaytee-6c85c4abf63b.webp"
+          }
+        },
+        {
+          "id": "kaytee-56d24fec113c",
+          "name": "⚽ Gangneung Citizen vs Dangjin Citizen | 12:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-56d24fec113c.png?v=1773986827",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601313044",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601313044",
+                  "name": "Gangneung Citizen vs Dangjin Citizen",
+                  "streams": [
+                    {
+                      "id": "st-601313044",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bd48b4aaa0",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/3a9e01412275bdb26422c1a9cdef44c7/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/gangneung-citizen-vs-dangjin-citizen-1200-20-03-2026/601313044"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Korean K League 3",
+            "team_a": "Gangneung Citizen",
+            "team_b": "Dangjin Citizen",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/dd06345e9fdb10d2e3ae8820dd3353c5.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/48f279f623b7b4131abdfbbe43b68c17.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-56d24fec113c.png?v=1773986827",
+            "thumb_key": "thumbs/kaytee-56d24fec113c.webp"
+          }
+        },
+        {
+          "id": "kaytee-9c04d487a507",
+          "name": "⚽ Ryan Day vs Ronnie O'Sullivan | 13:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9c04d487a507.png?v=1773986829",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601326817",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601326817",
+                  "name": "Ryan Day vs Ronnie O'Sullivan",
+                  "streams": [
+                    {
+                      "id": "st-601326817",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2646991515",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bcdecd326d9_142246/index.m3u8?expire=1774590285&sign=873ca017c83da69316647183bc0334a9",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/ryan-day-vs-ronnie-osullivan-1300-20-03-2026/601326817"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Open 2026",
+            "team_a": "Ryan Day",
+            "team_b": "Ronnie O'Sullivan",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/3a1617fdd8cd2473809d6df71bdf6377.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/18baf606a63b8269c5229ab1dac78425.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9c04d487a507.png?v=1773986829",
+            "thumb_key": "thumbs/kaytee-9c04d487a507.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_bóng_đá",
+      "name": "⏳ Sắp Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-997c87e7f4e6",
+          "name": "⚽ Judd Trump vs Hossein Vafaei | 18:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-997c87e7f4e6.png?v=1773986829",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601326685",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601326685",
+                  "name": "Judd Trump vs Hossein Vafaei",
+                  "streams": [
+                    {
+                      "id": "st-601326685",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bb1dd9e062",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bcddb7326d9_142246/index.m3u8?expire=1774590007&sign=7f810e2cdd864caaa5766ade4532029a",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/judd-trump-vs-hossein-vafaei-1830-20-03-2026/601326685"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Open 2026",
+            "team_a": "Judd Trump",
+            "team_b": "Hossein Vafaei",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a4033d94b44175cc09c91c207d15cd66.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/2a7f122eab81789a7d2cd6f789c7b440.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-997c87e7f4e6.png?v=1773986829",
+            "thumb_key": "thumbs/kaytee-997c87e7f4e6.webp"
           }
         }
       ]
