@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-20T07:14:00.997352",
+  "updated_at": "2026-03-20T07:56:32.551279",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,75 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-9c04d487a507",
-          "name": "⚽ Ryan Day vs Ronnie O'Sullivan | 13:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9c04d487a507.png?v=1773990832",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601326817",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601326817",
-                  "name": "Ryan Day vs Ronnie O'Sullivan",
-                  "streams": [
-                    {
-                      "id": "st-601326817",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2646991515",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bcdecd326d9_142246/index.m3u8?expire=1774590285&sign=873ca017c83da69316647183bc0334a9",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/ryan-day-vs-ronnie-osullivan-1300-20-03-2026/601326817"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "World Open 2026",
-            "team_a": "Ryan Day",
-            "team_b": "Ronnie O'Sullivan",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/3a1617fdd8cd2473809d6df71bdf6377.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/18baf606a63b8269c5229ab1dac78425.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9c04d487a507.png?v=1773990832",
-            "thumb_key": "thumbs/kaytee-9c04d487a507.webp"
-          }
-        },
         {
           "id": "kaytee-3788a26b9fbd",
           "name": "⚽ Adamstown Rosebud Reserves vs Lambton Jaffas Reserves | 14:00",
@@ -96,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3788a26b9fbd.png?v=1773990835",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3788a26b9fbd.png?v=1773993379",
             "width": 1600,
             "height": 1200
           },
@@ -151,7 +82,7 @@
             "team_b": "Lambton Jaffas Reserves",
             "logo_a": "https://cdn.rapid-api.icu/football/team/dc4fd58ce1e7b277ee3def338124e5be.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/0113768d06cba90f5beb4ef014312923.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3788a26b9fbd.png?v=1773990835",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3788a26b9fbd.png?v=1773993379",
             "thumb_key": "thumbs/kaytee-3788a26b9fbd.webp"
           }
         },
@@ -165,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-00206a2e25ec.png?v=1773990837",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-00206a2e25ec.png?v=1773993381",
             "width": 1600,
             "height": 1200
           },
@@ -220,8 +151,146 @@
             "team_b": "Valentine Phoenix Reserves",
             "logo_a": "https://cdn.rapid-api.icu/football/team/a8d58535fe5a74fe1645100041b8ab7b.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/f86612474ad7b5c055358dff0a97e71a.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-00206a2e25ec.png?v=1773990837",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-00206a2e25ec.png?v=1773993381",
             "thumb_key": "thumbs/kaytee-00206a2e25ec.webp"
+          }
+        },
+        {
+          "id": "kaytee-395e24844cbd",
+          "name": "⚽ Preston Lions (w) vs Alamein (w) | 14:15",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-395e24844cbd.png?v=1773993386",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601313065",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601313065",
+                  "name": "Preston Lions (w) vs Alamein (w)",
+                  "streams": [
+                    {
+                      "id": "st-601313065",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b205126bcd",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/a8fc47b13fe2a4aa88aaabe14fbf1287/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/preston-lions-w-vs-alamein-w-1415-20-03-2026/601313065"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Australia Victorian Women's Premier League",
+            "team_a": "Preston Lions (w)",
+            "team_b": "Alamein (w)",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/a58d1203ea2a8726c62f8a6d17cd0a24.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/2f57035bbf99bf78470b8d72202ba3b1.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-395e24844cbd.png?v=1773993386",
+            "thumb_key": "thumbs/kaytee-395e24844cbd.webp"
+          }
+        },
+        {
+          "id": "kaytee-568a21bd265d",
+          "name": "⚽ Flinders United (W) vs West Torrens Birkalla (w) | 14:45",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-568a21bd265d.png?v=1773993388",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601325638",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601325638",
+                  "name": "Flinders United (W) vs West Torrens Birkalla (w)",
+                  "streams": [
+                    {
+                      "id": "st-601325638",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b6270103d4",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/4158daf0d469b20bec5cde378896ac58/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/flinders-united-w-vs-west-torrens-birkalla-w-1445-20-03-2026/601325638"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "South Australia Women's Premier League",
+            "team_a": "Flinders United (W)",
+            "team_b": "West Torrens Birkalla (w)",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/fcfbd78176c2c4f711c7cec9fa9c4b55.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/22b8a1add9247e3d7ab27d27e4f15fa8.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-568a21bd265d.png?v=1773993388",
+            "thumb_key": "thumbs/kaytee-568a21bd265d.webp"
           }
         }
       ]
@@ -243,7 +312,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ffd3c8354200.png?v=1773990838",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ffd3c8354200.png?v=1773993384",
             "width": 1600,
             "height": 1200
           },
@@ -298,7 +367,7 @@
             "team_b": "Vietinbank",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a9040dc12e05a3b9e782dcefbdb381ca.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/91bba93583cafe0c6d1050cb24fedb6e.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ffd3c8354200.png?v=1773990838",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ffd3c8354200.png?v=1773993384",
             "thumb_key": "thumbs/kaytee-ffd3c8354200.webp"
           }
         }
@@ -312,8 +381,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-395e24844cbd",
-          "name": "⚽ Preston Lions (w) vs Alamein (w) | 14:15",
+          "id": "kaytee-4bec98a6cb54",
+          "name": "⚽ Sydney FC Women vs Wellington Phoenix Women | 15:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -321,7 +390,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-395e24844cbd.png?v=1773990840",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4bec98a6cb54.png?v=1773993390",
             "width": 1600,
             "height": 1200
           },
@@ -335,27 +404,27 @@
           ],
           "sources": [
             {
-              "id": "src-601313065",
+              "id": "src-601313074",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601313065",
-                  "name": "Preston Lions (w) vs Alamein (w)",
+                  "id": "ct-601313074",
+                  "name": "Sydney FC Women vs Wellington Phoenix Women",
                   "streams": [
                     {
-                      "id": "st-601313065",
+                      "id": "st-601313074",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-b205126bcd",
+                          "id": "lnk-8586b1de6a",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live.alilicloud.com/live/a8fc47b13fe2a4aa88aaabe14fbf1287/playlist.m3u8",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bcf76a70a69_28/index.m3u8?expire=1774596586&sign=ff9549e04325740ae08b5e148dc91561",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/preston-lions-w-vs-alamein-w-1415-20-03-2026/601313065"
+                              "value": "https://bunchatv1.net/truc-tiep/sydney-fc-women-vs-wellington-phoenix-women-1500-20-03-2026/601313074"
                             },
                             {
                               "key": "User-Agent",
@@ -371,13 +440,82 @@
             }
           ],
           "org_metadata": {
-            "league": "Australia Victorian Women's Premier League",
-            "team_a": "Preston Lions (w)",
-            "team_b": "Alamein (w)",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/a58d1203ea2a8726c62f8a6d17cd0a24.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/2f57035bbf99bf78470b8d72202ba3b1.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-395e24844cbd.png?v=1773990840",
-            "thumb_key": "thumbs/kaytee-395e24844cbd.webp"
+            "league": "Australia W-League",
+            "team_a": "Sydney FC Women",
+            "team_b": "Wellington Phoenix Women",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/64f6d95d32cb430272a5a69e1288b5cc.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/c548bc71feff7cc3f6da3184d0f8da14.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4bec98a6cb54.png?v=1773993390",
+            "thumb_key": "thumbs/kaytee-4bec98a6cb54.webp"
+          }
+        },
+        {
+          "id": "kaytee-cfc8aab9d0af",
+          "name": "⚽ Western Sydney vs Adelaide United | 15:35",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cfc8aab9d0af.png?v=1773993391",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601313089",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601313089",
+                  "name": "Western Sydney vs Adelaide United",
+                  "streams": [
+                    {
+                      "id": "st-601313089",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9bc78489c5",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bcfab270a69_95554/index.m3u8?expire=1774597426&sign=35380e34486ebdf65f74e26b2e3ca63f",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/western-sydney-vs-adelaide-united-1535-20-03-2026/601313089"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Australia A-League",
+            "team_a": "Western Sydney",
+            "team_b": "Adelaide United",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/9054259e823c101ccfe523cd527c2e5b.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/a27d297d3cfaa7a71ce91a3fa0d40dbf.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cfc8aab9d0af.png?v=1773993391",
+            "thumb_key": "thumbs/kaytee-cfc8aab9d0af.webp"
           }
         },
         {
@@ -390,7 +528,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-997c87e7f4e6.png?v=1773990840",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-997c87e7f4e6.png?v=1773993392",
             "width": 1600,
             "height": 1200
           },
@@ -445,7 +583,7 @@
             "team_b": "Hossein Vafaei",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a4033d94b44175cc09c91c207d15cd66.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/2a7f122eab81789a7d2cd6f789c7b440.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-997c87e7f4e6.png?v=1773990840",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-997c87e7f4e6.png?v=1773993392",
             "thumb_key": "thumbs/kaytee-997c87e7f4e6.webp"
           }
         }
