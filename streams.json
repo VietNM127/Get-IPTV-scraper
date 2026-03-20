@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-20T17:57:33.033000",
+  "updated_at": "2026-03-20T18:27:59.855750",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,230 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-918514187e23",
-          "name": "⚽ FK Auda Riga vs Riga FC | 23:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-918514187e23.png?v=1774029444",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601313395",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601313395",
-                  "name": "FK Auda Riga vs Riga FC",
-                  "streams": [
-                    {
-                      "id": "st-601313395",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-df0c12da24",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bd608d70a69_95554/index.m3u8?expire=1774623501&sign=93feb3c02526b1acfde2876ebba43acb",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/fk-auda-riga-vs-riga-fc-2300-20-03-2026/601313395"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-fbad65b8fc",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/8bb519f64e5dddf5e8dfc90d41809c20/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/fk-auda-riga-vs-riga-fc-2300-20-03-2026/601313395"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Latvian Higher League",
-            "team_a": "FK Auda Riga",
-            "team_b": "Riga FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/ff4a0a80377b1a3739e702710c9488be.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/b7413988c01bdaac56c8118536bdd073.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-918514187e23.png?v=1774029444",
-            "thumb_key": "thumbs/kaytee-918514187e23.webp"
-          }
-        },
-        {
-          "id": "kaytee-25ec03a920b7",
-          "name": "⚽ RC Kadiogo vs Real du Faso | 23:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-25ec03a920b7.png?v=1774029445",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601315534",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601315534",
-                  "name": "RC Kadiogo vs Real du Faso",
-                  "streams": [
-                    {
-                      "id": "st-601315534",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6a2ca11511",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/84ed52a7d235b4f9acc304384b7263e5/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/rc-kadiogo-vs-real-du-faso-2300-20-03-2026/601315534"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Burkina Faso Division 1",
-            "team_a": "RC Kadiogo",
-            "team_b": "Real du Faso",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/29c72f8d82b67e446dea00ab4669c26e.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/2ff60775e3e8c1acc7049d8ea8fc58dc.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-25ec03a920b7.png?v=1774029445",
-            "thumb_key": "thumbs/kaytee-25ec03a920b7.webp"
-          }
-        },
-        {
-          "id": "kaytee-269335eae9d2",
-          "name": "⚽ Rahimo FC vs CFFEB | 23:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-269335eae9d2.png?v=1774029447",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601315537",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601315537",
-                  "name": "Rahimo FC vs CFFEB",
-                  "streams": [
-                    {
-                      "id": "st-601315537",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-613c835bfd",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/b195bc7d116135257659d24a7c2d9140/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/rahimo-fc-vs-cffeb-2300-20-03-2026/601315537"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Burkina Faso Division 1",
-            "team_a": "Rahimo FC",
-            "team_b": "CFFEB",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/1780385559e5a0cc2bb283a984673f98.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/c30dda00c05ccda735a5561866b57215.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-269335eae9d2.png?v=1774029447",
-            "thumb_key": "thumbs/kaytee-269335eae9d2.webp"
-          }
-        },
         {
           "id": "kaytee-1c0af9993f09",
           "name": "⚽ Rotor Volgograd vs Fakel Voronezh | 23:30",
@@ -251,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1c0af9993f09.png?v=1774029452",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1c0af9993f09.png?v=1774031277",
             "width": 1600,
             "height": 1200
           },
@@ -323,8 +99,77 @@
             "team_b": "Fakel Voronezh",
             "logo_a": "https://cdn.rapid-api.icu/football/team/6ae485ecee17acfc249fa06c8500d0a0.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/30c9a3c424abbef33fd4f1d00eb09b0c.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1c0af9993f09.png?v=1774029452",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1c0af9993f09.png?v=1774031277",
             "thumb_key": "thumbs/kaytee-1c0af9993f09.webp"
+          }
+        },
+        {
+          "id": "kaytee-e5c0a4b72741",
+          "name": "⚽ Lamboi vs FC Kallon | 23:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e5c0a4b72741.png?v=1774031279",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601325785",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601325785",
+                  "name": "Lamboi vs FC Kallon",
+                  "streams": [
+                    {
+                      "id": "st-601325785",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-dda12fb54e",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/6a9c2ed44703c29667b31126dbbafd50/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/lamboi-vs-fc-kallon-2330-20-03-2026/601325785"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sierra Leone Premier League",
+            "team_a": "Lamboi",
+            "team_b": "FC Kallon",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/79ffcdd49711effd18c9535fff5924a3.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/eb0ba740eb5a54ac4ab2b611acf6cba2.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e5c0a4b72741.png?v=1774031279",
+            "thumb_key": "thumbs/kaytee-e5c0a4b72741.webp"
           }
         }
       ]
@@ -346,7 +191,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c7ae22b8487c.png?v=1774029450",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c7ae22b8487c.png?v=1774031275",
             "width": 1600,
             "height": 1200
           },
@@ -401,86 +246,8 @@
             "team_b": "Ethan Quinn",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/98e8579d1e2bc4fb0dba8274afd761f3.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/24d88e803c160ef313397e38631417c9.webp",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c7ae22b8487c.png?v=1774029450",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c7ae22b8487c.png?v=1774031275",
             "thumb_key": "thumbs/kaytee-c7ae22b8487c.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "live_cầu_lông",
-      "name": "🔴 Live 🏸 Cầu Lông",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-e97a42c4686a",
-          "name": "🏸 CHOU Tien Chen vs HU Zhe An | 23:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e97a42c4686a.png?v=1774029453",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601326820",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601326820",
-                  "name": "CHOU Tien Chen vs HU Zhe An",
-                  "streams": [
-                    {
-                      "id": "st-601326820",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c44daa3b9a",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bd0a8c70a69_18754/index.m3u8?expire=1774601484&sign=d09ec8d69310a4d6edff7112d0ee4939",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/chou-tien-chen-vs-hu-zhe-an-2330-20-03-2026/601326820"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Sân 2 - Orleans Masters Badminton 2026",
-            "team_a": "CHOU Tien Chen",
-            "team_b": "HU Zhe An",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/8df073cf885b46498506eeff12bcd142.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/71e247724e5e29fb765f8414b72e6ede.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e97a42c4686a.png?v=1774029453",
-            "thumb_key": "thumbs/kaytee-e97a42c4686a.webp"
           }
         }
       ]
