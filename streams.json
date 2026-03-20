@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-20T16:57:09.670473",
+  "updated_at": "2026-03-20T17:22:42.787651",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,6 +17,282 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "kaytee-7078402d1948",
+          "name": "⚽ Jiangsu Dragons vs Guangdong | 18:35",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7078402d1948.png?v=1774027346",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601325722",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601325722",
+                  "name": "Jiangsu Dragons vs Guangdong",
+                  "streams": [
+                    {
+                      "id": "st-601325722",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-038927b819",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bd2c6e70a69_145690/index.m3u8?expire=1774610158&sign=0828e8fe963bc1968287352225251c95",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/jiangsu-dragons-vs-guangdong-1835-20-03-2026/601325722"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CBA",
+            "team_a": "Jiangsu Dragons",
+            "team_b": "Guangdong",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/f27e45dc86e63982cbbbefad9e65c6be.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/d3c311fb581d8757b1b9f4b9d30e32dc.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7078402d1948.png?v=1774027346",
+            "thumb_key": "thumbs/kaytee-7078402d1948.webp"
+          }
+        },
+        {
+          "id": "kaytee-632963e1d41c",
+          "name": "⚽ Shandong vs Tianjin | 18:35",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-632963e1d41c.png?v=1774027347",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601325725",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601325725",
+                  "name": "Shandong vs Tianjin",
+                  "streams": [
+                    {
+                      "id": "st-601325725",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9e7bb95a05",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bd2f7b70a69_138846/index.m3u8?expire=1774610939&sign=cc67cd2c26f593f83efab3fb812d99d7",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/shandong-vs-tianjin-1835-20-03-2026/601325725"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CBA",
+            "team_a": "Shandong",
+            "team_b": "Tianjin",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/e50bcd068875d5e261edc40941ad95a5.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/90b1968cc5c0dceca92fbda0233678e6.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-632963e1d41c.png?v=1774027347",
+            "thumb_key": "thumbs/kaytee-632963e1d41c.webp"
+          }
+        },
+        {
+          "id": "kaytee-0f22d29f114c",
+          "name": "⚽ Zhejiang Guangsha vs Beijing Royal Fighters | 18:35",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0f22d29f114c.png?v=1774027348",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601325728",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601325728",
+                  "name": "Zhejiang Guangsha vs Beijing Royal Fighters",
+                  "streams": [
+                    {
+                      "id": "st-601325728",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ad850a3285",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bd2ebf326d9_85706/index.m3u8?expire=1774610751&sign=8c2a9172d524bd017b5129ed8ee2923a",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/zhejiang-guangsha-vs-beijing-royal-fighters-1835-20-03-2026/601325728"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CBA",
+            "team_a": "Zhejiang Guangsha",
+            "team_b": "Beijing Royal Fighters",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/80d5807666696ea76ce8fd77e21e58c0.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/690b75e84eae0109a09dd80edba8b339.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0f22d29f114c.png?v=1774027348",
+            "thumb_key": "thumbs/kaytee-0f22d29f114c.webp"
+          }
+        },
+        {
+          "id": "kaytee-56fe12d71f9d",
+          "name": "⚽ Shenzhen vs Xinjiang | 19:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-56fe12d71f9d.png?v=1774027348",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601325731",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601325731",
+                  "name": "Shenzhen vs Xinjiang",
+                  "streams": [
+                    {
+                      "id": "st-601325731",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-28e2738c0d",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bd31b9326d9_42127/index.m3u8?expire=1774611513&sign=2a68a2749c19e130adbe32f40fd66a88",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/shenzhen-vs-xinjiang-1900-20-03-2026/601325731"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CBA",
+            "team_a": "Shenzhen",
+            "team_b": "Xinjiang",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/c3337daf6fb936b0b41bc24142c1873e.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/3072a00829e2e1a2bf21884e11dc200e.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-56fe12d71f9d.png?v=1774027348",
+            "thumb_key": "thumbs/kaytee-56fe12d71f9d.webp"
+          }
+        },
         {
           "id": "kaytee-64b3e37c167c",
           "name": "⚽ LPB Ninh Bình vs Thể Công Tân Cảng | 21:00",
@@ -27,7 +303,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-64b3e37c167c.png?v=1774025819",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-64b3e37c167c.png?v=1774027349",
             "width": 1600,
             "height": 1200
           },
@@ -82,249 +358,8 @@
             "team_b": "Thể Công Tân Cảng",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/1cba7cb1c7477b57e50a66aa4d9bb5d6.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/9293c85e50108a0acdf51897531398f0.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-64b3e37c167c.png?v=1774025819",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-64b3e37c167c.png?v=1774027349",
             "thumb_key": "thumbs/kaytee-64b3e37c167c.webp"
-          }
-        },
-        {
-          "id": "kaytee-0f5432d37f78",
-          "name": "⚽ BKMA vs Urartu | 22:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0f5432d37f78.png?v=1774025821",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601313371",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601313371",
-                  "name": "BKMA vs Urartu",
-                  "streams": [
-                    {
-                      "id": "st-601313371",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8843c11167",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bd5088326d9_72787/index.m3u8?expire=1774619400&sign=02fa7f231a844194e176ba230e383974",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/bkma-vs-urartu-2200-20-03-2026/601313371"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-4dcf2c7144",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/31a9480c16f2f000eba4ef56f4a7a1d0/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/bkma-vs-urartu-2200-20-03-2026/601313371"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Armenian Premier League",
-            "team_a": "BKMA",
-            "team_b": "Urartu",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/77ca875a242e4b4b404106e58731f61d.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/814cbcaf4f70499660e021e30be5036c.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0f5432d37f78.png?v=1774025821",
-            "thumb_key": "thumbs/kaytee-0f5432d37f78.webp"
-          }
-        },
-        {
-          "id": "kaytee-bbb97428abf9",
-          "name": "⚽ Haras El Hodood vs Ismaily SC | 22:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bbb97428abf9.png?v=1774025823",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601315528",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601315528",
-                  "name": "Haras El Hodood vs Ismaily SC",
-                  "streams": [
-                    {
-                      "id": "st-601315528",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b37d6d7c0a",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/f98e95a52e1b3e8ebdbe31572e2807d8/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/haras-el-hodood-vs-ismaily-sc-2200-20-03-2026/601315528"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Egyptian Premier League",
-            "team_a": "Haras El Hodood",
-            "team_b": "Ismaily SC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/7dc80ef40b717d99f9aafeaf024f7e8c.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/3766cad0712ddc9181a091d2d78d61c8.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bbb97428abf9.png?v=1774025823",
-            "thumb_key": "thumbs/kaytee-bbb97428abf9.webp"
-          }
-        },
-        {
-          "id": "kaytee-74a017a0aa01",
-          "name": "⚽ FC Neftci Baku vs Mil-Mugan FK | 22:15",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-74a017a0aa01.png?v=1774025824",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601313374",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601313374",
-                  "name": "FC Neftci Baku vs Mil-Mugan FK",
-                  "streams": [
-                    {
-                      "id": "st-601313374",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-341d40a22c",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bd5fc870a69_44731/index.m3u8?expire=1774623304&sign=6a9e8b33bd5e5c3de644041b04f5fe36",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/fc-neftci-baku-vs-milmugan-fk-2215-20-03-2026/601313374"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-d87c93ad4e",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/71b6a80e7563803b09b31439b2186e13/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/fc-neftci-baku-vs-milmugan-fk-2215-20-03-2026/601313374"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Azerbaijan Premier League",
-            "team_a": "FC Neftci Baku",
-            "team_b": "Mil-Mugan FK",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/2d9ea2234c3ada82b3d0355791c45669.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/22fa18548e3651bad37de2fb9fcad603.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-74a017a0aa01.png?v=1774025824",
-            "thumb_key": "thumbs/kaytee-74a017a0aa01.webp"
           }
         },
         {
@@ -337,7 +372,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ab76593e15ff.png?v=1774025826",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ab76593e15ff.png?v=1774027351",
             "width": 1600,
             "height": 1200
           },
@@ -409,7 +444,7 @@
             "team_b": "Botev Plovdiv",
             "logo_a": "https://cdn.rapid-api.icu/football/team/e087c9b939975c0cb726253fc3c3e418.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/ca2873db2e4098a463b85e2af51d3ad6.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ab76593e15ff.png?v=1774025826",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ab76593e15ff.png?v=1774027351",
             "thumb_key": "thumbs/kaytee-ab76593e15ff.webp"
           }
         },
@@ -423,7 +458,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-918514187e23.png?v=1774025827",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-918514187e23.png?v=1774027353",
             "width": 1600,
             "height": 1200
           },
@@ -495,8 +530,232 @@
             "team_b": "Riga FC",
             "logo_a": "https://cdn.rapid-api.icu/football/team/ff4a0a80377b1a3739e702710c9488be.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/b7413988c01bdaac56c8118536bdd073.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-918514187e23.png?v=1774025827",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-918514187e23.png?v=1774027353",
             "thumb_key": "thumbs/kaytee-918514187e23.webp"
+          }
+        },
+        {
+          "id": "kaytee-05c968c5d3c8",
+          "name": "⚽ FC Flora Tallinn (w) vs Harju JK Laagri (W) | 23:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-05c968c5d3c8.png?v=1774027356",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601313398",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601313398",
+                  "name": "FC Flora Tallinn (w) vs Harju JK Laagri (W)",
+                  "streams": [
+                    {
+                      "id": "st-601313398",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7f3c45127e",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/d3e445c41e2de8ab0c5107a4817cb451/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/fc-flora-tallinn-w-vs-harju-jk-laagri-w-2300-20-03-2026/601313398"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Estonian Women's Meistri Liiga",
+            "team_a": "FC Flora Tallinn (w)",
+            "team_b": "Harju JK Laagri (W)",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/222e3e2001cf50de6e9deb66c08bf99b.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/1b049d24bc25e45f24a374ff4b86d702.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-05c968c5d3c8.png?v=1774027356",
+            "thumb_key": "thumbs/kaytee-05c968c5d3c8.webp"
+          }
+        },
+        {
+          "id": "kaytee-59c5d3bc42d0",
+          "name": "⚽ Sheriff Tiraspol vs Dacia-Buiucani | 23:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-59c5d3bc42d0.png?v=1774027358",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601313401",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601313401",
+                  "name": "Sheriff Tiraspol vs Dacia-Buiucani",
+                  "streams": [
+                    {
+                      "id": "st-601313401",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-db0645a635",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/b35791b9d5aabececcf7fd381f17f78a/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/sheriff-tiraspol-vs-daciabuiucani-2300-20-03-2026/601313401"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Moldova Divizia Nationala",
+            "team_a": "Sheriff Tiraspol",
+            "team_b": "Dacia-Buiucani",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/6be65a265ff052f7736d951643b2750c.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/92d1b71fd7263c40492952a99c10462b.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-59c5d3bc42d0.png?v=1774027358",
+            "thumb_key": "thumbs/kaytee-59c5d3bc42d0.webp"
+          }
+        },
+        {
+          "id": "kaytee-1c0af9993f09",
+          "name": "⚽ Rotor Volgograd vs Fakel Voronezh | 23:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1c0af9993f09.png?v=1774027361",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601313407",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601313407",
+                  "name": "Rotor Volgograd vs Fakel Voronezh",
+                  "streams": [
+                    {
+                      "id": "st-601313407",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-84f23333ea",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bd6838326d9_6308/index.m3u8?expire=1774625464&sign=c79906b1aec3c9e21237cd5a3ff4e3e2",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/rotor-volgograd-vs-fakel-voronezh-2330-20-03-2026/601313407"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-5b415cde7b",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/19819f46e2bf283421aec3beb564a2d0/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/rotor-volgograd-vs-fakel-voronezh-2330-20-03-2026/601313407"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Russian National Football League",
+            "team_a": "Rotor Volgograd",
+            "team_b": "Fakel Voronezh",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/6ae485ecee17acfc249fa06c8500d0a0.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/30c9a3c424abbef33fd4f1d00eb09b0c.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1c0af9993f09.png?v=1774027361",
+            "thumb_key": "thumbs/kaytee-1c0af9993f09.webp"
           }
         }
       ]
@@ -518,7 +777,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c7ae22b8487c.png?v=1774025828",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c7ae22b8487c.png?v=1774027359",
             "width": 1600,
             "height": 1200
           },
@@ -573,7 +832,7 @@
             "team_b": "Ethan Quinn",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/98e8579d1e2bc4fb0dba8274afd761f3.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/24d88e803c160ef313397e38631417c9.webp",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c7ae22b8487c.png?v=1774025828",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c7ae22b8487c.png?v=1774027359",
             "thumb_key": "thumbs/kaytee-c7ae22b8487c.webp"
           }
         }
@@ -596,7 +855,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5c47bf1a5734.png?v=1774025828",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5c47bf1a5734.png?v=1774027359",
             "width": 1600,
             "height": 1200
           },
@@ -651,7 +910,7 @@
             "team_b": "Riko GUNJI",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/d7a14d64e4da3ddaed23b91ee57f1ba9.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/800ba46323707241529172b020986363.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5c47bf1a5734.png?v=1774025828",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5c47bf1a5734.png?v=1774027359",
             "thumb_key": "thumbs/kaytee-5c47bf1a5734.webp"
           }
         },
@@ -665,7 +924,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e97a42c4686a.png?v=1774025829",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e97a42c4686a.png?v=1774027362",
             "width": 1600,
             "height": 1200
           },
@@ -720,7 +979,7 @@
             "team_b": "HU Zhe An",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/8df073cf885b46498506eeff12bcd142.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/71e247724e5e29fb765f8414b72e6ede.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e97a42c4686a.png?v=1774025829",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e97a42c4686a.png?v=1774027362",
             "thumb_key": "thumbs/kaytee-e97a42c4686a.webp"
           }
         }
