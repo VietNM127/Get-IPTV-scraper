@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-21T03:14:38.774275",
+  "updated_at": "2026-03-21T04:21:15.549207",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -18,8 +18,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-87042d7b7000",
-          "name": "⚽ Glenorchy Knights (w) vs Devonport Strikers (w) | 08:15",
+          "id": "kaytee-5b8e319bec84",
+          "name": "⚽ Atletico La Paz vs Alebrijes de Oaxaca | 10:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-87042d7b7000.png?v=1774062873",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5b8e319bec84.png?v=1774066867",
             "width": 1600,
             "height": 1200
           },
@@ -41,27 +41,27 @@
           ],
           "sources": [
             {
-              "id": "src-601326859",
+              "id": "src-601316185",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601326859",
-                  "name": "Glenorchy Knights (w) vs Devonport Strikers (w)",
+                  "id": "ct-601316185",
+                  "name": "Atletico La Paz vs Alebrijes de Oaxaca",
                   "streams": [
                     {
-                      "id": "st-601326859",
+                      "id": "st-601316185",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-764dc00eca",
+                          "id": "lnk-702adab8e7",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live.alilicloud.com/live/dd3b40d848c6b82a80080b685706922e/playlist.m3u8",
+                          "url": "https://live.alilicloud.com/live/2e7118eab6afc22b227ea001e8927096/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/glenorchy-knights-w-vs-devonport-strikers-w-0815-21-03-2026/601326859"
+                              "value": "https://bunchatv1.net/truc-tiep/atletico-la-paz-vs-alebrijes-de-oaxaca-1000-21-03-2026/601316185"
                             },
                             {
                               "key": "User-Agent",
@@ -77,220 +77,13 @@
             }
           ],
           "org_metadata": {
-            "league": "Australia TSAmania Women's Super League",
-            "team_a": "Glenorchy Knights (w)",
-            "team_b": "Devonport Strikers (w)",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/c47f3abff391da0484c6078eb53571ec.webp",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/8df04d2bceeeb64156b25126989395a1.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-87042d7b7000.png?v=1774062873",
-            "thumb_key": "thumbs/kaytee-87042d7b7000.webp"
-          }
-        },
-        {
-          "id": "kaytee-2349f1c7e400",
-          "name": "⚽ Auckland FC vs FC Macarthur | 09:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2349f1c7e400.png?v=1774062874",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601316164",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601316164",
-                  "name": "Auckland FC vs FC Macarthur",
-                  "streams": [
-                    {
-                      "id": "st-601316164",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0c0d6cbe30",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bdf91170a6a_88642/index.m3u8?expire=1774662545&sign=7dad678e5cdbcdc203bf3960222733e2",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/auckland-fc-vs-fc-macarthur-0900-21-03-2026/601316164"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Australia A-League",
-            "team_a": "Auckland FC",
-            "team_b": "FC Macarthur",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/6eae40b446299cfb06316430ae387475.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/cfa3dbe7828b0928285c243375cbae24.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2349f1c7e400.png?v=1774062874",
-            "thumb_key": "thumbs/kaytee-2349f1c7e400.webp"
-          }
-        },
-        {
-          "id": "kaytee-63edf0c29fac",
-          "name": "⚽ Guadalupe FC vs Sporting San Jose | 09:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-63edf0c29fac.png?v=1774062875",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601316167",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601316167",
-                  "name": "Guadalupe FC vs Sporting San Jose",
-                  "streams": [
-                    {
-                      "id": "st-601316167",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1da68c00b7",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/c94e2a8b1ef208daefd0c7e288476e15/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/guadalupe-fc-vs-sporting-san-jose-0900-21-03-2026/601316167"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Costa Rica Primera Division",
-            "team_a": "Guadalupe FC",
-            "team_b": "Sporting San Jose",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/4316421ac63df6a85a3805ca3ea90303.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/168fd080867baf21c901a7eafd92ad41.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-63edf0c29fac.png?v=1774062875",
-            "thumb_key": "thumbs/kaytee-63edf0c29fac.webp"
-          }
-        },
-        {
-          "id": "kaytee-2bf0b19e58f6",
-          "name": "⚽ Monterrey (w) vs Chivas Guadalajara (w) | 09:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2bf0b19e58f6.png?v=1774062877",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601316170",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601316170",
-                  "name": "Monterrey (w) vs Chivas Guadalajara (w)",
-                  "streams": [
-                    {
-                      "id": "st-601316170",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4133b41fb4",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/e2549ab65b1fa96a092331500f1610e6/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/monterrey-w-vs-chivas-guadalajara-w-0900-21-03-2026/601316170"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Mexico Liga MX Femenil",
-            "team_a": "Monterrey (w)",
-            "team_b": "Chivas Guadalajara (w)",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/c32ddb0be3a23ceca9a2ccfb599438eb.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/1b3145c36b91e56bd3e1329351ad2258.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2bf0b19e58f6.png?v=1774062877",
-            "thumb_key": "thumbs/kaytee-2bf0b19e58f6.webp"
+            "league": "Mexico Ascenso MX",
+            "team_a": "Atletico La Paz",
+            "team_b": "Alebrijes de Oaxaca",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/7e16680bbd661fd90dbf08501ae7a98e.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/96f56d32d59119eb9bf3cab69e9a19f8.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5b8e319bec84.png?v=1774066867",
+            "thumb_key": "thumbs/kaytee-5b8e319bec84.webp"
           }
         },
         {
@@ -303,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3a1f44bb8d11.png?v=1774062878",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3a1f44bb8d11.png?v=1774066869",
             "width": 1600,
             "height": 1200
           },
@@ -375,8 +168,146 @@
             "team_b": "Cruz Azul",
             "logo_a": "https://cdn.rapid-api.icu/football/team/b03a9a46930e9deaf4ed7ba3d7f0271b.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/2addd50487c8f61276d5fff8714f6a5c.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3a1f44bb8d11.png?v=1774062878",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3a1f44bb8d11.png?v=1774066869",
             "thumb_key": "thumbs/kaytee-3a1f44bb8d11.webp"
+          }
+        },
+        {
+          "id": "kaytee-c481d7f08279",
+          "name": "⚽ Hobart Zebras vs Devonport City | 10:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c481d7f08279.png?v=1774066871",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601316191",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601316191",
+                  "name": "Hobart Zebras vs Devonport City",
+                  "streams": [
+                    {
+                      "id": "st-601316191",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c526107f09",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/dcbd403fabf6e90b1b384ce1f2e8b2c5/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/hobart-zebras-vs-devonport-city-1030-21-03-2026/601316191"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Australia Tasmania National Premier League",
+            "team_a": "Hobart Zebras",
+            "team_b": "Devonport City",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/27148464f67d5eee849274fc661cf3d5.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/6b6c9fe9473814369d86c2659b35039c.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c481d7f08279.png?v=1774066871",
+            "thumb_key": "thumbs/kaytee-c481d7f08279.webp"
+          }
+        },
+        {
+          "id": "kaytee-6af6a6dd1ae7",
+          "name": "⚽ Brisbane Roar vs Wellington Phoenix | 11:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6af6a6dd1ae7.png?v=1774066873",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601316209",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601316209",
+                  "name": "Brisbane Roar vs Wellington Phoenix",
+                  "streams": [
+                    {
+                      "id": "st-601316209",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-44f5393fff",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69be16df70a6a_88642/index.m3u8?expire=1774670175&sign=14f4bfbb47cd9361239c387fc09bb284",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/brisbane-roar-vs-wellington-phoenix-1100-21-03-2026/601316209"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Australia A-League",
+            "team_a": "Brisbane Roar",
+            "team_b": "Wellington Phoenix",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/1963b39a28bc14ed984423858194208e.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/bd2e5251a95a8006067d443d020d64e8.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6af6a6dd1ae7.png?v=1774066873",
+            "thumb_key": "thumbs/kaytee-6af6a6dd1ae7.webp"
           }
         }
       ]
@@ -389,8 +320,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-2e940686d7b1",
-          "name": "🏀 Denver Nuggets vs Toronto Raptors | 08:00",
+          "id": "kaytee-65c428731c7d",
+          "name": "🏀 NWS Spirit (W) vs Bulls Academy (W) | 11:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -398,7 +329,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2e940686d7b1.png?v=1774062872",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-65c428731c7d.png?v=1774066875",
             "width": 1600,
             "height": 1200
           },
@@ -412,27 +343,27 @@
           ],
           "sources": [
             {
-              "id": "src-601325569",
+              "id": "src-601315450",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601325569",
-                  "name": "Denver Nuggets vs Toronto Raptors",
+                  "id": "ct-601315450",
+                  "name": "NWS Spirit (W) vs Bulls Academy (W)",
                   "streams": [
                     {
-                      "id": "st-601325569",
+                      "id": "st-601315450",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-dc5b3b716d",
+                          "id": "lnk-6a2e9dcde9",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bde82f70a6a_4733/index.m3u8?expire=1774658223&sign=aeff85231e033f7c1113fba731626b2a",
+                          "url": "https://live.alilicloud.com/live/6d31375af7477966dd052ac80ee7050b/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/denver-nuggets-vs-toronto-raptors-0800-21-03-2026/601325569"
+                              "value": "https://bunchatv1.net/truc-tiep/nws-spirit-w-vs-bulls-academy-w-1100-21-03-2026/601315450"
                             },
                             {
                               "key": "User-Agent",
@@ -448,91 +379,13 @@
             }
           ],
           "org_metadata": {
-            "league": "NBA",
-            "team_a": "Denver Nuggets",
-            "team_b": "Toronto Raptors",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/d734dd7151e82d5c185ed20968505758.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/37dcfa88b83f00183d5fd92eac098699.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2e940686d7b1.png?v=1774062872",
-            "thumb_key": "thumbs/kaytee-2e940686d7b1.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "live_tennis",
-      "name": "🔴 Live 🎾 Tennis",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-1b703451dd70",
-          "name": "🎾 Elena Rybakina vs Putintseva Y. | 07:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1b703451dd70.png?v=1774062871",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601328314",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601328314",
-                  "name": "Elena Rybakina vs Putintseva Y.",
-                  "streams": [
-                    {
-                      "id": "st-601328314",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2dea98153b",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bdfe00326d9_110198/index.m3u8?expire=1774663808&sign=004822494d6e13497677af03bc30dc9c",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/elena-rybakina-vs-putintseva-y-0730-21-03-2026/601328314"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "ATP MIAMI 2026",
-            "team_a": "Elena Rybakina",
-            "team_b": "Putintseva Y.",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/31fed739a2f2ddc2a0cb470d7812c746.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/c78484407664c2e5d9bda23aa022ab8d.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1b703451dd70.png?v=1774062871",
-            "thumb_key": "thumbs/kaytee-1b703451dd70.webp"
+            "league": "Australia New South Wales Women's League",
+            "team_a": "NWS Spirit (W)",
+            "team_b": "Bulls Academy (W)",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/9521849769be7dbc461e7d099a4d9c80.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/a76c1969467081ca2167cc7d9993f29f.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-65c428731c7d.png?v=1774066875",
+            "thumb_key": "thumbs/kaytee-65c428731c7d.webp"
           }
         }
       ]
