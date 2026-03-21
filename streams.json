@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-21T10:13:18.759361",
+  "updated_at": "2026-03-21T10:34:25.724268",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,230 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-8b67ce074a93",
-          "name": "⚽ St George City FA vs Wollongong Wolves | 15:15",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8b67ce074a93.png?v=1774087983",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601316560",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601316560",
-                  "name": "St George City FA vs Wollongong Wolves",
-                  "streams": [
-                    {
-                      "id": "st-601316560",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4efdd6d377",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69be4c1d326d9_73445/index.m3u8?expire=1774683805&sign=b7e3bd272ada070ad0f6d5967b7ea056",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/st-george-city-fa-vs-wollongong-wolves-1515-21-03-2026/601316560"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-e8180c48b1",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/d40f8f8154a4bbfec13fb44367e97703/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/st-george-city-fa-vs-wollongong-wolves-1515-21-03-2026/601316560"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Australia New South Wales Premier League",
-            "team_a": "St George City FA",
-            "team_b": "Wollongong Wolves",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/008068851d82f62413011a3228c3c674.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/efae44ec97227dca2a2b38a19823a2f2.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8b67ce074a93.png?v=1774087983",
-            "thumb_key": "thumbs/kaytee-8b67ce074a93.webp"
-          }
-        },
-        {
-          "id": "kaytee-56de77dfbadc",
-          "name": "⚽ Metrostars SC vs Adelaide City FC | 15:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-56de77dfbadc.png?v=1774087985",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601316566",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601316566",
-                  "name": "Metrostars SC vs Adelaide City FC",
-                  "streams": [
-                    {
-                      "id": "st-601316566",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9b9c2a382d",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/bb15482b9542ae3c5945c13b4763b331/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/metrostars-sc-vs-adelaide-city-fc-1530-21-03-2026/601316566"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "South Australia National Premier Leagues",
-            "team_a": "Metrostars SC",
-            "team_b": "Adelaide City FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/265c51481ea1074a0252b76392ed1e1e.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/144d2ec9191d3ffe5742433c81d1ed5e.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-56de77dfbadc.png?v=1774087985",
-            "thumb_key": "thumbs/kaytee-56de77dfbadc.webp"
-          }
-        },
-        {
-          "id": "kaytee-0903331b7770",
-          "name": "⚽ Hubei Istar vs Guangzhou Dandelion Alpha FC | 15:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0903331b7770.png?v=1774087987",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601316569",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601316569",
-                  "name": "Hubei Istar vs Guangzhou Dandelion Alpha FC",
-                  "streams": [
-                    {
-                      "id": "st-601316569",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d189d41fd2",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/341af4c7fbf379eb8fd640d6fb7fabc7/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/hubei-istar-vs-guangzhou-dandelion-alpha-fc-1530-21-03-2026/601316569"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Chinese Football League 2",
-            "team_a": "Hubei Istar",
-            "team_b": "Guangzhou Dandelion Alpha FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/8eb7e4751d142783aec8a44b1ecaa922.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/69d796093df94d0b2b4ce1a5d2551df0.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0903331b7770.png?v=1774087987",
-            "thumb_key": "thumbs/kaytee-0903331b7770.webp"
-          }
-        },
         {
           "id": "kaytee-458c2ea1c5bc",
           "name": "⚽ Kirivong Sok Sen Chey vs Visakha FC | 15:45",
@@ -251,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-458c2ea1c5bc.png?v=1774087989",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-458c2ea1c5bc.png?v=1774089254",
             "width": 1600,
             "height": 1200
           },
@@ -306,94 +82,8 @@
             "team_b": "Visakha FC",
             "logo_a": "https://cdn.rapid-api.icu/football/team/54ffd9342d725e6ee1b57e6821bb66cf.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/468c14438e05d60cc323f3d08ba928d5.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-458c2ea1c5bc.png?v=1774087989",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-458c2ea1c5bc.png?v=1774089254",
             "thumb_key": "thumbs/kaytee-458c2ea1c5bc.webp"
-          }
-        },
-        {
-          "id": "kaytee-c514ef5632b8",
-          "name": "⚽ Moreton City Excelsior FC vs Rochedale Rovers | 16:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c514ef5632b8.png?v=1774087991",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601316578",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601316578",
-                  "name": "Moreton City Excelsior FC vs Rochedale Rovers",
-                  "streams": [
-                    {
-                      "id": "st-601316578",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-12c5689147",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69be4f4770a6a_74012/index.m3u8?expire=1774684615&sign=4e77a683ed5016f95d00e9ab2aa71dae",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/moreton-city-excelsior-fc-vs-rochedale-rovers-1600-21-03-2026/601316578"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-ffe894d6fc",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/0fff2210411c5ed13057e34fb1ab6236/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/moreton-city-excelsior-fc-vs-rochedale-rovers-1600-21-03-2026/601316578"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Australia National Premier Leagues Queensland",
-            "team_a": "Moreton City Excelsior FC",
-            "team_b": "Rochedale Rovers",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/a3e3ccdb89e29c21ae1908c3597c318f.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/030a377635b3ac3fe5cbb49221594110.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c514ef5632b8.png?v=1774087991",
-            "thumb_key": "thumbs/kaytee-c514ef5632b8.webp"
           }
         },
         {
@@ -406,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0b141bded82c.png?v=1774087993",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0b141bded82c.png?v=1774089256",
             "width": 1600,
             "height": 1200
           },
@@ -478,8 +168,94 @@
             "team_b": "Japan Women",
             "logo_a": "https://cdn.rapid-api.icu/football/team/16e07f20613d448ad440f7445ce8dd5a.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/511ce5ccb966e3fd16d3a8c1b99cc01a.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0b141bded82c.png?v=1774087993",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0b141bded82c.png?v=1774089256",
             "thumb_key": "thumbs/kaytee-0b141bded82c.webp"
+          }
+        },
+        {
+          "id": "kaytee-c514ef5632b8",
+          "name": "⚽ Moreton City Excelsior FC vs Rochedale Rovers | 16:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c514ef5632b8.png?v=1774089258",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601316578",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601316578",
+                  "name": "Moreton City Excelsior FC vs Rochedale Rovers",
+                  "streams": [
+                    {
+                      "id": "st-601316578",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-12c5689147",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69be4f4770a6a_74012/index.m3u8?expire=1774684615&sign=4e77a683ed5016f95d00e9ab2aa71dae",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/moreton-city-excelsior-fc-vs-rochedale-rovers-1600-21-03-2026/601316578"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-ffe894d6fc",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/0fff2210411c5ed13057e34fb1ab6236/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/moreton-city-excelsior-fc-vs-rochedale-rovers-1600-21-03-2026/601316578"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Australia National Premier Leagues Queensland",
+            "team_a": "Moreton City Excelsior FC",
+            "team_b": "Rochedale Rovers",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/a3e3ccdb89e29c21ae1908c3597c318f.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/030a377635b3ac3fe5cbb49221594110.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c514ef5632b8.png?v=1774089258",
+            "thumb_key": "thumbs/kaytee-c514ef5632b8.webp"
           }
         },
         {
@@ -492,7 +268,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8c0df59302e1.png?v=1774087995",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8c0df59302e1.png?v=1774089262",
             "width": 1600,
             "height": 1200
           },
@@ -547,8 +323,258 @@
             "team_b": "LPB Ninh Bình",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/d4ad21b8352e45f8fa49635c778babd0.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/1cba7cb1c7477b57e50a66aa4d9bb5d6.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8c0df59302e1.png?v=1774087995",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8c0df59302e1.png?v=1774089262",
             "thumb_key": "thumbs/kaytee-8c0df59302e1.webp"
+          }
+        },
+        {
+          "id": "kaytee-4e30f64b085e",
+          "name": "⚽ Boluspor vs Bandirmaspor | 17:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4e30f64b085e.png?v=1774089264",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601316710",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601316710",
+                  "name": "Boluspor vs Bandirmaspor",
+                  "streams": [
+                    {
+                      "id": "st-601316710",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bd13975469",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69be663570a6a_103/index.m3u8?expire=1774690485&sign=05fd89fbfb37b19b8450d07e1bdd39f9",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/boluspor-vs-bandirmaspor-1730-21-03-2026/601316710"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-9fbbccbe84",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/643d46f392e55ba5b15084a31699db66/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/boluspor-vs-bandirmaspor-1730-21-03-2026/601316710"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Turkish First League",
+            "team_a": "Boluspor",
+            "team_b": "Bandirmaspor",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/e31af2ae24f05ee698546bbbd8e1c02c.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/9dbbcf5ac9247c588c24a99cc0a0e8f5.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4e30f64b085e.png?v=1774089264",
+            "thumb_key": "thumbs/kaytee-4e30f64b085e.webp"
+          }
+        },
+        {
+          "id": "kaytee-acc87feb9523",
+          "name": "⚽ Serik Belediyespor vs Sakaryaspor | 17:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-acc87feb9523.png?v=1774089265",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601316713",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601316713",
+                  "name": "Serik Belediyespor vs Sakaryaspor",
+                  "streams": [
+                    {
+                      "id": "st-601316713",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-65538ab46e",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69be6a65326d9_133172/index.m3u8?expire=1774691557&sign=fd6f18d97729990b6b8e2c7697ec98fe",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/serik-belediyespor-vs-sakaryaspor-1730-21-03-2026/601316713"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-5b97046474",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/934122dd2ec7be1838ac756bcec38c86/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/serik-belediyespor-vs-sakaryaspor-1730-21-03-2026/601316713"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Turkish First League",
+            "team_a": "Serik Belediyespor",
+            "team_b": "Sakaryaspor",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/97fe3ae85a2bc3840972911fb2d15d45.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/e6e91c21a343706f6d638c2ef87bbf20.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-acc87feb9523.png?v=1774089265",
+            "thumb_key": "thumbs/kaytee-acc87feb9523.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_bóng_rổ",
+      "name": "🔴 Live 🏀 Bóng Rổ",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-8a8683d3feb5",
+          "name": "🏀 Zorya U21 vs FC Shakhtar Donetsk U21 | 16:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8a8683d3feb5.png?v=1774089259",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601313251",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601313251",
+                  "name": "Zorya U21 vs FC Shakhtar Donetsk U21",
+                  "streams": [
+                    {
+                      "id": "st-601313251",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-827fb19839",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/8653cb6a3db07cbcee47db8378d5e5f0/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/zorya-u21-vs-fc-shakhtar-donetsk-u21-1600-21-03-2026/601313251"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ukrainian Youth Team Championship",
+            "team_a": "Zorya U21",
+            "team_b": "FC Shakhtar Donetsk U21",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/a55325fe91fa89cd7d3a888eb223adac.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/40187bced90d7613a4a99ce810b7638e.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8a8683d3feb5.png?v=1774089259",
+            "thumb_key": "thumbs/kaytee-8a8683d3feb5.webp"
           }
         }
       ]
@@ -570,7 +596,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f9d798557eee.png?v=1774087996",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f9d798557eee.png?v=1774089262",
             "width": 1600,
             "height": 1200
           },
@@ -625,86 +651,8 @@
             "team_b": "HU Ke Yuan / LIN Xiang Yi",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/4446b82fe10dc6bf86cf89041be3b9a6.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/3d945d9c62b179fa7c3037dd3e0d21af.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f9d798557eee.png?v=1774087996",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f9d798557eee.png?v=1774089262",
             "thumb_key": "thumbs/kaytee-f9d798557eee.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "upcoming_bóng_đá",
-      "name": "⏳ Sắp Live ⚽ Bóng Đá",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-4e30f64b085e",
-          "name": "⚽ Boluspor vs Bandirmaspor | 17:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4e30f64b085e.png?v=1774087998",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Sắp Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601316710",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601316710",
-                  "name": "Boluspor vs Bandirmaspor",
-                  "streams": [
-                    {
-                      "id": "st-601316710",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bd13975469",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69be663570a6a_103/index.m3u8?expire=1774690485&sign=05fd89fbfb37b19b8450d07e1bdd39f9",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/boluspor-vs-bandirmaspor-1730-21-03-2026/601316710"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Turkish First League",
-            "team_a": "Boluspor",
-            "team_b": "Bandirmaspor",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/e31af2ae24f05ee698546bbbd8e1c02c.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/9dbbcf5ac9247c588c24a99cc0a0e8f5.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4e30f64b085e.png?v=1774087998",
-            "thumb_key": "thumbs/kaytee-4e30f64b085e.webp"
           }
         }
       ]
