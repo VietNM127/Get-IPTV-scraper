@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-21T02:43:31.227493",
+  "updated_at": "2026-03-21T03:14:38.774275",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,161 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-c44cec1912b2",
-          "name": "⚽ Necaxa vs Club Tijuana | 08:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c44cec1912b2.png?v=1774061005",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601316152",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601316152",
-                  "name": "Necaxa vs Club Tijuana",
-                  "streams": [
-                    {
-                      "id": "st-601316152",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1d8e3551ad",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bdeb1a70a6a_73445/index.m3u8?expire=1774658970&sign=3ec7ba733a601dd2938fbfe90e17ffd5",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/necaxa-vs-club-tijuana-0800-21-03-2026/601316152"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-bacf338665",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/58ceb66d40501b03b8768ffe0ca11c3b/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/necaxa-vs-club-tijuana-0800-21-03-2026/601316152"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Mexico Liga MX",
-            "team_a": "Necaxa",
-            "team_b": "Club Tijuana",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/05321a8272ff8e7ff2eb7eae2e0b72a6.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/6090f28bfc40d2169607b23256e5a151.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c44cec1912b2.png?v=1774061005",
-            "thumb_key": "thumbs/kaytee-c44cec1912b2.webp"
-          }
-        },
-        {
-          "id": "kaytee-6a025ab43242",
-          "name": "⚽ Tepatitlan de Morelos vs Venados FC | 08:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6a025ab43242.png?v=1774061007",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601316155",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601316155",
-                  "name": "Tepatitlan de Morelos vs Venados FC",
-                  "streams": [
-                    {
-                      "id": "st-601316155",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d6f0cb2d8c",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/fbd9e146d67411a70b36ea9ff78294cf/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/tepatitlan-de-morelos-vs-venados-fc-0800-21-03-2026/601316155"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Mexico Ascenso MX",
-            "team_a": "Tepatitlan de Morelos",
-            "team_b": "Venados FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/918216791a55f9785f385c94c34cda51.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/c28028bd9f03205a308a016f39e238f6.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6a025ab43242.png?v=1774061007",
-            "thumb_key": "thumbs/kaytee-6a025ab43242.webp"
-          }
-        },
         {
           "id": "kaytee-87042d7b7000",
           "name": "⚽ Glenorchy Knights (w) vs Devonport Strikers (w) | 08:15",
@@ -182,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-87042d7b7000.png?v=1774061008",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-87042d7b7000.png?v=1774062873",
             "width": 1600,
             "height": 1200
           },
@@ -237,7 +82,7 @@
             "team_b": "Devonport Strikers (w)",
             "logo_a": "https://cdn.rapid-api.icu/football/team/c47f3abff391da0484c6078eb53571ec.webp",
             "logo_b": "https://cdn.rapid-api.icu/football/team/8df04d2bceeeb64156b25126989395a1.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-87042d7b7000.png?v=1774061008",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-87042d7b7000.png?v=1774062873",
             "thumb_key": "thumbs/kaytee-87042d7b7000.webp"
           }
         },
@@ -251,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2349f1c7e400.png?v=1774061009",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2349f1c7e400.png?v=1774062874",
             "width": 1600,
             "height": 1200
           },
@@ -306,8 +151,232 @@
             "team_b": "FC Macarthur",
             "logo_a": "https://cdn.rapid-api.icu/football/team/6eae40b446299cfb06316430ae387475.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/cfa3dbe7828b0928285c243375cbae24.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2349f1c7e400.png?v=1774061009",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2349f1c7e400.png?v=1774062874",
             "thumb_key": "thumbs/kaytee-2349f1c7e400.webp"
+          }
+        },
+        {
+          "id": "kaytee-63edf0c29fac",
+          "name": "⚽ Guadalupe FC vs Sporting San Jose | 09:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-63edf0c29fac.png?v=1774062875",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601316167",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601316167",
+                  "name": "Guadalupe FC vs Sporting San Jose",
+                  "streams": [
+                    {
+                      "id": "st-601316167",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1da68c00b7",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/c94e2a8b1ef208daefd0c7e288476e15/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/guadalupe-fc-vs-sporting-san-jose-0900-21-03-2026/601316167"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Costa Rica Primera Division",
+            "team_a": "Guadalupe FC",
+            "team_b": "Sporting San Jose",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/4316421ac63df6a85a3805ca3ea90303.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/168fd080867baf21c901a7eafd92ad41.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-63edf0c29fac.png?v=1774062875",
+            "thumb_key": "thumbs/kaytee-63edf0c29fac.webp"
+          }
+        },
+        {
+          "id": "kaytee-2bf0b19e58f6",
+          "name": "⚽ Monterrey (w) vs Chivas Guadalajara (w) | 09:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2bf0b19e58f6.png?v=1774062877",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601316170",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601316170",
+                  "name": "Monterrey (w) vs Chivas Guadalajara (w)",
+                  "streams": [
+                    {
+                      "id": "st-601316170",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4133b41fb4",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/e2549ab65b1fa96a092331500f1610e6/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/monterrey-w-vs-chivas-guadalajara-w-0900-21-03-2026/601316170"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Mexico Liga MX Femenil",
+            "team_a": "Monterrey (w)",
+            "team_b": "Chivas Guadalajara (w)",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/c32ddb0be3a23ceca9a2ccfb599438eb.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/1b3145c36b91e56bd3e1329351ad2258.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2bf0b19e58f6.png?v=1774062877",
+            "thumb_key": "thumbs/kaytee-2bf0b19e58f6.webp"
+          }
+        },
+        {
+          "id": "kaytee-3a1f44bb8d11",
+          "name": "⚽ Mazatlan FC vs Cruz Azul | 10:06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3a1f44bb8d11.png?v=1774062878",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601316188",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601316188",
+                  "name": "Mazatlan FC vs Cruz Azul",
+                  "streams": [
+                    {
+                      "id": "st-601316188",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-34a057e99a",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69be049d326d9_6308/index.m3u8?expire=1774665501&sign=dd16799795f29826511279f3b32c9d93",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/mazatlan-fc-vs-cruz-azul-1006-21-03-2026/601316188"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-6aa2e35374",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/c12190a49693aa7b6de1856a9812267a/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/mazatlan-fc-vs-cruz-azul-1006-21-03-2026/601316188"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Mexico Liga MX",
+            "team_a": "Mazatlan FC",
+            "team_b": "Cruz Azul",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/b03a9a46930e9deaf4ed7ba3d7f0271b.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/2addd50487c8f61276d5fff8714f6a5c.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3a1f44bb8d11.png?v=1774062878",
+            "thumb_key": "thumbs/kaytee-3a1f44bb8d11.webp"
           }
         }
       ]
@@ -320,144 +389,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-cb522b8d6bfa",
-          "name": "🏀 Houston Rockets vs Atlanta Hawks | 07:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cb522b8d6bfa.png?v=1774061003",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601325560",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601325560",
-                  "name": "Houston Rockets vs Atlanta Hawks",
-                  "streams": [
-                    {
-                      "id": "st-601325560",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-37ad9c72e0",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bddfa6326d9_85706/index.m3u8?expire=1774656038&sign=f4fdaa77bc61f47706a343b766f3b35a",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/houston-rockets-vs-atlanta-hawks-0700-21-03-2026/601325560"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "NBA",
-            "team_a": "Houston Rockets",
-            "team_b": "Atlanta Hawks",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/f2ccea244e52871508761dd546e14a53.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/b67c5f346054d8cbb66779e320b0332c.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cb522b8d6bfa.png?v=1774061003",
-            "thumb_key": "thumbs/kaytee-cb522b8d6bfa.webp"
-          }
-        },
-        {
-          "id": "kaytee-94cc9d0943cc",
-          "name": "🏀 Minnesota Timberwolves vs Portland Trail Blazers | 07:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-94cc9d0943cc.png?v=1774061003",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601325566",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601325566",
-                  "name": "Minnesota Timberwolves vs Portland Trail Blazers",
-                  "streams": [
-                    {
-                      "id": "st-601325566",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c92bdb5462",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bddf6670a6a_142210/index.m3u8?expire=1774655974&sign=217b7b7e8d0a28658f6d82fbd3dd2fe0",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/minnesota-timberwolves-vs-portland-trail-blazers-0700-21-03-2026/601325566"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "NBA",
-            "team_a": "Minnesota Timberwolves",
-            "team_b": "Portland Trail Blazers",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/5d206ae1f29b3de6ba81f7a06cc990d2.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/f6ca7c9e0db3a6efb4753c3a1e3629ed.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-94cc9d0943cc.png?v=1774061003",
-            "thumb_key": "thumbs/kaytee-94cc9d0943cc.webp"
-          }
-        },
-        {
           "id": "kaytee-2e940686d7b1",
           "name": "🏀 Denver Nuggets vs Toronto Raptors | 08:00",
           "type": "single",
@@ -467,7 +398,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2e940686d7b1.png?v=1774061007",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2e940686d7b1.png?v=1774062872",
             "width": 1600,
             "height": 1200
           },
@@ -522,7 +453,7 @@
             "team_b": "Toronto Raptors",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/d734dd7151e82d5c185ed20968505758.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/37dcfa88b83f00183d5fd92eac098699.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2e940686d7b1.png?v=1774061007",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2e940686d7b1.png?v=1774062872",
             "thumb_key": "thumbs/kaytee-2e940686d7b1.webp"
           }
         }
@@ -545,7 +476,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1b703451dd70.png?v=1774061004",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1b703451dd70.png?v=1774062871",
             "width": 1600,
             "height": 1200
           },
@@ -600,86 +531,8 @@
             "team_b": "Putintseva Y.",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/31fed739a2f2ddc2a0cb470d7812c746.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/c78484407664c2e5d9bda23aa022ab8d.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1b703451dd70.png?v=1774061004",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1b703451dd70.png?v=1774062871",
             "thumb_key": "thumbs/kaytee-1b703451dd70.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "upcoming_bóng_đá",
-      "name": "⏳ Sắp Live ⚽ Bóng Đá",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-3a1f44bb8d11",
-          "name": "⚽ Mazatlan FC vs Cruz Azul | 10:06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3a1f44bb8d11.png?v=1774061011",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Sắp Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601316188",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601316188",
-                  "name": "Mazatlan FC vs Cruz Azul",
-                  "streams": [
-                    {
-                      "id": "st-601316188",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-34a057e99a",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69be049d326d9_6308/index.m3u8?expire=1774665501&sign=dd16799795f29826511279f3b32c9d93",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/mazatlan-fc-vs-cruz-azul-1006-21-03-2026/601316188"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Mexico Liga MX",
-            "team_a": "Mazatlan FC",
-            "team_b": "Cruz Azul",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/b03a9a46930e9deaf4ed7ba3d7f0271b.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/2addd50487c8f61276d5fff8714f6a5c.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3a1f44bb8d11.png?v=1774061011",
-            "thumb_key": "thumbs/kaytee-3a1f44bb8d11.webp"
           }
         }
       ]
