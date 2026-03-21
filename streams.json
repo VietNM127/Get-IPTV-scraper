@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-21T14:00:39.983620",
+  "updated_at": "2026-03-21T14:33:31.197588",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -18,8 +18,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-5bd2b9f4eac8",
-          "name": "⚽ Herfolge Boldklub Koge vs Lyngby | 19:00",
+          "id": "kaytee-b948cb35eb13",
+          "name": "⚽ Rayong FC vs Dragon Pathumwan Kanchanaburi FC | 19:30",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5bd2b9f4eac8.png?v=1774101621",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b948cb35eb13.png?v=1774103594",
             "width": 1600,
             "height": 1200
           },
@@ -41,27 +41,27 @@
           ],
           "sources": [
             {
-              "id": "src-601316935",
+              "id": "src-601317133",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601316935",
-                  "name": "Herfolge Boldklub Koge vs Lyngby",
+                  "id": "ct-601317133",
+                  "name": "Rayong FC vs Dragon Pathumwan Kanchanaburi FC",
                   "streams": [
                     {
-                      "id": "st-601316935",
+                      "id": "st-601317133",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-53e6390231",
+                          "id": "lnk-12a62382a4",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live.alilicloud.com/live/5a668f084ee17d3af108f38371b50fc8/playlist.m3u8",
+                          "url": "https://live.alilicloud.com/live/f3de120991d679409f9d63a8f8543670/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/herfolge-boldklub-koge-vs-lyngby-1900-21-03-2026/601316935"
+                              "value": "https://bunchatv1.net/truc-tiep/rayong-fc-vs-dragon-pathumwan-kanchanaburi-fc-1930-21-03-2026/601317133"
                             },
                             {
                               "key": "User-Agent",
@@ -77,495 +77,13 @@
             }
           ],
           "org_metadata": {
-            "league": "Danish 1st Division",
-            "team_a": "Herfolge Boldklub Koge",
-            "team_b": "Lyngby",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/e2327b00630961b1080012fbc4d7bdac.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/9deba7b0f9ec5e04d2e3db91ae681d91.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5bd2b9f4eac8.png?v=1774101621",
-            "thumb_key": "thumbs/kaytee-5bd2b9f4eac8.webp"
-          }
-        },
-        {
-          "id": "kaytee-de2a0e3181ff",
-          "name": "⚽ Juventus U20 vs AC Milan U20 | 19:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-de2a0e3181ff.png?v=1774101623",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601316959",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601316959",
-                  "name": "Juventus U20 vs AC Milan U20",
-                  "streams": [
-                    {
-                      "id": "st-601316959",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ce4e65c780",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/53bc0215f84546ccca9281980ab78e0e/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/juventus-u20-vs-ac-milan-u20-1900-21-03-2026/601316959"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Italian Campionato Primavera 1",
-            "team_a": "Juventus U20",
-            "team_b": "AC Milan U20",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/df779a10612c24a6fcd4885ba3767f7e.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/f5ba4b2e365f97788217773698d9ac75.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-de2a0e3181ff.png?v=1774101623",
-            "thumb_key": "thumbs/kaytee-de2a0e3181ff.webp"
-          }
-        },
-        {
-          "id": "kaytee-be309b6606bc",
-          "name": "⚽ SV Elversberg vs Arminia Bielefeld | 19:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-be309b6606bc.png?v=1774101625",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601316962",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601316962",
-                  "name": "SV Elversberg vs Arminia Bielefeld",
-                  "streams": [
-                    {
-                      "id": "st-601316962",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-79b167fa9a",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69be7aa5326d9_74012/index.m3u8?expire=1774695717&sign=ff700075643407c11e3221cfd3bc409c",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/sv-elversberg-vs-arminia-bielefeld-1900-21-03-2026/601316962"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-02184e7e30",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/84720dc534a8f0463ba0fd398d277971/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/sv-elversberg-vs-arminia-bielefeld-1900-21-03-2026/601316962"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "German Bundesliga 2",
-            "team_a": "SV Elversberg",
-            "team_b": "Arminia Bielefeld",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/20f905fb0975e88482cf157ad9da4874.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/8739d9ef9a67d757cc8ef67d12c58f62.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-be309b6606bc.png?v=1774101625",
-            "thumb_key": "thumbs/kaytee-be309b6606bc.webp"
-          }
-        },
-        {
-          "id": "kaytee-ea961c8507f2",
-          "name": "⚽ Arsenal (w) vs West Ham United (w) | 19:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ea961c8507f2.png?v=1774101627",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601316980",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601316980",
-                  "name": "Arsenal (w) vs West Ham United (w)",
-                  "streams": [
-                    {
-                      "id": "st-601316980",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-272a8408fd",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/409e46067c0d2b84e6de16908292d326/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/arsenal-w-vs-west-ham-united-w-1900-21-03-2026/601316980"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "English FA Women's Super League",
-            "team_a": "Arsenal (w)",
-            "team_b": "West Ham United (w)",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/b61190e348449a746ef3f802e7ebc701.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/f6fd9013a1e10442708bc6e9d09ee236.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ea961c8507f2.png?v=1774101627",
-            "thumb_key": "thumbs/kaytee-ea961c8507f2.webp"
-          }
-        },
-        {
-          "id": "kaytee-0dcfacc567a1",
-          "name": "⚽ Viettel FC vs TDTT Bac Ninh | 19:15",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0dcfacc567a1.png?v=1774101629",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601317085",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601317085",
-                  "name": "Viettel FC vs TDTT Bac Ninh",
-                  "streams": [
-                    {
-                      "id": "st-601317085",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8142a5e156",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69be825f326da_88642/index.m3u8?expire=1774697695&sign=c9dde385f2912d9751fcc27ae99b2ea3",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/viettel-fc-vs-tdtt-bac-ninh-1915-21-03-2026/601317085"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-d921d395d6",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/7904a4cc5a2ba9bb8a89252514bb7ff8/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/viettel-fc-vs-tdtt-bac-ninh-1915-21-03-2026/601317085"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Vietnam National Cup",
-            "team_a": "Viettel FC",
-            "team_b": "TDTT Bac Ninh",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/840e2d7165cf2a34ec6c65a1fd9b58a9.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/40b7d679de613aedfb80bcaba85fa7e0.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0dcfacc567a1.png?v=1774101629",
-            "thumb_key": "thumbs/kaytee-0dcfacc567a1.webp"
-          }
-        },
-        {
-          "id": "kaytee-3227a3ced0dc",
-          "name": "⚽ Blackburn Rovers vs Middlesbrough | 19:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3227a3ced0dc.png?v=1774101631",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601317097",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601317097",
-                  "name": "Blackburn Rovers vs Middlesbrough",
-                  "streams": [
-                    {
-                      "id": "st-601317097",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1afed7a3c1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69be8f50326da_133172/index.m3u8?expire=1774701008&sign=82108aad0405205b655aa6b2c253d422",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/blackburn-rovers-vs-middlesbrough-1930-21-03-2026/601317097"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-c52314ee3a",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/1f741fee367e2e8d73dfab6d164006bb/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/blackburn-rovers-vs-middlesbrough-1930-21-03-2026/601317097"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "English Football League Championship",
-            "team_a": "Blackburn Rovers",
-            "team_b": "Middlesbrough",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/d8ae192476c8c5883682978c994ebe5b.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/f08f87259dc2abc1449b67081e8b7f83.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3227a3ced0dc.png?v=1774101631",
-            "thumb_key": "thumbs/kaytee-3227a3ced0dc.webp"
-          }
-        },
-        {
-          "id": "kaytee-66288fc89239",
-          "name": "⚽ Derby County vs Birmingham City | 19:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-66288fc89239.png?v=1774101633",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601317100",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601317100",
-                  "name": "Derby County vs Birmingham City",
-                  "streams": [
-                    {
-                      "id": "st-601317100",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-85f859ebe1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69be834570a6a_44731/index.m3u8?expire=1774697925&sign=083b38446de1ac7caa7074c61065a9a3",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/derby-county-vs-birmingham-city-1930-21-03-2026/601317100"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-3c98a81435",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/076c84de9c30ff1b8509f55d3037ed5c/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/derby-county-vs-birmingham-city-1930-21-03-2026/601317100"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "English Football League Championship",
-            "team_a": "Derby County",
-            "team_b": "Birmingham City",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/31cb07e323671e2442b8cb2a2e26693d.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/2acb7fc9250a5b52c5e6248039d25d2e.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-66288fc89239.png?v=1774101633",
-            "thumb_key": "thumbs/kaytee-66288fc89239.webp"
+            "league": "Hilux Revo Thai League",
+            "team_a": "Rayong FC",
+            "team_b": "Dragon Pathumwan Kanchanaburi FC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/e968db5c732912f533c10dd5eb9da8fd.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/0531d7b245f7958fca4b19150e6ba42f.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b948cb35eb13.png?v=1774103594",
+            "thumb_key": "thumbs/kaytee-b948cb35eb13.webp"
           }
         },
         {
@@ -578,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-efe4227fb4c5.png?v=1774101635",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-efe4227fb4c5.png?v=1774103596",
             "width": 1600,
             "height": 1200
           },
@@ -667,8 +185,77 @@
             "team_b": "Liverpool",
             "logo_a": "https://cdn.rapid-api.icu/football/team/9b43a690d5a09f1e319f036821e8e1d3.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/1cb3d08adac0e2dc1c4f10429d055bfe.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-efe4227fb4c5.png?v=1774101635",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-efe4227fb4c5.png?v=1774103596",
             "thumb_key": "thumbs/kaytee-efe4227fb4c5.webp"
+          }
+        },
+        {
+          "id": "kaytee-9296de1f4c2d",
+          "name": "⚽ Vitalo vs Musongati FC | 20:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9296de1f4c2d.png?v=1774103598",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601315321",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601315321",
+                  "name": "Vitalo vs Musongati FC",
+                  "streams": [
+                    {
+                      "id": "st-601315321",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-742e6fc1ae",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/367f6176ac278e6b55b69648cec6a9f5/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/vitalo-vs-musongati-fc-2000-21-03-2026/601315321"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Burundi Premier League",
+            "team_a": "Vitalo",
+            "team_b": "Musongati FC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/04c9c80fc519861d615dec2c6226534f.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/88897253e19572f9733a6cb98ce0439d.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9296de1f4c2d.png?v=1774103598",
+            "thumb_key": "thumbs/kaytee-9296de1f4c2d.webp"
           }
         },
         {
@@ -681,7 +268,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-43472e453fb9.png?v=1774101636",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-43472e453fb9.png?v=1774103600",
             "width": 1600,
             "height": 1200
           },
@@ -753,8 +340,361 @@
             "team_b": "RCD Mallorca",
             "logo_a": "https://cdn.rapid-api.icu/football/team/e5ecd0553885f1a3af731758dddce2ec.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/fdef90456d2a2eee09976c558457aec7.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-43472e453fb9.png?v=1774101636",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-43472e453fb9.png?v=1774103600",
             "thumb_key": "thumbs/kaytee-43472e453fb9.webp"
+          }
+        },
+        {
+          "id": "kaytee-10c170575fd5",
+          "name": "⚽ Flambeau du Centre vs Garage FC | 20:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-10c170575fd5.png?v=1774103603",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601315492",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601315492",
+                  "name": "Flambeau du Centre vs Garage FC",
+                  "streams": [
+                    {
+                      "id": "st-601315492",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b3024d46f6",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/a78bb221f9bec8b4212b2d64cb5585c7/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/flambeau-du-centre-vs-garage-fc-2000-21-03-2026/601315492"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Burundi Premier League",
+            "team_a": "Flambeau du Centre",
+            "team_b": "Garage FC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/1733112bfe46917f031ad2a7b8876058.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/9067ec489134276fff0c2f990473f75d.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-10c170575fd5.png?v=1774103603",
+            "thumb_key": "thumbs/kaytee-10c170575fd5.webp"
+          }
+        },
+        {
+          "id": "kaytee-d6e8ab2168f4",
+          "name": "⚽ Parma vs Cremonese | 21:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d6e8ab2168f4.png?v=1774103604",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601317784",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601317784",
+                  "name": "Parma vs Cremonese",
+                  "streams": [
+                    {
+                      "id": "st-601317784",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-30727f6183",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69be8d3270a6a_103/index.m3u8?expire=1774700466&sign=d5b33eac886911673658ee26d2eb1368",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/parma-vs-cremonese-2100-21-03-2026/601317784"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-5135bb2121",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/d8e1b28065474ebece695a925fa2062d/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/parma-vs-cremonese-2100-21-03-2026/601317784"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Italian Serie A",
+            "team_a": "Parma",
+            "team_b": "Cremonese",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/9fadd87d190982c8082dddf1567e0b9b.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/0b0e25267dabd15c405070329df5fbdb.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d6e8ab2168f4.png?v=1774103604",
+            "thumb_key": "thumbs/kaytee-d6e8ab2168f4.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_bóng_đá",
+      "name": "⏳ Sắp Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-fed3c4ce9ca6",
+          "name": "⚽ FC Bayern Munich vs 1. FC Union Berlin | 21:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fed3c4ce9ca6.png?v=1774103606",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601318114",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601318114",
+                  "name": "FC Bayern Munich vs 1. FC Union Berlin",
+                  "streams": [
+                    {
+                      "id": "st-601318114",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-51800a4fc0",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69be9bac326da_72787/index.m3u8?expire=1774704172&sign=fb0685ae9b64588e9eac9c72b7dd917f",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/fc-bayern-munich-vs-1-fc-union-berlin-2130-21-03-2026/601318114"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-e19927b121",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69beaa3c326da_44731/index.m3u8?expire=1774707900&sign=3c17775711277f6ab34f62acaf3fbfad",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/fc-bayern-munich-vs-1-fc-union-berlin-2130-21-03-2026/601318114"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-31d74b902d",
+                          "name": "Link 3",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/902104fd4f28d70760c51cc16abebd9b/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/fc-bayern-munich-vs-1-fc-union-berlin-2130-21-03-2026/601318114"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Bundesliga",
+            "team_a": "FC Bayern Munich",
+            "team_b": "1. FC Union Berlin",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/ef19a84a6745fe57aa786873d2b18e8a.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/45ab4c846b0d4df5b002c571b16112dc.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fed3c4ce9ca6.png?v=1774103606",
+            "thumb_key": "thumbs/kaytee-fed3c4ce9ca6.webp"
+          }
+        },
+        {
+          "id": "kaytee-a0f9cbe5fa6f",
+          "name": "⚽ Fulham vs Burnley | 22:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a0f9cbe5fa6f.png?v=1774103608",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601318207",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601318207",
+                  "name": "Fulham vs Burnley",
+                  "streams": [
+                    {
+                      "id": "st-601318207",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-28880dfe9e",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bea350326da_6308/index.m3u8?expire=1774706128&sign=4b607a819777dd0fae3ed838aa088e11",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/fulham-vs-burnley-2200-21-03-2026/601318207"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-cedc4af7ce",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/a6919eec8807b155962478276a3daa6a/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/fulham-vs-burnley-2200-21-03-2026/601318207"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Premier League",
+            "team_a": "Fulham",
+            "team_b": "Burnley",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/29982511f1ea861967c3e6478d6a8a68.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/1091af5aa9fc4a30411785954edb9159.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a0f9cbe5fa6f.png?v=1774103608",
+            "thumb_key": "thumbs/kaytee-a0f9cbe5fa6f.webp"
           }
         }
       ]
@@ -776,7 +716,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f9d798557eee.png?v=1774101639",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f9d798557eee.png?v=1774103611",
             "width": 1600,
             "height": 1200
           },
@@ -831,7 +771,7 @@
             "team_b": "Isharani BARUAH",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/d7a14d64e4da3ddaed23b91ee57f1ba9.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/32b86b756560858db719ea1015c69b60.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f9d798557eee.png?v=1774101639",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f9d798557eee.png?v=1774103611",
             "thumb_key": "thumbs/kaytee-f9d798557eee.webp"
           }
         }
