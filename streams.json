@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-21T10:47:15.852862",
+  "updated_at": "2026-03-21T10:58:56.905041",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,161 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-458c2ea1c5bc",
-          "name": "⚽ Kirivong Sok Sen Chey vs Visakha FC | 15:45",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-458c2ea1c5bc.png?v=1774090023",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601316572",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601316572",
-                  "name": "Kirivong Sok Sen Chey vs Visakha FC",
-                  "streams": [
-                    {
-                      "id": "st-601316572",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9c39065ea2",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/c16cfec293909461c08a4505c2a5567a/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/kirivong-sok-sen-chey-vs-visakha-fc-1545-21-03-2026/601316572"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Cambodian Premier League",
-            "team_a": "Kirivong Sok Sen Chey",
-            "team_b": "Visakha FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/54ffd9342d725e6ee1b57e6821bb66cf.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/468c14438e05d60cc323f3d08ba928d5.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-458c2ea1c5bc.png?v=1774090023",
-            "thumb_key": "thumbs/kaytee-458c2ea1c5bc.webp"
-          }
-        },
-        {
-          "id": "kaytee-0b141bded82c",
-          "name": "⚽ Australia Women vs Japan Women | 16:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0b141bded82c.png?v=1774090025",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601316575",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601316575",
-                  "name": "Australia Women vs Japan Women",
-                  "streams": [
-                    {
-                      "id": "st-601316575",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-89202e3d70",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b63618326d8_136682/index.m3u8?expire=1774153880&sign=214c3566cc2a40fdd0de7fa5ab22015b",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/australia-women-vs-japan-women-1600-21-03-2026/601316575"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-12645239b5",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/c36a4fe1be524c95798b3535108f7955/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/australia-women-vs-japan-women-1600-21-03-2026/601316575"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Women’s Asian Cup",
-            "team_a": "Australia Women",
-            "team_b": "Japan Women",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/16e07f20613d448ad440f7445ce8dd5a.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/511ce5ccb966e3fd16d3a8c1b99cc01a.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0b141bded82c.png?v=1774090025",
-            "thumb_key": "thumbs/kaytee-0b141bded82c.webp"
-          }
-        },
         {
           "id": "kaytee-c514ef5632b8",
           "name": "⚽ Moreton City Excelsior FC vs Rochedale Rovers | 16:00",
@@ -182,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c514ef5632b8.png?v=1774090027",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c514ef5632b8.png?v=1774090721",
             "width": 1600,
             "height": 1200
           },
@@ -254,8 +99,215 @@
             "team_b": "Rochedale Rovers",
             "logo_a": "https://cdn.rapid-api.icu/football/team/a3e3ccdb89e29c21ae1908c3597c318f.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/030a377635b3ac3fe5cbb49221594110.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c514ef5632b8.png?v=1774090027",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c514ef5632b8.png?v=1774090721",
             "thumb_key": "thumbs/kaytee-c514ef5632b8.webp"
+          }
+        },
+        {
+          "id": "kaytee-f332509fc409",
+          "name": "⚽ Caboolture FC vs Logan Lightning | 16:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f332509fc409.png?v=1774090723",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601316581",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601316581",
+                  "name": "Caboolture FC vs Logan Lightning",
+                  "streams": [
+                    {
+                      "id": "st-601316581",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3feca7ca74",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/82a9d4361b9531a437af859eaeda7b59/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/caboolture-fc-vs-logan-lightning-1600-21-03-2026/601316581"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Australia Queensland State League 1",
+            "team_a": "Caboolture FC",
+            "team_b": "Logan Lightning",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/335dad7f811f451658b42b2688eef5a9.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/fe2e6a095e8db9a20e494635a93f579e.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f332509fc409.png?v=1774090723",
+            "thumb_key": "thumbs/kaytee-f332509fc409.webp"
+          }
+        },
+        {
+          "id": "kaytee-c0b77dd5b0f5",
+          "name": "⚽ Tyumen vs Stavropolye-2009 | 16:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c0b77dd5b0f5.png?v=1774090725",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601316593",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601316593",
+                  "name": "Tyumen vs Stavropolye-2009",
+                  "streams": [
+                    {
+                      "id": "st-601316593",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3195e61855",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/8915089cf4615b84743ff70617a67b44/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/tyumen-vs-stavropolye2009-1600-21-03-2026/601316593"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "RUS D3A",
+            "team_a": "Tyumen",
+            "team_b": "Stavropolye-2009",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/648fd9c4461cd9c6c4dce410bb72d8f0.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/2f2381c064084dd359b269dd43f58c18.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c0b77dd5b0f5.png?v=1774090725",
+            "thumb_key": "thumbs/kaytee-c0b77dd5b0f5.webp"
+          }
+        },
+        {
+          "id": "kaytee-df8d91ff1160",
+          "name": "⚽ Okzhetpes vs Ulytau Zhezkazgan | 16:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-df8d91ff1160.png?v=1774090727",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601316596",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601316596",
+                  "name": "Okzhetpes vs Ulytau Zhezkazgan",
+                  "streams": [
+                    {
+                      "id": "st-601316596",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7f1daecd2e",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/bbe7dfbcf168d6921add2790e770a1aa/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/okzhetpes-vs-ulytau-zhezkazgan-1600-21-03-2026/601316596"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Kazakhstan Premier League",
+            "team_a": "Okzhetpes",
+            "team_b": "Ulytau Zhezkazgan",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/0cdeb1ea76b968c9b9147db96e1c6f6f.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/1c0bf62c4b74951819a2f761c3d3b5fe.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-df8d91ff1160.png?v=1774090727",
+            "thumb_key": "thumbs/kaytee-df8d91ff1160.webp"
           }
         },
         {
@@ -268,7 +320,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8c0df59302e1.png?v=1774090031",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8c0df59302e1.png?v=1774090730",
             "width": 1600,
             "height": 1200
           },
@@ -323,7 +375,7 @@
             "team_b": "LPB Ninh Bình",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/d4ad21b8352e45f8fa49635c778babd0.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/1cba7cb1c7477b57e50a66aa4d9bb5d6.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8c0df59302e1.png?v=1774090031",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8c0df59302e1.png?v=1774090730",
             "thumb_key": "thumbs/kaytee-8c0df59302e1.webp"
           }
         },
@@ -337,7 +389,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4e30f64b085e.png?v=1774090033",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4e30f64b085e.png?v=1774090732",
             "width": 1600,
             "height": 1200
           },
@@ -409,7 +461,7 @@
             "team_b": "Bandirmaspor",
             "logo_a": "https://cdn.rapid-api.icu/football/team/e31af2ae24f05ee698546bbbd8e1c02c.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/9dbbcf5ac9247c588c24a99cc0a0e8f5.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4e30f64b085e.png?v=1774090033",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4e30f64b085e.png?v=1774090732",
             "thumb_key": "thumbs/kaytee-4e30f64b085e.webp"
           }
         },
@@ -423,7 +475,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-acc87feb9523.png?v=1774090035",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-acc87feb9523.png?v=1774090734",
             "width": 1600,
             "height": 1200
           },
@@ -495,22 +547,13 @@
             "team_b": "Sakaryaspor",
             "logo_a": "https://cdn.rapid-api.icu/football/team/97fe3ae85a2bc3840972911fb2d15d45.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/e6e91c21a343706f6d638c2ef87bbf20.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-acc87feb9523.png?v=1774090035",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-acc87feb9523.png?v=1774090734",
             "thumb_key": "thumbs/kaytee-acc87feb9523.webp"
           }
-        }
-      ]
-    },
-    {
-      "id": "live_bóng_rổ",
-      "name": "🔴 Live 🏀 Bóng Rổ",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
+        },
         {
-          "id": "kaytee-8a8683d3feb5",
-          "name": "🏀 Zorya U21 vs FC Shakhtar Donetsk U21 | 16:00",
+          "id": "kaytee-7ef86e9dd535",
+          "name": "⚽ Septemvri Sofia vs Arda | 17:30",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -518,7 +561,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8a8683d3feb5.png?v=1774090029",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7ef86e9dd535.png?v=1774090736",
             "width": 1600,
             "height": 1200
           },
@@ -532,27 +575,44 @@
           ],
           "sources": [
             {
-              "id": "src-601313251",
+              "id": "src-601316722",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601313251",
-                  "name": "Zorya U21 vs FC Shakhtar Donetsk U21",
+                  "id": "ct-601316722",
+                  "name": "Septemvri Sofia vs Arda",
                   "streams": [
                     {
-                      "id": "st-601313251",
+                      "id": "st-601316722",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-827fb19839",
+                          "id": "lnk-12ce85216d",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live.alilicloud.com/live/8653cb6a3db07cbcee47db8378d5e5f0/playlist.m3u8",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69be6c9e70a6a_79/index.m3u8?expire=1774692126&sign=e3188fdfe42839756f08ef557260da37",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/zorya-u21-vs-fc-shakhtar-donetsk-u21-1600-21-03-2026/601313251"
+                              "value": "https://bunchatv1.net/truc-tiep/septemvri-sofia-vs-arda-1730-21-03-2026/601316722"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-8c7ceb0b03",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/19249b27bcd2fa8675af03cdeffd741e/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/septemvri-sofia-vs-arda-1730-21-03-2026/601316722"
                             },
                             {
                               "key": "User-Agent",
@@ -568,13 +628,13 @@
             }
           ],
           "org_metadata": {
-            "league": "Ukrainian Youth Team Championship",
-            "team_a": "Zorya U21",
-            "team_b": "FC Shakhtar Donetsk U21",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/a55325fe91fa89cd7d3a888eb223adac.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/40187bced90d7613a4a99ce810b7638e.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8a8683d3feb5.png?v=1774090029",
-            "thumb_key": "thumbs/kaytee-8a8683d3feb5.webp"
+            "league": "Bulgarian First League",
+            "team_a": "Septemvri Sofia",
+            "team_b": "Arda",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/a6f81856a35217b82fb2e20d28c3dcab.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/cab5766b591c9836e3095d2471ad6e11.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7ef86e9dd535.png?v=1774090736",
+            "thumb_key": "thumbs/kaytee-7ef86e9dd535.webp"
           }
         }
       ]
@@ -596,7 +656,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f9d798557eee.png?v=1774090032",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f9d798557eee.png?v=1774090731",
             "width": 1600,
             "height": 1200
           },
@@ -651,7 +711,7 @@
             "team_b": "HU Ke Yuan / LIN Xiang Yi",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/4446b82fe10dc6bf86cf89041be3b9a6.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/3d945d9c62b179fa7c3037dd3e0d21af.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f9d798557eee.png?v=1774090032",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f9d798557eee.png?v=1774090731",
             "thumb_key": "thumbs/kaytee-f9d798557eee.webp"
           }
         }
