@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-21T13:02:24.506893",
+  "updated_at": "2026-03-21T13:30:47.241549",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,213 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-c5317c231788",
-          "name": "⚽ Veres Rivne U21 vs Kolos Kovalivka U21 | 18:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c5317c231788.png?v=1774098126",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601313248",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601313248",
-                  "name": "Veres Rivne U21 vs Kolos Kovalivka U21",
-                  "streams": [
-                    {
-                      "id": "st-601313248",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-935369246b",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/7183c0772206b2128079691148eef19b/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/veres-rivne-u21-vs-kolos-kovalivka-u21-1800-21-03-2026/601313248"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Ukrainian Youth Team Championship",
-            "team_a": "Veres Rivne U21",
-            "team_b": "Kolos Kovalivka U21",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/096a24150e021839bf9319755cfbca23.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/23f94da90c69b79d0d869ae5934c539c.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c5317c231788.png?v=1774098126",
-            "thumb_key": "thumbs/kaytee-c5317c231788.webp"
-          }
-        },
-        {
-          "id": "kaytee-ab8cb6a2b0c1",
-          "name": "⚽ Benfica U23 vs Academico Viseu U23 | 18:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ab8cb6a2b0c1.png?v=1774098128",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601316794",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601316794",
-                  "name": "Benfica U23 vs Academico Viseu U23",
-                  "streams": [
-                    {
-                      "id": "st-601316794",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6596f4694d",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/41f68b5b9de624dacca869efd7ed3fa8/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/benfica-u23-vs-academico-viseu-u23-1800-21-03-2026/601316794"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Portuguese U23 League",
-            "team_a": "Benfica U23",
-            "team_b": "Academico Viseu U23",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/f4cbf56fa033e3995f35a10e4738b127.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/d48bf087cac6d7c3f62fb7c8d55f89b5.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ab8cb6a2b0c1.png?v=1774098128",
-            "thumb_key": "thumbs/kaytee-ab8cb6a2b0c1.webp"
-          }
-        },
-        {
-          "id": "kaytee-10f787139213",
-          "name": "⚽ Genoa (W) vs Juventus (w) | 18:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-10f787139213.png?v=1774098130",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601316869",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601316869",
-                  "name": "Genoa (W) vs Juventus (w)",
-                  "streams": [
-                    {
-                      "id": "st-601316869",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-98cbad070f",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/b9d5ac062d0ad227560207888b220477/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/genoa-w-vs-juventus-w-1830-21-03-2026/601316869"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Italian Women's Serie A",
-            "team_a": "Genoa (W)",
-            "team_b": "Juventus (w)",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/6188f2b441fac1e3f3d2bc280d31b4a9.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/d7e0dd2c30416452115958332ba7c4ee.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-10f787139213.png?v=1774098130",
-            "thumb_key": "thumbs/kaytee-10f787139213.webp"
-          }
-        },
         {
           "id": "kaytee-0de494db51d3",
           "name": "⚽ Chonburi Shark FC vs Sukhothai | 18:30",
@@ -234,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0de494db51d3.png?v=1774098131",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0de494db51d3.png?v=1774099831",
             "width": 1600,
             "height": 1200
           },
@@ -289,8 +82,77 @@
             "team_b": "Sukhothai",
             "logo_a": "https://cdn.rapid-api.icu/football/team/d410490bcdb98830e91041cfa544b809.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/92fad199d241f1b19cc80aa749693711.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0de494db51d3.png?v=1774098131",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0de494db51d3.png?v=1774099831",
             "thumb_key": "thumbs/kaytee-0de494db51d3.webp"
+          }
+        },
+        {
+          "id": "kaytee-b6f28e6bef85",
+          "name": "⚽ Alashkert vs FC Pyunik | 18:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b6f28e6bef85.png?v=1774099833",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601316899",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601316899",
+                  "name": "Alashkert vs FC Pyunik",
+                  "streams": [
+                    {
+                      "id": "st-601316899",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8b94521dd3",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/5e8ed0ad6701dfd50c123381b6d60760/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/alashkert-vs-fc-pyunik-1830-21-03-2026/601316899"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Armenian Premier League",
+            "team_a": "Alashkert",
+            "team_b": "FC Pyunik",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/34566a9d9544037e59023eff44faf028.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/73bbf9f60325dd616ffed763f958f36d.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b6f28e6bef85.png?v=1774099833",
+            "thumb_key": "thumbs/kaytee-b6f28e6bef85.webp"
           }
         },
         {
@@ -303,7 +165,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ecda6ce69e6a.png?v=1774098133",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ecda6ce69e6a.png?v=1774099835",
             "width": 1600,
             "height": 1200
           },
@@ -375,13 +237,13 @@
             "team_b": "Chengdu Rongcheng FC",
             "logo_a": "https://cdn.rapid-api.icu/football/team/5be93c1a6628d27de6d39fde9ea94b7a.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/6ade4c9aaa615702eb7ec459e56d1968.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ecda6ce69e6a.png?v=1774098133",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ecda6ce69e6a.png?v=1774099835",
             "thumb_key": "thumbs/kaytee-ecda6ce69e6a.webp"
           }
         },
         {
-          "id": "kaytee-aafb28162211",
-          "name": "⚽ Nanjing Tongxi vs Qingdao | 18:35",
+          "id": "kaytee-f88458675996",
+          "name": "⚽ Qingdao West Coast FC vs Shenzhen Peng City FC | 18:35",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -389,7 +251,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-aafb28162211.png?v=1774098134",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f88458675996.png?v=1774099837",
             "width": 1600,
             "height": 1200
           },
@@ -403,27 +265,27 @@
           ],
           "sources": [
             {
-              "id": "src-601327174",
+              "id": "src-601316908",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601327174",
-                  "name": "Nanjing Tongxi vs Qingdao",
+                  "id": "ct-601316908",
+                  "name": "Qingdao West Coast FC vs Shenzhen Peng City FC",
                   "streams": [
                     {
-                      "id": "st-601327174",
+                      "id": "st-601316908",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-4cfed54ca1",
+                          "id": "lnk-2b5e33b8dd",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69be7f9b326da_42127/index.m3u8?expire=1774696987&sign=e332f79cee247ab5bd0ffeeda8c124e3",
+                          "url": "https://live.alilicloud.com/live/85b6b4fb3ad32a3eb3a41dc3a9104499/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/nanjing-tongxi-vs-qingdao-1835-21-03-2026/601327174"
+                              "value": "https://bunchatv1.net/truc-tiep/qingdao-west-coast-fc-vs-shenzhen-peng-city-fc-1835-21-03-2026/601316908"
                             },
                             {
                               "key": "User-Agent",
@@ -439,82 +301,13 @@
             }
           ],
           "org_metadata": {
-            "league": "CBA",
-            "team_a": "Nanjing Tongxi",
-            "team_b": "Qingdao",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/17b13a0e9c5974c4c26f8a5a5ef4b751.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/0b80c352bd377e1553f11a7de467a22e.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-aafb28162211.png?v=1774098134",
-            "thumb_key": "thumbs/kaytee-aafb28162211.webp"
-          }
-        },
-        {
-          "id": "kaytee-447ab1f81056",
-          "name": "⚽ Shanghai vs Sichuan | 18:35",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-447ab1f81056.png?v=1774098134",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601327180",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601327180",
-                  "name": "Shanghai vs Sichuan",
-                  "streams": [
-                    {
-                      "id": "st-601327180",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-647ee7dc98",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69be828270a6a_112310/index.m3u8?expire=1774697730&sign=3ce46eaf83f3b7ede8835e5af7ce5b14",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/shanghai-vs-sichuan-1835-21-03-2026/601327180"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "CBA",
-            "team_a": "Shanghai",
-            "team_b": "Sichuan",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/f7b28b73e056837ae3e45895fe41029b.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/508d617078d2147908d26c79830fd89f.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-447ab1f81056.png?v=1774098134",
-            "thumb_key": "thumbs/kaytee-447ab1f81056.webp"
+            "league": "Chinese Football Super League",
+            "team_a": "Qingdao West Coast FC",
+            "team_b": "Shenzhen Peng City FC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/383d42e0d0843463b538bc3367d0c4c9.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/b982f4d4215ea40ad21d589498140a56.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f88458675996.png?v=1774099837",
+            "thumb_key": "thumbs/kaytee-f88458675996.webp"
           }
         },
         {
@@ -527,7 +320,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7226f8d26eed.png?v=1774098135",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7226f8d26eed.png?v=1774099837",
             "width": 1600,
             "height": 1200
           },
@@ -582,7 +375,7 @@
             "team_b": "Jilin",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/53a62f36a2b9463970337275ae694013.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/c2bc432d751141757e20527a7ee6291b.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7226f8d26eed.png?v=1774098135",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7226f8d26eed.png?v=1774099837",
             "thumb_key": "thumbs/kaytee-7226f8d26eed.webp"
           }
         },
@@ -596,7 +389,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-be309b6606bc.png?v=1774098137",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-be309b6606bc.png?v=1774099839",
             "width": 1600,
             "height": 1200
           },
@@ -668,7 +461,7 @@
             "team_b": "Arminia Bielefeld",
             "logo_a": "https://cdn.rapid-api.icu/football/team/20f905fb0975e88482cf157ad9da4874.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/8739d9ef9a67d757cc8ef67d12c58f62.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-be309b6606bc.png?v=1774098137",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-be309b6606bc.png?v=1774099839",
             "thumb_key": "thumbs/kaytee-be309b6606bc.webp"
           }
         },
@@ -682,7 +475,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a49634f26df5.png?v=1774098138",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a49634f26df5.png?v=1774099841",
             "width": 1600,
             "height": 1200
           },
@@ -754,77 +547,8 @@
             "team_b": "1. FC Kaiserslautern",
             "logo_a": "https://cdn.rapid-api.icu/football/team/895a263ae5237d0edbaf850a907a59b0.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/6544eff3f60d98faf65649c8bf1c81eb.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a49634f26df5.png?v=1774098138",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a49634f26df5.png?v=1774099841",
             "thumb_key": "thumbs/kaytee-a49634f26df5.webp"
-          }
-        },
-        {
-          "id": "kaytee-214e2319f63b",
-          "name": "⚽ SC Paderborn 07 vs Dynamo Dresden | 19:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-214e2319f63b.png?v=1774098140",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601316968",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601316968",
-                  "name": "SC Paderborn 07 vs Dynamo Dresden",
-                  "streams": [
-                    {
-                      "id": "st-601316968",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3259120f50",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/367b9e7e03fd5643d3d945bba204aeb7/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/sc-paderborn-07-vs-dynamo-dresden-1900-21-03-2026/601316968"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "German Bundesliga 2",
-            "team_a": "SC Paderborn 07",
-            "team_b": "Dynamo Dresden",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/7c8c3c50966c793eba910e18659759a1.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/5b8a3bb282d72348c18e6338dd8d284c.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-214e2319f63b.png?v=1774098140",
-            "thumb_key": "thumbs/kaytee-214e2319f63b.webp"
           }
         },
         {
@@ -837,7 +561,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0dcfacc567a1.png?v=1774098141",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0dcfacc567a1.png?v=1774099843",
             "width": 1600,
             "height": 1200
           },
@@ -909,7 +633,7 @@
             "team_b": "TDTT Bac Ninh",
             "logo_a": "https://cdn.rapid-api.icu/football/team/840e2d7165cf2a34ec6c65a1fd9b58a9.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/40b7d679de613aedfb80bcaba85fa7e0.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0dcfacc567a1.png?v=1774098141",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0dcfacc567a1.png?v=1774099843",
             "thumb_key": "thumbs/kaytee-0dcfacc567a1.webp"
           }
         },
@@ -923,7 +647,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-efe4227fb4c5.png?v=1774098143",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-efe4227fb4c5.png?v=1774099844",
             "width": 1600,
             "height": 1200
           },
@@ -1012,8 +736,94 @@
             "team_b": "Liverpool",
             "logo_a": "https://cdn.rapid-api.icu/football/team/9b43a690d5a09f1e319f036821e8e1d3.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/1cb3d08adac0e2dc1c4f10429d055bfe.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-efe4227fb4c5.png?v=1774098143",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-efe4227fb4c5.png?v=1774099844",
             "thumb_key": "thumbs/kaytee-efe4227fb4c5.webp"
+          }
+        },
+        {
+          "id": "kaytee-43472e453fb9",
+          "name": "⚽ Elche vs RCD Mallorca | 20:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-43472e453fb9.png?v=1774099847",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601317187",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601317187",
+                  "name": "Elche vs RCD Mallorca",
+                  "streams": [
+                    {
+                      "id": "st-601317187",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4344acb440",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69be930970a6a_4908/index.m3u8?expire=1774701961&sign=8e88c06f6ab2109a7d313320f4f15c7d",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/elche-vs-rcd-mallorca-2000-21-03-2026/601317187"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-b729821bc3",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/f54ef6ac9e69f51de9b59e3f8c7ad254/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/elche-vs-rcd-mallorca-2000-21-03-2026/601317187"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Spanish La Liga",
+            "team_a": "Elche",
+            "team_b": "RCD Mallorca",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/e5ecd0553885f1a3af731758dddce2ec.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/fdef90456d2a2eee09976c558457aec7.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-43472e453fb9.png?v=1774099847",
+            "thumb_key": "thumbs/kaytee-43472e453fb9.webp"
           }
         }
       ]
@@ -1035,7 +845,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-034f3baceaae.png?v=1774098124",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-034f3baceaae.png?v=1774099829",
             "width": 1600,
             "height": 1200
           },
@@ -1090,7 +900,7 @@
             "team_b": "Seoul Thunders",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/86532c33f37fb33686a09815b3d6b9c6.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/619420e599f83b1d3616d9faf5397e4e.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-034f3baceaae.png?v=1774098124",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-034f3baceaae.png?v=1774099829",
             "thumb_key": "thumbs/kaytee-034f3baceaae.webp"
           }
         }
@@ -1105,7 +915,7 @@
       "channels": [
         {
           "id": "kaytee-f9d798557eee",
-          "name": "🏸 Pitchamon OPATNIPUTH vs Isharani BARUAH | 19:50",
+          "name": "🏸 Nozomi OKUHARA vs Tanvi Sharma | 20:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1113,7 +923,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f9d798557eee.png?v=1774098144",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f9d798557eee.png?v=1774099845",
             "width": 1600,
             "height": 1200
           },
@@ -1132,7 +942,7 @@
               "contents": [
                 {
                   "id": "ct-601328080",
-                  "name": "Pitchamon OPATNIPUTH vs Isharani BARUAH",
+                  "name": "Nozomi OKUHARA vs Tanvi Sharma",
                   "streams": [
                     {
                       "id": "st-601328080",
@@ -1147,7 +957,7 @@
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/pitchamon-opatniputh-vs-isharani-baruah-1950-21-03-2026/601328080"
+                              "value": "https://bunchatv1.net/truc-tiep/nozomi-okuhara-vs-tanvi-sharma-2000-21-03-2026/601328080"
                             },
                             {
                               "key": "User-Agent",
@@ -1164,11 +974,11 @@
           ],
           "org_metadata": {
             "league": "Sân 1 - Orleans Masters Badminton 2026",
-            "team_a": "Pitchamon OPATNIPUTH",
-            "team_b": "Isharani BARUAH",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/d7a14d64e4da3ddaed23b91ee57f1ba9.jpg",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/32b86b756560858db719ea1015c69b60.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f9d798557eee.png?v=1774098144",
+            "team_a": "Nozomi OKUHARA",
+            "team_b": "Tanvi Sharma",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/c68fb073199e692bf44b0fe2a3d2eb83.jpg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/766a83fd0694c11170d863c1eaca0615.jpg",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f9d798557eee.png?v=1774099845",
             "thumb_key": "thumbs/kaytee-f9d798557eee.webp"
           }
         }
