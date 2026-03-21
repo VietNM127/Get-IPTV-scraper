@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-21T17:15:04.523796",
+  "updated_at": "2026-03-21T17:39:22.384585",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,454 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-8aed6347b26d",
-          "name": "⚽ RCD Espanyol de Barcelona vs Getafe | 22:15",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8aed6347b26d.png?v=1774113290",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601318849",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601318849",
-                  "name": "RCD Espanyol de Barcelona vs Getafe",
-                  "streams": [
-                    {
-                      "id": "st-601318849",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8d046e3594",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69beab7c326da_128756/index.m3u8?expire=1774708220&sign=37b0d91b8156ab34a7cc57637c4d2925",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/rcd-espanyol-de-barcelona-vs-getafe-2215-21-03-2026/601318849"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-5a7a2594e5",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/cb3cb17c73089f1d6fcb59e861ed7383/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/rcd-espanyol-de-barcelona-vs-getafe-2215-21-03-2026/601318849"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Spanish La Liga",
-            "team_a": "RCD Espanyol de Barcelona",
-            "team_b": "Getafe",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/214049d4df11756a2eb21bbd8266e2a1.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/36bf5bf0c8fdf08c1270124808f060e1.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8aed6347b26d.png?v=1774113290",
-            "thumb_key": "thumbs/kaytee-8aed6347b26d.webp"
-          }
-        },
-        {
-          "id": "kaytee-9f82d5dd758a",
-          "name": "⚽ Racing Santander vs Albacete Balompié SAD | 22:15",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9f82d5dd758a.png?v=1774113292",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601318855",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601318855",
-                  "name": "Racing Santander vs Albacete Balompié SAD",
-                  "streams": [
-                    {
-                      "id": "st-601318855",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6358959e25",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/33bf560cc6c7665076232b68b0fc8e50/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/racing-santander-vs-albacete-balompie-sad-2215-21-03-2026/601318855"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Spanish Segunda Division",
-            "team_a": "Racing Santander",
-            "team_b": "Albacete Balompié SAD",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/8db7260a18b1be68e8710cfdbf6be3df.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/a2f731e9147f64082f22b9a561425308.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9f82d5dd758a.png?v=1774113292",
-            "thumb_key": "thumbs/kaytee-9f82d5dd758a.webp"
-          }
-        },
-        {
-          "id": "kaytee-a611f73c8955",
-          "name": "⚽ FC Famalicao vs Nacional da Madeira | 22:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a611f73c8955.png?v=1774113294",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601318882",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601318882",
-                  "name": "FC Famalicao vs Nacional da Madeira",
-                  "streams": [
-                    {
-                      "id": "st-601318882",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-046f3a452a",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/99a1f5500ca2a0961e887c430caac635/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/fc-famalicao-vs-nacional-da-madeira-2230-21-03-2026/601318882"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Portuguese Primera Liga",
-            "team_a": "FC Famalicao",
-            "team_b": "Nacional da Madeira",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/abd59f62f69ef9f59a8121c3baadd882.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/783ce34336f24424a273c5c2403a3cb1.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a611f73c8955.png?v=1774113294",
-            "thumb_key": "thumbs/kaytee-a611f73c8955.webp"
-          }
-        },
-        {
-          "id": "kaytee-ff936d8b4d9a",
-          "name": "⚽ Moreirense vs FC Arouca | 22:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ff936d8b4d9a.png?v=1774113295",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601318885",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601318885",
-                  "name": "Moreirense vs FC Arouca",
-                  "streams": [
-                    {
-                      "id": "st-601318885",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fd20def40f",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69beaaad326da_95554/index.m3u8?expire=1774708013&sign=4e22ab840654584565f9d7443cce548d",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/moreirense-vs-fc-arouca-2230-21-03-2026/601318885"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-0db2d2effa",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/48c895ce6fe04146bcc4d672041e62ec/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/moreirense-vs-fc-arouca-2230-21-03-2026/601318885"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Portuguese Primera Liga",
-            "team_a": "Moreirense",
-            "team_b": "FC Arouca",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/ee5b1bcc98e7232350988a477974fb26.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/04de5924a46acce3fb629534c4e039be.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ff936d8b4d9a.png?v=1774113295",
-            "thumb_key": "thumbs/kaytee-ff936d8b4d9a.webp"
-          }
-        },
-        {
-          "id": "kaytee-04ec22d148c9",
-          "name": "⚽ Fortuna Sittard vs FC Twente Enschede | 22:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-04ec22d148c9.png?v=1774113297",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601318867",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601318867",
-                  "name": "Fortuna Sittard vs FC Twente Enschede",
-                  "streams": [
-                    {
-                      "id": "st-601318867",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-cb95cffd8c",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/82047868dab5ba39a9bbc7457578d328/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/fortuna-sittard-vs-fc-twente-enschede-2230-21-03-2026/601318867"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Netherlands Eredivisie",
-            "team_a": "Fortuna Sittard",
-            "team_b": "FC Twente Enschede",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/622951cb622289cb656f2a1a05edcb13.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/7a2d0c79dd5d8589167c88684ac55aca.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-04ec22d148c9.png?v=1774113297",
-            "thumb_key": "thumbs/kaytee-04ec22d148c9.webp"
-          }
-        },
-        {
-          "id": "kaytee-33f5afb05827",
-          "name": "⚽ Zalaegerszegi TE vs Ujpest FC | 22:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-33f5afb05827.png?v=1774113299",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601318870",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601318870",
-                  "name": "Zalaegerszegi TE vs Ujpest FC",
-                  "streams": [
-                    {
-                      "id": "st-601318870",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-87bcc519da",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/aad0e1f0b5855e62356131575ffcb6b0/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/zalaegerszegi-te-vs-ujpest-fc-2230-21-03-2026/601318870"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "OTP Bank Liga",
-            "team_a": "Zalaegerszegi TE",
-            "team_b": "Ujpest FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/54df405201941cb81a93e9d890b0385d.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/efcb6961b3fe536d5413463e315a7b6a.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-33f5afb05827.png?v=1774113299",
-            "thumb_key": "thumbs/kaytee-33f5afb05827.webp"
-          }
-        },
         {
           "id": "kaytee-c1201aeb29f6",
           "name": "⚽ Toulouse FC vs Lorient | 23:00",
@@ -475,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c1201aeb29f6.png?v=1774113301",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c1201aeb29f6.png?v=1774114753",
             "width": 1600,
             "height": 1200
           },
@@ -547,8 +99,284 @@
             "team_b": "Lorient",
             "logo_a": "https://cdn.rapid-api.icu/football/team/2947fe2f42551a5b7eccca7fc948f879.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/b593727321793084b1f7804aebedc31a.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c1201aeb29f6.png?v=1774113301",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c1201aeb29f6.png?v=1774114753",
             "thumb_key": "thumbs/kaytee-c1201aeb29f6.webp"
+          }
+        },
+        {
+          "id": "kaytee-b8b4edddb8f7",
+          "name": "⚽ Sporting Football des Cascades vs ASF Bobo Dioulasso | 23:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b8b4edddb8f7.png?v=1774114755",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601315540",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601315540",
+                  "name": "Sporting Football des Cascades vs ASF Bobo Dioulasso",
+                  "streams": [
+                    {
+                      "id": "st-601315540",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9f9f1c8dc7",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/e1a3c7c6c62ff4320641c0082861540c/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/sporting-football-des-cascades-vs-asf-bobo-dioulasso-2300-21-03-2026/601315540"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Burkina Faso Division 1",
+            "team_a": "Sporting Football des Cascades",
+            "team_b": "ASF Bobo Dioulasso",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/db8a84992b024e8260c4b350a4d9f95d.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/638bcd1bd439397f381b33178287d372.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b8b4edddb8f7.png?v=1774114755",
+            "thumb_key": "thumbs/kaytee-b8b4edddb8f7.webp"
+          }
+        },
+        {
+          "id": "kaytee-242f93f8d27c",
+          "name": "⚽ Vojvodina Novi Sad vs FK Napredak Krusevac | 23:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-242f93f8d27c.png?v=1774114756",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601318948",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601318948",
+                  "name": "Vojvodina Novi Sad vs FK Napredak Krusevac",
+                  "streams": [
+                    {
+                      "id": "st-601318948",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8d5daf3da9",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/66c00e2876be2b2eadb5dc78735ac1e6/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/vojvodina-novi-sad-vs-fk-napredak-krusevac-2300-21-03-2026/601318948"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Serbian Super liga",
+            "team_a": "Vojvodina Novi Sad",
+            "team_b": "FK Napredak Krusevac",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/40ce8b99981bc3199784a1f6d3a7b26c.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/7d35c67da2b80a3092e25e784ce21762.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-242f93f8d27c.png?v=1774114756",
+            "thumb_key": "thumbs/kaytee-242f93f8d27c.webp"
+          }
+        },
+        {
+          "id": "kaytee-8b921de215a8",
+          "name": "⚽ Umraniyespor vs Pendikspor | 23:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8b921de215a8.png?v=1774114758",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601318975",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601318975",
+                  "name": "Umraniyespor vs Pendikspor",
+                  "streams": [
+                    {
+                      "id": "st-601318975",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c107b8ddd4",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/67da3076b8a584d3ccb33aa71c3eba7b/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/umraniyespor-vs-pendikspor-2300-21-03-2026/601318975"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Turkish First League",
+            "team_a": "Umraniyespor",
+            "team_b": "Pendikspor",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/5704cc856fc5f1ef26cb0d08413d3799.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/9a07394b2cdca16ac436a056d2acd4c9.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8b921de215a8.png?v=1774114758",
+            "thumb_key": "thumbs/kaytee-8b921de215a8.webp"
+          }
+        },
+        {
+          "id": "kaytee-54ff2ea50370",
+          "name": "⚽ Lechia Gdansk vs Pogon Szczecin | 23:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-54ff2ea50370.png?v=1774114760",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601319119",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601319119",
+                  "name": "Lechia Gdansk vs Pogon Szczecin",
+                  "streams": [
+                    {
+                      "id": "st-601319119",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d1faa9f39e",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/c5c286a8da827e82110e4b52cf7a396a/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/lechia-gdansk-vs-pogon-szczecin-2330-21-03-2026/601319119"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "PKO Bank Polski EKSTRAKLASA",
+            "team_a": "Lechia Gdansk",
+            "team_b": "Pogon Szczecin",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/b3cb1dab4929d327b7ee42553a2fef58.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/7b7d2b65c1ee63aee9e79ebafb2f0bc7.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-54ff2ea50370.png?v=1774114760",
+            "thumb_key": "thumbs/kaytee-54ff2ea50370.webp"
           }
         }
       ]
@@ -570,7 +398,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4b97c4ee5f16.png?v=1774113304",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4b97c4ee5f16.png?v=1774114762",
             "width": 1600,
             "height": 1200
           },
@@ -625,86 +453,8 @@
             "team_b": "Fucsovics M.",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/f82940c37af27f19f5425de9b17ff734.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/2f0e3c25876137ddb8614d4f68598033.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4b97c4ee5f16.png?v=1774113304",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4b97c4ee5f16.png?v=1774114762",
             "thumb_key": "thumbs/kaytee-4b97c4ee5f16.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "live_cầu_lông",
-      "name": "🔴 Live 🏸 Cầu Lông",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-f9d798557eee",
-          "name": "🏸 Pitchamon OPATNIPUTH vs Isharani BARUAH | 23:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f9d798557eee.png?v=1774113303",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601328080",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601328080",
-                  "name": "Pitchamon OPATNIPUTH vs Isharani BARUAH",
-                  "streams": [
-                    {
-                      "id": "st-601328080",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8010f19fe5",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69be59ee70a6a_18754/index.m3u8?expire=1774687342&sign=b8dd48521c790fe7b3b128b19b89da2c",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/pitchamon-opatniputh-vs-isharani-baruah-2300-21-03-2026/601328080"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Sân 1 - Orleans Masters Badminton 2026",
-            "team_a": "Pitchamon OPATNIPUTH",
-            "team_b": "Isharani BARUAH",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/d7a14d64e4da3ddaed23b91ee57f1ba9.jpg",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/32b86b756560858db719ea1015c69b60.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f9d798557eee.png?v=1774113303",
-            "thumb_key": "thumbs/kaytee-f9d798557eee.webp"
           }
         }
       ]
