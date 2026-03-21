@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-21T11:56:05.648412",
+  "updated_at": "2026-03-21T12:39:50.514777",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,540 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-51b5c1d7efd5",
-          "name": "⚽ Bologna U20 vs Frosinone U20 | 17:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-51b5c1d7efd5.png?v=1774094140",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601316659",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601316659",
-                  "name": "Bologna U20 vs Frosinone U20",
-                  "streams": [
-                    {
-                      "id": "st-601316659",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e549c4c7e2",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/0e8ab00ed252ad881b9316985caa6e65/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/bologna-u20-vs-frosinone-u20-1700-21-03-2026/601316659"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Italian Campionato Primavera 1",
-            "team_a": "Bologna U20",
-            "team_b": "Frosinone U20",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/3382469846f4403e21bd1150b2623a0e.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/db80ec72c3592397371e0ba99da0ec85.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-51b5c1d7efd5.png?v=1774094140",
-            "thumb_key": "thumbs/kaytee-51b5c1d7efd5.webp"
-          }
-        },
-        {
-          "id": "kaytee-ba9816c698b4",
-          "name": "⚽ Napoli Youth vs Genoa Youth | 17:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ba9816c698b4.png?v=1774094142",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601316665",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601316665",
-                  "name": "Napoli Youth vs Genoa Youth",
-                  "streams": [
-                    {
-                      "id": "st-601316665",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-670bc66904",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/ea609905b34a1057d9d63758bab5cd70/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/napoli-youth-vs-genoa-youth-1700-21-03-2026/601316665"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Italian Campionato Primavera 1",
-            "team_a": "Napoli Youth",
-            "team_b": "Genoa Youth",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/2a943cc7a3e2d98ed16799f1adfa9e7b.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/da173090450e8e2bc9722c7a386a49ae.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ba9816c698b4.png?v=1774094142",
-            "thumb_key": "thumbs/kaytee-ba9816c698b4.webp"
-          }
-        },
-        {
-          "id": "kaytee-56317d2049d6",
-          "name": "⚽ Sunny Bank Athletic Club Taipei (w) vs Kaohsiung Attackers(w) | 17:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-56317d2049d6.png?v=1774094144",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601316671",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601316671",
-                  "name": "Sunny Bank Athletic Club Taipei (w) vs Kaohsiung Attackers(w)",
-                  "streams": [
-                    {
-                      "id": "st-601316671",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-484be7738f",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/f6ae2de9f8bd75d02b1eff2b2c4c1ec3/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/sunny-bank-athletic-club-taipei-w-vs-kaohsiung-attackersw-1700-21-03-2026/601316671"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Chinese Taiwan Mulan Football League",
-            "team_a": "Sunny Bank Athletic Club Taipei (w)",
-            "team_b": "Kaohsiung Attackers(w)",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/4eb153846eef1e315c0ed95fd7cf0edf.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/ffbed3f08e379e5d77277e44ab151d45.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-56317d2049d6.png?v=1774094144",
-            "thumb_key": "thumbs/kaytee-56317d2049d6.webp"
-          }
-        },
-        {
-          "id": "kaytee-c9bc6536b011",
-          "name": "⚽ Lee Man vs EnGenius Kowloon City | 17:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c9bc6536b011.png?v=1774094151",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601316674",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601316674",
-                  "name": "Lee Man vs EnGenius Kowloon City",
-                  "streams": [
-                    {
-                      "id": "st-601316674",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7206428097",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/019f75105ebd130f767fda8aa67f3f9d/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/lee-man-vs-engenius-kowloon-city-1700-21-03-2026/601316674"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Chinese Hong Kong Premier League",
-            "team_a": "Lee Man",
-            "team_b": "EnGenius Kowloon City",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/8488d5d93a28b78eaeae55758ad25fb5.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/f7f89db4df9b2fed5ebbda7b1b015873.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c9bc6536b011.png?v=1774094151",
-            "thumb_key": "thumbs/kaytee-c9bc6536b011.webp"
-          }
-        },
-        {
-          "id": "kaytee-4e30f64b085e",
-          "name": "⚽ Boluspor vs Bandirmaspor | 17:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4e30f64b085e.png?v=1774094153",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601316710",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601316710",
-                  "name": "Boluspor vs Bandirmaspor",
-                  "streams": [
-                    {
-                      "id": "st-601316710",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bd13975469",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69be663570a6a_103/index.m3u8?expire=1774690485&sign=05fd89fbfb37b19b8450d07e1bdd39f9",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/boluspor-vs-bandirmaspor-1730-21-03-2026/601316710"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-9fbbccbe84",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/643d46f392e55ba5b15084a31699db66/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/boluspor-vs-bandirmaspor-1730-21-03-2026/601316710"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Turkish First League",
-            "team_a": "Boluspor",
-            "team_b": "Bandirmaspor",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/e31af2ae24f05ee698546bbbd8e1c02c.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/9dbbcf5ac9247c588c24a99cc0a0e8f5.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4e30f64b085e.png?v=1774094153",
-            "thumb_key": "thumbs/kaytee-4e30f64b085e.webp"
-          }
-        },
-        {
-          "id": "kaytee-acc87feb9523",
-          "name": "⚽ Serik Belediyespor vs Sakaryaspor | 17:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-acc87feb9523.png?v=1774094155",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601316713",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601316713",
-                  "name": "Serik Belediyespor vs Sakaryaspor",
-                  "streams": [
-                    {
-                      "id": "st-601316713",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-65538ab46e",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69be6a65326d9_133172/index.m3u8?expire=1774691557&sign=fd6f18d97729990b6b8e2c7697ec98fe",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/serik-belediyespor-vs-sakaryaspor-1730-21-03-2026/601316713"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-5b97046474",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/934122dd2ec7be1838ac756bcec38c86/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/serik-belediyespor-vs-sakaryaspor-1730-21-03-2026/601316713"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Turkish First League",
-            "team_a": "Serik Belediyespor",
-            "team_b": "Sakaryaspor",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/97fe3ae85a2bc3840972911fb2d15d45.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/e6e91c21a343706f6d638c2ef87bbf20.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-acc87feb9523.png?v=1774094155",
-            "thumb_key": "thumbs/kaytee-acc87feb9523.webp"
-          }
-        },
-        {
-          "id": "kaytee-7ef86e9dd535",
-          "name": "⚽ Septemvri Sofia vs Arda | 17:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7ef86e9dd535.png?v=1774094156",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601316722",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601316722",
-                  "name": "Septemvri Sofia vs Arda",
-                  "streams": [
-                    {
-                      "id": "st-601316722",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-12ce85216d",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69be6c9e70a6a_79/index.m3u8?expire=1774692126&sign=e3188fdfe42839756f08ef557260da37",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/septemvri-sofia-vs-arda-1730-21-03-2026/601316722"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-8c7ceb0b03",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/19249b27bcd2fa8675af03cdeffd741e/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/septemvri-sofia-vs-arda-1730-21-03-2026/601316722"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Bulgarian First League",
-            "team_a": "Septemvri Sofia",
-            "team_b": "Arda",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/a6f81856a35217b82fb2e20d28c3dcab.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/cab5766b591c9836e3095d2471ad6e11.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7ef86e9dd535.png?v=1774094156",
-            "thumb_key": "thumbs/kaytee-7ef86e9dd535.webp"
-          }
-        },
         {
           "id": "kaytee-e51a0453c001",
           "name": "⚽ Akhmat Grozny vs FK Rostov | 17:45",
@@ -561,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e51a0453c001.png?v=1774094159",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e51a0453c001.png?v=1774096774",
             "width": 1600,
             "height": 1200
           },
@@ -633,8 +99,473 @@
             "team_b": "FK Rostov",
             "logo_a": "https://cdn.rapid-api.icu/football/team/dfb637acd761b88a27e200393e29319f.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/1279b7ad21c72f2ab7bda8b972c2858e.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e51a0453c001.png?v=1774094159",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e51a0453c001.png?v=1774096774",
             "thumb_key": "thumbs/kaytee-e51a0453c001.webp"
+          }
+        },
+        {
+          "id": "kaytee-d99a0b7b521c",
+          "name": "⚽ Hirnyk-Sport vs Chayka Petropavlovsk Borshchagovka | 17:45",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d99a0b7b521c.png?v=1774096775",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601318663",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601318663",
+                  "name": "Hirnyk-Sport vs Chayka Petropavlovsk Borshchagovka",
+                  "streams": [
+                    {
+                      "id": "st-601318663",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8bdba7429f",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/1247a9de56c9b70d40e6dbdd499f9bce/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/hirnyksport-vs-chayka-petropavlovsk-borshchagovka-1745-21-03-2026/601318663"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ukrainian Second League",
+            "team_a": "Hirnyk-Sport",
+            "team_b": "Chayka Petropavlovsk Borshchagovka",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/873e907a88b0248171f67a6f3085e2d3.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/e08adb837c35fdc15b326328815930b3.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d99a0b7b521c.png?v=1774096775",
+            "thumb_key": "thumbs/kaytee-d99a0b7b521c.webp"
+          }
+        },
+        {
+          "id": "kaytee-7e3f73f3b4f7",
+          "name": "⚽ Karpaty U21 vs Obolon Kiev U21 | 18:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7e3f73f3b4f7.png?v=1774096777",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601313242",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601313242",
+                  "name": "Karpaty U21 vs Obolon Kiev U21",
+                  "streams": [
+                    {
+                      "id": "st-601313242",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c1e4b7ff7b",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/699b7265b1a07ca3eb38130ba3ef1535/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/karpaty-u21-vs-obolon-kiev-u21-1800-21-03-2026/601313242"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ukrainian Youth Team Championship",
+            "team_a": "Karpaty U21",
+            "team_b": "Obolon Kiev U21",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/635f940d10ef8f9a356a85dadb428f7c.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/4ec474222e325e2608731032b8386e90.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7e3f73f3b4f7.png?v=1774096777",
+            "thumb_key": "thumbs/kaytee-7e3f73f3b4f7.webp"
+          }
+        },
+        {
+          "id": "kaytee-90182d0d24ad",
+          "name": "⚽ Henan FC vs Wuhan Three Towns FC | 18:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-90182d0d24ad.png?v=1774096779",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601316809",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601316809",
+                  "name": "Henan FC vs Wuhan Three Towns FC",
+                  "streams": [
+                    {
+                      "id": "st-601316809",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3d74a898b5",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69be6e51326d9_95554/index.m3u8?expire=1774692561&sign=6540078031f681e2ab0a7cce17d55f24",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/henan-fc-vs-wuhan-three-towns-fc-1800-21-03-2026/601316809"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-797c2d40de",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/e44a5f84e7d5d58b87589fc128ef4c6f/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/henan-fc-vs-wuhan-three-towns-fc-1800-21-03-2026/601316809"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Chinese Football Super League",
+            "team_a": "Henan FC",
+            "team_b": "Wuhan Three Towns FC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/f336520db254da6d6d5294b720d26d83.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/9d520898f49a46e0a00feef82240cb80.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-90182d0d24ad.png?v=1774096779",
+            "thumb_key": "thumbs/kaytee-90182d0d24ad.webp"
+          }
+        },
+        {
+          "id": "kaytee-b05af02e2a29",
+          "name": "⚽ TTBD Phu Dong vs PVF CAND | 18:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b05af02e2a29.png?v=1774096779",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601316833",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601316833",
+                  "name": "TTBD Phu Dong vs PVF CAND",
+                  "streams": [
+                    {
+                      "id": "st-601316833",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2155e2a0c7",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69be74b9326d9_85514/index.m3u8?expire=1774694201&sign=efebf2b66ed3a0c3fea274efa2f77c55",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/ttbd-phu-dong-vs-pvf-cand-1800-21-03-2026/601316833"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-ae2bb3f2f9",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/d72fdb8feb7d599c3b7443a71f2b2633/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/ttbd-phu-dong-vs-pvf-cand-1800-21-03-2026/601316833"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vietnam National Cup",
+            "team_a": "TTBD Phu Dong",
+            "team_b": "PVF CAND",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/5452226660be0829fdb40967dd4b0b77.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/16b802abec41440eb4996fc68f16125b.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b05af02e2a29.png?v=1774096779",
+            "thumb_key": "thumbs/kaytee-b05af02e2a29.webp"
+          }
+        },
+        {
+          "id": "kaytee-c5317c231788",
+          "name": "⚽ Veres Rivne U21 vs Kolos Kovalivka U21 | 18:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c5317c231788.png?v=1774096781",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601313248",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601313248",
+                  "name": "Veres Rivne U21 vs Kolos Kovalivka U21",
+                  "streams": [
+                    {
+                      "id": "st-601313248",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-935369246b",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/7183c0772206b2128079691148eef19b/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/veres-rivne-u21-vs-kolos-kovalivka-u21-1800-21-03-2026/601313248"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ukrainian Youth Team Championship",
+            "team_a": "Veres Rivne U21",
+            "team_b": "Kolos Kovalivka U21",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/096a24150e021839bf9319755cfbca23.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/23f94da90c69b79d0d869ae5934c539c.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c5317c231788.png?v=1774096781",
+            "thumb_key": "thumbs/kaytee-c5317c231788.webp"
+          }
+        },
+        {
+          "id": "kaytee-ecda6ce69e6a",
+          "name": "⚽ Chongqing Tongliangloong FC vs Chengdu Rongcheng FC | 18:35",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ecda6ce69e6a.png?v=1774096783",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601316905",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601316905",
+                  "name": "Chongqing Tongliangloong FC vs Chengdu Rongcheng FC",
+                  "streams": [
+                    {
+                      "id": "st-601316905",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-10789790d0",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69be7f7b70a6a_6308/index.m3u8?expire=1774696955&sign=c19ef3606f2d428caa39a1e80e03c687",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/chongqing-tongliangloong-fc-vs-chengdu-rongcheng-fc-1835-21-03-2026/601316905"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-96558948e9",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/37cf20a5a93db403db2488e3d44a2a7a/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/chongqing-tongliangloong-fc-vs-chengdu-rongcheng-fc-1835-21-03-2026/601316905"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Chinese Football Super League",
+            "team_a": "Chongqing Tongliangloong FC",
+            "team_b": "Chengdu Rongcheng FC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/5be93c1a6628d27de6d39fde9ea94b7a.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/6ade4c9aaa615702eb7ec459e56d1968.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ecda6ce69e6a.png?v=1774096783",
+            "thumb_key": "thumbs/kaytee-ecda6ce69e6a.webp"
           }
         },
         {
@@ -647,7 +578,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-aafb28162211.png?v=1774094160",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-aafb28162211.png?v=1774096784",
             "width": 1600,
             "height": 1200
           },
@@ -702,7 +633,7 @@
             "team_b": "Qingdao",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/17b13a0e9c5974c4c26f8a5a5ef4b751.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/0b80c352bd377e1553f11a7de467a22e.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-aafb28162211.png?v=1774094160",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-aafb28162211.png?v=1774096784",
             "thumb_key": "thumbs/kaytee-aafb28162211.webp"
           }
         },
@@ -716,7 +647,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-447ab1f81056.png?v=1774094160",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-447ab1f81056.png?v=1774096785",
             "width": 1600,
             "height": 1200
           },
@@ -771,7 +702,7 @@
             "team_b": "Sichuan",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/f7b28b73e056837ae3e45895fe41029b.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/508d617078d2147908d26c79830fd89f.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-447ab1f81056.png?v=1774094160",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-447ab1f81056.png?v=1774096785",
             "thumb_key": "thumbs/kaytee-447ab1f81056.webp"
           }
         },
@@ -785,7 +716,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7226f8d26eed.png?v=1774094161",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7226f8d26eed.png?v=1774096785",
             "width": 1600,
             "height": 1200
           },
@@ -840,8 +771,163 @@
             "team_b": "Jilin",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/53a62f36a2b9463970337275ae694013.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/c2bc432d751141757e20527a7ee6291b.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7226f8d26eed.png?v=1774094161",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7226f8d26eed.png?v=1774096785",
             "thumb_key": "thumbs/kaytee-7226f8d26eed.webp"
+          }
+        },
+        {
+          "id": "kaytee-b6e36473d3f8",
+          "name": "⚽ Biên Phòng MB vs Hà Nội | 19:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b6e36473d3f8.png?v=1774096790",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601328008",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601328008",
+                  "name": "Biên Phòng MB vs Hà Nội",
+                  "streams": [
+                    {
+                      "id": "st-601328008",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2822301407",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69be838c326da_110198/index.m3u8?expire=1774697996&sign=5cabf1d154effc26b85de0592e42921b",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/bien-phong-mb-vs-ha-noi-1900-21-03-2026/601328008"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Cúp Hoa Lư 2026 - Nam",
+            "team_a": "Biên Phòng MB",
+            "team_b": "Hà Nội",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/78cc8c7732dacf1c3f0289a77295f0e9.jpg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/a9040dc12e05a3b9e782dcefbdb381ca.jpg",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b6e36473d3f8.png?v=1774096790",
+            "thumb_key": "thumbs/kaytee-b6e36473d3f8.webp"
+          }
+        },
+        {
+          "id": "kaytee-0dcfacc567a1",
+          "name": "⚽ Viettel FC vs TDTT Bac Ninh | 19:15",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0dcfacc567a1.png?v=1774096790",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601317085",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601317085",
+                  "name": "Viettel FC vs TDTT Bac Ninh",
+                  "streams": [
+                    {
+                      "id": "st-601317085",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8142a5e156",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69be825f326da_88642/index.m3u8?expire=1774697695&sign=c9dde385f2912d9751fcc27ae99b2ea3",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/viettel-fc-vs-tdtt-bac-ninh-1915-21-03-2026/601317085"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-d921d395d6",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/7904a4cc5a2ba9bb8a89252514bb7ff8/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/viettel-fc-vs-tdtt-bac-ninh-1915-21-03-2026/601317085"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vietnam National Cup",
+            "team_a": "Viettel FC",
+            "team_b": "TDTT Bac Ninh",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/840e2d7165cf2a34ec6c65a1fd9b58a9.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/40b7d679de613aedfb80bcaba85fa7e0.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0dcfacc567a1.png?v=1774096790",
+            "thumb_key": "thumbs/kaytee-0dcfacc567a1.webp"
           }
         }
       ]
@@ -863,7 +949,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-034f3baceaae.png?v=1774094138",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-034f3baceaae.png?v=1774096772",
             "width": 1600,
             "height": 1200
           },
@@ -918,7 +1004,7 @@
             "team_b": "Seoul Thunders",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/86532c33f37fb33686a09815b3d6b9c6.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/619420e599f83b1d3616d9faf5397e4e.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-034f3baceaae.png?v=1774094138",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-034f3baceaae.png?v=1774096772",
             "thumb_key": "thumbs/kaytee-034f3baceaae.webp"
           }
         }
@@ -933,7 +1019,7 @@
       "channels": [
         {
           "id": "kaytee-f9d798557eee",
-          "name": "🏸 HIROKAMI/HOBARA vs LIN Chih-Chun /  YANG Chu Yun | 17:45",
+          "name": "🏸 Hiroki OKAMURA/Kyohei YAMASHITA vs Christian Faust KJÆR /  Rasmus KJÆR | 19:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -941,7 +1027,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f9d798557eee.png?v=1774094157",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f9d798557eee.png?v=1774096789",
             "width": 1600,
             "height": 1200
           },
@@ -960,7 +1046,7 @@
               "contents": [
                 {
                   "id": "ct-601328080",
-                  "name": "HIROKAMI/HOBARA vs LIN Chih-Chun /  YANG Chu Yun",
+                  "name": "Hiroki OKAMURA/Kyohei YAMASHITA vs Christian Faust KJÆR /  Rasmus KJÆR",
                   "streams": [
                     {
                       "id": "st-601328080",
@@ -975,7 +1061,7 @@
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/hirokamihobara-vs-lin-chihchun---yang-chu-yun-1745-21-03-2026/601328080"
+                              "value": "https://bunchatv1.net/truc-tiep/hiroki-okamurakyohei-yamashita-vs-christian-faust-kjr---rasmus-kjr-1900-21-03-2026/601328080"
                             },
                             {
                               "key": "User-Agent",
@@ -992,11 +1078,11 @@
           ],
           "org_metadata": {
             "league": "Sân 1 - Orleans Masters Badminton 2026",
-            "team_a": "HIROKAMI/HOBARA",
-            "team_b": "LIN Chih-Chun /  YANG Chu Yun",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/b7bb957d792d2af33779a83a02d1e491.webp",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/584f4813b4ce8668fb28f5e00ceb668f.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f9d798557eee.png?v=1774094157",
+            "team_a": "Hiroki OKAMURA/Kyohei YAMASHITA",
+            "team_b": "Christian Faust KJÆR /  Rasmus KJÆR",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/22c90bf8e03b1e014c1e8b38aa8e939f.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/54b47d68120e6f5964251a155ea39166.jpg",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f9d798557eee.png?v=1774096789",
             "thumb_key": "thumbs/kaytee-f9d798557eee.webp"
           }
         }
@@ -1010,146 +1096,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-b6e36473d3f8",
-          "name": "⚽ Thể Công Tân Cảng vs Hà Tĩnh | 19:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b6e36473d3f8.png?v=1774094162",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Sắp Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601328008",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601328008",
-                  "name": "Thể Công Tân Cảng vs Hà Tĩnh",
-                  "streams": [
-                    {
-                      "id": "st-601328008",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2822301407",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69be838c326da_110198/index.m3u8?expire=1774697996&sign=5cabf1d154effc26b85de0592e42921b",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/the-cong-tan-cang-vs-ha-tinh-1900-21-03-2026/601328008"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Cúp Hoa Lư 2026 - Nam",
-            "team_a": "Thể Công Tân Cảng",
-            "team_b": "Hà Tĩnh",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/9293c85e50108a0acdf51897531398f0.jpg",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/29021923e038a1d5f212086ae471f381.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b6e36473d3f8.png?v=1774094162",
-            "thumb_key": "thumbs/kaytee-b6e36473d3f8.webp"
-          }
-        },
-        {
-          "id": "kaytee-0dcfacc567a1",
-          "name": "⚽ Viettel FC vs TDTT Bac Ninh | 19:15",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0dcfacc567a1.png?v=1774094163",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Sắp Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601317085",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601317085",
-                  "name": "Viettel FC vs TDTT Bac Ninh",
-                  "streams": [
-                    {
-                      "id": "st-601317085",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8142a5e156",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69be825f326da_88642/index.m3u8?expire=1774697695&sign=c9dde385f2912d9751fcc27ae99b2ea3",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/viettel-fc-vs-tdtt-bac-ninh-1915-21-03-2026/601317085"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Vietnam National Cup",
-            "team_a": "Viettel FC",
-            "team_b": "TDTT Bac Ninh",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/840e2d7165cf2a34ec6c65a1fd9b58a9.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/40b7d679de613aedfb80bcaba85fa7e0.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0dcfacc567a1.png?v=1774094163",
-            "thumb_key": "thumbs/kaytee-0dcfacc567a1.webp"
-          }
-        },
-        {
           "id": "kaytee-efe4227fb4c5",
-          "name": "⚽ Brighton Hove Albion vs Liverpool | 19:30",
+          "name": "⚽ Brighton Hove Albion vs Liverpool | 19:45",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1157,7 +1105,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-efe4227fb4c5.png?v=1774094165",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-efe4227fb4c5.png?v=1774096790",
             "width": 1600,
             "height": 1200
           },
@@ -1183,15 +1131,15 @@
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-5481f54413",
+                          "id": "lnk-0609384527",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69be80eb70a6a_28/index.m3u8?expire=1774697323&sign=0bd8b4c63558519720fa69a05d63b89b",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69be890370a6a_79/index.m3u8?expire=1774699395&sign=9acea4d18990221aa3c7e85c1541c0b6",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/brighton-hove-albion-vs-liverpool-1930-21-03-2026/601317088"
+                              "value": "https://bunchatv1.net/truc-tiep/brighton-hove-albion-vs-liverpool-1945-21-03-2026/601317088"
                             },
                             {
                               "key": "User-Agent",
@@ -1200,15 +1148,15 @@
                           ]
                         },
                         {
-                          "id": "lnk-f6bf74cd8a",
+                          "id": "lnk-5481f54413",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://live.alilicloud.com/live/ac9c810d1568f094e07504797a593c22/playlist.m3u8",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69be80eb70a6a_28/index.m3u8?expire=1774697323&sign=0bd8b4c63558519720fa69a05d63b89b",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/brighton-hove-albion-vs-liverpool-1930-21-03-2026/601317088"
+                              "value": "https://bunchatv1.net/truc-tiep/brighton-hove-albion-vs-liverpool-1945-21-03-2026/601317088"
                             },
                             {
                               "key": "User-Agent",
@@ -1229,7 +1177,7 @@
             "team_b": "Liverpool",
             "logo_a": "https://cdn.rapid-api.icu/football/team/9b43a690d5a09f1e319f036821e8e1d3.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/1cb3d08adac0e2dc1c4f10429d055bfe.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-efe4227fb4c5.png?v=1774094165",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-efe4227fb4c5.png?v=1774096790",
             "thumb_key": "thumbs/kaytee-efe4227fb4c5.webp"
           }
         }
