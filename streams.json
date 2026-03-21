@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-21T07:58:40.245419",
+  "updated_at": "2026-03-21T08:02:17.274448",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,75 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-4a286e8dcc78",
-          "name": "⚽ UNSW FC (W) vs Illawarra Stingrays (w) | 13:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4a286e8dcc78.png?v=1774079903",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601315453",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601315453",
-                  "name": "UNSW FC (W) vs Illawarra Stingrays (w)",
-                  "streams": [
-                    {
-                      "id": "st-601315453",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bc4f43228e",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/86fa4a806eafb123d7395965105cfd06/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/unsw-fc-w-vs-illawarra-stingrays-w-1300-21-03-2026/601315453"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Australia New South Wales Women's League",
-            "team_a": "UNSW FC (W)",
-            "team_b": "Illawarra Stingrays (w)",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/75bf136c336015d3adb291a238ea039e.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/dd8bc60a2465acd71c5975a879a9df5b.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4a286e8dcc78.png?v=1774079903",
-            "thumb_key": "thumbs/kaytee-4a286e8dcc78.webp"
-          }
-        },
         {
           "id": "kaytee-4ffcbdaa87b8",
           "name": "⚽ Perth Glory Women vs Central Coast Mariners women | 13:00",
@@ -96,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4ffcbdaa87b8.png?v=1774079905",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4ffcbdaa87b8.png?v=1774080126",
             "width": 1600,
             "height": 1200
           },
@@ -151,77 +82,8 @@
             "team_b": "Central Coast Mariners women",
             "logo_a": "https://cdn.rapid-api.icu/football/team/bb0af557092493a7ef9f5f3f0590e13b.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/55233b8d9e0c1a7348ec42d02a2bd219.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4ffcbdaa87b8.png?v=1774079905",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4ffcbdaa87b8.png?v=1774080126",
             "thumb_key": "thumbs/kaytee-4ffcbdaa87b8.webp"
-          }
-        },
-        {
-          "id": "kaytee-962a49fc11b8",
-          "name": "⚽ Ipswich City vs Brisbane Strikers | 13:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-962a49fc11b8.png?v=1774079906",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601316353",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601316353",
-                  "name": "Ipswich City vs Brisbane Strikers",
-                  "streams": [
-                    {
-                      "id": "st-601316353",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3b715c886e",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/c1f3d04d38353277afbda5ef816594fb/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/ipswich-city-vs-brisbane-strikers-1300-21-03-2026/601316353"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Australia Queensland State League 1",
-            "team_a": "Ipswich City",
-            "team_b": "Brisbane Strikers",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/dd862973fbf229b051221b037f67a27c.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/f1f3a4f8b4282307b442bba5bad12a20.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-962a49fc11b8.png?v=1774079906",
-            "thumb_key": "thumbs/kaytee-962a49fc11b8.webp"
           }
         },
         {
@@ -234,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-22ae582f608b.png?v=1774079909",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-22ae582f608b.png?v=1774080128",
             "width": 1600,
             "height": 1200
           },
@@ -306,8 +168,77 @@
             "team_b": "Central Coast Mariners",
             "logo_a": "https://cdn.rapid-api.icu/football/team/c540f8f279c09a2a3df1cbbfe82d7184.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/4295d4c9acc95550f5a4360f0ba0d93f.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-22ae582f608b.png?v=1774079909",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-22ae582f608b.png?v=1774080128",
             "thumb_key": "thumbs/kaytee-22ae582f608b.webp"
+          }
+        },
+        {
+          "id": "kaytee-451a1983d438",
+          "name": "⚽ Essendon Royals (W) vs Avondale FC (w) | 13:10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-451a1983d438.png?v=1774080130",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601313050",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601313050",
+                  "name": "Essendon Royals (W) vs Avondale FC (w)",
+                  "streams": [
+                    {
+                      "id": "st-601313050",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e2f9506571",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/c869a64d8c2e52ffe3813be82ab7b987/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/essendon-royals-w-vs-avondale-fc-w-1310-21-03-2026/601313050"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Australia Victorian Women's Premier League",
+            "team_a": "Essendon Royals (W)",
+            "team_b": "Avondale FC (w)",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/3137227e584e6b35dc3f662b4946b074.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/89471a940cef200c717e39893452d8b9.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-451a1983d438.png?v=1774080130",
+            "thumb_key": "thumbs/kaytee-451a1983d438.webp"
           }
         },
         {
@@ -320,7 +251,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6644ce2963f0.png?v=1774079911",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6644ce2963f0.png?v=1774080131",
             "width": 1600,
             "height": 1200
           },
@@ -392,7 +323,7 @@
             "team_b": "Manly United",
             "logo_a": "https://cdn.rapid-api.icu/football/team/41cd928a2816821bdb7995c3ea6031a6.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/0c6ea7bc3792dac98ed3378cd2865c0a.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6644ce2963f0.png?v=1774079911",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6644ce2963f0.png?v=1774080131",
             "thumb_key": "thumbs/kaytee-6644ce2963f0.webp"
           }
         },
@@ -406,7 +337,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bfadaa720e98.png?v=1774079913",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bfadaa720e98.png?v=1774080133",
             "width": 1600,
             "height": 1200
           },
@@ -478,7 +409,7 @@
             "team_b": "Western Sydney Wanderers AM",
             "logo_a": "https://cdn.rapid-api.icu/football/team/d4a819a35678fd3d1c1f3e45c16f00b5.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/d287684146235d2fddb92f71d78fba02.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bfadaa720e98.png?v=1774079913",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bfadaa720e98.png?v=1774080133",
             "thumb_key": "thumbs/kaytee-bfadaa720e98.webp"
           }
         },
@@ -492,7 +423,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c6f16ddc9585.png?v=1774079918",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c6f16ddc9585.png?v=1774080136",
             "width": 1600,
             "height": 1200
           },
@@ -547,22 +478,13 @@
             "team_b": "Xi măng Long Sơn Thanh Hóa",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/6a31635aa13b7572065e382bb5fce8bd.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/e35ae9330db5de3a7a5c033d1b084619.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c6f16ddc9585.png?v=1774079918",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c6f16ddc9585.png?v=1774080136",
             "thumb_key": "thumbs/kaytee-c6f16ddc9585.webp"
           }
-        }
-      ]
-    },
-    {
-      "id": "live_bóng_rổ",
-      "name": "🔴 Live 🏀 Bóng Rổ",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
+        },
         {
-          "id": "kaytee-d2366b08b38d",
-          "name": "🏀 Broadmeadow Magic vs Belmont Swansea United SC | 13:00",
+          "id": "kaytee-cc3b6682e554",
+          "name": "⚽ Sydney vs Adelaide | 15:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -570,7 +492,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d2366b08b38d.png?v=1774079908",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cc3b6682e554.png?v=1774080137",
             "width": 1600,
             "height": 1200
           },
@@ -584,27 +506,27 @@
           ],
           "sources": [
             {
-              "id": "src-601316368",
+              "id": "src-601328467",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601316368",
-                  "name": "Broadmeadow Magic vs Belmont Swansea United SC",
+                  "id": "ct-601328467",
+                  "name": "Sydney vs Adelaide",
                   "streams": [
                     {
-                      "id": "st-601316368",
+                      "id": "st-601328467",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-af4a40449a",
+                          "id": "lnk-a85d30a3f1",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live.alilicloud.com/live/6e3bc7cfae6eb75a2097461f7948c5e9/playlist.m3u8",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69be4a1170a6a_112310/index.m3u8?expire=1774683281&sign=2da3106f46406dfe0269690c1563c15d",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/broadmeadow-magic-vs-belmont-swansea-united-sc-1300-21-03-2026/601316368"
+                              "value": "https://bunchatv1.net/truc-tiep/sydney-vs-adelaide-1500-21-03-2026/601328467"
                             },
                             {
                               "key": "User-Agent",
@@ -620,15 +542,24 @@
             }
           ],
           "org_metadata": {
-            "league": "Australia Northern New South Wales Premier League",
-            "team_a": "Broadmeadow Magic",
-            "team_b": "Belmont Swansea United SC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/4f0ff310b253f34bfd414c5b2502082c.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/7affb38b4397f603e686f9a696e668a6.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d2366b08b38d.png?v=1774079908",
-            "thumb_key": "thumbs/kaytee-d2366b08b38d.webp"
+            "league": "NBL",
+            "team_a": "Sydney",
+            "team_b": "Adelaide",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a6d2abd5c2c08a2e7ffb0dafb533d1d7.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/21f9c0700d2402e93d4a9c49bd4854e7.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cc3b6682e554.png?v=1774080137",
+            "thumb_key": "thumbs/kaytee-cc3b6682e554.webp"
           }
-        },
+        }
+      ]
+    },
+    {
+      "id": "live_bóng_rổ",
+      "name": "🔴 Live 🏀 Bóng Rổ",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
         {
           "id": "kaytee-8e7c93b3d5b0",
           "name": "🏀 Spirit FC vs Rockdale City Suns | 13:30",
@@ -639,7 +570,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8e7c93b3d5b0.png?v=1774079915",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8e7c93b3d5b0.png?v=1774080133",
             "width": 1600,
             "height": 1200
           },
@@ -711,7 +642,7 @@
             "team_b": "Rockdale City Suns",
             "logo_a": "https://cdn.rapid-api.icu/football/team/22f0cc669b7a84a3b61e27dbb57cb139.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/e811c8feb7f55ae2b6fea9ed20c96374.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8e7c93b3d5b0.png?v=1774079915",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8e7c93b3d5b0.png?v=1774080133",
             "thumb_key": "thumbs/kaytee-8e7c93b3d5b0.webp"
           }
         },
@@ -725,7 +656,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-034f3baceaae.png?v=1774079919",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-034f3baceaae.png?v=1774080136",
             "width": 1600,
             "height": 1200
           },
@@ -780,86 +711,8 @@
             "team_b": "Seoul Thunders",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/86532c33f37fb33686a09815b3d6b9c6.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/619420e599f83b1d3616d9faf5397e4e.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-034f3baceaae.png?v=1774079919",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-034f3baceaae.png?v=1774080136",
             "thumb_key": "thumbs/kaytee-034f3baceaae.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "upcoming_bóng_đá",
-      "name": "⏳ Sắp Live ⚽ Bóng Đá",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-cc3b6682e554",
-          "name": "⚽ Sydney vs Adelaide | 15:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cc3b6682e554.png?v=1774079920",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Sắp Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601328467",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601328467",
-                  "name": "Sydney vs Adelaide",
-                  "streams": [
-                    {
-                      "id": "st-601328467",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a85d30a3f1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69be4a1170a6a_112310/index.m3u8?expire=1774683281&sign=2da3106f46406dfe0269690c1563c15d",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/sydney-vs-adelaide-1500-21-03-2026/601328467"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "NBL",
-            "team_a": "Sydney",
-            "team_b": "Adelaide",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a6d2abd5c2c08a2e7ffb0dafb533d1d7.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/21f9c0700d2402e93d4a9c49bd4854e7.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cc3b6682e554.png?v=1774079920",
-            "thumb_key": "thumbs/kaytee-cc3b6682e554.webp"
           }
         }
       ]
