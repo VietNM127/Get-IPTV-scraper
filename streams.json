@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-21T11:33:10.529696",
+  "updated_at": "2026-03-21T11:36:42.387202",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,6 +17,75 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "kaytee-57349d9132a7",
+          "name": "⚽ Mendiola FC 1991 vs One Taguig | 16:45",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-57349d9132a7.png?v=1774092982",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601316653",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601316653",
+                  "name": "Mendiola FC 1991 vs One Taguig",
+                  "streams": [
+                    {
+                      "id": "st-601316653",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4cca3bf394",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/3b5e04e7e5cc5a7a3e1800cbf059ca7e/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/mendiola-fc-1991-vs-one-taguig-1645-21-03-2026/601316653"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Philippines United Football League",
+            "team_a": "Mendiola FC 1991",
+            "team_b": "One Taguig",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/fa48f80e2e4045104fb1830e47ff1f42.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/60b08617e3c349f2363fd078d4b6fab3.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-57349d9132a7.png?v=1774092982",
+            "thumb_key": "thumbs/kaytee-57349d9132a7.webp"
+          }
+        },
         {
           "id": "kaytee-51b5c1d7efd5",
           "name": "⚽ Bologna U20 vs Frosinone U20 | 17:00",
@@ -27,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-51b5c1d7efd5.png?v=1774092770",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-51b5c1d7efd5.png?v=1774092984",
             "width": 1600,
             "height": 1200
           },
@@ -82,7 +151,7 @@
             "team_b": "Frosinone U20",
             "logo_a": "https://cdn.rapid-api.icu/football/team/3382469846f4403e21bd1150b2623a0e.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/db80ec72c3592397371e0ba99da0ec85.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-51b5c1d7efd5.png?v=1774092770",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-51b5c1d7efd5.png?v=1774092984",
             "thumb_key": "thumbs/kaytee-51b5c1d7efd5.webp"
           }
         },
@@ -96,7 +165,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ba9816c698b4.png?v=1774092772",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ba9816c698b4.png?v=1774092987",
             "width": 1600,
             "height": 1200
           },
@@ -151,7 +220,7 @@
             "team_b": "Genoa Youth",
             "logo_a": "https://cdn.rapid-api.icu/football/team/2a943cc7a3e2d98ed16799f1adfa9e7b.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/da173090450e8e2bc9722c7a386a49ae.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ba9816c698b4.png?v=1774092772",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ba9816c698b4.png?v=1774092987",
             "thumb_key": "thumbs/kaytee-ba9816c698b4.webp"
           }
         },
@@ -165,7 +234,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-33b9f7a08e18.png?v=1774092774",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-33b9f7a08e18.png?v=1774092989",
             "width": 1600,
             "height": 1200
           },
@@ -220,163 +289,8 @@
             "team_b": "Taipei Brao Women",
             "logo_a": "https://cdn.rapid-api.icu/football/team/658bb260bf2d0692e2cfdd34f68c9a82.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/15fee5d20bdecb9b5014d585f19771ae.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-33b9f7a08e18.png?v=1774092774",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-33b9f7a08e18.png?v=1774092989",
             "thumb_key": "thumbs/kaytee-33b9f7a08e18.webp"
-          }
-        },
-        {
-          "id": "kaytee-56317d2049d6",
-          "name": "⚽ Sunny Bank Athletic Club Taipei (w) vs Kaohsiung Attackers(w) | 17:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-56317d2049d6.png?v=1774092776",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601316671",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601316671",
-                  "name": "Sunny Bank Athletic Club Taipei (w) vs Kaohsiung Attackers(w)",
-                  "streams": [
-                    {
-                      "id": "st-601316671",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-484be7738f",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/f6ae2de9f8bd75d02b1eff2b2c4c1ec3/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/sunny-bank-athletic-club-taipei-w-vs-kaohsiung-attackersw-1700-21-03-2026/601316671"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Chinese Taiwan Mulan Football League",
-            "team_a": "Sunny Bank Athletic Club Taipei (w)",
-            "team_b": "Kaohsiung Attackers(w)",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/4eb153846eef1e315c0ed95fd7cf0edf.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/ffbed3f08e379e5d77277e44ab151d45.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-56317d2049d6.png?v=1774092776",
-            "thumb_key": "thumbs/kaytee-56317d2049d6.webp"
-          }
-        },
-        {
-          "id": "kaytee-4e30f64b085e",
-          "name": "⚽ Boluspor vs Bandirmaspor | 17:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4e30f64b085e.png?v=1774092778",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601316710",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601316710",
-                  "name": "Boluspor vs Bandirmaspor",
-                  "streams": [
-                    {
-                      "id": "st-601316710",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bd13975469",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69be663570a6a_103/index.m3u8?expire=1774690485&sign=05fd89fbfb37b19b8450d07e1bdd39f9",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/boluspor-vs-bandirmaspor-1730-21-03-2026/601316710"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-9fbbccbe84",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/643d46f392e55ba5b15084a31699db66/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/boluspor-vs-bandirmaspor-1730-21-03-2026/601316710"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Turkish First League",
-            "team_a": "Boluspor",
-            "team_b": "Bandirmaspor",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/e31af2ae24f05ee698546bbbd8e1c02c.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/9dbbcf5ac9247c588c24a99cc0a0e8f5.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4e30f64b085e.png?v=1774092778",
-            "thumb_key": "thumbs/kaytee-4e30f64b085e.webp"
           }
         },
         {
@@ -389,7 +303,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-acc87feb9523.png?v=1774092780",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-acc87feb9523.png?v=1774092990",
             "width": 1600,
             "height": 1200
           },
@@ -461,8 +375,94 @@
             "team_b": "Sakaryaspor",
             "logo_a": "https://cdn.rapid-api.icu/football/team/97fe3ae85a2bc3840972911fb2d15d45.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/e6e91c21a343706f6d638c2ef87bbf20.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-acc87feb9523.png?v=1774092780",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-acc87feb9523.png?v=1774092990",
             "thumb_key": "thumbs/kaytee-acc87feb9523.webp"
+          }
+        },
+        {
+          "id": "kaytee-4e30f64b085e",
+          "name": "⚽ Boluspor vs Bandirmaspor | 17:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4e30f64b085e.png?v=1774092992",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601316710",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601316710",
+                  "name": "Boluspor vs Bandirmaspor",
+                  "streams": [
+                    {
+                      "id": "st-601316710",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bd13975469",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69be663570a6a_103/index.m3u8?expire=1774690485&sign=05fd89fbfb37b19b8450d07e1bdd39f9",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/boluspor-vs-bandirmaspor-1730-21-03-2026/601316710"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-9fbbccbe84",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/643d46f392e55ba5b15084a31699db66/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/boluspor-vs-bandirmaspor-1730-21-03-2026/601316710"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Turkish First League",
+            "team_a": "Boluspor",
+            "team_b": "Bandirmaspor",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/e31af2ae24f05ee698546bbbd8e1c02c.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/9dbbcf5ac9247c588c24a99cc0a0e8f5.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4e30f64b085e.png?v=1774092992",
+            "thumb_key": "thumbs/kaytee-4e30f64b085e.webp"
           }
         },
         {
@@ -475,7 +475,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7ef86e9dd535.png?v=1774092781",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7ef86e9dd535.png?v=1774092994",
             "width": 1600,
             "height": 1200
           },
@@ -547,7 +547,7 @@
             "team_b": "Arda",
             "logo_a": "https://cdn.rapid-api.icu/football/team/a6f81856a35217b82fb2e20d28c3dcab.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/cab5766b591c9836e3095d2471ad6e11.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7ef86e9dd535.png?v=1774092781",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7ef86e9dd535.png?v=1774092994",
             "thumb_key": "thumbs/kaytee-7ef86e9dd535.webp"
           }
         },
@@ -561,7 +561,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e51a0453c001.png?v=1774092786",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e51a0453c001.png?v=1774092998",
             "width": 1600,
             "height": 1200
           },
@@ -633,7 +633,7 @@
             "team_b": "FK Rostov",
             "logo_a": "https://cdn.rapid-api.icu/football/team/dfb637acd761b88a27e200393e29319f.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/1279b7ad21c72f2ab7bda8b972c2858e.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e51a0453c001.png?v=1774092786",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e51a0453c001.png?v=1774092998",
             "thumb_key": "thumbs/kaytee-e51a0453c001.webp"
           }
         }
@@ -656,7 +656,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f9d798557eee.png?v=1774092783",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f9d798557eee.png?v=1774092996",
             "width": 1600,
             "height": 1200
           },
@@ -711,7 +711,7 @@
             "team_b": "LIN Chih-Chun /  YANG Chu Yun",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/b7bb957d792d2af33779a83a02d1e491.webp",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/584f4813b4ce8668fb28f5e00ceb668f.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f9d798557eee.png?v=1774092783",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f9d798557eee.png?v=1774092996",
             "thumb_key": "thumbs/kaytee-f9d798557eee.webp"
           }
         }
@@ -734,7 +734,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-55fc00a428c8.png?v=1774092787",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-55fc00a428c8.png?v=1774092999",
             "width": 1600,
             "height": 1200
           },
@@ -789,7 +789,7 @@
             "team_b": "Shanxi Zhongyu",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/5578032484946d8b55721b4210e2f189.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/2a7551dc7e9fbb0a844291cfb6453ae4.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-55fc00a428c8.png?v=1774092787",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-55fc00a428c8.png?v=1774092999",
             "thumb_key": "thumbs/kaytee-55fc00a428c8.webp"
           }
         },
@@ -803,7 +803,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-aafb28162211.png?v=1774092787",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-aafb28162211.png?v=1774092999",
             "width": 1600,
             "height": 1200
           },
@@ -858,7 +858,7 @@
             "team_b": "Qingdao",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/17b13a0e9c5974c4c26f8a5a5ef4b751.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/0b80c352bd377e1553f11a7de467a22e.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-aafb28162211.png?v=1774092787",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-aafb28162211.png?v=1774092999",
             "thumb_key": "thumbs/kaytee-aafb28162211.webp"
           }
         },
@@ -872,7 +872,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-efe4227fb4c5.png?v=1774092790",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-efe4227fb4c5.png?v=1774093002",
             "width": 1600,
             "height": 1200
           },
@@ -944,7 +944,7 @@
             "team_b": "Liverpool",
             "logo_a": "https://cdn.rapid-api.icu/football/team/9b43a690d5a09f1e319f036821e8e1d3.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/1cb3d08adac0e2dc1c4f10429d055bfe.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-efe4227fb4c5.png?v=1774092790",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-efe4227fb4c5.png?v=1774093002",
             "thumb_key": "thumbs/kaytee-efe4227fb4c5.webp"
           }
         }
@@ -967,7 +967,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5d75611869aa.png?v=1774092788",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5d75611869aa.png?v=1774093000",
             "width": 1600,
             "height": 1200
           },
@@ -1022,7 +1022,7 @@
             "team_b": "Guangzhou",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/9ad6797989de0a22360cf3cc414e694d.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/5128d913f65566daee98238dc8ff443e.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5d75611869aa.png?v=1774092788",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5d75611869aa.png?v=1774093000",
             "thumb_key": "thumbs/kaytee-5d75611869aa.webp"
           }
         }
