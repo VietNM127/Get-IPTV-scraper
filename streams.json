@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-21T10:58:56.905041",
+  "updated_at": "2026-03-21T11:12:34.551813",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -18,8 +18,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-c514ef5632b8",
-          "name": "⚽ Moreton City Excelsior FC vs Rochedale Rovers | 16:00",
+          "id": "kaytee-776e62527956",
+          "name": "⚽ Aritma Praha vs SK Motorlet Praha | 16:15",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c514ef5632b8.png?v=1774090721",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-776e62527956.png?v=1774091535",
             "width": 1600,
             "height": 1200
           },
@@ -41,44 +41,27 @@
           ],
           "sources": [
             {
-              "id": "src-601316578",
+              "id": "src-601316635",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601316578",
-                  "name": "Moreton City Excelsior FC vs Rochedale Rovers",
+                  "id": "ct-601316635",
+                  "name": "Aritma Praha vs SK Motorlet Praha",
                   "streams": [
                     {
-                      "id": "st-601316578",
+                      "id": "st-601316635",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-12c5689147",
+                          "id": "lnk-39e465ed37",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69be4f4770a6a_74012/index.m3u8?expire=1774684615&sign=4e77a683ed5016f95d00e9ab2aa71dae",
+                          "url": "https://live.alilicloud.com/live/7d388455997c7e6c9dd27feba98d67b2/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/moreton-city-excelsior-fc-vs-rochedale-rovers-1600-21-03-2026/601316578"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-ffe894d6fc",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/0fff2210411c5ed13057e34fb1ab6236/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/moreton-city-excelsior-fc-vs-rochedale-rovers-1600-21-03-2026/601316578"
+                              "value": "https://bunchatv1.net/truc-tiep/aritma-praha-vs-sk-motorlet-praha-1615-21-03-2026/601316635"
                             },
                             {
                               "key": "User-Agent",
@@ -94,18 +77,18 @@
             }
           ],
           "org_metadata": {
-            "league": "Australia National Premier Leagues Queensland",
-            "team_a": "Moreton City Excelsior FC",
-            "team_b": "Rochedale Rovers",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/a3e3ccdb89e29c21ae1908c3597c318f.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/030a377635b3ac3fe5cbb49221594110.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c514ef5632b8.png?v=1774090721",
-            "thumb_key": "thumbs/kaytee-c514ef5632b8.webp"
+            "league": "Czech Third League",
+            "team_a": "Aritma Praha",
+            "team_b": "SK Motorlet Praha",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/ba304ddd029b36ec996349279f059752.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/e10a8b7e6592c35a6d92c5cf1af44db3.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-776e62527956.png?v=1774091535",
+            "thumb_key": "thumbs/kaytee-776e62527956.webp"
           }
         },
         {
-          "id": "kaytee-f332509fc409",
-          "name": "⚽ Caboolture FC vs Logan Lightning | 16:00",
+          "id": "kaytee-eaa0b7eaa113",
+          "name": "⚽ Zlin B vs Trinec | 16:30",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -113,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f332509fc409.png?v=1774090723",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-eaa0b7eaa113.png?v=1774091537",
             "width": 1600,
             "height": 1200
           },
@@ -127,27 +110,27 @@
           ],
           "sources": [
             {
-              "id": "src-601316581",
+              "id": "src-601316650",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601316581",
-                  "name": "Caboolture FC vs Logan Lightning",
+                  "id": "ct-601316650",
+                  "name": "Zlin B vs Trinec",
                   "streams": [
                     {
-                      "id": "st-601316581",
+                      "id": "st-601316650",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-3feca7ca74",
+                          "id": "lnk-ee50fc6de0",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live.alilicloud.com/live/82a9d4361b9531a437af859eaeda7b59/playlist.m3u8",
+                          "url": "https://live.alilicloud.com/live/59a157d743e83277909245957772d33d/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/caboolture-fc-vs-logan-lightning-1600-21-03-2026/601316581"
+                              "value": "https://bunchatv1.net/truc-tiep/zlin-b-vs-trinec-1630-21-03-2026/601316650"
                             },
                             {
                               "key": "User-Agent",
@@ -163,18 +146,18 @@
             }
           ],
           "org_metadata": {
-            "league": "Australia Queensland State League 1",
-            "team_a": "Caboolture FC",
-            "team_b": "Logan Lightning",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/335dad7f811f451658b42b2688eef5a9.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/fe2e6a095e8db9a20e494635a93f579e.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f332509fc409.png?v=1774090723",
-            "thumb_key": "thumbs/kaytee-f332509fc409.webp"
+            "league": "Czech Third League",
+            "team_a": "Zlin B",
+            "team_b": "Trinec",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/5de0e6bb1a634c4c97bffeeaa1265f70.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/7533eec36cdd76f59d9dadfd2c6c30cb.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-eaa0b7eaa113.png?v=1774091537",
+            "thumb_key": "thumbs/kaytee-eaa0b7eaa113.webp"
           }
         },
         {
-          "id": "kaytee-c0b77dd5b0f5",
-          "name": "⚽ Tyumen vs Stavropolye-2009 | 16:00",
+          "id": "kaytee-57349d9132a7",
+          "name": "⚽ Mendiola FC 1991 vs One Taguig | 16:45",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -182,7 +165,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c0b77dd5b0f5.png?v=1774090725",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-57349d9132a7.png?v=1774091539",
             "width": 1600,
             "height": 1200
           },
@@ -196,27 +179,27 @@
           ],
           "sources": [
             {
-              "id": "src-601316593",
+              "id": "src-601316653",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601316593",
-                  "name": "Tyumen vs Stavropolye-2009",
+                  "id": "ct-601316653",
+                  "name": "Mendiola FC 1991 vs One Taguig",
                   "streams": [
                     {
-                      "id": "st-601316593",
+                      "id": "st-601316653",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-3195e61855",
+                          "id": "lnk-4cca3bf394",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live.alilicloud.com/live/8915089cf4615b84743ff70617a67b44/playlist.m3u8",
+                          "url": "https://live.alilicloud.com/live/3b5e04e7e5cc5a7a3e1800cbf059ca7e/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/tyumen-vs-stavropolye2009-1600-21-03-2026/601316593"
+                              "value": "https://bunchatv1.net/truc-tiep/mendiola-fc-1991-vs-one-taguig-1645-21-03-2026/601316653"
                             },
                             {
                               "key": "User-Agent",
@@ -232,18 +215,18 @@
             }
           ],
           "org_metadata": {
-            "league": "RUS D3A",
-            "team_a": "Tyumen",
-            "team_b": "Stavropolye-2009",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/648fd9c4461cd9c6c4dce410bb72d8f0.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/2f2381c064084dd359b269dd43f58c18.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c0b77dd5b0f5.png?v=1774090725",
-            "thumb_key": "thumbs/kaytee-c0b77dd5b0f5.webp"
+            "league": "Philippines United Football League",
+            "team_a": "Mendiola FC 1991",
+            "team_b": "One Taguig",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/fa48f80e2e4045104fb1830e47ff1f42.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/60b08617e3c349f2363fd078d4b6fab3.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-57349d9132a7.png?v=1774091539",
+            "thumb_key": "thumbs/kaytee-57349d9132a7.webp"
           }
         },
         {
-          "id": "kaytee-df8d91ff1160",
-          "name": "⚽ Okzhetpes vs Ulytau Zhezkazgan | 16:00",
+          "id": "kaytee-51b5c1d7efd5",
+          "name": "⚽ Bologna U20 vs Frosinone U20 | 17:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -251,7 +234,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-df8d91ff1160.png?v=1774090727",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-51b5c1d7efd5.png?v=1774091542",
             "width": 1600,
             "height": 1200
           },
@@ -265,27 +248,27 @@
           ],
           "sources": [
             {
-              "id": "src-601316596",
+              "id": "src-601316659",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601316596",
-                  "name": "Okzhetpes vs Ulytau Zhezkazgan",
+                  "id": "ct-601316659",
+                  "name": "Bologna U20 vs Frosinone U20",
                   "streams": [
                     {
-                      "id": "st-601316596",
+                      "id": "st-601316659",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-7f1daecd2e",
+                          "id": "lnk-e549c4c7e2",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live.alilicloud.com/live/bbe7dfbcf168d6921add2790e770a1aa/playlist.m3u8",
+                          "url": "https://live.alilicloud.com/live/0e8ab00ed252ad881b9316985caa6e65/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/okzhetpes-vs-ulytau-zhezkazgan-1600-21-03-2026/601316596"
+                              "value": "https://bunchatv1.net/truc-tiep/bologna-u20-vs-frosinone-u20-1700-21-03-2026/601316659"
                             },
                             {
                               "key": "User-Agent",
@@ -301,82 +284,13 @@
             }
           ],
           "org_metadata": {
-            "league": "Kazakhstan Premier League",
-            "team_a": "Okzhetpes",
-            "team_b": "Ulytau Zhezkazgan",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/0cdeb1ea76b968c9b9147db96e1c6f6f.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/1c0bf62c4b74951819a2f761c3d3b5fe.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-df8d91ff1160.png?v=1774090727",
-            "thumb_key": "thumbs/kaytee-df8d91ff1160.webp"
-          }
-        },
-        {
-          "id": "kaytee-8c0df59302e1",
-          "name": "⚽ VTV Bình Điền Long An vs LPB Ninh Bình | 16:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8c0df59302e1.png?v=1774090730",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601328005",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601328005",
-                  "name": "VTV Bình Điền Long An vs LPB Ninh Bình",
-                  "streams": [
-                    {
-                      "id": "st-601328005",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-47d4c7c283",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69be593d326d9_88642/index.m3u8?expire=1774687165&sign=836fe1ecc8e73cf8ed2e10a01212feca",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/vtv-binh-dien-long-an-vs-lpb-ninh-binh-1600-21-03-2026/601328005"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Cúp Hoa Lư 2026 - Nữ",
-            "team_a": "VTV Bình Điền Long An",
-            "team_b": "LPB Ninh Bình",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/d4ad21b8352e45f8fa49635c778babd0.jpg",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/1cba7cb1c7477b57e50a66aa4d9bb5d6.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8c0df59302e1.png?v=1774090730",
-            "thumb_key": "thumbs/kaytee-8c0df59302e1.webp"
+            "league": "Italian Campionato Primavera 1",
+            "team_a": "Bologna U20",
+            "team_b": "Frosinone U20",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/3382469846f4403e21bd1150b2623a0e.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/db80ec72c3592397371e0ba99da0ec85.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-51b5c1d7efd5.png?v=1774091542",
+            "thumb_key": "thumbs/kaytee-51b5c1d7efd5.webp"
           }
         },
         {
@@ -389,7 +303,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4e30f64b085e.png?v=1774090732",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4e30f64b085e.png?v=1774091543",
             "width": 1600,
             "height": 1200
           },
@@ -461,7 +375,7 @@
             "team_b": "Bandirmaspor",
             "logo_a": "https://cdn.rapid-api.icu/football/team/e31af2ae24f05ee698546bbbd8e1c02c.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/9dbbcf5ac9247c588c24a99cc0a0e8f5.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4e30f64b085e.png?v=1774090732",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4e30f64b085e.png?v=1774091543",
             "thumb_key": "thumbs/kaytee-4e30f64b085e.webp"
           }
         },
@@ -475,7 +389,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-acc87feb9523.png?v=1774090734",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-acc87feb9523.png?v=1774091545",
             "width": 1600,
             "height": 1200
           },
@@ -547,7 +461,7 @@
             "team_b": "Sakaryaspor",
             "logo_a": "https://cdn.rapid-api.icu/football/team/97fe3ae85a2bc3840972911fb2d15d45.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/e6e91c21a343706f6d638c2ef87bbf20.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-acc87feb9523.png?v=1774090734",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-acc87feb9523.png?v=1774091545",
             "thumb_key": "thumbs/kaytee-acc87feb9523.webp"
           }
         },
@@ -561,7 +475,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7ef86e9dd535.png?v=1774090736",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7ef86e9dd535.png?v=1774091548",
             "width": 1600,
             "height": 1200
           },
@@ -633,8 +547,94 @@
             "team_b": "Arda",
             "logo_a": "https://cdn.rapid-api.icu/football/team/a6f81856a35217b82fb2e20d28c3dcab.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/cab5766b591c9836e3095d2471ad6e11.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7ef86e9dd535.png?v=1774090736",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7ef86e9dd535.png?v=1774091548",
             "thumb_key": "thumbs/kaytee-7ef86e9dd535.webp"
+          }
+        },
+        {
+          "id": "kaytee-e51a0453c001",
+          "name": "⚽ Akhmat Grozny vs FK Rostov | 17:45",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e51a0453c001.png?v=1774091552",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601316734",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601316734",
+                  "name": "Akhmat Grozny vs FK Rostov",
+                  "streams": [
+                    {
+                      "id": "st-601316734",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-dfeed3ff68",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69be6ca270a6a_4908/index.m3u8?expire=1774692130&sign=18df3decfe6baea8962ddd6d34372ca4",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/akhmat-grozny-vs-fk-rostov-1745-21-03-2026/601316734"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-5547c544e3",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/2d266385e0e8b37b89bf74bcfe6640ac/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/akhmat-grozny-vs-fk-rostov-1745-21-03-2026/601316734"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Russian Premier League",
+            "team_a": "Akhmat Grozny",
+            "team_b": "FK Rostov",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/dfb637acd761b88a27e200393e29319f.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/1279b7ad21c72f2ab7bda8b972c2858e.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e51a0453c001.png?v=1774091552",
+            "thumb_key": "thumbs/kaytee-e51a0453c001.webp"
           }
         }
       ]
@@ -648,7 +648,7 @@
       "channels": [
         {
           "id": "kaytee-f9d798557eee",
-          "name": "🏸 Leo Rolly CARNANDO / Bagas MAULANA vs HU Ke Yuan / LIN Xiang Yi | 16:55",
+          "name": "🏸 HIROKAMI/HOBARA vs LIN Chih-Chun /  YANG Chu Yun | 17:45",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -656,7 +656,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f9d798557eee.png?v=1774090731",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f9d798557eee.png?v=1774091550",
             "width": 1600,
             "height": 1200
           },
@@ -675,7 +675,7 @@
               "contents": [
                 {
                   "id": "ct-601328080",
-                  "name": "Leo Rolly CARNANDO / Bagas MAULANA vs HU Ke Yuan / LIN Xiang Yi",
+                  "name": "HIROKAMI/HOBARA vs LIN Chih-Chun /  YANG Chu Yun",
                   "streams": [
                     {
                       "id": "st-601328080",
@@ -690,7 +690,7 @@
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/leo-rolly-carnando--bagas-maulana-vs-hu-ke-yuan--lin-xiang-yi-1655-21-03-2026/601328080"
+                              "value": "https://bunchatv1.net/truc-tiep/hirokamihobara-vs-lin-chihchun---yang-chu-yun-1745-21-03-2026/601328080"
                             },
                             {
                               "key": "User-Agent",
@@ -707,12 +707,90 @@
           ],
           "org_metadata": {
             "league": "Sân 1 - Orleans Masters Badminton 2026",
-            "team_a": "Leo Rolly CARNANDO / Bagas MAULANA",
-            "team_b": "HU Ke Yuan / LIN Xiang Yi",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/4446b82fe10dc6bf86cf89041be3b9a6.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/3d945d9c62b179fa7c3037dd3e0d21af.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f9d798557eee.png?v=1774090731",
+            "team_a": "HIROKAMI/HOBARA",
+            "team_b": "LIN Chih-Chun /  YANG Chu Yun",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/b7bb957d792d2af33779a83a02d1e491.webp",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/584f4813b4ce8668fb28f5e00ceb668f.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f9d798557eee.png?v=1774091550",
             "thumb_key": "thumbs/kaytee-f9d798557eee.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_bóng_đá",
+      "name": "⏳ Sắp Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-efe4227fb4c5",
+          "name": "⚽ Brighton Hove Albion vs Liverpool | 19:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-efe4227fb4c5.png?v=1774091554",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601317088",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601317088",
+                  "name": "Brighton Hove Albion vs Liverpool",
+                  "streams": [
+                    {
+                      "id": "st-601317088",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f6bf74cd8a",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/ac9c810d1568f094e07504797a593c22/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/brighton-hove-albion-vs-liverpool-1930-21-03-2026/601317088"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Premier League",
+            "team_a": "Brighton Hove Albion",
+            "team_b": "Liverpool",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/9b43a690d5a09f1e319f036821e8e1d3.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/1cb3d08adac0e2dc1c4f10429d055bfe.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-efe4227fb4c5.png?v=1774091554",
+            "thumb_key": "thumbs/kaytee-efe4227fb4c5.webp"
           }
         }
       ]
