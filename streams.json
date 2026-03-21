@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-21T11:12:34.551813",
+  "updated_at": "2026-03-21T11:33:10.529696",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,213 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-776e62527956",
-          "name": "⚽ Aritma Praha vs SK Motorlet Praha | 16:15",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-776e62527956.png?v=1774091535",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601316635",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601316635",
-                  "name": "Aritma Praha vs SK Motorlet Praha",
-                  "streams": [
-                    {
-                      "id": "st-601316635",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-39e465ed37",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/7d388455997c7e6c9dd27feba98d67b2/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/aritma-praha-vs-sk-motorlet-praha-1615-21-03-2026/601316635"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Czech Third League",
-            "team_a": "Aritma Praha",
-            "team_b": "SK Motorlet Praha",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/ba304ddd029b36ec996349279f059752.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/e10a8b7e6592c35a6d92c5cf1af44db3.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-776e62527956.png?v=1774091535",
-            "thumb_key": "thumbs/kaytee-776e62527956.webp"
-          }
-        },
-        {
-          "id": "kaytee-eaa0b7eaa113",
-          "name": "⚽ Zlin B vs Trinec | 16:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-eaa0b7eaa113.png?v=1774091537",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601316650",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601316650",
-                  "name": "Zlin B vs Trinec",
-                  "streams": [
-                    {
-                      "id": "st-601316650",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ee50fc6de0",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/59a157d743e83277909245957772d33d/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/zlin-b-vs-trinec-1630-21-03-2026/601316650"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Czech Third League",
-            "team_a": "Zlin B",
-            "team_b": "Trinec",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/5de0e6bb1a634c4c97bffeeaa1265f70.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/7533eec36cdd76f59d9dadfd2c6c30cb.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-eaa0b7eaa113.png?v=1774091537",
-            "thumb_key": "thumbs/kaytee-eaa0b7eaa113.webp"
-          }
-        },
-        {
-          "id": "kaytee-57349d9132a7",
-          "name": "⚽ Mendiola FC 1991 vs One Taguig | 16:45",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-57349d9132a7.png?v=1774091539",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601316653",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601316653",
-                  "name": "Mendiola FC 1991 vs One Taguig",
-                  "streams": [
-                    {
-                      "id": "st-601316653",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4cca3bf394",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/3b5e04e7e5cc5a7a3e1800cbf059ca7e/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/mendiola-fc-1991-vs-one-taguig-1645-21-03-2026/601316653"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Philippines United Football League",
-            "team_a": "Mendiola FC 1991",
-            "team_b": "One Taguig",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/fa48f80e2e4045104fb1830e47ff1f42.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/60b08617e3c349f2363fd078d4b6fab3.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-57349d9132a7.png?v=1774091539",
-            "thumb_key": "thumbs/kaytee-57349d9132a7.webp"
-          }
-        },
         {
           "id": "kaytee-51b5c1d7efd5",
           "name": "⚽ Bologna U20 vs Frosinone U20 | 17:00",
@@ -234,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-51b5c1d7efd5.png?v=1774091542",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-51b5c1d7efd5.png?v=1774092770",
             "width": 1600,
             "height": 1200
           },
@@ -289,8 +82,215 @@
             "team_b": "Frosinone U20",
             "logo_a": "https://cdn.rapid-api.icu/football/team/3382469846f4403e21bd1150b2623a0e.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/db80ec72c3592397371e0ba99da0ec85.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-51b5c1d7efd5.png?v=1774091542",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-51b5c1d7efd5.png?v=1774092770",
             "thumb_key": "thumbs/kaytee-51b5c1d7efd5.webp"
+          }
+        },
+        {
+          "id": "kaytee-ba9816c698b4",
+          "name": "⚽ Napoli Youth vs Genoa Youth | 17:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ba9816c698b4.png?v=1774092772",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601316665",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601316665",
+                  "name": "Napoli Youth vs Genoa Youth",
+                  "streams": [
+                    {
+                      "id": "st-601316665",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-670bc66904",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/ea609905b34a1057d9d63758bab5cd70/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/napoli-youth-vs-genoa-youth-1700-21-03-2026/601316665"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Italian Campionato Primavera 1",
+            "team_a": "Napoli Youth",
+            "team_b": "Genoa Youth",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/2a943cc7a3e2d98ed16799f1adfa9e7b.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/da173090450e8e2bc9722c7a386a49ae.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ba9816c698b4.png?v=1774092772",
+            "thumb_key": "thumbs/kaytee-ba9816c698b4.webp"
+          }
+        },
+        {
+          "id": "kaytee-33b9f7a08e18",
+          "name": "⚽ Valkyrie (W) vs Taipei Brao Women | 17:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-33b9f7a08e18.png?v=1774092774",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601316668",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601316668",
+                  "name": "Valkyrie (W) vs Taipei Brao Women",
+                  "streams": [
+                    {
+                      "id": "st-601316668",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9732080d21",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/963377f651e506b0e718297485f4aa5c/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/valkyrie-w-vs-taipei-brao-women-1700-21-03-2026/601316668"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Chinese Taiwan Mulan Football League",
+            "team_a": "Valkyrie (W)",
+            "team_b": "Taipei Brao Women",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/658bb260bf2d0692e2cfdd34f68c9a82.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/15fee5d20bdecb9b5014d585f19771ae.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-33b9f7a08e18.png?v=1774092774",
+            "thumb_key": "thumbs/kaytee-33b9f7a08e18.webp"
+          }
+        },
+        {
+          "id": "kaytee-56317d2049d6",
+          "name": "⚽ Sunny Bank Athletic Club Taipei (w) vs Kaohsiung Attackers(w) | 17:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-56317d2049d6.png?v=1774092776",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601316671",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601316671",
+                  "name": "Sunny Bank Athletic Club Taipei (w) vs Kaohsiung Attackers(w)",
+                  "streams": [
+                    {
+                      "id": "st-601316671",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-484be7738f",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/f6ae2de9f8bd75d02b1eff2b2c4c1ec3/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/sunny-bank-athletic-club-taipei-w-vs-kaohsiung-attackersw-1700-21-03-2026/601316671"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Chinese Taiwan Mulan Football League",
+            "team_a": "Sunny Bank Athletic Club Taipei (w)",
+            "team_b": "Kaohsiung Attackers(w)",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/4eb153846eef1e315c0ed95fd7cf0edf.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/ffbed3f08e379e5d77277e44ab151d45.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-56317d2049d6.png?v=1774092776",
+            "thumb_key": "thumbs/kaytee-56317d2049d6.webp"
           }
         },
         {
@@ -303,7 +303,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4e30f64b085e.png?v=1774091543",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4e30f64b085e.png?v=1774092778",
             "width": 1600,
             "height": 1200
           },
@@ -375,7 +375,7 @@
             "team_b": "Bandirmaspor",
             "logo_a": "https://cdn.rapid-api.icu/football/team/e31af2ae24f05ee698546bbbd8e1c02c.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/9dbbcf5ac9247c588c24a99cc0a0e8f5.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4e30f64b085e.png?v=1774091543",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4e30f64b085e.png?v=1774092778",
             "thumb_key": "thumbs/kaytee-4e30f64b085e.webp"
           }
         },
@@ -389,7 +389,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-acc87feb9523.png?v=1774091545",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-acc87feb9523.png?v=1774092780",
             "width": 1600,
             "height": 1200
           },
@@ -461,7 +461,7 @@
             "team_b": "Sakaryaspor",
             "logo_a": "https://cdn.rapid-api.icu/football/team/97fe3ae85a2bc3840972911fb2d15d45.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/e6e91c21a343706f6d638c2ef87bbf20.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-acc87feb9523.png?v=1774091545",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-acc87feb9523.png?v=1774092780",
             "thumb_key": "thumbs/kaytee-acc87feb9523.webp"
           }
         },
@@ -475,7 +475,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7ef86e9dd535.png?v=1774091548",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7ef86e9dd535.png?v=1774092781",
             "width": 1600,
             "height": 1200
           },
@@ -547,7 +547,7 @@
             "team_b": "Arda",
             "logo_a": "https://cdn.rapid-api.icu/football/team/a6f81856a35217b82fb2e20d28c3dcab.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/cab5766b591c9836e3095d2471ad6e11.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7ef86e9dd535.png?v=1774091548",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7ef86e9dd535.png?v=1774092781",
             "thumb_key": "thumbs/kaytee-7ef86e9dd535.webp"
           }
         },
@@ -561,7 +561,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e51a0453c001.png?v=1774091552",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e51a0453c001.png?v=1774092786",
             "width": 1600,
             "height": 1200
           },
@@ -633,7 +633,7 @@
             "team_b": "FK Rostov",
             "logo_a": "https://cdn.rapid-api.icu/football/team/dfb637acd761b88a27e200393e29319f.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/1279b7ad21c72f2ab7bda8b972c2858e.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e51a0453c001.png?v=1774091552",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e51a0453c001.png?v=1774092786",
             "thumb_key": "thumbs/kaytee-e51a0453c001.webp"
           }
         }
@@ -656,7 +656,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f9d798557eee.png?v=1774091550",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f9d798557eee.png?v=1774092783",
             "width": 1600,
             "height": 1200
           },
@@ -711,7 +711,7 @@
             "team_b": "LIN Chih-Chun /  YANG Chu Yun",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/b7bb957d792d2af33779a83a02d1e491.webp",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/584f4813b4ce8668fb28f5e00ceb668f.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f9d798557eee.png?v=1774091550",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f9d798557eee.png?v=1774092783",
             "thumb_key": "thumbs/kaytee-f9d798557eee.webp"
           }
         }
@@ -725,6 +725,144 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "kaytee-55fc00a428c8",
+          "name": "⚽ Fujian vs Shanxi Zhongyu | 18:35",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-55fc00a428c8.png?v=1774092787",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601327168",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601327168",
+                  "name": "Fujian vs Shanxi Zhongyu",
+                  "streams": [
+                    {
+                      "id": "st-601327168",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4cfed54ca1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69be7f9b326da_42127/index.m3u8?expire=1774696987&sign=e332f79cee247ab5bd0ffeeda8c124e3",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/fujian-vs-shanxi-zhongyu-1835-21-03-2026/601327168"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CBA",
+            "team_a": "Fujian",
+            "team_b": "Shanxi Zhongyu",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/5578032484946d8b55721b4210e2f189.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/2a7551dc7e9fbb0a844291cfb6453ae4.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-55fc00a428c8.png?v=1774092787",
+            "thumb_key": "thumbs/kaytee-55fc00a428c8.webp"
+          }
+        },
+        {
+          "id": "kaytee-aafb28162211",
+          "name": "⚽ Nanjing Tongxi vs Qingdao | 18:35",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-aafb28162211.png?v=1774092787",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601327174",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601327174",
+                  "name": "Nanjing Tongxi vs Qingdao",
+                  "streams": [
+                    {
+                      "id": "st-601327174",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4cfed54ca1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69be7f9b326da_42127/index.m3u8?expire=1774696987&sign=e332f79cee247ab5bd0ffeeda8c124e3",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/nanjing-tongxi-vs-qingdao-1835-21-03-2026/601327174"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CBA",
+            "team_a": "Nanjing Tongxi",
+            "team_b": "Qingdao",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/17b13a0e9c5974c4c26f8a5a5ef4b751.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/0b80c352bd377e1553f11a7de467a22e.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-aafb28162211.png?v=1774092787",
+            "thumb_key": "thumbs/kaytee-aafb28162211.webp"
+          }
+        },
+        {
           "id": "kaytee-efe4227fb4c5",
           "name": "⚽ Brighton Hove Albion vs Liverpool | 19:30",
           "type": "single",
@@ -734,7 +872,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-efe4227fb4c5.png?v=1774091554",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-efe4227fb4c5.png?v=1774092790",
             "width": 1600,
             "height": 1200
           },
@@ -760,10 +898,27 @@
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-f6bf74cd8a",
+                          "id": "lnk-5481f54413",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69be80eb70a6a_28/index.m3u8?expire=1774697323&sign=0bd8b4c63558519720fa69a05d63b89b",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/brighton-hove-albion-vs-liverpool-1930-21-03-2026/601317088"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-f6bf74cd8a",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
                           "url": "https://live.alilicloud.com/live/ac9c810d1568f094e07504797a593c22/playlist.m3u8",
                           "request_headers": [
                             {
@@ -789,8 +944,86 @@
             "team_b": "Liverpool",
             "logo_a": "https://cdn.rapid-api.icu/football/team/9b43a690d5a09f1e319f036821e8e1d3.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/1cb3d08adac0e2dc1c4f10429d055bfe.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-efe4227fb4c5.png?v=1774091554",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-efe4227fb4c5.png?v=1774092790",
             "thumb_key": "thumbs/kaytee-efe4227fb4c5.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_bóng_rổ",
+      "name": "⏳ Sắp Live 🏀 Bóng Rổ",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-5d75611869aa",
+          "name": "🏀 Ningbo Rockets vs Guangzhou | 18:35",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5d75611869aa.png?v=1774092788",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601327177",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601327177",
+                  "name": "Ningbo Rockets vs Guangzhou",
+                  "streams": [
+                    {
+                      "id": "st-601327177",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3c5112a5e4",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69be7f53326d9_145690/index.m3u8?expire=1774696915&sign=f82de48d98d1a27e2b42a326d3a3d64e",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/ningbo-rockets-vs-guangzhou-1835-21-03-2026/601327177"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CBA",
+            "team_a": "Ningbo Rockets",
+            "team_b": "Guangzhou",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/9ad6797989de0a22360cf3cc414e694d.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/5128d913f65566daee98238dc8ff443e.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5d75611869aa.png?v=1774092788",
+            "thumb_key": "thumbs/kaytee-5d75611869aa.webp"
           }
         }
       ]
