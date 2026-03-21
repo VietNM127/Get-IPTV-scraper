@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-21T09:55:26.512281",
+  "updated_at": "2026-03-21T10:13:18.759361",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,161 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-a1d04ee1d19f",
-          "name": "⚽ Brisbane City vs Brisbane Olympic United FC | 15:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a1d04ee1d19f.png?v=1774086911",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601316476",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601316476",
-                  "name": "Brisbane City vs Brisbane Olympic United FC",
-                  "streams": [
-                    {
-                      "id": "st-601316476",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6ec76823b9",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69be4b9b70a6a_4908/index.m3u8?expire=1774683675&sign=cd7ca26345ca5e99b8ece26bf390e6c6",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/brisbane-city-vs-brisbane-olympic-united-fc-1500-21-03-2026/601316476"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-c668f2ad9a",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/9b54291e2e7268b191c34b2d5aa6d1d8/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/brisbane-city-vs-brisbane-olympic-united-fc-1500-21-03-2026/601316476"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Australia National Premier Leagues Queensland",
-            "team_a": "Brisbane City",
-            "team_b": "Brisbane Olympic United FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/4d58ff44865806627c28fb2a96705515.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/7f291910f4d25f651ce0cc1ba097f774.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a1d04ee1d19f.png?v=1774086911",
-            "thumb_key": "thumbs/kaytee-a1d04ee1d19f.webp"
-          }
-        },
-        {
-          "id": "kaytee-6e7d3db6f43c",
-          "name": "⚽ Newcastle Olympic vs Maitland | 15:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6e7d3db6f43c.png?v=1774086914",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601316491",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601316491",
-                  "name": "Newcastle Olympic vs Maitland",
-                  "streams": [
-                    {
-                      "id": "st-601316491",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f8ce27a84c",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/903e3e5f7e69609a818f54a79ad114af/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/newcastle-olympic-vs-maitland-1500-21-03-2026/601316491"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Australia Northern New South Wales Premier League",
-            "team_a": "Newcastle Olympic",
-            "team_b": "Maitland",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/aa5f7b825709e21a96d40dea9f611882.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/4d44d0661cc1d382c732bc98d8535354.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6e7d3db6f43c.png?v=1774086914",
-            "thumb_key": "thumbs/kaytee-6e7d3db6f43c.webp"
-          }
-        },
         {
           "id": "kaytee-8b67ce074a93",
           "name": "⚽ St George City FA vs Wollongong Wolves | 15:15",
@@ -182,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8b67ce074a93.png?v=1774086918",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8b67ce074a93.png?v=1774087983",
             "width": 1600,
             "height": 1200
           },
@@ -254,8 +99,215 @@
             "team_b": "Wollongong Wolves",
             "logo_a": "https://cdn.rapid-api.icu/football/team/008068851d82f62413011a3228c3c674.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/efae44ec97227dca2a2b38a19823a2f2.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8b67ce074a93.png?v=1774086918",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8b67ce074a93.png?v=1774087983",
             "thumb_key": "thumbs/kaytee-8b67ce074a93.webp"
+          }
+        },
+        {
+          "id": "kaytee-56de77dfbadc",
+          "name": "⚽ Metrostars SC vs Adelaide City FC | 15:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-56de77dfbadc.png?v=1774087985",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601316566",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601316566",
+                  "name": "Metrostars SC vs Adelaide City FC",
+                  "streams": [
+                    {
+                      "id": "st-601316566",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9b9c2a382d",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/bb15482b9542ae3c5945c13b4763b331/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/metrostars-sc-vs-adelaide-city-fc-1530-21-03-2026/601316566"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "South Australia National Premier Leagues",
+            "team_a": "Metrostars SC",
+            "team_b": "Adelaide City FC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/265c51481ea1074a0252b76392ed1e1e.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/144d2ec9191d3ffe5742433c81d1ed5e.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-56de77dfbadc.png?v=1774087985",
+            "thumb_key": "thumbs/kaytee-56de77dfbadc.webp"
+          }
+        },
+        {
+          "id": "kaytee-0903331b7770",
+          "name": "⚽ Hubei Istar vs Guangzhou Dandelion Alpha FC | 15:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0903331b7770.png?v=1774087987",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601316569",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601316569",
+                  "name": "Hubei Istar vs Guangzhou Dandelion Alpha FC",
+                  "streams": [
+                    {
+                      "id": "st-601316569",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d189d41fd2",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/341af4c7fbf379eb8fd640d6fb7fabc7/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/hubei-istar-vs-guangzhou-dandelion-alpha-fc-1530-21-03-2026/601316569"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Chinese Football League 2",
+            "team_a": "Hubei Istar",
+            "team_b": "Guangzhou Dandelion Alpha FC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/8eb7e4751d142783aec8a44b1ecaa922.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/69d796093df94d0b2b4ce1a5d2551df0.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0903331b7770.png?v=1774087987",
+            "thumb_key": "thumbs/kaytee-0903331b7770.webp"
+          }
+        },
+        {
+          "id": "kaytee-458c2ea1c5bc",
+          "name": "⚽ Kirivong Sok Sen Chey vs Visakha FC | 15:45",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-458c2ea1c5bc.png?v=1774087989",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601316572",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601316572",
+                  "name": "Kirivong Sok Sen Chey vs Visakha FC",
+                  "streams": [
+                    {
+                      "id": "st-601316572",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9c39065ea2",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/c16cfec293909461c08a4505c2a5567a/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/kirivong-sok-sen-chey-vs-visakha-fc-1545-21-03-2026/601316572"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Cambodian Premier League",
+            "team_a": "Kirivong Sok Sen Chey",
+            "team_b": "Visakha FC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/54ffd9342d725e6ee1b57e6821bb66cf.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/468c14438e05d60cc323f3d08ba928d5.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-458c2ea1c5bc.png?v=1774087989",
+            "thumb_key": "thumbs/kaytee-458c2ea1c5bc.webp"
           }
         },
         {
@@ -268,7 +320,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c514ef5632b8.png?v=1774086921",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c514ef5632b8.png?v=1774087991",
             "width": 1600,
             "height": 1200
           },
@@ -340,7 +392,7 @@
             "team_b": "Rochedale Rovers",
             "logo_a": "https://cdn.rapid-api.icu/football/team/a3e3ccdb89e29c21ae1908c3597c318f.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/030a377635b3ac3fe5cbb49221594110.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c514ef5632b8.png?v=1774086921",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c514ef5632b8.png?v=1774087991",
             "thumb_key": "thumbs/kaytee-c514ef5632b8.webp"
           }
         },
@@ -354,7 +406,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0b141bded82c.png?v=1774086923",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0b141bded82c.png?v=1774087993",
             "width": 1600,
             "height": 1200
           },
@@ -426,7 +478,7 @@
             "team_b": "Japan Women",
             "logo_a": "https://cdn.rapid-api.icu/football/team/16e07f20613d448ad440f7445ce8dd5a.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/511ce5ccb966e3fd16d3a8c1b99cc01a.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0b141bded82c.png?v=1774086923",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0b141bded82c.png?v=1774087993",
             "thumb_key": "thumbs/kaytee-0b141bded82c.webp"
           }
         },
@@ -440,7 +492,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8c0df59302e1.png?v=1774086926",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8c0df59302e1.png?v=1774087995",
             "width": 1600,
             "height": 1200
           },
@@ -495,172 +547,8 @@
             "team_b": "LPB Ninh Bình",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/d4ad21b8352e45f8fa49635c778babd0.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/1cba7cb1c7477b57e50a66aa4d9bb5d6.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8c0df59302e1.png?v=1774086926",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8c0df59302e1.png?v=1774087995",
             "thumb_key": "thumbs/kaytee-8c0df59302e1.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "live_bóng_rổ",
-      "name": "🔴 Live 🏀 Bóng Rổ",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-666753fb39ce",
-          "name": "🏀 Dandenong Thunder vs South Melbourne | 15:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-666753fb39ce.png?v=1774086913",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601316479",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601316479",
-                  "name": "Dandenong Thunder vs South Melbourne",
-                  "streams": [
-                    {
-                      "id": "st-601316479",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6a3d2fa6a1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69be45de70a6a_124958/index.m3u8?expire=1774682206&sign=2e6aabd5c9d8adf0b400c6cb8dbdde57",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/dandenong-thunder-vs-south-melbourne-1500-21-03-2026/601316479"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-05dc46fb2f",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/957782b8143579617a36f6649748c29b/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/dandenong-thunder-vs-south-melbourne-1500-21-03-2026/601316479"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Premier Leagues Victoria",
-            "team_a": "Dandenong Thunder",
-            "team_b": "South Melbourne",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/21b95f24eea9500e1147ed57a68a3ff8.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/3728683390847f335552d077cf0b8752.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-666753fb39ce.png?v=1774086913",
-            "thumb_key": "thumbs/kaytee-666753fb39ce.webp"
-          }
-        },
-        {
-          "id": "kaytee-d543eff5b265",
-          "name": "🏀 Virginia United vs SWQ Thunder | 15:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d543eff5b265.png?v=1774086916",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601316494",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601316494",
-                  "name": "Virginia United vs SWQ Thunder",
-                  "streams": [
-                    {
-                      "id": "st-601316494",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5ebd8869b1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/1845e9a10a82b883f95bfba3b1c95736/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/virginia-united-vs-swq-thunder-1500-21-03-2026/601316494"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "QLD D2",
-            "team_a": "Virginia United",
-            "team_b": "SWQ Thunder",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/746c5d5056f2a46ae1ad0e21b494c61c.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/a51c2ca4c1d80c75617504faa100185c.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d543eff5b265.png?v=1774086916",
-            "thumb_key": "thumbs/kaytee-d543eff5b265.webp"
           }
         }
       ]
@@ -674,7 +562,7 @@
       "channels": [
         {
           "id": "kaytee-f9d798557eee",
-          "name": "🏸 R. A. ROSE /  F. SETIANINGRUM vs Sumire NAKADE /  Miyu TAKAHASHI | 16:00",
+          "name": "🏸 Leo Rolly CARNANDO / Bagas MAULANA vs HU Ke Yuan / LIN Xiang Yi | 16:55",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -682,7 +570,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f9d798557eee.png?v=1774086925",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f9d798557eee.png?v=1774087996",
             "width": 1600,
             "height": 1200
           },
@@ -701,7 +589,7 @@
               "contents": [
                 {
                   "id": "ct-601328080",
-                  "name": "R. A. ROSE /  F. SETIANINGRUM vs Sumire NAKADE /  Miyu TAKAHASHI",
+                  "name": "Leo Rolly CARNANDO / Bagas MAULANA vs HU Ke Yuan / LIN Xiang Yi",
                   "streams": [
                     {
                       "id": "st-601328080",
@@ -716,7 +604,7 @@
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/r-a-rose---f-setianingrum-vs-sumire-nakade---miyu-takahashi-1600-21-03-2026/601328080"
+                              "value": "https://bunchatv1.net/truc-tiep/leo-rolly-carnando--bagas-maulana-vs-hu-ke-yuan--lin-xiang-yi-1655-21-03-2026/601328080"
                             },
                             {
                               "key": "User-Agent",
@@ -733,12 +621,90 @@
           ],
           "org_metadata": {
             "league": "Sân 1 - Orleans Masters Badminton 2026",
-            "team_a": "R. A. ROSE /  F. SETIANINGRUM",
-            "team_b": "Sumire NAKADE /  Miyu TAKAHASHI",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/e724a7ecab8f389ff729d0851ae0962b.webp",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/06b9f07a2df87f6bfe6d5c8fbd13d515.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f9d798557eee.png?v=1774086925",
+            "team_a": "Leo Rolly CARNANDO / Bagas MAULANA",
+            "team_b": "HU Ke Yuan / LIN Xiang Yi",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/4446b82fe10dc6bf86cf89041be3b9a6.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/3d945d9c62b179fa7c3037dd3e0d21af.jpg",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f9d798557eee.png?v=1774087996",
             "thumb_key": "thumbs/kaytee-f9d798557eee.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_bóng_đá",
+      "name": "⏳ Sắp Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-4e30f64b085e",
+          "name": "⚽ Boluspor vs Bandirmaspor | 17:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4e30f64b085e.png?v=1774087998",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601316710",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601316710",
+                  "name": "Boluspor vs Bandirmaspor",
+                  "streams": [
+                    {
+                      "id": "st-601316710",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bd13975469",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69be663570a6a_103/index.m3u8?expire=1774690485&sign=05fd89fbfb37b19b8450d07e1bdd39f9",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/boluspor-vs-bandirmaspor-1730-21-03-2026/601316710"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Turkish First League",
+            "team_a": "Boluspor",
+            "team_b": "Bandirmaspor",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/e31af2ae24f05ee698546bbbd8e1c02c.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/9dbbcf5ac9247c588c24a99cc0a0e8f5.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4e30f64b085e.png?v=1774087998",
+            "thumb_key": "thumbs/kaytee-4e30f64b085e.webp"
           }
         }
       ]
