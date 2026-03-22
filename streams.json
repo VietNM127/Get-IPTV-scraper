@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-22T15:36:54.998258",
+  "updated_at": "2026-03-22T15:43:21.429118",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,213 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-724f1f8d0e3b",
-          "name": "⚽ Ahli Al-Fujirah vs Gulf United FC | 20:40",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-724f1f8d0e3b.png?v=1774193804",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601320955",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601320955",
-                  "name": "Ahli Al-Fujirah vs Gulf United FC",
-                  "streams": [
-                    {
-                      "id": "st-601320955",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-210a3a423f",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/963f87b7ebc3b2d627a80f144474640f/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/ahli-alfujirah-vs-gulf-united-fc-2040-22-03-2026/601320955"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "United Arab Emirates Division 1 Group A",
-            "team_a": "Ahli Al-Fujirah",
-            "team_b": "Gulf United FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/d20e05eaa26e170108d9d29c7b48504e.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/394f0b536a3c64c83d7f37b85a09ef3c.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-724f1f8d0e3b.png?v=1774193804",
-            "thumb_key": "thumbs/kaytee-724f1f8d0e3b.webp"
-          }
-        },
-        {
-          "id": "kaytee-e22716981220",
-          "name": "⚽ Al-Jazira Al-Hamra vs Masfout | 20:40",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e22716981220.png?v=1774193805",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601320958",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601320958",
-                  "name": "Al-Jazira Al-Hamra vs Masfout",
-                  "streams": [
-                    {
-                      "id": "st-601320958",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-394057358f",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/0ee71092e281c6c3ad769d83bc070c60/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/aljazira-alhamra-vs-masfout-2040-22-03-2026/601320958"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "United Arab Emirates Division 1 Group A",
-            "team_a": "Al-Jazira Al-Hamra",
-            "team_b": "Masfout",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/44a360ab3a69a834f2d5732c5b338a18.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/37da83f5629182edfaa7ab0e0dc6d602.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e22716981220.png?v=1774193805",
-            "thumb_key": "thumbs/kaytee-e22716981220.webp"
-          }
-        },
-        {
-          "id": "kaytee-d44a742c3f9c",
-          "name": "⚽ Al Thaid vs Al Ittifaq Dubai | 20:40",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d44a742c3f9c.png?v=1774193806",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601320961",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601320961",
-                  "name": "Al Thaid vs Al Ittifaq Dubai",
-                  "streams": [
-                    {
-                      "id": "st-601320961",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-691c24ff6a",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/19a658c41afccc3ee1f790a9d680d0a3/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/al-thaid-vs-al-ittifaq-dubai-2040-22-03-2026/601320961"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "United Arab Emirates Division 1 Group A",
-            "team_a": "Al Thaid",
-            "team_b": "Al Ittifaq Dubai",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/397f90a33785439b313a3d8c873e5c4a.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/aaa0772612d70513ad0aa33d6009de20.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d44a742c3f9c.png?v=1774193806",
-            "thumb_key": "thumbs/kaytee-d44a742c3f9c.webp"
-          }
-        },
         {
           "id": "kaytee-b2ac38c52ba2",
           "name": "⚽ Dibba Al-Hisn vs Emirates Club | 20:40",
@@ -234,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b2ac38c52ba2.png?v=1774193808",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b2ac38c52ba2.png?v=1774194187",
             "width": 1600,
             "height": 1200
           },
@@ -289,8 +82,146 @@
             "team_b": "Emirates Club",
             "logo_a": "https://cdn.rapid-api.icu/football/team/e9cf8181898518696cc75b1fa3a34b76.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/2573bf2c6c4ddc6dbce17e19c469d228.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b2ac38c52ba2.png?v=1774193808",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b2ac38c52ba2.png?v=1774194187",
             "thumb_key": "thumbs/kaytee-b2ac38c52ba2.webp"
+          }
+        },
+        {
+          "id": "kaytee-c9b4a02cb6bc",
+          "name": "⚽ City Club vs Al Orooba(UAE) | 20:40",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c9b4a02cb6bc.png?v=1774194189",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601320967",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601320967",
+                  "name": "City Club vs Al Orooba(UAE)",
+                  "streams": [
+                    {
+                      "id": "st-601320967",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3956ed4d26",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/cbfda41b782a298111db22fe1d807217/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/city-club-vs-al-oroobauae-2040-22-03-2026/601320967"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "United Arab Emirates Division 1 Group A",
+            "team_a": "City Club",
+            "team_b": "Al Orooba(UAE)",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/db3bfd694c50a71e521655415c177d4c.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/3a7818eef1409f72ed0f908a61ff0e64.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c9b4a02cb6bc.png?v=1774194189",
+            "thumb_key": "thumbs/kaytee-c9b4a02cb6bc.webp"
+          }
+        },
+        {
+          "id": "kaytee-6ed39e9aa6e1",
+          "name": "⚽ Unia Skierniewice vs Podhale Nowy Targ | 20:45",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6ed39e9aa6e1.png?v=1774194190",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601320976",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601320976",
+                  "name": "Unia Skierniewice vs Podhale Nowy Targ",
+                  "streams": [
+                    {
+                      "id": "st-601320976",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3588a6a787",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/8d7d53244e0938e9a4871d0a61111a1f/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/unia-skierniewice-vs-podhale-nowy-targ-2045-22-03-2026/601320976"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Poland Liga 2",
+            "team_a": "Unia Skierniewice",
+            "team_b": "Podhale Nowy Targ",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/1e28a96ed951da95ecea5dd936089d64.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/c7b45a2e6b5d887544e115aa5b1bf40b.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6ed39e9aa6e1.png?v=1774194190",
+            "thumb_key": "thumbs/kaytee-6ed39e9aa6e1.webp"
           }
         },
         {
@@ -303,7 +234,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-72a405346c1d.png?v=1774193809",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-72a405346c1d.png?v=1774194192",
             "width": 1600,
             "height": 1200
           },
@@ -375,7 +306,7 @@
             "team_b": "Lazio",
             "logo_a": "https://cdn.rapid-api.icu/football/team/bd12298fc3920bc20b7ad43b16ad9624.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/5a2ff46efa33abc6b2908eb6279dfbf8.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-72a405346c1d.png?v=1774193809",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-72a405346c1d.png?v=1774194192",
             "thumb_key": "thumbs/kaytee-72a405346c1d.webp"
           }
         },
@@ -389,7 +320,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ef77791a13f7.png?v=1774193810",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ef77791a13f7.png?v=1774194194",
             "width": 1600,
             "height": 1200
           },
@@ -461,8 +392,77 @@
             "team_b": "Hellas Verona",
             "logo_a": "https://cdn.rapid-api.icu/football/team/45c9647899b8bf2fb6f988c6c33b964c.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/b8e39abb18bb1c69396c59ff73ecf124.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ef77791a13f7.png?v=1774193810",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ef77791a13f7.png?v=1774194194",
             "thumb_key": "thumbs/kaytee-ef77791a13f7.webp"
+          }
+        },
+        {
+          "id": "kaytee-8f2a781a54ff",
+          "name": "⚽ Taborsko Akademie vs Slavia Prague C | 21:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8f2a781a54ff.png?v=1774194196",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601317946",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601317946",
+                  "name": "Taborsko Akademie vs Slavia Prague C",
+                  "streams": [
+                    {
+                      "id": "st-601317946",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-16342c9051",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/4a466aae4409de0fbdc45e8dc2c3127d/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/taborsko-akademie-vs-slavia-prague-c-2100-22-03-2026/601317946"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Czech Third League",
+            "team_a": "Taborsko Akademie",
+            "team_b": "Slavia Prague C",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/9336f9edc111c8737940a6a4bb361ca6.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/86dad2cc4f028aaeaa1a9cc5fb9c33ca.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8f2a781a54ff.png?v=1774194196",
+            "thumb_key": "thumbs/kaytee-8f2a781a54ff.webp"
           }
         },
         {
@@ -475,7 +475,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f5fd27f95bb5.png?v=1774193812",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f5fd27f95bb5.png?v=1774194197",
             "width": 1600,
             "height": 1200
           },
@@ -564,7 +564,7 @@
             "team_b": "West Ham United",
             "logo_a": "https://cdn.rapid-api.icu/football/team/a3c32d6a906083118cac2cb796edaab3.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/d71ebda5c7fbca9093a1c2978c46f619.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f5fd27f95bb5.png?v=1774193812",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f5fd27f95bb5.png?v=1774194197",
             "thumb_key": "thumbs/kaytee-f5fd27f95bb5.webp"
           }
         },
@@ -578,7 +578,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cecdd7157432.png?v=1774193813",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cecdd7157432.png?v=1774194199",
             "width": 1600,
             "height": 1200
           },
@@ -667,7 +667,7 @@
             "team_b": "Nottingham Forest",
             "logo_a": "https://cdn.rapid-api.icu/football/team/8b22ab4041e666b996a2d96f20dea707.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/62572999d107f777efa4aeb907443527.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cecdd7157432.png?v=1774193813",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cecdd7157432.png?v=1774194199",
             "thumb_key": "thumbs/kaytee-cecdd7157432.webp"
           }
         }
@@ -690,7 +690,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8b787d0ea085.png?v=1774193814",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8b787d0ea085.png?v=1774194201",
             "width": 1600,
             "height": 1200
           },
@@ -779,7 +779,7 @@
             "team_b": "Manchester City",
             "logo_a": "https://cdn.rapid-api.icu/football/team/d6f5debc456da1119256ab66462ab510.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/c4a6528a2ee147b99c9885ef24385a4e.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8b787d0ea085.png?v=1774193814",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8b787d0ea085.png?v=1774194201",
             "thumb_key": "thumbs/kaytee-8b787d0ea085.webp"
           }
         }
