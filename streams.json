@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-22T09:57:25.649047",
+  "updated_at": "2026-03-22T10:13:51.578924",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,75 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-2f79caf62956",
-          "name": "⚽ Hang Sai vs Macau University | 15:10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2f79caf62956.png?v=1774173436",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601320259",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601320259",
-                  "name": "Hang Sai vs Macau University",
-                  "streams": [
-                    {
-                      "id": "st-601320259",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3681c015e5",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/e32cd17cbd087459b506285ce5c65a1a/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/hang-sai-vs-macau-university-1510-22-03-2026/601320259"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Chinese Macao Liga de Elite",
-            "team_a": "Hang Sai",
-            "team_b": "Macau University",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/5ae1443286b6ef5c1bd007939aef5e3c.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/f1b6fc0cb3c4eae6266a29cc4189d719.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2f79caf62956.png?v=1774173436",
-            "thumb_key": "thumbs/kaytee-2f79caf62956.webp"
-          }
-        },
         {
           "id": "kaytee-d36604d80637",
           "name": "⚽ Dynamic Herb Cebu vs Aguilas-UMak FC | 16:00",
@@ -96,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d36604d80637.png?v=1774173440",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d36604d80637.png?v=1774174419",
             "width": 1600,
             "height": 1200
           },
@@ -151,7 +82,7 @@
             "team_b": "Aguilas-UMak FC",
             "logo_a": "https://cdn.rapid-api.icu/football/team/282622540694b98c5ab0110781d9afe4.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/3b57ab2d85236c9e0df11abcbf400a05.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d36604d80637.png?v=1774173440",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d36604d80637.png?v=1774174419",
             "thumb_key": "thumbs/kaytee-d36604d80637.webp"
           }
         },
@@ -165,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b655c9b1ff5a.png?v=1774173442",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b655c9b1ff5a.png?v=1774174422",
             "width": 1600,
             "height": 1200
           },
@@ -220,8 +151,77 @@
             "team_b": "Mashuk-KMV",
             "logo_a": "https://cdn.rapid-api.icu/football/team/7b7bb591e753b1b29b3d69794d89bd7a.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/9e2791e0d4af74730e31c8f429b23780.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b655c9b1ff5a.png?v=1774173442",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b655c9b1ff5a.png?v=1774174422",
             "thumb_key": "thumbs/kaytee-b655c9b1ff5a.webp"
+          }
+        },
+        {
+          "id": "kaytee-24cad4227c84",
+          "name": "⚽ FC Voluntari vs Chindia Targoviste | 16:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-24cad4227c84.png?v=1774174425",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601322452",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601322452",
+                  "name": "FC Voluntari vs Chindia Targoviste",
+                  "streams": [
+                    {
+                      "id": "st-601322452",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8324f5ce90",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/890810503062b219a273405e6bf77f9d/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/fc-voluntari-vs-chindia-targoviste-1600-22-03-2026/601322452"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Romanian Liga II",
+            "team_a": "FC Voluntari",
+            "team_b": "Chindia Targoviste",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/f105da768299b0eece32a15bb3c30574.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/275c4eca0c3dd431c353013d073479b9.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-24cad4227c84.png?v=1774174425",
+            "thumb_key": "thumbs/kaytee-24cad4227c84.webp"
           }
         },
         {
@@ -234,7 +234,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-98dd73ef19ae.png?v=1774173443",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-98dd73ef19ae.png?v=1774174426",
             "width": 1600,
             "height": 1200
           },
@@ -289,8 +289,94 @@
             "team_b": "OshMU Aldier",
             "logo_a": "https://cdn.rapid-api.icu/football/team/0af12c5f3b1feee1eedef570e43a0f18.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/a75148f2e6e835fe7c58ecd9d8825664.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-98dd73ef19ae.png?v=1774173443",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-98dd73ef19ae.png?v=1774174426",
             "thumb_key": "thumbs/kaytee-98dd73ef19ae.webp"
+          }
+        },
+        {
+          "id": "kaytee-fdc6ff25a3be",
+          "name": "⚽ Belediye Vanspor vs Sariyer | 17:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fdc6ff25a3be.png?v=1774174428",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601320301",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601320301",
+                  "name": "Belediye Vanspor vs Sariyer",
+                  "streams": [
+                    {
+                      "id": "st-601320301",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-52173c1ecf",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bfb067326da_133172/index.m3u8?expire=1774775015&sign=bf35cdb2f2597c2294def537697ad1ec",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/belediye-vanspor-vs-sariyer-1700-22-03-2026/601320301"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-f05fd6d58b",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/af4a0ed2661b9c190f484df70ccad337/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/belediye-vanspor-vs-sariyer-1700-22-03-2026/601320301"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Turkish First League",
+            "team_a": "Belediye Vanspor",
+            "team_b": "Sariyer",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/1775a3cc03d54d5cee9731d9df7c4e87.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/24067249253d42b354d1a6316a377f76.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fdc6ff25a3be.png?v=1774174428",
+            "thumb_key": "thumbs/kaytee-fdc6ff25a3be.webp"
           }
         }
       ]
@@ -312,7 +398,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-866250b2caf1.png?v=1774173439",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-866250b2caf1.png?v=1774174417",
             "width": 1600,
             "height": 1200
           },
@@ -367,7 +453,7 @@
             "team_b": "Vietinbank",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/97cd4764d37f6693055ec3664f378222.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/91bba93583cafe0c6d1050cb24fedb6e.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-866250b2caf1.png?v=1774173439",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-866250b2caf1.png?v=1774174417",
             "thumb_key": "thumbs/kaytee-866250b2caf1.webp"
           }
         }
@@ -382,7 +468,7 @@
       "channels": [
         {
           "id": "kaytee-4436e5de9354",
-          "name": "🏸 Sumire NAKADE /  Miyu TAKAHASHI vs LIN Chih-Chun /  YANG Chu Yun | 16:00",
+          "name": "🏸 Sumire NAKADE /  Miyu TAKAHASHI vs LIN Chih-Chun /  YANG Chu Yun | 17:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -390,7 +476,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4436e5de9354.png?v=1774173438",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4436e5de9354.png?v=1774174427",
             "width": 1600,
             "height": 1200
           },
@@ -424,7 +510,7 @@
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/sumire-nakade---miyu-takahashi-vs-lin-chihchun---yang-chu-yun-1600-22-03-2026/601329085"
+                              "value": "https://bunchatv1.net/truc-tiep/sumire-nakade---miyu-takahashi-vs-lin-chihchun---yang-chu-yun-1700-22-03-2026/601329085"
                             },
                             {
                               "key": "User-Agent",
@@ -445,7 +531,7 @@
             "team_b": "LIN Chih-Chun /  YANG Chu Yun",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/06b9f07a2df87f6bfe6d5c8fbd13d515.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/584f4813b4ce8668fb28f5e00ceb668f.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4436e5de9354.png?v=1774173438",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4436e5de9354.png?v=1774174427",
             "thumb_key": "thumbs/kaytee-4436e5de9354.webp"
           }
         }
@@ -459,75 +545,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-fdc6ff25a3be",
-          "name": "⚽ Belediye Vanspor vs Sariyer | 17:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fdc6ff25a3be.png?v=1774173444",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Sắp Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601320301",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601320301",
-                  "name": "Belediye Vanspor vs Sariyer",
-                  "streams": [
-                    {
-                      "id": "st-601320301",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-52173c1ecf",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bfb067326da_133172/index.m3u8?expire=1774775015&sign=bf35cdb2f2597c2294def537697ad1ec",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/belediye-vanspor-vs-sariyer-1700-22-03-2026/601320301"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Turkish First League",
-            "team_a": "Belediye Vanspor",
-            "team_b": "Sariyer",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/1775a3cc03d54d5cee9731d9df7c4e87.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/24067249253d42b354d1a6316a377f76.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fdc6ff25a3be.png?v=1774173444",
-            "thumb_key": "thumbs/kaytee-fdc6ff25a3be.webp"
-          }
-        },
-        {
           "id": "kaytee-372179286220",
           "name": "⚽ Atakas Hatayspor vs Amedspor | 17:30",
           "type": "single",
@@ -537,7 +554,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-372179286220.png?v=1774173445",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-372179286220.png?v=1774174431",
             "width": 1600,
             "height": 1200
           },
@@ -592,7 +609,7 @@
             "team_b": "Amedspor",
             "logo_a": "https://cdn.rapid-api.icu/football/team/1fee4ece0adfb61b06264aa3e87e2a50.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/52a8c01c49d76f1f74ad148b07ef83f9.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-372179286220.png?v=1774173445",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-372179286220.png?v=1774174431",
             "thumb_key": "thumbs/kaytee-372179286220.webp"
           }
         }
