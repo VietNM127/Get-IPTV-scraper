@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-22T08:54:57.636675",
+  "updated_at": "2026-03-22T09:00:16.955518",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,316 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-b411f39a9d68",
-          "name": "⚽ Urawa Red Diamonds vs Machida Zelvia | 14:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b411f39a9d68.png?v=1774169685",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601320190",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601320190",
-                  "name": "Urawa Red Diamonds vs Machida Zelvia",
-                  "streams": [
-                    {
-                      "id": "st-601320190",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2e76c452ff",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bf8f3570a6a_4908/index.m3u8?expire=1774766517&sign=3d7c68d7092cff2bfff6723136547c09",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/urawa-red-diamonds-vs-machida-zelvia-1400-22-03-2026/601320190"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-67acd8e47a",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/161aadf62b8ec0e30f68b978d904d934/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/urawa-red-diamonds-vs-machida-zelvia-1400-22-03-2026/601320190"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Japanese J1 League",
-            "team_a": "Urawa Red Diamonds",
-            "team_b": "Machida Zelvia",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/ca15e36551392e8c99b53b5b2f8531d3.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b411f39a9d68.png?v=1774169685",
-            "thumb_key": "thumbs/kaytee-b411f39a9d68.webp"
-          }
-        },
-        {
-          "id": "kaytee-afda3eeb8728",
-          "name": "⚽ Kashiwa Reysol vs Mito Hollyhock | 14:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-afda3eeb8728.png?v=1774169687",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601320187",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601320187",
-                  "name": "Kashiwa Reysol vs Mito Hollyhock",
-                  "streams": [
-                    {
-                      "id": "st-601320187",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ccc7f35028",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bf8e80326da_103/index.m3u8?expire=1774766336&sign=63a93083e3a089bcb1f6aa8b56957d29",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/kashiwa-reysol-vs-mito-hollyhock-1400-22-03-2026/601320187"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-5c429c8c5e",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/2d52f8dcf45c83e68f3b3977f5e99c8f/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/kashiwa-reysol-vs-mito-hollyhock-1400-22-03-2026/601320187"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Japanese J1 League",
-            "team_a": "Kashiwa Reysol",
-            "team_b": "Mito Hollyhock",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/d272859d78eb8ca7a14753f4293fbf45.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/9ead844240532c4e12d3eb45d2087924.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-afda3eeb8728.png?v=1774169687",
-            "thumb_key": "thumbs/kaytee-afda3eeb8728.webp"
-          }
-        },
-        {
-          "id": "kaytee-a2a53e0d0b3f",
-          "name": "⚽ Yuxi Team vs Zhaotong Team | 14:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a2a53e0d0b3f.png?v=1774169689",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601316425",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601316425",
-                  "name": "Yuxi Team vs Zhaotong Team",
-                  "streams": [
-                    {
-                      "id": "st-601316425",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-53eb75213a",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/56cdb74f54e6a224a28f0f7477c69a8b/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/yuxi-team-vs-zhaotong-team-1400-22-03-2026/601316425"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Yunnan City Football League",
-            "team_a": "Yuxi Team",
-            "team_b": "Zhaotong Team",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/da18a47b02a25b2d4d9b8998d67f7c1e.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/cb52e1dde5ebb54ae7ca106dd296e95c.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a2a53e0d0b3f.png?v=1774169689",
-            "thumb_key": "thumbs/kaytee-a2a53e0d0b3f.webp"
-          }
-        },
-        {
-          "id": "kaytee-b3879301c35e",
-          "name": "⚽ Kwoon Chung Southern vs North District | 14:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b3879301c35e.png?v=1774169691",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601320178",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601320178",
-                  "name": "Kwoon Chung Southern vs North District",
-                  "streams": [
-                    {
-                      "id": "st-601320178",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-87ffb50c9c",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/45a80120f4103584a1a7e9a21536e686/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/kwoon-chung-southern-vs-north-district-1400-22-03-2026/601320178"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Chinese Hong Kong Premier League",
-            "team_a": "Kwoon Chung Southern",
-            "team_b": "North District",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/32f2ba807df5414fff97d85fe8221577.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/13a16c993e82e2185b2d869cf5aa0973.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b3879301c35e.png?v=1774169691",
-            "thumb_key": "thumbs/kaytee-b3879301c35e.webp"
-          }
-        },
         {
           "id": "kaytee-80089eb3a64b",
           "name": "⚽ Capalaba Bulldogs vs Broadbeach United | 14:00",
@@ -337,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-80089eb3a64b.png?v=1774169693",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-80089eb3a64b.png?v=1774170007",
             "width": 1600,
             "height": 1200
           },
@@ -392,8 +82,215 @@
             "team_b": "Broadbeach United",
             "logo_a": "https://cdn.rapid-api.icu/football/team/d96a55f33e54d2493db363f6e1498e89.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/40e331bba4de0186e268d8ba8e10f1d4.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-80089eb3a64b.png?v=1774169693",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-80089eb3a64b.png?v=1774170007",
             "thumb_key": "thumbs/kaytee-80089eb3a64b.webp"
+          }
+        },
+        {
+          "id": "kaytee-e8e62947ee00",
+          "name": "⚽ Chuxiong Team vs Pu'er Team | 14:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e8e62947ee00.png?v=1774170008",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601320199",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601320199",
+                  "name": "Chuxiong Team vs Pu'er Team",
+                  "streams": [
+                    {
+                      "id": "st-601320199",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4280343523",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/a5fc72eddce056ff8addce518c575487/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/chuxiong-team-vs-puer-team-1400-22-03-2026/601320199"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Yunnan City Football League",
+            "team_a": "Chuxiong Team",
+            "team_b": "Pu'er Team",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/41d103c169fb822c626d1e6f1f73d341.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/5795d694afd54268bf876f0b725671ca.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e8e62947ee00.png?v=1774170008",
+            "thumb_key": "thumbs/kaytee-e8e62947ee00.webp"
+          }
+        },
+        {
+          "id": "kaytee-568ffa3ccbbd",
+          "name": "⚽ Beijing IT vs Lanzhou Longyuan Athletics | 14:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-568ffa3ccbbd.png?v=1774170010",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601320202",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601320202",
+                  "name": "Beijing IT vs Lanzhou Longyuan Athletics",
+                  "streams": [
+                    {
+                      "id": "st-601320202",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-dfb80e39bd",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/4b9fe683a2c70121ca9fed0a6f428d10/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/beijing-it-vs-lanzhou-longyuan-athletics-1400-22-03-2026/601320202"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Chinese Football League 2",
+            "team_a": "Beijing IT",
+            "team_b": "Lanzhou Longyuan Athletics",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/3f0164c40c878bc710d0e7f83c6f5d71.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/2fa59a9c9801ee88b9049fa051fce162.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-568ffa3ccbbd.png?v=1774170010",
+            "thumb_key": "thumbs/kaytee-568ffa3ccbbd.webp"
+          }
+        },
+        {
+          "id": "kaytee-767320488edf",
+          "name": "⚽ Fremantle City FC (w) vs Perth RedStar (W) | 14:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-767320488edf.png?v=1774170011",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601322596",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601322596",
+                  "name": "Fremantle City FC (w) vs Perth RedStar (W)",
+                  "streams": [
+                    {
+                      "id": "st-601322596",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b1d400faeb",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/aa236ae3b00921ed47e8681bc4695d27/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/fremantle-city-fc-w-vs-perth-redstar-w-1400-22-03-2026/601322596"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Western Australia Women's League",
+            "team_a": "Fremantle City FC (w)",
+            "team_b": "Perth RedStar (W)",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/31e89fd0758ccc5468427fa5e9473be9.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/14e15ec922e414c06f6b70d6df93891e.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-767320488edf.png?v=1774170011",
+            "thumb_key": "thumbs/kaytee-767320488edf.webp"
           }
         },
         {
@@ -406,7 +303,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-75ab61ad8f46.png?v=1774169694",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-75ab61ad8f46.png?v=1774170012",
             "width": 1600,
             "height": 1200
           },
@@ -478,7 +375,7 @@
             "team_b": "Incheon United Club",
             "logo_a": "https://cdn.rapid-api.icu/football/team/cda2e60a4e984dc6f4ed091ec44fc5bb.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/36559689046e7d1d4f597c1a0bf9c5d6.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-75ab61ad8f46.png?v=1774169694",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-75ab61ad8f46.png?v=1774170012",
             "thumb_key": "thumbs/kaytee-75ab61ad8f46.webp"
           }
         },
@@ -492,7 +389,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d7f915aa3370.png?v=1774169696",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d7f915aa3370.png?v=1774170014",
             "width": 1600,
             "height": 1200
           },
@@ -547,7 +444,7 @@
             "team_b": "Jeju SK FC",
             "logo_a": "https://cdn.rapid-api.icu/football/team/771a93ae7f62b1a47a71c3d62b89dca3.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/2d2abe914435bb9b7140cf2154c50de9.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d7f915aa3370.png?v=1774169696",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d7f915aa3370.png?v=1774170014",
             "thumb_key": "thumbs/kaytee-d7f915aa3370.webp"
           }
         },
@@ -561,7 +458,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-de0ca7c24e67.png?v=1774169697",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-de0ca7c24e67.png?v=1774170015",
             "width": 1600,
             "height": 1200
           },
@@ -633,8 +530,94 @@
             "team_b": "Bucheon FC 1995",
             "logo_a": "https://cdn.rapid-api.icu/football/team/6f05c460789939ac83282bd0686446f1.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/640f8c62cb294e1cc308a44ed2a62891.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-de0ca7c24e67.png?v=1774169697",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-de0ca7c24e67.png?v=1774170015",
             "thumb_key": "thumbs/kaytee-de0ca7c24e67.webp"
+          }
+        },
+        {
+          "id": "kaytee-fa935b64e662",
+          "name": "⚽ Perth Glory vs Melbourne City | 15:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fa935b64e662.png?v=1774170016",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601320253",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601320253",
+                  "name": "Perth Glory vs Melbourne City",
+                  "streams": [
+                    {
+                      "id": "st-601320253",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-10e15c98c9",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bf9ae070a6a_79/index.m3u8?expire=1774769504&sign=c6b0f4e5606aaf63e9f4c34476a643d6",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/perth-glory-vs-melbourne-city-1500-22-03-2026/601320253"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-518fe4f5bb",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/ea725fbc1f2b14371230c619ff710c38/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/perth-glory-vs-melbourne-city-1500-22-03-2026/601320253"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Australia A-League",
+            "team_a": "Perth Glory",
+            "team_b": "Melbourne City",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/43f9c122bf617d349407a95d4f709a0d.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/c24f327d053d80fe6584b4c42d5cca13.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fa935b64e662.png?v=1774170016",
+            "thumb_key": "thumbs/kaytee-fa935b64e662.webp"
           }
         }
       ]
