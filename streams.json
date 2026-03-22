@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-22T13:11:16.236504",
+  "updated_at": "2026-03-22T13:13:04.273130",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-714af35ace58.png?v=1774185069",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-714af35ace58.png?v=1774185174",
             "width": 1600,
             "height": 1200
           },
@@ -68,23 +68,6 @@
                               "value": "Mozilla/5.0"
                             }
                           ]
-                        },
-                        {
-                          "id": "lnk-c4de3da370",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/ef9c9c70c0f807d58a1c29a91a560e9d/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/como-vs-pisa-1830-22-03-2026/601320520"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
                         }
                       ]
                     }
@@ -99,7 +82,7 @@
             "team_b": "Pisa",
             "logo_a": "https://cdn.rapid-api.icu/football/team/5f7059f40965e5a2cc00987e6bac2f32.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/7ca5de14056c7290f6787e0943aa11ad.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-714af35ace58.png?v=1774185069",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-714af35ace58.png?v=1774185174",
             "thumb_key": "thumbs/kaytee-714af35ace58.webp"
           }
         },
@@ -113,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5c39092ab690.png?v=1774185069",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5c39092ab690.png?v=1774185175",
             "width": 1600,
             "height": 1200
           },
@@ -168,7 +151,7 @@
             "team_b": "FC Uzhgorod",
             "logo_a": "https://cdn.rapid-api.icu/football/team/bcc9055952c634455c72e1f4860e2b49.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/a1f345b3b8b25ea62d5de592c9cbe551.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5c39092ab690.png?v=1774185069",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5c39092ab690.png?v=1774185175",
             "thumb_key": "thumbs/kaytee-5c39092ab690.webp"
           }
         },
@@ -182,7 +165,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-198287e5c861.png?v=1774185071",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-198287e5c861.png?v=1774185176",
             "width": 1600,
             "height": 1200
           },
@@ -237,8 +220,77 @@
             "team_b": "Parma(W)",
             "logo_a": "https://cdn.rapid-api.icu/football/team/83bd5ee757930fa265285df7ea5bd8bb.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/60f7e6774effb40ccf21a7b37a13ab63.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-198287e5c861.png?v=1774185071",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-198287e5c861.png?v=1774185176",
             "thumb_key": "thumbs/kaytee-198287e5c861.webp"
+          }
+        },
+        {
+          "id": "kaytee-489838161509",
+          "name": "⚽ Pro Patria vs Lecco | 18:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-489838161509.png?v=1774185177",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601320526",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601320526",
+                  "name": "Pro Patria vs Lecco",
+                  "streams": [
+                    {
+                      "id": "st-601320526",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5b88cca126",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/5b4e1496e33f3ff46f71bcb3fe7aa9bb/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/pro-patria-vs-lecco-1830-22-03-2026/601320526"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Italian Serie C",
+            "team_a": "Pro Patria",
+            "team_b": "Lecco",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/3ce8f120ad86c66c87037efeb29d0cd9.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/c3c48009a9a8f9c0795ac320cbe3d3a9.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-489838161509.png?v=1774185177",
+            "thumb_key": "thumbs/kaytee-489838161509.webp"
           }
         },
         {
@@ -251,7 +303,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-59db0c651d96.png?v=1774185074",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-59db0c651d96.png?v=1774185179",
             "width": 1600,
             "height": 1200
           },
@@ -306,7 +358,7 @@
             "team_b": "Công an TPHCM",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/1cba7cb1c7477b57e50a66aa4d9bb5d6.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/64be5559beb034d8ac9a377b49ef9380.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-59db0c651d96.png?v=1774185074",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-59db0c651d96.png?v=1774185179",
             "thumb_key": "thumbs/kaytee-59db0c651d96.webp"
           }
         },
@@ -320,7 +372,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-62b3fcad7e82.png?v=1774185074",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-62b3fcad7e82.png?v=1774185181",
             "width": 1600,
             "height": 1200
           },
@@ -409,7 +461,7 @@
             "team_b": "Sunderland",
             "logo_a": "https://cdn.rapid-api.icu/football/team/5dbe320855e3ba772dbce54f940c6fa5.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/957bdc50c307e2a9b526b34b3792da1a.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-62b3fcad7e82.png?v=1774185074",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-62b3fcad7e82.png?v=1774185181",
             "thumb_key": "thumbs/kaytee-62b3fcad7e82.webp"
           }
         },
@@ -423,7 +475,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-69d6379e5514.png?v=1774185076",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-69d6379e5514.png?v=1774185183",
             "width": 1600,
             "height": 1200
           },
@@ -495,7 +547,7 @@
             "team_b": "Hertha Berlin",
             "logo_a": "https://cdn.rapid-api.icu/football/team/15820ab793d530ee9d101bde619a013f.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/1f74843bf2ffff474d23d387fa240102.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-69d6379e5514.png?v=1774185076",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-69d6379e5514.png?v=1774185183",
             "thumb_key": "thumbs/kaytee-69d6379e5514.webp"
           }
         },
@@ -509,7 +561,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cb82e57a3b1c.png?v=1774185076",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cb82e57a3b1c.png?v=1774185184",
             "width": 1600,
             "height": 1200
           },
@@ -581,7 +633,7 @@
             "team_b": "Rayo Vallecano",
             "logo_a": "https://cdn.rapid-api.icu/football/team/f378eb1ea04e53999b89051aa3244de6.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/5005d8feab109ce64e40beb98073cc1f.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cb82e57a3b1c.png?v=1774185076",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cb82e57a3b1c.png?v=1774185184",
             "thumb_key": "thumbs/kaytee-cb82e57a3b1c.webp"
           }
         }
@@ -604,7 +656,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4436e5de9354.png?v=1774185075",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4436e5de9354.png?v=1774185181",
             "width": 1600,
             "height": 1200
           },
@@ -659,103 +711,8 @@
             "team_b": "Nozomi OKUHARA",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/d7a14d64e4da3ddaed23b91ee57f1ba9.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/c68fb073199e692bf44b0fe2a3d2eb83.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4436e5de9354.png?v=1774185075",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4436e5de9354.png?v=1774185181",
             "thumb_key": "thumbs/kaytee-4436e5de9354.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "live_bóng_bàn",
-      "name": "🔴 Live 🏓 Bóng Bàn",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-1e3a54b7623a",
-          "name": "🏓 NEC Nijmegen vs SC Heerenveen | 18:15",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1e3a54b7623a.png?v=1774185069",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601320514",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601320514",
-                  "name": "NEC Nijmegen vs SC Heerenveen",
-                  "streams": [
-                    {
-                      "id": "st-601320514",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-35b6876fc9",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bfd36b70a6a_110198/index.m3u8?expire=1774783979&sign=ee9bfd5e2d6498d1c7ff0946ec664a76",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/nec-nijmegen-vs-sc-heerenveen-1815-22-03-2026/601320514"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-a8521d5b43",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/17421f7d40fc49f543d1b403e018c01e/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/nec-nijmegen-vs-sc-heerenveen-1815-22-03-2026/601320514"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Netherlands Eredivisie",
-            "team_a": "NEC Nijmegen",
-            "team_b": "SC Heerenveen",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/d22de494a1ff648e90892c249c5aed12.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/c2cd1a6cdd056ae31e0712d5f4f97c9b.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1e3a54b7623a.png?v=1774185069",
-            "thumb_key": "thumbs/kaytee-1e3a54b7623a.webp"
           }
         }
       ]
