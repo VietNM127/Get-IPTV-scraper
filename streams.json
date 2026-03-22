@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-22T06:09:27.126264",
+  "updated_at": "2026-03-22T07:09:03.288474",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,333 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-754e37d476a1",
-          "name": "⚽ Brisbane Roar (Youth) vs Brisbane Wolves | 11:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-754e37d476a1.png?v=1774159755",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601320142",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601320142",
-                  "name": "Brisbane Roar (Youth) vs Brisbane Wolves",
-                  "streams": [
-                    {
-                      "id": "st-601320142",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-584c15d92c",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/fbc55b0be0f24482163483c52e05f4f8/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/brisbane-roar-youth-vs-brisbane-wolves-1130-22-03-2026/601320142"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Australia National Premier Leagues Queensland",
-            "team_a": "Brisbane Roar (Youth)",
-            "team_b": "Brisbane Wolves",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/8bf0a8154cddf3b29ec15f74f864aebd.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/62ee76fc01732a90a87f98940d031d6e.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-754e37d476a1.png?v=1774159755",
-            "thumb_key": "thumbs/kaytee-754e37d476a1.webp"
-          }
-        },
-        {
-          "id": "kaytee-b03cebcab8be",
-          "name": "⚽ Ulsan HD FC vs Gimcheon Sangmu Football Club | 12:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b03cebcab8be.png?v=1774159756",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601320124",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601320124",
-                  "name": "Ulsan HD FC vs Gimcheon Sangmu Football Club",
-                  "streams": [
-                    {
-                      "id": "st-601320124",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9e4bf3c40a",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bf754b326da_110198/index.m3u8?expire=1774759883&sign=d292912e78cd3a82e52b8ae2ba204e83",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/ulsan-hd-fc-vs-gimcheon-sangmu-football-club-1200-22-03-2026/601320124"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-dbe692dcc3",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/06f02ef297e5a9c987b10c305a66130a/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/ulsan-hd-fc-vs-gimcheon-sangmu-football-club-1200-22-03-2026/601320124"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Korean K League 1",
-            "team_a": "Ulsan HD FC",
-            "team_b": "Gimcheon Sangmu Football Club",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/fe07fb888ebcb282192332cb8aed21b1.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/4a3e50e90ab721c1782568a287bd5358.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b03cebcab8be.png?v=1774159756",
-            "thumb_key": "thumbs/kaytee-b03cebcab8be.webp"
-          }
-        },
-        {
-          "id": "kaytee-0403d9154deb",
-          "name": "⚽ Football Club Seoul vs Gwangju Football Club | 12:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0403d9154deb.png?v=1774159759",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601320121",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601320121",
-                  "name": "Football Club Seoul vs Gwangju Football Club",
-                  "streams": [
-                    {
-                      "id": "st-601320121",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f72a2f987d",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bf70bb70a6a_28/index.m3u8?expire=1774758715&sign=77db0a4b6b86e4eb31de0092dc8852a1",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/football-club-seoul-vs-gwangju-football-club-1200-22-03-2026/601320121"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-2a0fcc2e11",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/02f6b00e67aed6a47283ee3d01a0d7f3/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/football-club-seoul-vs-gwangju-football-club-1200-22-03-2026/601320121"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Korean K League 1",
-            "team_a": "Football Club Seoul",
-            "team_b": "Gwangju Football Club",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/ad010af729c420626d1865ad744168d3.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/2e8e1e2a893d37e3f7260e97c807c28a.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0403d9154deb.png?v=1774159759",
-            "thumb_key": "thumbs/kaytee-0403d9154deb.webp"
-          }
-        },
-        {
-          "id": "kaytee-7b37f774aff7",
-          "name": "⚽ Tokyo Verdy vs FC Tokyo | 12:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7b37f774aff7.png?v=1774159760",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601320091",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601320091",
-                  "name": "Tokyo Verdy vs FC Tokyo",
-                  "streams": [
-                    {
-                      "id": "st-601320091",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e3ab1111f8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bf6fc3326da_133172/index.m3u8?expire=1774758467&sign=8fa4bc78e7eac0acda3b0e790909ec84",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/tokyo-verdy-vs-fc-tokyo-1200-22-03-2026/601320091"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-c2e021aeb3",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/806d6f609e34d644ad213797e6490acc/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/tokyo-verdy-vs-fc-tokyo-1200-22-03-2026/601320091"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Japanese J1 League",
-            "team_a": "Tokyo Verdy",
-            "team_b": "FC Tokyo",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/2a8adb34e764602183a7bee8f51726e4.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/333df39860930a21cf72b4e9664723ab.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7b37f774aff7.png?v=1774159760",
-            "thumb_key": "thumbs/kaytee-7b37f774aff7.webp"
-          }
-        },
         {
           "id": "kaytee-adc48ec2ff64",
           "name": "⚽ Kyoto Sanga vs Nagoya Grampus | 12:00",
@@ -354,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-adc48ec2ff64.png?v=1774159762",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-adc48ec2ff64.png?v=1774163327",
             "width": 1600,
             "height": 1200
           },
@@ -426,13 +99,13 @@
             "team_b": "Nagoya Grampus",
             "logo_a": "https://cdn.rapid-api.icu/football/team/7d6fa50ea67cde7d66612a8189897ba5.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/32aa68e1fa3d62dad572d19b21a09353.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-adc48ec2ff64.png?v=1774159762",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-adc48ec2ff64.png?v=1774163327",
             "thumb_key": "thumbs/kaytee-adc48ec2ff64.webp"
           }
         },
         {
-          "id": "kaytee-3af0a89ac87e",
-          "name": "⚽ Geumsan Insam FC vs Haman FC | 12:00",
+          "id": "kaytee-c1f71019a659",
+          "name": "⚽ Apia L Tigers (w) vs Maca Searle (w) | 12:50",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -440,7 +113,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3af0a89ac87e.png?v=1774159764",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c1f71019a659.png?v=1774163329",
             "width": 1600,
             "height": 1200
           },
@@ -454,27 +127,27 @@
           ],
           "sources": [
             {
-              "id": "src-601319824",
+              "id": "src-601315456",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601319824",
-                  "name": "Geumsan Insam FC vs Haman FC",
+                  "id": "ct-601315456",
+                  "name": "Apia L Tigers (w) vs Maca Searle (w)",
                   "streams": [
                     {
-                      "id": "st-601319824",
+                      "id": "st-601315456",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-072080beea",
+                          "id": "lnk-ccea90a879",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live.alilicloud.com/live/365af9f29d2220087ca4ff027310eed2/playlist.m3u8",
+                          "url": "https://live.alilicloud.com/live/477d70816b432fad02d5a072a6f954a7/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/geumsan-insam-fc-vs-haman-fc-1200-22-03-2026/601319824"
+                              "value": "https://bunchatv1.net/truc-tiep/apia-l-tigers-w-vs-maca-searle-w-1250-22-03-2026/601315456"
                             },
                             {
                               "key": "User-Agent",
@@ -490,18 +163,18 @@
             }
           ],
           "org_metadata": {
-            "league": "Korean K League 4",
-            "team_a": "Geumsan Insam FC",
-            "team_b": "Haman FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/1895dcc6de1876c5169dc1ca1ea281ac.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/e984b5f764a158fa2836fd1ff6b7cfab.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3af0a89ac87e.png?v=1774159764",
-            "thumb_key": "thumbs/kaytee-3af0a89ac87e.webp"
+            "league": "Australia New South Wales Women's League",
+            "team_a": "Apia L Tigers (w)",
+            "team_b": "Maca Searle (w)",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/779e1bee13556f0d63027426f2ee9df9.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/0b4eeb2ee5fd439b6c767c99ac23e406.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c1f71019a659.png?v=1774163329",
+            "thumb_key": "thumbs/kaytee-c1f71019a659.webp"
           }
         },
         {
-          "id": "kaytee-7edbeee53fa8",
-          "name": "⚽ WS Wanderers (w) vs Melbourne City Women | 12:00",
+          "id": "kaytee-fc3038a816d3",
+          "name": "⚽ St Albans Saints vs Heidelberg United | 13:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -509,7 +182,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7edbeee53fa8.png?v=1774159767",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fc3038a816d3.png?v=1774163331",
             "width": 1600,
             "height": 1200
           },
@@ -523,27 +196,44 @@
           ],
           "sources": [
             {
-              "id": "src-601320088",
+              "id": "src-601320163",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601320088",
-                  "name": "WS Wanderers (w) vs Melbourne City Women",
+                  "id": "ct-601320163",
+                  "name": "St Albans Saints vs Heidelberg United",
                   "streams": [
                     {
-                      "id": "st-601320088",
+                      "id": "st-601320163",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-cb0d8653a2",
+                          "id": "lnk-4b5fbf16f9",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live.alilicloud.com/live/6d82d9561d718fa36d5b55b4e29bf248/playlist.m3u8",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bf6ac3326da_124958/index.m3u8?expire=1774757187&sign=30bc16198fedc7fbe69496027e787d52",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/ws-wanderers-w-vs-melbourne-city-women-1200-22-03-2026/601320088"
+                              "value": "https://bunchatv1.net/truc-tiep/st-albans-saints-vs-heidelberg-united-1300-22-03-2026/601320163"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-2d3a99edf9",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/25efcf5180d2fb8f9654985884921d1c/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/st-albans-saints-vs-heidelberg-united-1300-22-03-2026/601320163"
                             },
                             {
                               "key": "User-Agent",
@@ -559,13 +249,495 @@
             }
           ],
           "org_metadata": {
-            "league": "Australia W-League",
-            "team_a": "WS Wanderers (w)",
-            "team_b": "Melbourne City Women",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/1f0d56832a72a49d8e9e3506658ad67b.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/6d2cab607ba1b908c2c71225581b06ee.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7edbeee53fa8.png?v=1774159767",
-            "thumb_key": "thumbs/kaytee-7edbeee53fa8.webp"
+            "league": "National Premier Leagues Victoria",
+            "team_a": "St Albans Saints",
+            "team_b": "Heidelberg United",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/f492a7a07b9d72c444cc5e6a3f990603.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/5cae62255ca170949672a7ce8999b094.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fc3038a816d3.png?v=1774163331",
+            "thumb_key": "thumbs/kaytee-fc3038a816d3.webp"
+          }
+        },
+        {
+          "id": "kaytee-6efeefa2dfa4",
+          "name": "⚽ Kashima Antlers vs JEF United Ichihara Chiba | 13:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6efeefa2dfa4.png?v=1774163333",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601320151",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601320151",
+                  "name": "Kashima Antlers vs JEF United Ichihara Chiba",
+                  "streams": [
+                    {
+                      "id": "st-601320151",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9d2a9a971b",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bf814770a6a_6308/index.m3u8?expire=1774762951&sign=3c365c1755fd2554fba98d32eec79f53",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/kashima-antlers-vs-jef-united-ichihara-chiba-1300-22-03-2026/601320151"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-d54fbce4dd",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/f30b7fe4f4cf14529502676669d2bc1b/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/kashima-antlers-vs-jef-united-ichihara-chiba-1300-22-03-2026/601320151"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Japanese J1 League",
+            "team_a": "Kashima Antlers",
+            "team_b": "JEF United Ichihara Chiba",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/90ca524b1b1c17911b1bf8e425c8d96d.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/9ce2dfe0c36e6a9774eaecf9731375b6.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6efeefa2dfa4.png?v=1774163333",
+            "thumb_key": "thumbs/kaytee-6efeefa2dfa4.webp"
+          }
+        },
+        {
+          "id": "kaytee-31ff2c35bb7b",
+          "name": "⚽ Sydney United 58 FC vs Blacktown City Demons | 13:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-31ff2c35bb7b.png?v=1774163335",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601320160",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601320160",
+                  "name": "Sydney United 58 FC vs Blacktown City Demons",
+                  "streams": [
+                    {
+                      "id": "st-601320160",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7237dd5923",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bf8544326da_73445/index.m3u8?expire=1774763972&sign=a069e682287a23058edba5097e952d37",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/sydney-united-58-fc-vs-blacktown-city-demons-1300-22-03-2026/601320160"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-2847edfcfd",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/62ff8e6ba2638552c953e295f631fbfb/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/sydney-united-58-fc-vs-blacktown-city-demons-1300-22-03-2026/601320160"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Australia New South Wales Premier League",
+            "team_a": "Sydney United 58 FC",
+            "team_b": "Blacktown City Demons",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/a2f47271892fb491ffab880158419ca0.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/c074c4be85fe61509822008face2ef08.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-31ff2c35bb7b.png?v=1774163335",
+            "thumb_key": "thumbs/kaytee-31ff2c35bb7b.webp"
+          }
+        },
+        {
+          "id": "kaytee-5cf71816f0a5",
+          "name": "⚽ Mt Druitt Town Rangers FC (W) vs Gladesville Ravens (W) | 13:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5cf71816f0a5.png?v=1774163337",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601315459",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601315459",
+                  "name": "Mt Druitt Town Rangers FC (W) vs Gladesville Ravens (W)",
+                  "streams": [
+                    {
+                      "id": "st-601315459",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-acb9fef95b",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/25a1aa88eedee0d79252c602ff04795d/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/mt-druitt-town-rangers-fc-w-vs-gladesville-ravens-w-1300-22-03-2026/601315459"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Australia New South Wales Women's League",
+            "team_a": "Mt Druitt Town Rangers FC (W)",
+            "team_b": "Gladesville Ravens (W)",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/bf6b25cdaa9034758545ed92c2bd0e36.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/1951a2cc90cb70313e9643d830e78bfc.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5cf71816f0a5.png?v=1774163337",
+            "thumb_key": "thumbs/kaytee-5cf71816f0a5.webp"
+          }
+        },
+        {
+          "id": "kaytee-c3468fdbaafb",
+          "name": "⚽ Kawasaki Frontale vs Yokohama F. Marinos | 13:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c3468fdbaafb.png?v=1774163338",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601320154",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601320154",
+                  "name": "Kawasaki Frontale vs Yokohama F. Marinos",
+                  "streams": [
+                    {
+                      "id": "st-601320154",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2b87ede386",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bf7dc3326da_72787/index.m3u8?expire=1774762051&sign=d149b93915870b85cccf0d05b75f1764",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/kawasaki-frontale-vs-yokohama-f-marinos-1300-22-03-2026/601320154"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-14212a44d0",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/d0fa14cdcb26db5bd5170bc4a0362f03/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/kawasaki-frontale-vs-yokohama-f-marinos-1300-22-03-2026/601320154"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Japanese J1 League",
+            "team_a": "Kawasaki Frontale",
+            "team_b": "Yokohama F. Marinos",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/937795c0851c1e794e96a5cb660fcd59.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/78ddaaa79d9502f5e2df0fbb6261f937.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-c3468fdbaafb.png?v=1774163338",
+            "thumb_key": "thumbs/kaytee-c3468fdbaafb.webp"
+          }
+        },
+        {
+          "id": "kaytee-f18531ce8d52",
+          "name": "⚽ Cerezo Osaka vs Vissel Kobe | 13:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f18531ce8d52.png?v=1774163340",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601320157",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601320157",
+                  "name": "Cerezo Osaka vs Vissel Kobe",
+                  "streams": [
+                    {
+                      "id": "st-601320157",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-49d8b6cff7",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bf773770a6a_79/index.m3u8?expire=1774760375&sign=8951a787fb7e54fe5539cf4d7446f8eb",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/cerezo-osaka-vs-vissel-kobe-1300-22-03-2026/601320157"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-f373e5bef8",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/83c84830490e61afc10bf197bce5c51f/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/cerezo-osaka-vs-vissel-kobe-1300-22-03-2026/601320157"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Japanese J1 League",
+            "team_a": "Cerezo Osaka",
+            "team_b": "Vissel Kobe",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/ab10ee503e539e55a9a11a9ff202405a.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/d85cce27ab583e5b3cead155f02b098a.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f18531ce8d52.png?v=1774163340",
+            "thumb_key": "thumbs/kaytee-f18531ce8d52.webp"
+          }
+        },
+        {
+          "id": "kaytee-75f8f1131b89",
+          "name": "⚽ TPHCM vs Thể Công Tân Cảng | 14:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-75f8f1131b89.png?v=1774163343",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601329031",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601329031",
+                  "name": "TPHCM vs Thể Công Tân Cảng",
+                  "streams": [
+                    {
+                      "id": "st-601329031",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-59b808d28f",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bf8e2c70a6a_88642/index.m3u8?expire=1774766252&sign=55e7eb78b947b1493665a29ef93180f5",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/tphcm-vs-the-cong-tan-cang-1400-22-03-2026/601329031"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Cúp Hoa Lư 2026 - Nam",
+            "team_a": "TPHCM",
+            "team_b": "Thể Công Tân Cảng",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/23057d487844e08e19a0c51997d3987c.jpg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/9293c85e50108a0acdf51897531398f0.jpg",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-75f8f1131b89.png?v=1774163343",
+            "thumb_key": "thumbs/kaytee-75f8f1131b89.webp"
           }
         }
       ]
