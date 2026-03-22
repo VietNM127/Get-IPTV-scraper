@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-22T09:27:04.793831",
+  "updated_at": "2026-03-22T09:44:50.828199",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,299 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-de0ca7c24e67",
-          "name": "⚽ Pohang Steelers vs Bucheon FC 1995 | 14:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-de0ca7c24e67.png?v=1774171612",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601320226",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601320226",
-                  "name": "Pohang Steelers vs Bucheon FC 1995",
-                  "streams": [
-                    {
-                      "id": "st-601320226",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8cb1a545fd",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bf8a36326da_95554/index.m3u8?expire=1774765238&sign=d78f46c9c052706d9c1f021c0e205803",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/pohang-steelers-vs-bucheon-fc-1995-1430-22-03-2026/601320226"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-2a53d91941",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/a0d2e03b6756b4391b097aeef7e70be0/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/pohang-steelers-vs-bucheon-fc-1995-1430-22-03-2026/601320226"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Korean K League 1",
-            "team_a": "Pohang Steelers",
-            "team_b": "Bucheon FC 1995",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/6f05c460789939ac83282bd0686446f1.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/640f8c62cb294e1cc308a44ed2a62891.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-de0ca7c24e67.png?v=1774171612",
-            "thumb_key": "thumbs/kaytee-de0ca7c24e67.webp"
-          }
-        },
-        {
-          "id": "kaytee-76ab698bfed2",
-          "name": "⚽ Gyeongnam FC vs Gimpo FC | 14:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-76ab698bfed2.png?v=1774171614",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601320235",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601320235",
-                  "name": "Gyeongnam FC vs Gimpo FC",
-                  "streams": [
-                    {
-                      "id": "st-601320235",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b087690583",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/619a71b353a16d65812329729abdfe0f/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/gyeongnam-fc-vs-gimpo-fc-1430-22-03-2026/601320235"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Korean K League 2",
-            "team_a": "Gyeongnam FC",
-            "team_b": "Gimpo FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/25a9ab8b2b697879c4b5bb1433922c54.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/b2fd66eaeaeee055d189e285785ba3f6.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-76ab698bfed2.png?v=1774171614",
-            "thumb_key": "thumbs/kaytee-76ab698bfed2.webp"
-          }
-        },
-        {
-          "id": "kaytee-6849700e1c17",
-          "name": "⚽ Jiangxi Lushan vs Hangzhou Linping Wuyue | 14:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6849700e1c17.png?v=1774171617",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601320244",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601320244",
-                  "name": "Jiangxi Lushan vs Hangzhou Linping Wuyue",
-                  "streams": [
-                    {
-                      "id": "st-601320244",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6c94fecf3e",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/529267a24b34ff75590ba9493429356a/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/jiangxi-lushan-vs-hangzhou-linping-wuyue-1430-22-03-2026/601320244"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Chinese Football League 2",
-            "team_a": "Jiangxi Lushan",
-            "team_b": "Hangzhou Linping Wuyue",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/2d5acabff93b2cc5c965f75b920f14bb.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/b493c3e5b0fb8c1c48b1a685b2a33c26.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6849700e1c17.png?v=1774171617",
-            "thumb_key": "thumbs/kaytee-6849700e1c17.webp"
-          }
-        },
-        {
-          "id": "kaytee-376a18473b93",
-          "name": "⚽ Wenzhou Professional Football Club vs Chengdu Rongcheng B | 14:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-376a18473b93.png?v=1774171620",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601320247",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601320247",
-                  "name": "Wenzhou Professional Football Club vs Chengdu Rongcheng B",
-                  "streams": [
-                    {
-                      "id": "st-601320247",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b5fdcfcc1c",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/2631335ee6be86cc03b48bfdf8334399/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/wenzhou-professional-football-club-vs-chengdu-rongcheng-b-1430-22-03-2026/601320247"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Chinese Football League 2",
-            "team_a": "Wenzhou Professional Football Club",
-            "team_b": "Chengdu Rongcheng B",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/971baf2cd794e40faa9d10a176a86170.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/0c14283bd746445f4b048c5e8f57be74.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-376a18473b93.png?v=1774171620",
-            "thumb_key": "thumbs/kaytee-376a18473b93.webp"
-          }
-        },
         {
           "id": "kaytee-fa935b64e662",
           "name": "⚽ Perth Glory vs Melbourne City | 15:00",
@@ -320,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fa935b64e662.png?v=1774171622",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fa935b64e662.png?v=1774172679",
             "width": 1600,
             "height": 1200
           },
@@ -392,8 +99,215 @@
             "team_b": "Melbourne City",
             "logo_a": "https://cdn.rapid-api.icu/football/team/43f9c122bf617d349407a95d4f709a0d.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/c24f327d053d80fe6584b4c42d5cca13.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fa935b64e662.png?v=1774171622",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fa935b64e662.png?v=1774172679",
             "thumb_key": "thumbs/kaytee-fa935b64e662.webp"
+          }
+        },
+        {
+          "id": "kaytee-4111fadf865e",
+          "name": "⚽ Shenzhen 2028 vs Wuhan Three Towns B | 15:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4111fadf865e.png?v=1774172682",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601320262",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601320262",
+                  "name": "Shenzhen 2028 vs Wuhan Three Towns B",
+                  "streams": [
+                    {
+                      "id": "st-601320262",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b1c24fa228",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/37958363b2d2cf466c73938b22a0bda0/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/shenzhen-2028-vs-wuhan-three-towns-b-1500-22-03-2026/601320262"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Chinese Football League 2",
+            "team_a": "Shenzhen 2028",
+            "team_b": "Wuhan Three Towns B",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/f4f29caf210db9a418ece37a7025eb5f.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/606d1fab6be38fe79da58c380fbcd975.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4111fadf865e.png?v=1774172682",
+            "thumb_key": "thumbs/kaytee-4111fadf865e.webp"
+          }
+        },
+        {
+          "id": "kaytee-2f79caf62956",
+          "name": "⚽ Hang Sai vs Macau University | 15:10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2f79caf62956.png?v=1774172684",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601320259",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601320259",
+                  "name": "Hang Sai vs Macau University",
+                  "streams": [
+                    {
+                      "id": "st-601320259",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3681c015e5",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/e32cd17cbd087459b506285ce5c65a1a/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/hang-sai-vs-macau-university-1510-22-03-2026/601320259"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Chinese Macao Liga de Elite",
+            "team_a": "Hang Sai",
+            "team_b": "Macau University",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/5ae1443286b6ef5c1bd007939aef5e3c.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/f1b6fc0cb3c4eae6266a29cc4189d719.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2f79caf62956.png?v=1774172684",
+            "thumb_key": "thumbs/kaytee-2f79caf62956.webp"
+          }
+        },
+        {
+          "id": "kaytee-d36604d80637",
+          "name": "⚽ Dynamic Herb Cebu vs Aguilas-UMak FC | 16:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d36604d80637.png?v=1774172689",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601320268",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601320268",
+                  "name": "Dynamic Herb Cebu vs Aguilas-UMak FC",
+                  "streams": [
+                    {
+                      "id": "st-601320268",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-07c4a3f793",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/2d218b0cc062567c4d1176d3c566bf02/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/dynamic-herb-cebu-vs-aguilasumak-fc-1600-22-03-2026/601320268"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Philippines United Football League",
+            "team_a": "Dynamic Herb Cebu",
+            "team_b": "Aguilas-UMak FC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/282622540694b98c5ab0110781d9afe4.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/3b57ab2d85236c9e0df11abcbf400a05.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d36604d80637.png?v=1774172689",
+            "thumb_key": "thumbs/kaytee-d36604d80637.webp"
           }
         }
       ]
@@ -415,7 +329,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-866250b2caf1.png?v=1774171624",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-866250b2caf1.png?v=1774172687",
             "width": 1600,
             "height": 1200
           },
@@ -470,8 +384,86 @@
             "team_b": "Vietinbank",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/97cd4764d37f6693055ec3664f378222.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/91bba93583cafe0c6d1050cb24fedb6e.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-866250b2caf1.png?v=1774171624",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-866250b2caf1.png?v=1774172687",
             "thumb_key": "thumbs/kaytee-866250b2caf1.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_bóng_đá",
+      "name": "⏳ Sắp Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-fdc6ff25a3be",
+          "name": "⚽ Belediye Vanspor vs Sariyer | 17:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fdc6ff25a3be.png?v=1774172690",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601320301",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601320301",
+                  "name": "Belediye Vanspor vs Sariyer",
+                  "streams": [
+                    {
+                      "id": "st-601320301",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-52173c1ecf",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bfb067326da_133172/index.m3u8?expire=1774775015&sign=bf35cdb2f2597c2294def537697ad1ec",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/belediye-vanspor-vs-sariyer-1700-22-03-2026/601320301"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Turkish First League",
+            "team_a": "Belediye Vanspor",
+            "team_b": "Sariyer",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/1775a3cc03d54d5cee9731d9df7c4e87.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/24067249253d42b354d1a6316a377f76.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fdc6ff25a3be.png?v=1774172690",
+            "thumb_key": "thumbs/kaytee-fdc6ff25a3be.webp"
           }
         }
       ]
