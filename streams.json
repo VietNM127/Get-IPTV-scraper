@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-22T13:53:15.495779",
+  "updated_at": "2026-03-22T13:56:02.281960",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-62b3fcad7e82.png?v=1774187580",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-62b3fcad7e82.png?v=1774187746",
             "width": 1600,
             "height": 1200
           },
@@ -116,77 +116,8 @@
             "team_b": "Sunderland",
             "logo_a": "https://cdn.rapid-api.icu/football/team/5dbe320855e3ba772dbce54f940c6fa5.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/957bdc50c307e2a9b526b34b3792da1a.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-62b3fcad7e82.png?v=1774187580",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-62b3fcad7e82.png?v=1774187746",
             "thumb_key": "thumbs/kaytee-62b3fcad7e82.webp"
-          }
-        },
-        {
-          "id": "kaytee-b74f7f0ac7cf",
-          "name": "⚽ FK Isloch Minsk vs FC Baranovichi | 19:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b74f7f0ac7cf.png?v=1774187584",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601319074",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601319074",
-                  "name": "FK Isloch Minsk vs FC Baranovichi",
-                  "streams": [
-                    {
-                      "id": "st-601319074",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ec240e0d23",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/5e489e2f6030c2ce9340ba0cb8df61ed/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/fk-isloch-minsk-vs-fc-baranovichi-1900-22-03-2026/601319074"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Belarusian Premier League",
-            "team_a": "FK Isloch Minsk",
-            "team_b": "FC Baranovichi",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/aed0f0a3abd1cb4e732b2135a575f227.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/768a4ead9ed7624bd155fd176e46b8a4.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b74f7f0ac7cf.png?v=1774187584",
-            "thumb_key": "thumbs/kaytee-b74f7f0ac7cf.webp"
           }
         },
         {
@@ -199,7 +130,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3f082aab3a48.png?v=1774187586",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3f082aab3a48.png?v=1774187750",
             "width": 1600,
             "height": 1200
           },
@@ -254,8 +185,77 @@
             "team_b": "Irtysh 1946 Omsk",
             "logo_a": "https://cdn.rapid-api.icu/football/team/091b62ea38705019589736ed09230332.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/38203c8aee248f4d129501388efcaaa9.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3f082aab3a48.png?v=1774187586",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3f082aab3a48.png?v=1774187750",
             "thumb_key": "thumbs/kaytee-3f082aab3a48.webp"
+          }
+        },
+        {
+          "id": "kaytee-9e2d679d95c7",
+          "name": "⚽ Inter Milan U20 vs Lazio Youth | 19:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9e2d679d95c7.png?v=1774187752",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601320556",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601320556",
+                  "name": "Inter Milan U20 vs Lazio Youth",
+                  "streams": [
+                    {
+                      "id": "st-601320556",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b2660b55fa",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/e64de25395c0f267bde9a013e955a48f/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/inter-milan-u20-vs-lazio-youth-1900-22-03-2026/601320556"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Italian Campionato Primavera 1",
+            "team_a": "Inter Milan U20",
+            "team_b": "Lazio Youth",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/6ddaee2ef625140617089308645a29eb.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/325ada043edc25d44d3e82c6b20088dd.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9e2d679d95c7.png?v=1774187752",
+            "thumb_key": "thumbs/kaytee-9e2d679d95c7.webp"
           }
         },
         {
@@ -268,7 +268,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-69d6379e5514.png?v=1774187587",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-69d6379e5514.png?v=1774187754",
             "width": 1600,
             "height": 1200
           },
@@ -340,7 +340,7 @@
             "team_b": "Hertha Berlin",
             "logo_a": "https://cdn.rapid-api.icu/football/team/15820ab793d530ee9d101bde619a013f.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/1f74843bf2ffff474d23d387fa240102.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-69d6379e5514.png?v=1774187587",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-69d6379e5514.png?v=1774187754",
             "thumb_key": "thumbs/kaytee-69d6379e5514.webp"
           }
         },
@@ -354,7 +354,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cb82e57a3b1c.png?v=1774187589",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cb82e57a3b1c.png?v=1774187756",
             "width": 1600,
             "height": 1200
           },
@@ -426,7 +426,7 @@
             "team_b": "Rayo Vallecano",
             "logo_a": "https://cdn.rapid-api.icu/football/team/f378eb1ea04e53999b89051aa3244de6.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/5005d8feab109ce64e40beb98073cc1f.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cb82e57a3b1c.png?v=1774187589",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cb82e57a3b1c.png?v=1774187756",
             "thumb_key": "thumbs/kaytee-cb82e57a3b1c.webp"
           }
         }
@@ -449,7 +449,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4ce0ddd69e01.png?v=1774187582",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4ce0ddd69e01.png?v=1774187748",
             "width": 1600,
             "height": 1200
           },
@@ -504,7 +504,7 @@
             "team_b": "FC Trostianets",
             "logo_a": "https://cdn.rapid-api.icu/football/team/5a2d42d197e74347a81c157d7a0680e8.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/474f5818911cc1ac9a54a26ae27a926e.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4ce0ddd69e01.png?v=1774187582",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4ce0ddd69e01.png?v=1774187748",
             "thumb_key": "thumbs/kaytee-4ce0ddd69e01.webp"
           }
         }
@@ -527,7 +527,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4436e5de9354.png?v=1774187591",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4436e5de9354.png?v=1774187758",
             "width": 1600,
             "height": 1200
           },
@@ -582,7 +582,7 @@
             "team_b": "Mathias CHRISTIANSEN /  Alexandra BØJE",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/5c6941aace9528826b2807b9d67b681e.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/35e0fb2c048b9546ec7f72d6017bb5fb.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4436e5de9354.png?v=1774187591",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4436e5de9354.png?v=1774187758",
             "thumb_key": "thumbs/kaytee-4436e5de9354.webp"
           }
         }
@@ -605,7 +605,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ef77791a13f7.png?v=1774187593",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ef77791a13f7.png?v=1774187760",
             "width": 1600,
             "height": 1200
           },
@@ -660,7 +660,7 @@
             "team_b": "Hellas Verona",
             "logo_a": "https://cdn.rapid-api.icu/football/team/45c9647899b8bf2fb6f988c6c33b964c.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/b8e39abb18bb1c69396c59ff73ecf124.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ef77791a13f7.png?v=1774187593",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ef77791a13f7.png?v=1774187760",
             "thumb_key": "thumbs/kaytee-ef77791a13f7.webp"
           }
         },
@@ -674,7 +674,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f5fd27f95bb5.png?v=1774187595",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f5fd27f95bb5.png?v=1774187762",
             "width": 1600,
             "height": 1200
           },
@@ -763,7 +763,7 @@
             "team_b": "West Ham United",
             "logo_a": "https://cdn.rapid-api.icu/football/team/a3c32d6a906083118cac2cb796edaab3.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/d71ebda5c7fbca9093a1c2978c46f619.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f5fd27f95bb5.png?v=1774187595",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f5fd27f95bb5.png?v=1774187762",
             "thumb_key": "thumbs/kaytee-f5fd27f95bb5.webp"
           }
         }
