@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-22T05:17:55.038144",
+  "updated_at": "2026-03-22T06:06:35.589494",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -18,8 +18,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-288c10e567f7",
-          "name": "⚽ Kingborough Lions (w) vs Launceston United (w) | 10:30",
+          "id": "kaytee-754e37d476a1",
+          "name": "⚽ Brisbane Roar (Youth) vs Brisbane Wolves | 11:30",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-288c10e567f7.png?v=1774156663",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-754e37d476a1.png?v=1774159584",
             "width": 1600,
             "height": 1200
           },
@@ -41,27 +41,27 @@
           ],
           "sources": [
             {
-              "id": "src-601327384",
+              "id": "src-601320142",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601327384",
-                  "name": "Kingborough Lions (w) vs Launceston United (w)",
+                  "id": "ct-601320142",
+                  "name": "Brisbane Roar (Youth) vs Brisbane Wolves",
                   "streams": [
                     {
-                      "id": "st-601327384",
+                      "id": "st-601320142",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-bb77b49b3d",
+                          "id": "lnk-584c15d92c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live.alilicloud.com/live/ddbcf24cc38ca6748de728ca78d6fe20/playlist.m3u8",
+                          "url": "https://live.alilicloud.com/live/fbc55b0be0f24482163483c52e05f4f8/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/kingborough-lions-w-vs-launceston-united-w-1030-22-03-2026/601327384"
+                              "value": "https://bunchatv1.net/truc-tiep/brisbane-roar-youth-vs-brisbane-wolves-1130-22-03-2026/601320142"
                             },
                             {
                               "key": "User-Agent",
@@ -77,185 +77,13 @@
             }
           ],
           "org_metadata": {
-            "league": "Australia TSAmania Women's Super League",
-            "team_a": "Kingborough Lions (w)",
-            "team_b": "Launceston United (w)",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/50ec1aebce2876b68e3d56167f3a8ed3.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/7b54394048705e70285e82c9ef82c276.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-288c10e567f7.png?v=1774156663",
-            "thumb_key": "thumbs/kaytee-288c10e567f7.webp"
-          }
-        },
-        {
-          "id": "kaytee-027d58fbe2fe",
-          "name": "⚽ Shimizu S-Pulse vs Sanfrecce Hiroshima | 11:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-027d58fbe2fe.png?v=1774156664",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601320052",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601320052",
-                  "name": "Shimizu S-Pulse vs Sanfrecce Hiroshima",
-                  "streams": [
-                    {
-                      "id": "st-601320052",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-87898f188d",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bf5c0c326da_44731/index.m3u8?expire=1774753420&sign=8824fa85e106f511cfe7d1a19cfab90e",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/shimizu-spulse-vs-sanfrecce-hiroshima-1100-22-03-2026/601320052"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-3ac5c94b21",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/80e94e9f7ba349e48f5c9bceced27b1f/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/shimizu-spulse-vs-sanfrecce-hiroshima-1100-22-03-2026/601320052"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Japanese J1 League",
-            "team_a": "Shimizu S-Pulse",
-            "team_b": "Sanfrecce Hiroshima",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/fa4105f0408ef893d941e70ae003ab4c.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/c81d5ff7a33a4f6a9312a8703f619352.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-027d58fbe2fe.png?v=1774156664",
-            "thumb_key": "thumbs/kaytee-027d58fbe2fe.webp"
-          }
-        },
-        {
-          "id": "kaytee-7e8cbf6dcd33",
-          "name": "⚽ Sydney FC vs Newcastle Jets | 11:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7e8cbf6dcd33.png?v=1774156666",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601320049",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601320049",
-                  "name": "Sydney FC vs Newcastle Jets",
-                  "streams": [
-                    {
-                      "id": "st-601320049",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-63ebd48084",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bf5da7326da_73445/index.m3u8?expire=1774753831&sign=13a3df7bd1fadd86e63d59df6c200ece",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/sydney-fc-vs-newcastle-jets-1100-22-03-2026/601320049"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-5e61ec03b2",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/e486245c3083af060248a71638dc2249/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/sydney-fc-vs-newcastle-jets-1100-22-03-2026/601320049"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Australia A-League",
-            "team_a": "Sydney FC",
-            "team_b": "Newcastle Jets",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/a0c772584c00e1b6efd1c421344cd005.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/296c68ac5ad3ff621c10c6ebfb9954ca.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7e8cbf6dcd33.png?v=1774156666",
-            "thumb_key": "thumbs/kaytee-7e8cbf6dcd33.webp"
+            "league": "Australia National Premier Leagues Queensland",
+            "team_a": "Brisbane Roar (Youth)",
+            "team_b": "Brisbane Wolves",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/8bf0a8154cddf3b29ec15f74f864aebd.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/62ee76fc01732a90a87f98940d031d6e.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-754e37d476a1.png?v=1774159584",
+            "thumb_key": "thumbs/kaytee-754e37d476a1.webp"
           }
         },
         {
@@ -268,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b03cebcab8be.png?v=1774156669",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b03cebcab8be.png?v=1774159585",
             "width": 1600,
             "height": 1200
           },
@@ -340,94 +168,8 @@
             "team_b": "Gimcheon Sangmu Football Club",
             "logo_a": "https://cdn.rapid-api.icu/football/team/fe07fb888ebcb282192332cb8aed21b1.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/4a3e50e90ab721c1782568a287bd5358.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b03cebcab8be.png?v=1774156669",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b03cebcab8be.png?v=1774159585",
             "thumb_key": "thumbs/kaytee-b03cebcab8be.webp"
-          }
-        },
-        {
-          "id": "kaytee-0403d9154deb",
-          "name": "⚽ Football Club Seoul vs Gwangju Football Club | 12:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0403d9154deb.png?v=1774156671",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601320121",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601320121",
-                  "name": "Football Club Seoul vs Gwangju Football Club",
-                  "streams": [
-                    {
-                      "id": "st-601320121",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f72a2f987d",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bf70bb70a6a_28/index.m3u8?expire=1774758715&sign=77db0a4b6b86e4eb31de0092dc8852a1",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/football-club-seoul-vs-gwangju-football-club-1200-22-03-2026/601320121"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-2a0fcc2e11",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/02f6b00e67aed6a47283ee3d01a0d7f3/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/football-club-seoul-vs-gwangju-football-club-1200-22-03-2026/601320121"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Korean K League 1",
-            "team_a": "Football Club Seoul",
-            "team_b": "Gwangju Football Club",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/ad010af729c420626d1865ad744168d3.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/2e8e1e2a893d37e3f7260e97c807c28a.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0403d9154deb.png?v=1774156671",
-            "thumb_key": "thumbs/kaytee-0403d9154deb.webp"
           }
         },
         {
@@ -440,7 +182,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7b37f774aff7.png?v=1774156673",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7b37f774aff7.png?v=1774159587",
             "width": 1600,
             "height": 1200
           },
@@ -512,8 +254,94 @@
             "team_b": "FC Tokyo",
             "logo_a": "https://cdn.rapid-api.icu/football/team/2a8adb34e764602183a7bee8f51726e4.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/333df39860930a21cf72b4e9664723ab.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7b37f774aff7.png?v=1774156673",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7b37f774aff7.png?v=1774159587",
             "thumb_key": "thumbs/kaytee-7b37f774aff7.webp"
+          }
+        },
+        {
+          "id": "kaytee-0403d9154deb",
+          "name": "⚽ Football Club Seoul vs Gwangju Football Club | 12:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0403d9154deb.png?v=1774159589",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601320121",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601320121",
+                  "name": "Football Club Seoul vs Gwangju Football Club",
+                  "streams": [
+                    {
+                      "id": "st-601320121",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f72a2f987d",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bf70bb70a6a_28/index.m3u8?expire=1774758715&sign=77db0a4b6b86e4eb31de0092dc8852a1",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/football-club-seoul-vs-gwangju-football-club-1200-22-03-2026/601320121"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-2a0fcc2e11",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/02f6b00e67aed6a47283ee3d01a0d7f3/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/football-club-seoul-vs-gwangju-football-club-1200-22-03-2026/601320121"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Korean K League 1",
+            "team_a": "Football Club Seoul",
+            "team_b": "Gwangju Football Club",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/ad010af729c420626d1865ad744168d3.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/2e8e1e2a893d37e3f7260e97c807c28a.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0403d9154deb.png?v=1774159589",
+            "thumb_key": "thumbs/kaytee-0403d9154deb.webp"
           }
         },
         {
@@ -526,7 +354,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-adc48ec2ff64.png?v=1774156675",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-adc48ec2ff64.png?v=1774159590",
             "width": 1600,
             "height": 1200
           },
@@ -598,22 +426,13 @@
             "team_b": "Nagoya Grampus",
             "logo_a": "https://cdn.rapid-api.icu/football/team/7d6fa50ea67cde7d66612a8189897ba5.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/32aa68e1fa3d62dad572d19b21a09353.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-adc48ec2ff64.png?v=1774156675",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-adc48ec2ff64.png?v=1774159590",
             "thumb_key": "thumbs/kaytee-adc48ec2ff64.webp"
           }
-        }
-      ]
-    },
-    {
-      "id": "live_bóng_rổ",
-      "name": "🔴 Live 🏀 Bóng Rổ",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
+        },
         {
-          "id": "kaytee-09ff418adc41",
-          "name": "🏀 Melbourne City NPL vs Altona Magic | 11:00",
+          "id": "kaytee-3af0a89ac87e",
+          "name": "⚽ Geumsan Insam FC vs Haman FC | 12:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -621,7 +440,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-09ff418adc41.png?v=1774156668",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3af0a89ac87e.png?v=1774159593",
             "width": 1600,
             "height": 1200
           },
@@ -635,27 +454,27 @@
           ],
           "sources": [
             {
-              "id": "src-601320055",
+              "id": "src-601319824",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601320055",
-                  "name": "Melbourne City NPL vs Altona Magic",
+                  "id": "ct-601319824",
+                  "name": "Geumsan Insam FC vs Haman FC",
                   "streams": [
                     {
-                      "id": "st-601320055",
+                      "id": "st-601319824",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-afe91c11e3",
+                          "id": "lnk-072080beea",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live.alilicloud.com/live/837eeb202afb1e9c7d568ac845687cd1/playlist.m3u8",
+                          "url": "https://live.alilicloud.com/live/365af9f29d2220087ca4ff027310eed2/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/melbourne-city-npl-vs-altona-magic-1100-22-03-2026/601320055"
+                              "value": "https://bunchatv1.net/truc-tiep/geumsan-insam-fc-vs-haman-fc-1200-22-03-2026/601319824"
                             },
                             {
                               "key": "User-Agent",
@@ -671,13 +490,82 @@
             }
           ],
           "org_metadata": {
-            "league": "National Premier Leagues Victoria",
-            "team_a": "Melbourne City NPL",
-            "team_b": "Altona Magic",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/4024dec852e8e27a4078cce29d93657f.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/5fe8e44d486217553612d132ac6346c6.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-09ff418adc41.png?v=1774156668",
-            "thumb_key": "thumbs/kaytee-09ff418adc41.webp"
+            "league": "Korean K League 4",
+            "team_a": "Geumsan Insam FC",
+            "team_b": "Haman FC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/1895dcc6de1876c5169dc1ca1ea281ac.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/e984b5f764a158fa2836fd1ff6b7cfab.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3af0a89ac87e.png?v=1774159593",
+            "thumb_key": "thumbs/kaytee-3af0a89ac87e.webp"
+          }
+        },
+        {
+          "id": "kaytee-7edbeee53fa8",
+          "name": "⚽ WS Wanderers (w) vs Melbourne City Women | 12:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7edbeee53fa8.png?v=1774159595",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601320088",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601320088",
+                  "name": "WS Wanderers (w) vs Melbourne City Women",
+                  "streams": [
+                    {
+                      "id": "st-601320088",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-cb0d8653a2",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/6d82d9561d718fa36d5b55b4e29bf248/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/ws-wanderers-w-vs-melbourne-city-women-1200-22-03-2026/601320088"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Australia W-League",
+            "team_a": "WS Wanderers (w)",
+            "team_b": "Melbourne City Women",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/1f0d56832a72a49d8e9e3506658ad67b.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/6d2cab607ba1b908c2c71225581b06ee.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7edbeee53fa8.png?v=1774159595",
+            "thumb_key": "thumbs/kaytee-7edbeee53fa8.webp"
           }
         }
       ]
