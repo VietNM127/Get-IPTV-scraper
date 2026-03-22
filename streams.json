@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-22T12:00:57.456352",
+  "updated_at": "2026-03-22T13:11:16.236504",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -18,8 +18,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-490b0b424efc",
-          "name": "⚽ Chernomorets Odessa II vs FC Livyi Bereh Kyiv B | 17:00",
+          "id": "kaytee-714af35ace58",
+          "name": "⚽ Como vs Pisa | 18:30",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-490b0b424efc.png?v=1774180843",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-714af35ace58.png?v=1774185069",
             "width": 1600,
             "height": 1200
           },
@@ -41,27 +41,113 @@
           ],
           "sources": [
             {
-              "id": "src-601318654",
+              "id": "src-601320520",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601318654",
-                  "name": "Chernomorets Odessa II vs FC Livyi Bereh Kyiv B",
+                  "id": "ct-601320520",
+                  "name": "Como vs Pisa",
                   "streams": [
                     {
-                      "id": "st-601318654",
+                      "id": "st-601320520",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-89980b7d48",
+                          "id": "lnk-567e1d5cea",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live.alilicloud.com/live/5785bc4120a209ada36bd683b4e24b10/playlist.m3u8",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bfc602326da_4908/index.m3u8?expire=1774780546&sign=6c753d5a975e90b51197fe0ac0b3c91a",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/chernomorets-odessa-ii-vs-fc-livyi-bereh-kyiv-b-1700-22-03-2026/601318654"
+                              "value": "https://bunchatv1.net/truc-tiep/como-vs-pisa-1830-22-03-2026/601320520"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-c4de3da370",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/ef9c9c70c0f807d58a1c29a91a560e9d/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/como-vs-pisa-1830-22-03-2026/601320520"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Italian Serie A",
+            "team_a": "Como",
+            "team_b": "Pisa",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/5f7059f40965e5a2cc00987e6bac2f32.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/7ca5de14056c7290f6787e0943aa11ad.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-714af35ace58.png?v=1774185069",
+            "thumb_key": "thumbs/kaytee-714af35ace58.webp"
+          }
+        },
+        {
+          "id": "kaytee-5c39092ab690",
+          "name": "⚽ Bukovyna 2 vs FC Uzhgorod | 18:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5c39092ab690.png?v=1774185069",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601318681",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601318681",
+                  "name": "Bukovyna 2 vs FC Uzhgorod",
+                  "streams": [
+                    {
+                      "id": "st-601318681",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-aeaad0b6a1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/abf6bf3aaee53e81810060c407a52591/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/bukovyna-2-vs-fc-uzhgorod-1830-22-03-2026/601318681"
                             },
                             {
                               "key": "User-Agent",
@@ -78,17 +164,17 @@
           ],
           "org_metadata": {
             "league": "Ukrainian Second League",
-            "team_a": "Chernomorets Odessa II",
-            "team_b": "FC Livyi Bereh Kyiv B",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/90ec31dd72d9e3f5ec36881b73949c08.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/a1d8ff411070e0f69c2cbde869009818.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-490b0b424efc.png?v=1774180843",
-            "thumb_key": "thumbs/kaytee-490b0b424efc.webp"
+            "team_a": "Bukovyna 2",
+            "team_b": "FC Uzhgorod",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/bcc9055952c634455c72e1f4860e2b49.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/a1f345b3b8b25ea62d5de592c9cbe551.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5c39092ab690.png?v=1774185069",
+            "thumb_key": "thumbs/kaytee-5c39092ab690.webp"
           }
         },
         {
-          "id": "kaytee-098ae338275f",
-          "name": "⚽ Cagliari U19 vs Fiorentina U20 | 17:00",
+          "id": "kaytee-198287e5c861",
+          "name": "⚽ Fiorentina (w) vs Parma(W) | 18:30",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -96,7 +182,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-098ae338275f.png?v=1774180845",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-198287e5c861.png?v=1774185071",
             "width": 1600,
             "height": 1200
           },
@@ -110,27 +196,27 @@
           ],
           "sources": [
             {
-              "id": "src-601320292",
+              "id": "src-601320523",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601320292",
-                  "name": "Cagliari U19 vs Fiorentina U20",
+                  "id": "ct-601320523",
+                  "name": "Fiorentina (w) vs Parma(W)",
                   "streams": [
                     {
-                      "id": "st-601320292",
+                      "id": "st-601320523",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-c102897e62",
+                          "id": "lnk-0799a84693",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live.alilicloud.com/live/957de91723d6c5e8ab902543f659d877/playlist.m3u8",
+                          "url": "https://live.alilicloud.com/live/977a3d30d0fe9159f2cef0b31cf6a6cb/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/cagliari-u19-vs-fiorentina-u20-1700-22-03-2026/601320292"
+                              "value": "https://bunchatv1.net/truc-tiep/fiorentina-w-vs-parmaw-1830-22-03-2026/601320523"
                             },
                             {
                               "key": "User-Agent",
@@ -146,340 +232,13 @@
             }
           ],
           "org_metadata": {
-            "league": "Italian Campionato Primavera 1",
-            "team_a": "Cagliari U19",
-            "team_b": "Fiorentina U20",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/4b2d4e19421e84531b8deb3cdc976db7.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/bf14f28a61e7603d6c49f992906da4e1.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-098ae338275f.png?v=1774180845",
-            "thumb_key": "thumbs/kaytee-098ae338275f.webp"
-          }
-        },
-        {
-          "id": "kaytee-eeafdc2aff67",
-          "name": "⚽ PFK Montana vs Beroe Stara Zagora | 17:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-eeafdc2aff67.png?v=1774180847",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601320334",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601320334",
-                  "name": "PFK Montana vs Beroe Stara Zagora",
-                  "streams": [
-                    {
-                      "id": "st-601320334",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8c6eeb9ed1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bfc1bd326da_73445/index.m3u8?expire=1774779453&sign=6f95a445eec49d0be58e8cb2cfd8c054",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/pfk-montana-vs-beroe-stara-zagora-1730-22-03-2026/601320334"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-27b51a2fde",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/f579c730cc9066585d51a906de08c34b/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/pfk-montana-vs-beroe-stara-zagora-1730-22-03-2026/601320334"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Bulgarian First League",
-            "team_a": "PFK Montana",
-            "team_b": "Beroe Stara Zagora",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/555ed40ede7fc6f2879993bc058fb8ac.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/197710e96433ca507120d5fc3ebfbc58.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-eeafdc2aff67.png?v=1774180847",
-            "thumb_key": "thumbs/kaytee-eeafdc2aff67.webp"
-          }
-        },
-        {
-          "id": "kaytee-372179286220",
-          "name": "⚽ Atakas Hatayspor vs Amedspor | 17:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-372179286220.png?v=1774180848",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601320328",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601320328",
-                  "name": "Atakas Hatayspor vs Amedspor",
-                  "streams": [
-                    {
-                      "id": "st-601320328",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f49b2b23ad",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bfbb4270a6a_88642/index.m3u8?expire=1774777794&sign=025038656fba20f87349b236c1effeba",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/atakas-hatayspor-vs-amedspor-1730-22-03-2026/601320328"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-38e63e44a3",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/7af7bbd9eb91a93ec6fd82afb5b5bfa3/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/atakas-hatayspor-vs-amedspor-1730-22-03-2026/601320328"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Turkish First League",
-            "team_a": "Atakas Hatayspor",
-            "team_b": "Amedspor",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/1fee4ece0adfb61b06264aa3e87e2a50.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/52a8c01c49d76f1f74ad148b07ef83f9.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-372179286220.png?v=1774180848",
-            "thumb_key": "thumbs/kaytee-372179286220.webp"
-          }
-        },
-        {
-          "id": "kaytee-7c16286e2355",
-          "name": "⚽ SHB Da Nang vs Cong An Ha Noi FC | 18:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7c16286e2355.png?v=1774180850",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601320472",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601320472",
-                  "name": "SHB Da Nang vs Cong An Ha Noi FC",
-                  "streams": [
-                    {
-                      "id": "st-601320472",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2d1c719e15",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bfc98e326da_103/index.m3u8?expire=1774781454&sign=b264417818363fd365cec476ca0e63f8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/shb-da-nang-vs-cong-an-ha-noi-fc-1800-22-03-2026/601320472"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-863e6f32e4",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/c979099cd6dc732f77901e16d7a1d6e7/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/shb-da-nang-vs-cong-an-ha-noi-fc-1800-22-03-2026/601320472"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Vietnam National Champion League",
-            "team_a": "SHB Da Nang",
-            "team_b": "Cong An Ha Noi FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/46a4867487152e47c4dc61984d0c58aa.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/f3dde7370cf875e4e657b4331b1b4a31.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7c16286e2355.png?v=1774180850",
-            "thumb_key": "thumbs/kaytee-7c16286e2355.webp"
-          }
-        },
-        {
-          "id": "kaytee-0e5a0f64eb77",
-          "name": "⚽ Sepsi OSK Sfantul Gheorghe vs FC Bihor Oradea | 18:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0e5a0f64eb77.png?v=1774180852",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601322455",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601322455",
-                  "name": "Sepsi OSK Sfantul Gheorghe vs FC Bihor Oradea",
-                  "streams": [
-                    {
-                      "id": "st-601322455",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4febbb894a",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bfc28e70a6a_124958/index.m3u8?expire=1774779662&sign=1c960370bacdf29f5762b1f72ed580a9",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/sepsi-osk-sfantul-gheorghe-vs-fc-bihor-oradea-1800-22-03-2026/601322455"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Romanian Liga II",
-            "team_a": "Sepsi OSK Sfantul Gheorghe",
-            "team_b": "FC Bihor Oradea",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/dda72c92fb0464e77807b12a5db4994d.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/955007e12387afebb63d3372d30d2ce7.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0e5a0f64eb77.png?v=1774180852",
-            "thumb_key": "thumbs/kaytee-0e5a0f64eb77.webp"
+            "league": "Italian Women's Serie A",
+            "team_a": "Fiorentina (w)",
+            "team_b": "Parma(W)",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/83bd5ee757930fa265285df7ea5bd8bb.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/60f7e6774effb40ccf21a7b37a13ab63.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-198287e5c861.png?v=1774185071",
+            "thumb_key": "thumbs/kaytee-198287e5c861.webp"
           }
         },
         {
@@ -492,7 +251,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-59db0c651d96.png?v=1774180855",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-59db0c651d96.png?v=1774185074",
             "width": 1600,
             "height": 1200
           },
@@ -547,97 +306,10 @@
             "team_b": "Công an TPHCM",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/1cba7cb1c7477b57e50a66aa4d9bb5d6.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/64be5559beb034d8ac9a377b49ef9380.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-59db0c651d96.png?v=1774180855",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-59db0c651d96.png?v=1774185074",
             "thumb_key": "thumbs/kaytee-59db0c651d96.webp"
           }
-        }
-      ]
-    },
-    {
-      "id": "live_cầu_lông",
-      "name": "🔴 Live 🏸 Cầu Lông",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-4436e5de9354",
-          "name": "🏸 HU Ke Yuan / LIN Xiang Yi vs Hiroki OKAMURA/Kyohei YAMASHITA | 18:15",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4436e5de9354.png?v=1774180854",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601329085",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601329085",
-                  "name": "HU Ke Yuan / LIN Xiang Yi vs Hiroki OKAMURA/Kyohei YAMASHITA",
-                  "streams": [
-                    {
-                      "id": "st-601329085",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6a4d5af3e6",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bfbc1970a6a_18754/index.m3u8?expire=1774778009&sign=ac66b04e54890a06c5537212f495ce64",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/hu-ke-yuan--lin-xiang-yi-vs-hiroki-okamurakyohei-yamashita-1815-22-03-2026/601329085"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Orleans Masters Badminton 2026",
-            "team_a": "HU Ke Yuan / LIN Xiang Yi",
-            "team_b": "Hiroki OKAMURA/Kyohei YAMASHITA",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/3d945d9c62b179fa7c3037dd3e0d21af.jpg",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/22c90bf8e03b1e014c1e8b38aa8e939f.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4436e5de9354.png?v=1774180854",
-            "thumb_key": "thumbs/kaytee-4436e5de9354.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "upcoming_bóng_đá",
-      "name": "⏳ Sắp Live ⚽ Bóng Đá",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
+        },
         {
           "id": "kaytee-62b3fcad7e82",
           "name": "⚽ Newcastle United vs Sunderland | 19:00",
@@ -648,16 +320,16 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-62b3fcad7e82.png?v=1774180857",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-62b3fcad7e82.png?v=1774185074",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "⏳ Sắp Live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -674,11 +346,11 @@
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-8c726a92d8",
+                          "id": "lnk-27a7724875",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bfd04370a6a_44731/index.m3u8?expire=1774783171&sign=0b85b4fdebdfc3ae62c5a8411d7345d0",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bfcb11326da_79/index.m3u8?expire=1774781841&sign=10ee15f49370686e7915fe52ddae4cf0",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -691,11 +363,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-27a7724875",
+                          "id": "lnk-8c726a92d8",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bfcb11326da_79/index.m3u8?expire=1774781841&sign=10ee15f49370686e7915fe52ddae4cf0",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bfd04370a6a_44731/index.m3u8?expire=1774783171&sign=0b85b4fdebdfc3ae62c5a8411d7345d0",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -737,8 +409,353 @@
             "team_b": "Sunderland",
             "logo_a": "https://cdn.rapid-api.icu/football/team/5dbe320855e3ba772dbce54f940c6fa5.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/957bdc50c307e2a9b526b34b3792da1a.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-62b3fcad7e82.png?v=1774180857",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-62b3fcad7e82.png?v=1774185074",
             "thumb_key": "thumbs/kaytee-62b3fcad7e82.webp"
+          }
+        },
+        {
+          "id": "kaytee-69d6379e5514",
+          "name": "⚽ Fortuna Dusseldorf vs Hertha Berlin | 19:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-69d6379e5514.png?v=1774185076",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601320628",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601320628",
+                  "name": "Fortuna Dusseldorf vs Hertha Berlin",
+                  "streams": [
+                    {
+                      "id": "st-601320628",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-76691ad076",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bfd33c326da_88642/index.m3u8?expire=1774783932&sign=400c48233b9e96a760eb376c7814321b",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/fortuna-dusseldorf-vs-hertha-berlin-1930-22-03-2026/601320628"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-0460a0e765",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/5d51e8c91da78c8f243f0bc6e48f1f03/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/fortuna-dusseldorf-vs-hertha-berlin-1930-22-03-2026/601320628"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "German Bundesliga 2",
+            "team_a": "Fortuna Dusseldorf",
+            "team_b": "Hertha Berlin",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/15820ab793d530ee9d101bde619a013f.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/1f74843bf2ffff474d23d387fa240102.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-69d6379e5514.png?v=1774185076",
+            "thumb_key": "thumbs/kaytee-69d6379e5514.webp"
+          }
+        },
+        {
+          "id": "kaytee-cb82e57a3b1c",
+          "name": "⚽ FC Barcelona vs Rayo Vallecano | 20:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cb82e57a3b1c.png?v=1774185076",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601320664",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601320664",
+                  "name": "FC Barcelona vs Rayo Vallecano",
+                  "streams": [
+                    {
+                      "id": "st-601320664",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7c01ef6671",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bfe3e670a6a_88186/index.m3u8?expire=1774788198&sign=ee5878379171fdae26f825e3f8c6feaa",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/fc-barcelona-vs-rayo-vallecano-2000-22-03-2026/601320664"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-77f093d29e",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/7aaaf0b6117980461da975a449c9b675/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/fc-barcelona-vs-rayo-vallecano-2000-22-03-2026/601320664"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Spanish La Liga",
+            "team_a": "FC Barcelona",
+            "team_b": "Rayo Vallecano",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/f378eb1ea04e53999b89051aa3244de6.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/5005d8feab109ce64e40beb98073cc1f.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cb82e57a3b1c.png?v=1774185076",
+            "thumb_key": "thumbs/kaytee-cb82e57a3b1c.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_cầu_lông",
+      "name": "🔴 Live 🏸 Cầu Lông",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-4436e5de9354",
+          "name": "🏸 Pitchamon OPATNIPUTH vs Nozomi OKUHARA | 19:20",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4436e5de9354.png?v=1774185075",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601329085",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601329085",
+                  "name": "Pitchamon OPATNIPUTH vs Nozomi OKUHARA",
+                  "streams": [
+                    {
+                      "id": "st-601329085",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6a4d5af3e6",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bfbc1970a6a_18754/index.m3u8?expire=1774778009&sign=ac66b04e54890a06c5537212f495ce64",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/pitchamon-opatniputh-vs-nozomi-okuhara-1920-22-03-2026/601329085"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Orleans Masters Badminton 2026",
+            "team_a": "Pitchamon OPATNIPUTH",
+            "team_b": "Nozomi OKUHARA",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/d7a14d64e4da3ddaed23b91ee57f1ba9.jpg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/c68fb073199e692bf44b0fe2a3d2eb83.jpg",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4436e5de9354.png?v=1774185075",
+            "thumb_key": "thumbs/kaytee-4436e5de9354.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_bóng_bàn",
+      "name": "🔴 Live 🏓 Bóng Bàn",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-1e3a54b7623a",
+          "name": "🏓 NEC Nijmegen vs SC Heerenveen | 18:15",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1e3a54b7623a.png?v=1774185069",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601320514",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601320514",
+                  "name": "NEC Nijmegen vs SC Heerenveen",
+                  "streams": [
+                    {
+                      "id": "st-601320514",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-35b6876fc9",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bfd36b70a6a_110198/index.m3u8?expire=1774783979&sign=ee9bfd5e2d6498d1c7ff0946ec664a76",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/nec-nijmegen-vs-sc-heerenveen-1815-22-03-2026/601320514"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-a8521d5b43",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/17421f7d40fc49f543d1b403e018c01e/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/nec-nijmegen-vs-sc-heerenveen-1815-22-03-2026/601320514"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Netherlands Eredivisie",
+            "team_a": "NEC Nijmegen",
+            "team_b": "SC Heerenveen",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/d22de494a1ff648e90892c249c5aed12.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/c2cd1a6cdd056ae31e0712d5f4f97c9b.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1e3a54b7623a.png?v=1774185069",
+            "thumb_key": "thumbs/kaytee-1e3a54b7623a.webp"
           }
         }
       ]
