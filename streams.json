@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-22T11:50:45.685229",
+  "updated_at": "2026-03-22T12:00:57.456352",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,92 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-fdc6ff25a3be",
-          "name": "⚽ Belediye Vanspor vs Sariyer | 17:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fdc6ff25a3be.png?v=1774180227",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601320301",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601320301",
-                  "name": "Belediye Vanspor vs Sariyer",
-                  "streams": [
-                    {
-                      "id": "st-601320301",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-52173c1ecf",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bfb067326da_133172/index.m3u8?expire=1774775015&sign=bf35cdb2f2597c2294def537697ad1ec",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/belediye-vanspor-vs-sariyer-1700-22-03-2026/601320301"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-f05fd6d58b",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/af4a0ed2661b9c190f484df70ccad337/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/belediye-vanspor-vs-sariyer-1700-22-03-2026/601320301"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Turkish First League",
-            "team_a": "Belediye Vanspor",
-            "team_b": "Sariyer",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/1775a3cc03d54d5cee9731d9df7c4e87.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/24067249253d42b354d1a6316a377f76.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fdc6ff25a3be.png?v=1774180227",
-            "thumb_key": "thumbs/kaytee-fdc6ff25a3be.webp"
-          }
-        },
         {
           "id": "kaytee-490b0b424efc",
           "name": "⚽ Chernomorets Odessa II vs FC Livyi Bereh Kyiv B | 17:00",
@@ -113,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-490b0b424efc.png?v=1774180229",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-490b0b424efc.png?v=1774180843",
             "width": 1600,
             "height": 1200
           },
@@ -168,77 +82,8 @@
             "team_b": "FC Livyi Bereh Kyiv B",
             "logo_a": "https://cdn.rapid-api.icu/football/team/90ec31dd72d9e3f5ec36881b73949c08.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/a1d8ff411070e0f69c2cbde869009818.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-490b0b424efc.png?v=1774180229",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-490b0b424efc.png?v=1774180843",
             "thumb_key": "thumbs/kaytee-490b0b424efc.webp"
-          }
-        },
-        {
-          "id": "kaytee-027d5706a34b",
-          "name": "⚽ FC Belshina Babruisk vs Dinamo Brest | 17:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-027d5706a34b.png?v=1774180232",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601319071",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601319071",
-                  "name": "FC Belshina Babruisk vs Dinamo Brest",
-                  "streams": [
-                    {
-                      "id": "st-601319071",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-cce9b94949",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/59c71ab58c074766d5a708fef26ff7f2/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/fc-belshina-babruisk-vs-dinamo-brest-1700-22-03-2026/601319071"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Belarusian Premier League",
-            "team_a": "FC Belshina Babruisk",
-            "team_b": "Dinamo Brest",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/cad90931c9692e3f23ac7d65092401cc.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/d46c60ef33fd6351d4e0868d7231c3cb.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-027d5706a34b.png?v=1774180232",
-            "thumb_key": "thumbs/kaytee-027d5706a34b.webp"
           }
         },
         {
@@ -251,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-098ae338275f.png?v=1774180234",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-098ae338275f.png?v=1774180845",
             "width": 1600,
             "height": 1200
           },
@@ -306,163 +151,8 @@
             "team_b": "Fiorentina U20",
             "logo_a": "https://cdn.rapid-api.icu/football/team/4b2d4e19421e84531b8deb3cdc976db7.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/bf14f28a61e7603d6c49f992906da4e1.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-098ae338275f.png?v=1774180234",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-098ae338275f.png?v=1774180845",
             "thumb_key": "thumbs/kaytee-098ae338275f.webp"
-          }
-        },
-        {
-          "id": "kaytee-63ea8a3aed4b",
-          "name": "⚽ Lecce U20 vs Atalanta U19 | 17:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-63ea8a3aed4b.png?v=1774180236",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601320295",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601320295",
-                  "name": "Lecce U20 vs Atalanta U19",
-                  "streams": [
-                    {
-                      "id": "st-601320295",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3d4e6700b7",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/4c3b001afbf5dba402e2f18ee668f53d/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/lecce-u20-vs-atalanta-u19-1700-22-03-2026/601320295"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Italian Campionato Primavera 1",
-            "team_a": "Lecce U20",
-            "team_b": "Atalanta U19",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/111187735403171f460903cb8cd42bcf.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/89b05358a5e89a4c2e355014f39347ac.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-63ea8a3aed4b.png?v=1774180236",
-            "thumb_key": "thumbs/kaytee-63ea8a3aed4b.webp"
-          }
-        },
-        {
-          "id": "kaytee-372179286220",
-          "name": "⚽ Atakas Hatayspor vs Amedspor | 17:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-372179286220.png?v=1774180237",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601320328",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601320328",
-                  "name": "Atakas Hatayspor vs Amedspor",
-                  "streams": [
-                    {
-                      "id": "st-601320328",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f49b2b23ad",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bfbb4270a6a_88642/index.m3u8?expire=1774777794&sign=025038656fba20f87349b236c1effeba",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/atakas-hatayspor-vs-amedspor-1730-22-03-2026/601320328"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-38e63e44a3",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/7af7bbd9eb91a93ec6fd82afb5b5bfa3/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/atakas-hatayspor-vs-amedspor-1730-22-03-2026/601320328"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Turkish First League",
-            "team_a": "Atakas Hatayspor",
-            "team_b": "Amedspor",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/1fee4ece0adfb61b06264aa3e87e2a50.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/52a8c01c49d76f1f74ad148b07ef83f9.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-372179286220.png?v=1774180237",
-            "thumb_key": "thumbs/kaytee-372179286220.webp"
           }
         },
         {
@@ -475,7 +165,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-eeafdc2aff67.png?v=1774180239",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-eeafdc2aff67.png?v=1774180847",
             "width": 1600,
             "height": 1200
           },
@@ -547,8 +237,94 @@
             "team_b": "Beroe Stara Zagora",
             "logo_a": "https://cdn.rapid-api.icu/football/team/555ed40ede7fc6f2879993bc058fb8ac.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/197710e96433ca507120d5fc3ebfbc58.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-eeafdc2aff67.png?v=1774180239",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-eeafdc2aff67.png?v=1774180847",
             "thumb_key": "thumbs/kaytee-eeafdc2aff67.webp"
+          }
+        },
+        {
+          "id": "kaytee-372179286220",
+          "name": "⚽ Atakas Hatayspor vs Amedspor | 17:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-372179286220.png?v=1774180848",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601320328",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601320328",
+                  "name": "Atakas Hatayspor vs Amedspor",
+                  "streams": [
+                    {
+                      "id": "st-601320328",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f49b2b23ad",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bfbb4270a6a_88642/index.m3u8?expire=1774777794&sign=025038656fba20f87349b236c1effeba",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/atakas-hatayspor-vs-amedspor-1730-22-03-2026/601320328"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-38e63e44a3",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/7af7bbd9eb91a93ec6fd82afb5b5bfa3/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/atakas-hatayspor-vs-amedspor-1730-22-03-2026/601320328"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Turkish First League",
+            "team_a": "Atakas Hatayspor",
+            "team_b": "Amedspor",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/1fee4ece0adfb61b06264aa3e87e2a50.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/52a8c01c49d76f1f74ad148b07ef83f9.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-372179286220.png?v=1774180848",
+            "thumb_key": "thumbs/kaytee-372179286220.webp"
           }
         },
         {
@@ -561,7 +337,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7c16286e2355.png?v=1774180240",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7c16286e2355.png?v=1774180850",
             "width": 1600,
             "height": 1200
           },
@@ -633,8 +409,77 @@
             "team_b": "Cong An Ha Noi FC",
             "logo_a": "https://cdn.rapid-api.icu/football/team/46a4867487152e47c4dc61984d0c58aa.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/f3dde7370cf875e4e657b4331b1b4a31.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7c16286e2355.png?v=1774180240",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7c16286e2355.png?v=1774180850",
             "thumb_key": "thumbs/kaytee-7c16286e2355.webp"
+          }
+        },
+        {
+          "id": "kaytee-0e5a0f64eb77",
+          "name": "⚽ Sepsi OSK Sfantul Gheorghe vs FC Bihor Oradea | 18:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0e5a0f64eb77.png?v=1774180852",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601322455",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601322455",
+                  "name": "Sepsi OSK Sfantul Gheorghe vs FC Bihor Oradea",
+                  "streams": [
+                    {
+                      "id": "st-601322455",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4febbb894a",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bfc28e70a6a_124958/index.m3u8?expire=1774779662&sign=1c960370bacdf29f5762b1f72ed580a9",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/sepsi-osk-sfantul-gheorghe-vs-fc-bihor-oradea-1800-22-03-2026/601322455"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Romanian Liga II",
+            "team_a": "Sepsi OSK Sfantul Gheorghe",
+            "team_b": "FC Bihor Oradea",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/dda72c92fb0464e77807b12a5db4994d.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/955007e12387afebb63d3372d30d2ce7.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0e5a0f64eb77.png?v=1774180852",
+            "thumb_key": "thumbs/kaytee-0e5a0f64eb77.webp"
           }
         },
         {
@@ -647,7 +492,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-59db0c651d96.png?v=1774180244",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-59db0c651d96.png?v=1774180855",
             "width": 1600,
             "height": 1200
           },
@@ -702,7 +547,7 @@
             "team_b": "Công an TPHCM",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/1cba7cb1c7477b57e50a66aa4d9bb5d6.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/64be5559beb034d8ac9a377b49ef9380.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-59db0c651d96.png?v=1774180244",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-59db0c651d96.png?v=1774180855",
             "thumb_key": "thumbs/kaytee-59db0c651d96.webp"
           }
         }
@@ -725,7 +570,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4436e5de9354.png?v=1774180243",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4436e5de9354.png?v=1774180854",
             "width": 1600,
             "height": 1200
           },
@@ -780,7 +625,7 @@
             "team_b": "Hiroki OKAMURA/Kyohei YAMASHITA",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/3d945d9c62b179fa7c3037dd3e0d21af.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/22c90bf8e03b1e014c1e8b38aa8e939f.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4436e5de9354.png?v=1774180243",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4436e5de9354.png?v=1774180854",
             "thumb_key": "thumbs/kaytee-4436e5de9354.webp"
           }
         }
@@ -803,7 +648,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-62b3fcad7e82.png?v=1774180245",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-62b3fcad7e82.png?v=1774180857",
             "width": 1600,
             "height": 1200
           },
@@ -861,6 +706,23 @@
                               "value": "Mozilla/5.0"
                             }
                           ]
+                        },
+                        {
+                          "id": "lnk-d48bac9075",
+                          "name": "Link 3",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/57f9f1b295cdd3a4bdec4faaaa1e3222/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/newcastle-united-vs-sunderland-1900-22-03-2026/601320550"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
                         }
                       ]
                     }
@@ -875,7 +737,7 @@
             "team_b": "Sunderland",
             "logo_a": "https://cdn.rapid-api.icu/football/team/5dbe320855e3ba772dbce54f940c6fa5.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/957bdc50c307e2a9b526b34b3792da1a.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-62b3fcad7e82.png?v=1774180245",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-62b3fcad7e82.png?v=1774180857",
             "thumb_key": "thumbs/kaytee-62b3fcad7e82.webp"
           }
         }
