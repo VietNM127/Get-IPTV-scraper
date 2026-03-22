@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-22T10:50:16.081420",
+  "updated_at": "2026-03-22T11:00:41.477548",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d36604d80637.png?v=1774176603",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d36604d80637.png?v=1774177233",
             "width": 1600,
             "height": 1200
           },
@@ -82,13 +82,13 @@
             "team_b": "Aguilas-UMak FC",
             "logo_a": "https://cdn.rapid-api.icu/football/team/282622540694b98c5ab0110781d9afe4.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/3b57ab2d85236c9e0df11abcbf400a05.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d36604d80637.png?v=1774176603",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d36604d80637.png?v=1774177233",
             "thumb_key": "thumbs/kaytee-d36604d80637.webp"
           }
         },
         {
-          "id": "kaytee-b655c9b1ff5a",
-          "name": "⚽ Torpedo Miass vs Mashuk-KMV | 16:00",
+          "id": "kaytee-f20b8673e6c6",
+          "name": "⚽ Metalurh Zaporizhya vs FC Vorskla Poltava | 16:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -96,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b655c9b1ff5a.png?v=1774176605",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f20b8673e6c6.png?v=1774177234",
             "width": 1600,
             "height": 1200
           },
@@ -110,27 +110,27 @@
           ],
           "sources": [
             {
-              "id": "src-601320499",
+              "id": "src-601321312",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601320499",
-                  "name": "Torpedo Miass vs Mashuk-KMV",
+                  "id": "ct-601321312",
+                  "name": "Metalurh Zaporizhya vs FC Vorskla Poltava",
                   "streams": [
                     {
-                      "id": "st-601320499",
+                      "id": "st-601321312",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-b98d67902f",
+                          "id": "lnk-e3fb271c8b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live.alilicloud.com/live/4a6623964db6bb152cd794460a8a8916/playlist.m3u8",
+                          "url": "https://live.alilicloud.com/live/741a3a65c71f8a68aab20b25e7971461/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/torpedo-miass-vs-mashukkmv-1600-22-03-2026/601320499"
+                              "value": "https://bunchatv1.net/truc-tiep/metalurh-zaporizhya-vs-fc-vorskla-poltava-1600-22-03-2026/601321312"
                             },
                             {
                               "key": "User-Agent",
@@ -146,82 +146,13 @@
             }
           ],
           "org_metadata": {
-            "league": "RUS D3A",
-            "team_a": "Torpedo Miass",
-            "team_b": "Mashuk-KMV",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/7b7bb591e753b1b29b3d69794d89bd7a.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/9e2791e0d4af74730e31c8f429b23780.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b655c9b1ff5a.png?v=1774176605",
-            "thumb_key": "thumbs/kaytee-b655c9b1ff5a.webp"
-          }
-        },
-        {
-          "id": "kaytee-24cad4227c84",
-          "name": "⚽ FC Voluntari vs Chindia Targoviste | 16:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-24cad4227c84.png?v=1774176608",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601322452",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601322452",
-                  "name": "FC Voluntari vs Chindia Targoviste",
-                  "streams": [
-                    {
-                      "id": "st-601322452",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8324f5ce90",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/890810503062b219a273405e6bf77f9d/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/fc-voluntari-vs-chindia-targoviste-1600-22-03-2026/601322452"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Romanian Liga II",
-            "team_a": "FC Voluntari",
-            "team_b": "Chindia Targoviste",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/f105da768299b0eece32a15bb3c30574.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/275c4eca0c3dd431c353013d073479b9.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-24cad4227c84.png?v=1774176608",
-            "thumb_key": "thumbs/kaytee-24cad4227c84.webp"
+            "league": "Ukrainian First League",
+            "team_a": "Metalurh Zaporizhya",
+            "team_b": "FC Vorskla Poltava",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/9d1eb4ac148e20c42051eb9900d36525.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/c2f0bf5d13208beb3438146db6e97867.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f20b8673e6c6.png?v=1774177234",
+            "thumb_key": "thumbs/kaytee-f20b8673e6c6.webp"
           }
         },
         {
@@ -234,7 +165,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-98dd73ef19ae.png?v=1774176609",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-98dd73ef19ae.png?v=1774177235",
             "width": 1600,
             "height": 1200
           },
@@ -289,8 +220,77 @@
             "team_b": "OshMU Aldier",
             "logo_a": "https://cdn.rapid-api.icu/football/team/0af12c5f3b1feee1eedef570e43a0f18.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/a75148f2e6e835fe7c58ecd9d8825664.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-98dd73ef19ae.png?v=1774176609",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-98dd73ef19ae.png?v=1774177235",
             "thumb_key": "thumbs/kaytee-98dd73ef19ae.webp"
+          }
+        },
+        {
+          "id": "kaytee-371d4aad26ff",
+          "name": "⚽ Bohemians1905 B vs SK Kladno | 16:15",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-371d4aad26ff.png?v=1774177236",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601317934",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601317934",
+                  "name": "Bohemians1905 B vs SK Kladno",
+                  "streams": [
+                    {
+                      "id": "st-601317934",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4980f716be",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/c904562604c6a4b2a70ebffa2a93a012/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/bohemians1905-b-vs-sk-kladno-1615-22-03-2026/601317934"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Czech Third League",
+            "team_a": "Bohemians1905 B",
+            "team_b": "SK Kladno",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/cab65c911a419976ff0a80e0b091909f.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/e9fb95d30e6993e9fa5b07642b675424.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-371d4aad26ff.png?v=1774177236",
+            "thumb_key": "thumbs/kaytee-371d4aad26ff.webp"
           }
         },
         {
@@ -303,7 +303,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fdc6ff25a3be.png?v=1774176612",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fdc6ff25a3be.png?v=1774177238",
             "width": 1600,
             "height": 1200
           },
@@ -375,94 +375,8 @@
             "team_b": "Sariyer",
             "logo_a": "https://cdn.rapid-api.icu/football/team/1775a3cc03d54d5cee9731d9df7c4e87.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/24067249253d42b354d1a6316a377f76.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fdc6ff25a3be.png?v=1774176612",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fdc6ff25a3be.png?v=1774177238",
             "thumb_key": "thumbs/kaytee-fdc6ff25a3be.webp"
-          }
-        },
-        {
-          "id": "kaytee-eeafdc2aff67",
-          "name": "⚽ PFK Montana vs Beroe Stara Zagora | 17:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-eeafdc2aff67.png?v=1774176614",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601320334",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601320334",
-                  "name": "PFK Montana vs Beroe Stara Zagora",
-                  "streams": [
-                    {
-                      "id": "st-601320334",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8c6eeb9ed1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bfc1bd326da_73445/index.m3u8?expire=1774779453&sign=6f95a445eec49d0be58e8cb2cfd8c054",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/pfk-montana-vs-beroe-stara-zagora-1730-22-03-2026/601320334"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-27b51a2fde",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/f579c730cc9066585d51a906de08c34b/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/pfk-montana-vs-beroe-stara-zagora-1730-22-03-2026/601320334"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Bulgarian First League",
-            "team_a": "PFK Montana",
-            "team_b": "Beroe Stara Zagora",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/555ed40ede7fc6f2879993bc058fb8ac.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/197710e96433ca507120d5fc3ebfbc58.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-eeafdc2aff67.png?v=1774176614",
-            "thumb_key": "thumbs/kaytee-eeafdc2aff67.webp"
           }
         },
         {
@@ -475,7 +389,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-372179286220.png?v=1774176616",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-372179286220.png?v=1774177240",
             "width": 1600,
             "height": 1200
           },
@@ -547,7 +461,7 @@
             "team_b": "Amedspor",
             "logo_a": "https://cdn.rapid-api.icu/football/team/1fee4ece0adfb61b06264aa3e87e2a50.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/52a8c01c49d76f1f74ad148b07ef83f9.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-372179286220.png?v=1774176616",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-372179286220.png?v=1774177240",
             "thumb_key": "thumbs/kaytee-372179286220.webp"
           }
         }
@@ -570,7 +484,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-866250b2caf1.png?v=1774176601",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-866250b2caf1.png?v=1774177231",
             "width": 1600,
             "height": 1200
           },
@@ -625,7 +539,7 @@
             "team_b": "Vietinbank",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/97cd4764d37f6693055ec3664f378222.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/91bba93583cafe0c6d1050cb24fedb6e.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-866250b2caf1.png?v=1774176601",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-866250b2caf1.png?v=1774177231",
             "thumb_key": "thumbs/kaytee-866250b2caf1.webp"
           }
         }
@@ -648,7 +562,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4436e5de9354.png?v=1774176610",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4436e5de9354.png?v=1774177237",
             "width": 1600,
             "height": 1200
           },
@@ -703,8 +617,86 @@
             "team_b": "LIN Chih-Chun /  YANG Chu Yun",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/06b9f07a2df87f6bfe6d5c8fbd13d515.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/584f4813b4ce8668fb28f5e00ceb668f.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4436e5de9354.png?v=1774176610",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4436e5de9354.png?v=1774177237",
             "thumb_key": "thumbs/kaytee-4436e5de9354.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_bóng_đá",
+      "name": "⏳ Sắp Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-7c16286e2355",
+          "name": "⚽ SHB Da Nang vs Cong An Ha Noi FC | 18:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7c16286e2355.png?v=1774177241",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601320472",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601320472",
+                  "name": "SHB Da Nang vs Cong An Ha Noi FC",
+                  "streams": [
+                    {
+                      "id": "st-601320472",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2d1c719e15",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bfc98e326da_103/index.m3u8?expire=1774781454&sign=b264417818363fd365cec476ca0e63f8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/shb-da-nang-vs-cong-an-ha-noi-fc-1800-22-03-2026/601320472"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vietnam National Champion League",
+            "team_a": "SHB Da Nang",
+            "team_b": "Cong An Ha Noi FC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/46a4867487152e47c4dc61984d0c58aa.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/f3dde7370cf875e4e657b4331b1b4a31.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7c16286e2355.png?v=1774177241",
+            "thumb_key": "thumbs/kaytee-7c16286e2355.webp"
           }
         }
       ]
