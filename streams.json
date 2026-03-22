@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-22T17:01:48.857237",
+  "updated_at": "2026-03-22T17:13:37.913070",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,213 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-beb51078ffcb",
-          "name": "⚽ Eibar (w) vs Real Madrid (w) | 22:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-beb51078ffcb.png?v=1774198895",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601321255",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601321255",
-                  "name": "Eibar (w) vs Real Madrid (w)",
-                  "streams": [
-                    {
-                      "id": "st-601321255",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-24dfbeef41",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/14625a508cb3648ea3d4f366ab48b000/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/eibar-w-vs-real-madrid-w-2200-22-03-2026/601321255"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Spanish Primera División de la Liga de Fútbol Femenino",
-            "team_a": "Eibar (w)",
-            "team_b": "Real Madrid (w)",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/0eb58bcd5807ea2b12c95f0b506af6bb.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/be7fe57ffae201d4d8e1f8a8bf33232f.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-beb51078ffcb.png?v=1774198895",
-            "thumb_key": "thumbs/kaytee-beb51078ffcb.webp"
-          }
-        },
-        {
-          "id": "kaytee-161179f4b663",
-          "name": "⚽ FC Copenhagen vs Fredericia | 22:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-161179f4b663.png?v=1774198897",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601321411",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601321411",
-                  "name": "FC Copenhagen vs Fredericia",
-                  "streams": [
-                    {
-                      "id": "st-601321411",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b42fdeb498",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/aeb20168014eb7b49b134061b9f7cb9e/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/fc-copenhagen-vs-fredericia-2200-22-03-2026/601321411"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Danish Superliga",
-            "team_a": "FC Copenhagen",
-            "team_b": "Fredericia",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/629b6f983d0ca3c33f2c4b50b3449314.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/53065afcbcf4b386b8aef9eefab540a9.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-161179f4b663.png?v=1774198897",
-            "thumb_key": "thumbs/kaytee-161179f4b663.webp"
-          }
-        },
-        {
-          "id": "kaytee-86da00275867",
-          "name": "⚽ Fafe vs Paredes | 22:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-86da00275867.png?v=1774198899",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601326178",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601326178",
-                  "name": "Fafe vs Paredes",
-                  "streams": [
-                    {
-                      "id": "st-601326178",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ae4329f05b",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/df3bf1e4bded40003694184966c7c25d/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/fafe-vs-paredes-2200-22-03-2026/601326178"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Portuguese Liga 3",
-            "team_a": "Fafe",
-            "team_b": "Paredes",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/60c2f0eb6f1036eec1485e4e3864f2fd.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/9386a0fe8c7976a2df707ccaacce32e5.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-86da00275867.png?v=1774198899",
-            "thumb_key": "thumbs/kaytee-86da00275867.webp"
-          }
-        },
         {
           "id": "kaytee-61f958210c43",
           "name": "⚽ RC Celta vs Deportivo Alavés | 22:15",
@@ -234,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-61f958210c43.png?v=1774198901",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-61f958210c43.png?v=1774199605",
             "width": 1600,
             "height": 1200
           },
@@ -306,8 +99,146 @@
             "team_b": "Deportivo Alavés",
             "logo_a": "https://cdn.rapid-api.icu/football/team/fd954d083ee85a6f1a3f2471dc756242.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/fffbebaa7a0c3c2db7e8d637a3de1811.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-61f958210c43.png?v=1774198901",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-61f958210c43.png?v=1774199605",
             "thumb_key": "thumbs/kaytee-61f958210c43.webp"
+          }
+        },
+        {
+          "id": "kaytee-a41b29701149",
+          "name": "⚽ Mirandes vs Real Valladolid CF | 22:15",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a41b29701149.png?v=1774199607",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601321432",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601321432",
+                  "name": "Mirandes vs Real Valladolid CF",
+                  "streams": [
+                    {
+                      "id": "st-601321432",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3a099cc2b4",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/2258be606ccd945984f9bd2d4a78bb25/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/mirandes-vs-real-valladolid-cf-2215-22-03-2026/601321432"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Spanish Segunda Division",
+            "team_a": "Mirandes",
+            "team_b": "Real Valladolid CF",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/1b64e442df24728c214ea6e741a6d0bc.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/fdf63461c00668597319a4f0db14dcee.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a41b29701149.png?v=1774199607",
+            "thumb_key": "thumbs/kaytee-a41b29701149.webp"
+          }
+        },
+        {
+          "id": "kaytee-65554ee9ed07",
+          "name": "⚽ MSV Duisburg vs TSV 1860 München | 22:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-65554ee9ed07.png?v=1774199609",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601321438",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601321438",
+                  "name": "MSV Duisburg vs TSV 1860 München",
+                  "streams": [
+                    {
+                      "id": "st-601321438",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6501071530",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/82c21469994b025a252cf0a367872f29/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/msv-duisburg-vs-tsv-1860-mnchen-2230-22-03-2026/601321438"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "German 3.Liga",
+            "team_a": "MSV Duisburg",
+            "team_b": "TSV 1860 München",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/587d9e66872a355c96662de0f7376e30.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/afce2e6b3965f3eb6764a5a3576fb5e4.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-65554ee9ed07.png?v=1774199609",
+            "thumb_key": "thumbs/kaytee-65554ee9ed07.webp"
           }
         },
         {
@@ -320,7 +251,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7d14f4daeb4a.png?v=1774198903",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7d14f4daeb4a.png?v=1774199611",
             "width": 1600,
             "height": 1200
           },
@@ -392,8 +323,77 @@
             "team_b": "Rio Ave",
             "logo_a": "https://cdn.rapid-api.icu/football/team/faeceacffbf35e28b7e71a5f90b6efdc.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/e83b163c8501f897012bcc29adfae2b9.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7d14f4daeb4a.png?v=1774198903",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7d14f4daeb4a.png?v=1774199611",
             "thumb_key": "thumbs/kaytee-7d14f4daeb4a.webp"
+          }
+        },
+        {
+          "id": "kaytee-0ad26f6fe191",
+          "name": "⚽ Leixoes vs Pacos de Ferreira | 22:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0ad26f6fe191.png?v=1774199612",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601321441",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601321441",
+                  "name": "Leixoes vs Pacos de Ferreira",
+                  "streams": [
+                    {
+                      "id": "st-601321441",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-13ba18b536",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/8ff370a9c842fd8170b97eec789795cc/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/leixoes-vs-pacos-de-ferreira-2230-22-03-2026/601321441"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Liga Portugal 2",
+            "team_a": "Leixoes",
+            "team_b": "Pacos de Ferreira",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/28da4be2e01d4db90e8fce3769d9ccb9.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/970fbbd9b930f098f0d0285124954ff0.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0ad26f6fe191.png?v=1774199612",
+            "thumb_key": "thumbs/kaytee-0ad26f6fe191.webp"
           }
         },
         {
@@ -406,7 +406,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-49696ada9a97.png?v=1774198906",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-49696ada9a97.png?v=1774199616",
             "width": 1600,
             "height": 1200
           },
@@ -478,7 +478,7 @@
             "team_b": "LOSC Lille",
             "logo_a": "https://cdn.rapid-api.icu/football/team/a450173b3d636ba2c86d3d7c5bdc4026.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/28e94925fdcc848f86a544a1cedcceed.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-49696ada9a97.png?v=1774198906",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-49696ada9a97.png?v=1774199616",
             "thumb_key": "thumbs/kaytee-49696ada9a97.webp"
           }
         },
@@ -492,7 +492,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8b787d0ea085.png?v=1774198908",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8b787d0ea085.png?v=1774199617",
             "width": 1600,
             "height": 1200
           },
@@ -598,7 +598,7 @@
             "team_b": "Manchester City",
             "logo_a": "https://cdn.rapid-api.icu/football/team/d6f5debc456da1119256ab66462ab510.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/c4a6528a2ee147b99c9885ef24385a4e.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8b787d0ea085.png?v=1774198908",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8b787d0ea085.png?v=1774199617",
             "thumb_key": "thumbs/kaytee-8b787d0ea085.webp"
           }
         }
@@ -621,7 +621,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d7586cad67d0.png?v=1774198905",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d7586cad67d0.png?v=1774199614",
             "width": 1600,
             "height": 1200
           },
@@ -693,7 +693,7 @@
             "team_b": "PSV Eindhoven",
             "logo_a": "https://cdn.rapid-api.icu/football/team/f2e98454cf2fc81dea92c1401521eac1.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/cad5af4d1ff0e6f3119af3d273d95d31.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d7586cad67d0.png?v=1774198905",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d7586cad67d0.png?v=1774199614",
             "thumb_key": "thumbs/kaytee-d7586cad67d0.webp"
           }
         }
