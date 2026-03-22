@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-22T14:59:47.001033",
+  "updated_at": "2026-03-22T15:14:11.014059",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,161 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-cb82e57a3b1c",
-          "name": "⚽ FC Barcelona vs Rayo Vallecano | 20:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cb82e57a3b1c.png?v=1774191569",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601320664",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601320664",
-                  "name": "FC Barcelona vs Rayo Vallecano",
-                  "streams": [
-                    {
-                      "id": "st-601320664",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7c01ef6671",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bfe3e670a6a_88186/index.m3u8?expire=1774788198&sign=ee5878379171fdae26f825e3f8c6feaa",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/fc-barcelona-vs-rayo-vallecano-2000-22-03-2026/601320664"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-77f093d29e",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/7aaaf0b6117980461da975a449c9b675/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/fc-barcelona-vs-rayo-vallecano-2000-22-03-2026/601320664"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Spanish La Liga",
-            "team_a": "FC Barcelona",
-            "team_b": "Rayo Vallecano",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/f378eb1ea04e53999b89051aa3244de6.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/5005d8feab109ce64e40beb98073cc1f.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cb82e57a3b1c.png?v=1774191569",
-            "thumb_key": "thumbs/kaytee-cb82e57a3b1c.webp"
-          }
-        },
-        {
-          "id": "kaytee-f03e157f5535",
-          "name": "⚽ Dynamo Moscow vs Zenit St. Petersburg | 20:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f03e157f5535.png?v=1774191574",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601320661",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601320661",
-                  "name": "Dynamo Moscow vs Zenit St. Petersburg",
-                  "streams": [
-                    {
-                      "id": "st-601320661",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-de51030556",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/4b8e1e5ba9d672a93c0bc962fac754de/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/dynamo-moscow-vs-zenit-st-petersburg-2000-22-03-2026/601320661"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Russian Premier League",
-            "team_a": "Dynamo Moscow",
-            "team_b": "Zenit St. Petersburg",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/4f2e51a4694f68360a19648b651b30ca.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/19d5361bfdffa4bfc2f936cbb65fd317.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f03e157f5535.png?v=1774191574",
-            "thumb_key": "thumbs/kaytee-f03e157f5535.webp"
-          }
-        },
         {
           "id": "kaytee-ac1981a13a48",
           "name": "⚽ Feyenoord vs AFC Ajax | 20:30",
@@ -182,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ac1981a13a48.png?v=1774191576",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ac1981a13a48.png?v=1774192433",
             "width": 1600,
             "height": 1200
           },
@@ -237,8 +82,215 @@
             "team_b": "AFC Ajax",
             "logo_a": "https://cdn.rapid-api.icu/football/team/44073f2d2c979a9388f98505ac3b754d.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/187929503752357480bce47813a9741f.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ac1981a13a48.png?v=1774191576",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ac1981a13a48.png?v=1774192433",
             "thumb_key": "thumbs/kaytee-ac1981a13a48.webp"
+          }
+        },
+        {
+          "id": "kaytee-dd1065519803",
+          "name": "⚽ FC Utrecht vs Go Ahead Eagles | 20:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-dd1065519803.png?v=1774192435",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601320850",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601320850",
+                  "name": "FC Utrecht vs Go Ahead Eagles",
+                  "streams": [
+                    {
+                      "id": "st-601320850",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2f77188754",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/be68bb3150ce21b075174eb8982fce05/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/fc-utrecht-vs-go-ahead-eagles-2030-22-03-2026/601320850"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Netherlands Eredivisie",
+            "team_a": "FC Utrecht",
+            "team_b": "Go Ahead Eagles",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/181ee8709b75f543a1cf4c943ae3304b.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/acc42732b97d91016e37952666003417.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-dd1065519803.png?v=1774192435",
+            "thumb_key": "thumbs/kaytee-dd1065519803.webp"
+          }
+        },
+        {
+          "id": "kaytee-70b4c230285a",
+          "name": "⚽ Puskas Akademia FC vs Debreceni VSC | 20:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-70b4c230285a.png?v=1774192437",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601318924",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601318924",
+                  "name": "Puskas Akademia FC vs Debreceni VSC",
+                  "streams": [
+                    {
+                      "id": "st-601318924",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e089052b4e",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/7da784b99ba931c5aea998ff8a91dedd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/puskas-akademia-fc-vs-debreceni-vsc-2030-22-03-2026/601318924"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "OTP Bank Liga",
+            "team_a": "Puskas Akademia FC",
+            "team_b": "Debreceni VSC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/20e1421981660356d8bbce228ef9c927.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/359ee173f3c3b8e9a63f3d7372cff1b7.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-70b4c230285a.png?v=1774192437",
+            "thumb_key": "thumbs/kaytee-70b4c230285a.webp"
+          }
+        },
+        {
+          "id": "kaytee-8419e54e3600",
+          "name": "⚽ Stal Mielec vs KS Wieczysta Krakow | 20:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8419e54e3600.png?v=1774192439",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601318933",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601318933",
+                  "name": "Stal Mielec vs KS Wieczysta Krakow",
+                  "streams": [
+                    {
+                      "id": "st-601318933",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-73c1efa506",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/03cdca560028f72b1f8958f88391d4ee/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/stal-mielec-vs-ks-wieczysta-krakow-2030-22-03-2026/601318933"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Poland Liga 1",
+            "team_a": "Stal Mielec",
+            "team_b": "KS Wieczysta Krakow",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/49e4ff5b51f311b1ed45ce0eaa07aefa.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/958847e6fef63efb5913d460746ba5b7.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8419e54e3600.png?v=1774192439",
+            "thumb_key": "thumbs/kaytee-8419e54e3600.webp"
           }
         },
         {
@@ -251,7 +303,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ef77791a13f7.png?v=1774191580",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ef77791a13f7.png?v=1774192443",
             "width": 1600,
             "height": 1200
           },
@@ -323,7 +375,7 @@
             "team_b": "Hellas Verona",
             "logo_a": "https://cdn.rapid-api.icu/football/team/45c9647899b8bf2fb6f988c6c33b964c.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/b8e39abb18bb1c69396c59ff73ecf124.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ef77791a13f7.png?v=1774191580",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ef77791a13f7.png?v=1774192443",
             "thumb_key": "thumbs/kaytee-ef77791a13f7.webp"
           }
         },
@@ -337,7 +389,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-72a405346c1d.png?v=1774191582",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-72a405346c1d.png?v=1774192445",
             "width": 1600,
             "height": 1200
           },
@@ -409,7 +461,7 @@
             "team_b": "Lazio",
             "logo_a": "https://cdn.rapid-api.icu/football/team/bd12298fc3920bc20b7ad43b16ad9624.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/5a2ff46efa33abc6b2908eb6279dfbf8.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-72a405346c1d.png?v=1774191582",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-72a405346c1d.png?v=1774192445",
             "thumb_key": "thumbs/kaytee-72a405346c1d.webp"
           }
         },
@@ -423,7 +475,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f5fd27f95bb5.png?v=1774191584",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f5fd27f95bb5.png?v=1774192447",
             "width": 1600,
             "height": 1200
           },
@@ -512,8 +564,111 @@
             "team_b": "West Ham United",
             "logo_a": "https://cdn.rapid-api.icu/football/team/a3c32d6a906083118cac2cb796edaab3.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/d71ebda5c7fbca9093a1c2978c46f619.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f5fd27f95bb5.png?v=1774191584",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f5fd27f95bb5.png?v=1774192447",
             "thumb_key": "thumbs/kaytee-f5fd27f95bb5.webp"
+          }
+        },
+        {
+          "id": "kaytee-cecdd7157432",
+          "name": "⚽ Tottenham Hotspur vs Nottingham Forest | 21:15",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cecdd7157432.png?v=1774192449",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601321216",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601321216",
+                  "name": "Tottenham Hotspur vs Nottingham Forest",
+                  "streams": [
+                    {
+                      "id": "st-601321216",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-127ca51e41",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bfeff7326da_128756/index.m3u8?expire=1774791287&sign=cecd0d8a0f676546c93998f4719c556f",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/tottenham-hotspur-vs-nottingham-forest-2115-22-03-2026/601321216"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-af6ce89183",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bff695326da_44731/index.m3u8?expire=1774792981&sign=d22732bd3f78606c4f1836685ae35c1f",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/tottenham-hotspur-vs-nottingham-forest-2115-22-03-2026/601321216"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-8acd9da6c9",
+                          "name": "Link 3",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/0640810b8b415d6f0fad76ab4e715c6d/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/tottenham-hotspur-vs-nottingham-forest-2115-22-03-2026/601321216"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Premier League",
+            "team_a": "Tottenham Hotspur",
+            "team_b": "Nottingham Forest",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/8b22ab4041e666b996a2d96f20dea707.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/62572999d107f777efa4aeb907443527.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cecdd7157432.png?v=1774192449",
+            "thumb_key": "thumbs/kaytee-cecdd7157432.webp"
           }
         }
       ]
@@ -535,7 +690,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4436e5de9354.png?v=1774191578",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4436e5de9354.png?v=1774192441",
             "width": 1600,
             "height": 1200
           },
@@ -590,155 +745,8 @@
             "team_b": "Mathias CHRISTIANSEN /  Alexandra BØJE",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/5c6941aace9528826b2807b9d67b681e.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/35e0fb2c048b9546ec7f72d6017bb5fb.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4436e5de9354.png?v=1774191578",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4436e5de9354.png?v=1774192441",
             "thumb_key": "thumbs/kaytee-4436e5de9354.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "live_bóng_bàn",
-      "name": "🔴 Live 🏓 Bóng Bàn",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-ede590a54cf6",
-          "name": "🏓 OFK Beograd vs IMT Novi Beograd | 20:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ede590a54cf6.png?v=1774191571",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601318942",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601318942",
-                  "name": "OFK Beograd vs IMT Novi Beograd",
-                  "streams": [
-                    {
-                      "id": "st-601318942",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3c7af8a03f",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/b28b417c9b200cccf6d654570672eeeb/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/ofk-beograd-vs-imt-novi-beograd-2000-22-03-2026/601318942"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Serbian Super liga",
-            "team_a": "OFK Beograd",
-            "team_b": "IMT Novi Beograd",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/8db9790c6344a2972f45d95fb776877a.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/9c1777c5f9d29d3c8ce03960caa52a64.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ede590a54cf6.png?v=1774191571",
-            "thumb_key": "thumbs/kaytee-ede590a54cf6.webp"
-          }
-        },
-        {
-          "id": "kaytee-5f4619b4fa37",
-          "name": "🏓 FK Vrsac vs FK Vozdovac Beograd | 20:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5f4619b4fa37.png?v=1774191572",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601320658",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601320658",
-                  "name": "FK Vrsac vs FK Vozdovac Beograd",
-                  "streams": [
-                    {
-                      "id": "st-601320658",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-45b1a9b5b7",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/97e6bc22fbf8f6913e7b8f1ff0f20233/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/fk-vrsac-vs-fk-vozdovac-beograd-2000-22-03-2026/601320658"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Serbian Prva Liga",
-            "team_a": "FK Vrsac",
-            "team_b": "FK Vozdovac Beograd",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/ca05d5371f181ec7de63ae0ef9afa257.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/cd95dbc4c415200eafa8f40625fe59a7.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5f4619b4fa37.png?v=1774191572",
-            "thumb_key": "thumbs/kaytee-5f4619b4fa37.webp"
           }
         }
       ]
@@ -760,7 +768,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8b787d0ea085.png?v=1774191587",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8b787d0ea085.png?v=1774192451",
             "width": 1600,
             "height": 1200
           },
@@ -832,86 +840,8 @@
             "team_b": "Manchester City",
             "logo_a": "https://cdn.rapid-api.icu/football/team/d6f5debc456da1119256ab66462ab510.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/c4a6528a2ee147b99c9885ef24385a4e.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8b787d0ea085.png?v=1774191587",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8b787d0ea085.png?v=1774192451",
             "thumb_key": "thumbs/kaytee-8b787d0ea085.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "upcoming_tennis",
-      "name": "⏳ Sắp Live 🎾 Tennis",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-0b66cf0058d9",
-          "name": "🎾 Quinn E. vs Lehecka J. | 22:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0b66cf0058d9.png?v=1774191585",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Sắp Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601329175",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601329175",
-                  "name": "Quinn E. vs Lehecka J.",
-                  "streams": [
-                    {
-                      "id": "st-601329175",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8868a8081b",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69c0013070a6a_112310/index.m3u8?expire=1774795696&sign=dc4677990cdfb396e2407ccbe4e007d0",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/quinn-e-vs-lehecka-j-2200-22-03-2026/601329175"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "ATP MIAMI 2026",
-            "team_a": "Quinn E.",
-            "team_b": "Lehecka J.",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a703cb573485586e28cd0310b3fe21e9.webp",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/63a42533d1b4526b06a4370a81eb78e2.webp",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0b66cf0058d9.png?v=1774191585",
-            "thumb_key": "thumbs/kaytee-0b66cf0058d9.webp"
           }
         }
       ]
