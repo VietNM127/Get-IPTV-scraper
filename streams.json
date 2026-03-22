@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-22T14:50:13.510317",
+  "updated_at": "2026-03-22T14:59:47.001033",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cb82e57a3b1c.png?v=1774190993",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cb82e57a3b1c.png?v=1774191569",
             "width": 1600,
             "height": 1200
           },
@@ -99,13 +99,13 @@
             "team_b": "Rayo Vallecano",
             "logo_a": "https://cdn.rapid-api.icu/football/team/f378eb1ea04e53999b89051aa3244de6.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/5005d8feab109ce64e40beb98073cc1f.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cb82e57a3b1c.png?v=1774190993",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cb82e57a3b1c.png?v=1774191569",
             "thumb_key": "thumbs/kaytee-cb82e57a3b1c.webp"
           }
         },
         {
-          "id": "kaytee-e302708fd863",
-          "name": "⚽ Jedinstvo UB vs FAP | 20:00",
+          "id": "kaytee-f03e157f5535",
+          "name": "⚽ Dynamo Moscow vs Zenit St. Petersburg | 20:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -113,7 +113,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e302708fd863.png?v=1774190997",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f03e157f5535.png?v=1774191574",
             "width": 1600,
             "height": 1200
           },
@@ -127,27 +127,27 @@
           ],
           "sources": [
             {
-              "id": "src-601320652",
+              "id": "src-601320661",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601320652",
-                  "name": "Jedinstvo UB vs FAP",
+                  "id": "ct-601320661",
+                  "name": "Dynamo Moscow vs Zenit St. Petersburg",
                   "streams": [
                     {
-                      "id": "st-601320652",
+                      "id": "st-601320661",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-cb1edb8e8f",
+                          "id": "lnk-de51030556",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live.alilicloud.com/live/4ed945f81b88a9a3eaf0dcef738ba185/playlist.m3u8",
+                          "url": "https://live.alilicloud.com/live/4b8e1e5ba9d672a93c0bc962fac754de/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/jedinstvo-ub-vs-fap-2000-22-03-2026/601320652"
+                              "value": "https://bunchatv1.net/truc-tiep/dynamo-moscow-vs-zenit-st-petersburg-2000-22-03-2026/601320661"
                             },
                             {
                               "key": "User-Agent",
@@ -163,82 +163,13 @@
             }
           ],
           "org_metadata": {
-            "league": "Serbian Prva Liga",
-            "team_a": "Jedinstvo UB",
-            "team_b": "FAP",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/97e79cf4fc688c8f52dd367a83436cc0.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/6a4ed02142f5cb72099ebf8399a488b5.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e302708fd863.png?v=1774190997",
-            "thumb_key": "thumbs/kaytee-e302708fd863.webp"
-          }
-        },
-        {
-          "id": "kaytee-98dfa9998256",
-          "name": "⚽ Kabel Novi Sad vs FK Loznica | 20:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-98dfa9998256.png?v=1774190999",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601320655",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601320655",
-                  "name": "Kabel Novi Sad vs FK Loznica",
-                  "streams": [
-                    {
-                      "id": "st-601320655",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-39dbc33044",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/a6a6a884772f36814f7fb1a0be3c6b60/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/kabel-novi-sad-vs-fk-loznica-2000-22-03-2026/601320655"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Serbian Prva Liga",
-            "team_a": "Kabel Novi Sad",
-            "team_b": "FK Loznica",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/f6b6061e8181c27bcf771835ac901ec8.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/2ec11c4bb011110a8dacea897e80311e.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-98dfa9998256.png?v=1774190999",
-            "thumb_key": "thumbs/kaytee-98dfa9998256.webp"
+            "league": "Russian Premier League",
+            "team_a": "Dynamo Moscow",
+            "team_b": "Zenit St. Petersburg",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/4f2e51a4694f68360a19648b651b30ca.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/19d5361bfdffa4bfc2f936cbb65fd317.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f03e157f5535.png?v=1774191574",
+            "thumb_key": "thumbs/kaytee-f03e157f5535.webp"
           }
         },
         {
@@ -251,7 +182,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ac1981a13a48.png?v=1774191003",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ac1981a13a48.png?v=1774191576",
             "width": 1600,
             "height": 1200
           },
@@ -306,7 +237,7 @@
             "team_b": "AFC Ajax",
             "logo_a": "https://cdn.rapid-api.icu/football/team/44073f2d2c979a9388f98505ac3b754d.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/187929503752357480bce47813a9741f.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ac1981a13a48.png?v=1774191003",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ac1981a13a48.png?v=1774191576",
             "thumb_key": "thumbs/kaytee-ac1981a13a48.webp"
           }
         },
@@ -320,7 +251,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ef77791a13f7.png?v=1774191007",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ef77791a13f7.png?v=1774191580",
             "width": 1600,
             "height": 1200
           },
@@ -392,7 +323,7 @@
             "team_b": "Hellas Verona",
             "logo_a": "https://cdn.rapid-api.icu/football/team/45c9647899b8bf2fb6f988c6c33b964c.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/b8e39abb18bb1c69396c59ff73ecf124.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ef77791a13f7.png?v=1774191007",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ef77791a13f7.png?v=1774191580",
             "thumb_key": "thumbs/kaytee-ef77791a13f7.webp"
           }
         },
@@ -406,7 +337,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-72a405346c1d.png?v=1774191008",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-72a405346c1d.png?v=1774191582",
             "width": 1600,
             "height": 1200
           },
@@ -478,7 +409,7 @@
             "team_b": "Lazio",
             "logo_a": "https://cdn.rapid-api.icu/football/team/bd12298fc3920bc20b7ad43b16ad9624.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/5a2ff46efa33abc6b2908eb6279dfbf8.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-72a405346c1d.png?v=1774191008",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-72a405346c1d.png?v=1774191582",
             "thumb_key": "thumbs/kaytee-72a405346c1d.webp"
           }
         },
@@ -492,7 +423,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f5fd27f95bb5.png?v=1774191010",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f5fd27f95bb5.png?v=1774191584",
             "width": 1600,
             "height": 1200
           },
@@ -581,7 +512,7 @@
             "team_b": "West Ham United",
             "logo_a": "https://cdn.rapid-api.icu/football/team/a3c32d6a906083118cac2cb796edaab3.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/d71ebda5c7fbca9093a1c2978c46f619.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f5fd27f95bb5.png?v=1774191010",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f5fd27f95bb5.png?v=1774191584",
             "thumb_key": "thumbs/kaytee-f5fd27f95bb5.webp"
           }
         }
@@ -604,7 +535,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4436e5de9354.png?v=1774191005",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4436e5de9354.png?v=1774191578",
             "width": 1600,
             "height": 1200
           },
@@ -659,7 +590,7 @@
             "team_b": "Mathias CHRISTIANSEN /  Alexandra BØJE",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/5c6941aace9528826b2807b9d67b681e.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/35e0fb2c048b9546ec7f72d6017bb5fb.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4436e5de9354.png?v=1774191005",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4436e5de9354.png?v=1774191578",
             "thumb_key": "thumbs/kaytee-4436e5de9354.webp"
           }
         }
@@ -682,7 +613,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ede590a54cf6.png?v=1774190995",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ede590a54cf6.png?v=1774191571",
             "width": 1600,
             "height": 1200
           },
@@ -737,7 +668,7 @@
             "team_b": "IMT Novi Beograd",
             "logo_a": "https://cdn.rapid-api.icu/football/team/8db9790c6344a2972f45d95fb776877a.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/9c1777c5f9d29d3c8ce03960caa52a64.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ede590a54cf6.png?v=1774190995",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ede590a54cf6.png?v=1774191571",
             "thumb_key": "thumbs/kaytee-ede590a54cf6.webp"
           }
         },
@@ -751,7 +682,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5f4619b4fa37.png?v=1774191001",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5f4619b4fa37.png?v=1774191572",
             "width": 1600,
             "height": 1200
           },
@@ -806,7 +737,7 @@
             "team_b": "FK Vozdovac Beograd",
             "logo_a": "https://cdn.rapid-api.icu/football/team/ca05d5371f181ec7de63ae0ef9afa257.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/cd95dbc4c415200eafa8f40625fe59a7.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5f4619b4fa37.png?v=1774191001",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5f4619b4fa37.png?v=1774191572",
             "thumb_key": "thumbs/kaytee-5f4619b4fa37.webp"
           }
         }
@@ -829,7 +760,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8b787d0ea085.png?v=1774191013",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8b787d0ea085.png?v=1774191587",
             "width": 1600,
             "height": 1200
           },
@@ -901,7 +832,7 @@
             "team_b": "Manchester City",
             "logo_a": "https://cdn.rapid-api.icu/football/team/d6f5debc456da1119256ab66462ab510.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/c4a6528a2ee147b99c9885ef24385a4e.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8b787d0ea085.png?v=1774191013",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8b787d0ea085.png?v=1774191587",
             "thumb_key": "thumbs/kaytee-8b787d0ea085.webp"
           }
         }
@@ -924,7 +855,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0b66cf0058d9.png?v=1774191011",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0b66cf0058d9.png?v=1774191585",
             "width": 1600,
             "height": 1200
           },
@@ -979,7 +910,7 @@
             "team_b": "Lehecka J.",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a703cb573485586e28cd0310b3fe21e9.webp",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/63a42533d1b4526b06a4370a81eb78e2.webp",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0b66cf0058d9.png?v=1774191011",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0b66cf0058d9.png?v=1774191585",
             "thumb_key": "thumbs/kaytee-0b66cf0058d9.webp"
           }
         }
