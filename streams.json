@@ -8,6 +8,1060 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-21T23:57:34.521818",
-  "groups": []
+  "updated_at": "2026-03-22T01:21:38.202342",
+  "groups": [
+    {
+      "id": "live_bóng_đá",
+      "name": "🔴 Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-9c29beaaf6d4",
+          "name": "⚽ Tampa Bay Rowdies vs Pittsburgh Riverhounds | 06:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9c29beaaf6d4.png?v=1774142484",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601319893",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601319893",
+                  "name": "Tampa Bay Rowdies vs Pittsburgh Riverhounds",
+                  "streams": [
+                    {
+                      "id": "st-601319893",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d090c21611",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/41c7461e33496af3985c0337c7a0ac7a/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/tampa-bay-rowdies-vs-pittsburgh-riverhounds-0630-22-03-2026/601319893"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "USL Championship",
+            "team_a": "Tampa Bay Rowdies",
+            "team_b": "Pittsburgh Riverhounds",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/969d795fc7010b8500619a8f8a44d5c8.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/602255b6d0275cd1008b99c59cd10c87.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9c29beaaf6d4.png?v=1774142484",
+            "thumb_key": "thumbs/kaytee-9c29beaaf6d4.webp"
+          }
+        },
+        {
+          "id": "kaytee-d255251cc3b4",
+          "name": "⚽ Club Libertad Asunción vs Cerro Porteno | 06:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d255251cc3b4.png?v=1774142485",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601319899",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601319899",
+                  "name": "Club Libertad Asunción vs Cerro Porteno",
+                  "streams": [
+                    {
+                      "id": "st-601319899",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-11b05b78c3",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/a27bd73d3191cb0e71ee36cef84e8a25/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/club-libertad-asuncion-vs-cerro-porteno-0630-22-03-2026/601319899"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Paraguayan Primera Division",
+            "team_a": "Club Libertad Asunción",
+            "team_b": "Cerro Porteno",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/a82c9684d567971fb6a08d24d027892a.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/c210e6c1fadf9e292797da2cdf685555.jpg",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d255251cc3b4.png?v=1774142485",
+            "thumb_key": "thumbs/kaytee-d255251cc3b4.webp"
+          }
+        },
+        {
+          "id": "kaytee-413f658e3201",
+          "name": "⚽ Alianza Lima vs Juan Pablo II | 06:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-413f658e3201.png?v=1774142488",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601319902",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601319902",
+                  "name": "Alianza Lima vs Juan Pablo II",
+                  "streams": [
+                    {
+                      "id": "st-601319902",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b5d1bea5cc",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/e62e84e64e38be014f4da1c1907f124c/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/alianza-lima-vs-juan-pablo-ii-0630-22-03-2026/601319902"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Peruvian Liga 1",
+            "team_a": "Alianza Lima",
+            "team_b": "Juan Pablo II",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/8941e026a8debbd82633b019552e1515.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/135610c6dd7e50332c14838339453b86.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-413f658e3201.png?v=1774142488",
+            "thumb_key": "thumbs/kaytee-413f658e3201.webp"
+          }
+        },
+        {
+          "id": "kaytee-2d042b88fd30",
+          "name": "⚽ Cuiaba vs Sport Club do Recife | 06:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2d042b88fd30.png?v=1774142489",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601319905",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601319905",
+                  "name": "Cuiaba vs Sport Club do Recife",
+                  "streams": [
+                    {
+                      "id": "st-601319905",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-01d1e869d0",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/935af2c239304edc66bdf87febed1c8a/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/cuiaba-vs-sport-club-do-recife-0630-22-03-2026/601319905"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Brazilian Serie B",
+            "team_a": "Cuiaba",
+            "team_b": "Sport Club do Recife",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/a9e3f5956f84947cbd6503823dcffbb0.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/442e515a4bc76ea3b5dcc5b22cae2fc3.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2d042b88fd30.png?v=1774142489",
+            "thumb_key": "thumbs/kaytee-2d042b88fd30.webp"
+          }
+        },
+        {
+          "id": "kaytee-ea366aaf2fb3",
+          "name": "⚽ Sao Paulo vs Palmeiras | 07:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ea366aaf2fb3.png?v=1774142491",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601319920",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601319920",
+                  "name": "Sao Paulo vs Palmeiras",
+                  "streams": [
+                    {
+                      "id": "st-601319920",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8c800cabf1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bf1b9770a6a_128756/index.m3u8?expire=1774736919&sign=b0ec624d6ddaa8e3fad04145f24d4a6e",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/sao-paulo-vs-palmeiras-0700-22-03-2026/601319920"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-f68091c074",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/76eb833f218ff204e315c76a3fbdfe70/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/sao-paulo-vs-palmeiras-0700-22-03-2026/601319920"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Brazilian Serie A",
+            "team_a": "Sao Paulo",
+            "team_b": "Palmeiras",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/31f5171de0e1404fdebcef19cd7cd409.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/e6a85b64d28f448601e90857eb799140.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ea366aaf2fb3.png?v=1774142491",
+            "thumb_key": "thumbs/kaytee-ea366aaf2fb3.webp"
+          }
+        },
+        {
+          "id": "kaytee-209996856d94",
+          "name": "⚽ Atletico San Luis vs Club Leon | 08:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-209996856d94.png?v=1774142494",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601319965",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601319965",
+                  "name": "Atletico San Luis vs Club Leon",
+                  "streams": [
+                    {
+                      "id": "st-601319965",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b95fc9035a",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bf3f6f70a6a_74012/index.m3u8?expire=1774746095&sign=118ade51118400f66cb47d4c1a433015",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/atletico-san-luis-vs-club-leon-0800-22-03-2026/601319965"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-5628e987a6",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/4f43fd78b4cd1f18274f8e003d68156b/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/atletico-san-luis-vs-club-leon-0800-22-03-2026/601319965"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Mexico Liga MX",
+            "team_a": "Atletico San Luis",
+            "team_b": "Club Leon",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/f6c489e1e71d37e301b30df37a43b8a4.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/4695f653aca6ac49ff2baa4a961fa67b.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-209996856d94.png?v=1774142494",
+            "thumb_key": "thumbs/kaytee-209996856d94.webp"
+          }
+        },
+        {
+          "id": "kaytee-114e35d3e409",
+          "name": "⚽ Monterrey vs Chivas Guadalajara | 08:05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-114e35d3e409.png?v=1774142496",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601319962",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601319962",
+                  "name": "Monterrey vs Chivas Guadalajara",
+                  "streams": [
+                    {
+                      "id": "st-601319962",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-de9e1ecbd7",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bf3dfa70a6a_73445/index.m3u8?expire=1774745722&sign=ece958cdfb58d087c5db0bbc3ae9a2c9",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/monterrey-vs-chivas-guadalajara-0805-22-03-2026/601319962"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-7efc977e76",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/40538b17578ef125ee5cf4fc6ad20cbc/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/monterrey-vs-chivas-guadalajara-0805-22-03-2026/601319962"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Mexico Liga MX",
+            "team_a": "Monterrey",
+            "team_b": "Chivas Guadalajara",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/5c3f819a35454f424d85df5757650f8b.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/872867a492989e6a9a0785cfd0a40680.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-114e35d3e409.png?v=1774142496",
+            "thumb_key": "thumbs/kaytee-114e35d3e409.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_bóng_rổ",
+      "name": "🔴 Live 🏀 Bóng Rổ",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-966e549838ba",
+          "name": "🏀 Charlotte Hornets vs Memphis Grizzlies | 06:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-966e549838ba.png?v=1774142480",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601325572",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601325572",
+                  "name": "Charlotte Hornets vs Memphis Grizzlies",
+                  "streams": [
+                    {
+                      "id": "st-601325572",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2eac312e0f",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bf1bba70a6a_72787/index.m3u8?expire=1774736954&sign=06e9106ad124b66275a1e0b774d9322e",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/charlotte-hornets-vs-memphis-grizzlies-0600-22-03-2026/601325572"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NBA",
+            "team_a": "Charlotte Hornets",
+            "team_b": "Memphis Grizzlies",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/895412f016798df5a1f6bc83b210d614.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/972e287aa6940c9b032b0af3028a299b.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-966e549838ba.png?v=1774142480",
+            "thumb_key": "thumbs/kaytee-966e549838ba.webp"
+          }
+        },
+        {
+          "id": "kaytee-1787451eaadc",
+          "name": "🏀 New Orleans Pelicans vs Cleveland Cavaliers | 06:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1787451eaadc.png?v=1774142481",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601325575",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601325575",
+                  "name": "New Orleans Pelicans vs Cleveland Cavaliers",
+                  "streams": [
+                    {
+                      "id": "st-601325575",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6b2b471e98",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bf2a3a326da_138846/index.m3u8?expire=1774740666&sign=5e7910ff0305740f491559540a900ef2",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/new-orleans-pelicans-vs-cleveland-cavaliers-0600-22-03-2026/601325575"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NBA",
+            "team_a": "New Orleans Pelicans",
+            "team_b": "Cleveland Cavaliers",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/ff600b1a2ff30791481e39710bd35e83.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/6a622d89b1921efe3b8700ae976b59dc.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-1787451eaadc.png?v=1774142481",
+            "thumb_key": "thumbs/kaytee-1787451eaadc.webp"
+          }
+        },
+        {
+          "id": "kaytee-fb8b2cd7bc10",
+          "name": "🏀 Orlando Magic vs Los Angeles Lakers | 06:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fb8b2cd7bc10.png?v=1774142481",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601325578",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601325578",
+                  "name": "Orlando Magic vs Los Angeles Lakers",
+                  "streams": [
+                    {
+                      "id": "st-601325578",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3ab0411f39",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bf292570a6a_4733/index.m3u8?expire=1774740389&sign=7c68839be05650ae1ac70c2eaf951c6f",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/orlando-magic-vs-los-angeles-lakers-0600-22-03-2026/601325578"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NBA",
+            "team_a": "Orlando Magic",
+            "team_b": "Los Angeles Lakers",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/85e76f47cc49038ac802bd67d50c215e.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/feb6335bd6d4cb2e6b6cb6cb43c0e0a1.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fb8b2cd7bc10.png?v=1774142481",
+            "thumb_key": "thumbs/kaytee-fb8b2cd7bc10.webp"
+          }
+        },
+        {
+          "id": "kaytee-8fbf0c949de8",
+          "name": "🏀 Atlanta Hawks vs Golden State Warriors | 07:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8fbf0c949de8.png?v=1774142492",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601325581",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601325581",
+                  "name": "Atlanta Hawks vs Golden State Warriors",
+                  "streams": [
+                    {
+                      "id": "st-601325581",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-92a2692531",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bf32ca326da_142210/index.m3u8?expire=1774742858&sign=7d65e4d15867132950ddefc7f15f95e7",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/atlanta-hawks-vs-golden-state-warriors-0700-22-03-2026/601325581"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NBA",
+            "team_a": "Atlanta Hawks",
+            "team_b": "Golden State Warriors",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/b67c5f346054d8cbb66779e320b0332c.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/b3dc6e4d6bc132806433f66a408d25c7.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8fbf0c949de8.png?v=1774142492",
+            "thumb_key": "thumbs/kaytee-8fbf0c949de8.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_tennis",
+      "name": "🔴 Live 🎾 Tennis",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-3f28aff542a1",
+          "name": "🎾 Ben Shelton vs Shevchenko A. | 06:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3f28aff542a1.png?v=1774142482",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601328584",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601328584",
+                  "name": "Ben Shelton vs Shevchenko A.",
+                  "streams": [
+                    {
+                      "id": "st-601328584",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5a6d42abef",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bf2dc0326da_110198/index.m3u8?expire=1774741568&sign=f72720b89db08bad14593ae3f4372200",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/ben-shelton-vs-shevchenko-a-0600-22-03-2026/601328584"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ATP MIAMI 2026",
+            "team_a": "Ben Shelton",
+            "team_b": "Shevchenko A.",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/298f996b460fb0921d21e4b1d3923539.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/49196326983cc6f41c8034171340d689.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3f28aff542a1.png?v=1774142482",
+            "thumb_key": "thumbs/kaytee-3f28aff542a1.webp"
+          }
+        },
+        {
+          "id": "kaytee-7fe9c107dabe",
+          "name": "🎾 Damm M. vs A. Zverev | 07:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7fe9c107dabe.png?v=1774142493",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601328587",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601328587",
+                  "name": "Damm M. vs A. Zverev",
+                  "streams": [
+                    {
+                      "id": "st-601328587",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2c8ebe6362",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bf3fda70a6a_110198/index.m3u8?expire=1774746202&sign=551975560b3dbe5850d61c362fcbe52d",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/damm-m-vs-a-zverev-0730-22-03-2026/601328587"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ATP MIAMI 2026",
+            "team_a": "Damm M.",
+            "team_b": "A. Zverev",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/91a344580f76077de9adfb5bfe0d38e5.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/269e627d1ccd4a4cecb0e827ba70b8ea.webp",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7fe9c107dabe.png?v=1774142493",
+            "thumb_key": "thumbs/kaytee-7fe9c107dabe.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_bóng_đá",
+      "name": "⏳ Sắp Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-2410d2bc5da1",
+          "name": "⚽ Atletico Nacional Medellin vs La Equidad | 08:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2410d2bc5da1.png?v=1774142498",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601319992",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601319992",
+                  "name": "Atletico Nacional Medellin vs La Equidad",
+                  "streams": [
+                    {
+                      "id": "st-601319992",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9231467b8e",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bf24b2326da_88642/index.m3u8?expire=1774739250&sign=aa59b3d337e692bb5ae5de507606924a",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/atletico-nacional-medellin-vs-la-equidad-0830-22-03-2026/601319992"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Categoría Primera A",
+            "team_a": "Atletico Nacional Medellin",
+            "team_b": "La Equidad",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/4ee24366d09a9239bb2c4207a5008111.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/265454b5fee1950f8aa1173147c8c593.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2410d2bc5da1.png?v=1774142498",
+            "thumb_key": "thumbs/kaytee-2410d2bc5da1.webp"
+          }
+        }
+      ]
+    }
+  ]
 }
