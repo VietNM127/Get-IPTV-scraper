@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-22T11:42:22.594279",
+  "updated_at": "2026-03-22T11:50:45.685229",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fdc6ff25a3be.png?v=1774179729",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fdc6ff25a3be.png?v=1774180227",
             "width": 1600,
             "height": 1200
           },
@@ -68,6 +68,23 @@
                               "value": "Mozilla/5.0"
                             }
                           ]
+                        },
+                        {
+                          "id": "lnk-f05fd6d58b",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/af4a0ed2661b9c190f484df70ccad337/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/belediye-vanspor-vs-sariyer-1700-22-03-2026/601320301"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
                         }
                       ]
                     }
@@ -82,8 +99,284 @@
             "team_b": "Sariyer",
             "logo_a": "https://cdn.rapid-api.icu/football/team/1775a3cc03d54d5cee9731d9df7c4e87.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/24067249253d42b354d1a6316a377f76.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fdc6ff25a3be.png?v=1774179729",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fdc6ff25a3be.png?v=1774180227",
             "thumb_key": "thumbs/kaytee-fdc6ff25a3be.webp"
+          }
+        },
+        {
+          "id": "kaytee-490b0b424efc",
+          "name": "⚽ Chernomorets Odessa II vs FC Livyi Bereh Kyiv B | 17:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-490b0b424efc.png?v=1774180229",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601318654",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601318654",
+                  "name": "Chernomorets Odessa II vs FC Livyi Bereh Kyiv B",
+                  "streams": [
+                    {
+                      "id": "st-601318654",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-89980b7d48",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/5785bc4120a209ada36bd683b4e24b10/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/chernomorets-odessa-ii-vs-fc-livyi-bereh-kyiv-b-1700-22-03-2026/601318654"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ukrainian Second League",
+            "team_a": "Chernomorets Odessa II",
+            "team_b": "FC Livyi Bereh Kyiv B",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/90ec31dd72d9e3f5ec36881b73949c08.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/a1d8ff411070e0f69c2cbde869009818.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-490b0b424efc.png?v=1774180229",
+            "thumb_key": "thumbs/kaytee-490b0b424efc.webp"
+          }
+        },
+        {
+          "id": "kaytee-027d5706a34b",
+          "name": "⚽ FC Belshina Babruisk vs Dinamo Brest | 17:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-027d5706a34b.png?v=1774180232",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601319071",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601319071",
+                  "name": "FC Belshina Babruisk vs Dinamo Brest",
+                  "streams": [
+                    {
+                      "id": "st-601319071",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-cce9b94949",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/59c71ab58c074766d5a708fef26ff7f2/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/fc-belshina-babruisk-vs-dinamo-brest-1700-22-03-2026/601319071"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Belarusian Premier League",
+            "team_a": "FC Belshina Babruisk",
+            "team_b": "Dinamo Brest",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/cad90931c9692e3f23ac7d65092401cc.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/d46c60ef33fd6351d4e0868d7231c3cb.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-027d5706a34b.png?v=1774180232",
+            "thumb_key": "thumbs/kaytee-027d5706a34b.webp"
+          }
+        },
+        {
+          "id": "kaytee-098ae338275f",
+          "name": "⚽ Cagliari U19 vs Fiorentina U20 | 17:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-098ae338275f.png?v=1774180234",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601320292",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601320292",
+                  "name": "Cagliari U19 vs Fiorentina U20",
+                  "streams": [
+                    {
+                      "id": "st-601320292",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c102897e62",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/957de91723d6c5e8ab902543f659d877/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/cagliari-u19-vs-fiorentina-u20-1700-22-03-2026/601320292"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Italian Campionato Primavera 1",
+            "team_a": "Cagliari U19",
+            "team_b": "Fiorentina U20",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/4b2d4e19421e84531b8deb3cdc976db7.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/bf14f28a61e7603d6c49f992906da4e1.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-098ae338275f.png?v=1774180234",
+            "thumb_key": "thumbs/kaytee-098ae338275f.webp"
+          }
+        },
+        {
+          "id": "kaytee-63ea8a3aed4b",
+          "name": "⚽ Lecce U20 vs Atalanta U19 | 17:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-63ea8a3aed4b.png?v=1774180236",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601320295",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601320295",
+                  "name": "Lecce U20 vs Atalanta U19",
+                  "streams": [
+                    {
+                      "id": "st-601320295",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3d4e6700b7",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/4c3b001afbf5dba402e2f18ee668f53d/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/lecce-u20-vs-atalanta-u19-1700-22-03-2026/601320295"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Italian Campionato Primavera 1",
+            "team_a": "Lecce U20",
+            "team_b": "Atalanta U19",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/111187735403171f460903cb8cd42bcf.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/89b05358a5e89a4c2e355014f39347ac.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-63ea8a3aed4b.png?v=1774180236",
+            "thumb_key": "thumbs/kaytee-63ea8a3aed4b.webp"
           }
         },
         {
@@ -96,7 +389,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-372179286220.png?v=1774179731",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-372179286220.png?v=1774180237",
             "width": 1600,
             "height": 1200
           },
@@ -168,7 +461,7 @@
             "team_b": "Amedspor",
             "logo_a": "https://cdn.rapid-api.icu/football/team/1fee4ece0adfb61b06264aa3e87e2a50.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/52a8c01c49d76f1f74ad148b07ef83f9.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-372179286220.png?v=1774179731",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-372179286220.png?v=1774180237",
             "thumb_key": "thumbs/kaytee-372179286220.webp"
           }
         },
@@ -182,7 +475,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-eeafdc2aff67.png?v=1774179733",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-eeafdc2aff67.png?v=1774180239",
             "width": 1600,
             "height": 1200
           },
@@ -254,7 +547,7 @@
             "team_b": "Beroe Stara Zagora",
             "logo_a": "https://cdn.rapid-api.icu/football/team/555ed40ede7fc6f2879993bc058fb8ac.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/197710e96433ca507120d5fc3ebfbc58.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-eeafdc2aff67.png?v=1774179733",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-eeafdc2aff67.png?v=1774180239",
             "thumb_key": "thumbs/kaytee-eeafdc2aff67.webp"
           }
         },
@@ -268,7 +561,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7c16286e2355.png?v=1774179737",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7c16286e2355.png?v=1774180240",
             "width": 1600,
             "height": 1200
           },
@@ -340,7 +633,7 @@
             "team_b": "Cong An Ha Noi FC",
             "logo_a": "https://cdn.rapid-api.icu/football/team/46a4867487152e47c4dc61984d0c58aa.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/f3dde7370cf875e4e657b4331b1b4a31.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7c16286e2355.png?v=1774179737",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7c16286e2355.png?v=1774180240",
             "thumb_key": "thumbs/kaytee-7c16286e2355.webp"
           }
         },
@@ -354,7 +647,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-59db0c651d96.png?v=1774179740",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-59db0c651d96.png?v=1774180244",
             "width": 1600,
             "height": 1200
           },
@@ -409,7 +702,7 @@
             "team_b": "Công an TPHCM",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/1cba7cb1c7477b57e50a66aa4d9bb5d6.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/64be5559beb034d8ac9a377b49ef9380.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-59db0c651d96.png?v=1774179740",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-59db0c651d96.png?v=1774180244",
             "thumb_key": "thumbs/kaytee-59db0c651d96.webp"
           }
         }
@@ -432,7 +725,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4436e5de9354.png?v=1774179740",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4436e5de9354.png?v=1774180243",
             "width": 1600,
             "height": 1200
           },
@@ -487,86 +780,8 @@
             "team_b": "Hiroki OKAMURA/Kyohei YAMASHITA",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/3d945d9c62b179fa7c3037dd3e0d21af.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/22c90bf8e03b1e014c1e8b38aa8e939f.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4436e5de9354.png?v=1774179740",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4436e5de9354.png?v=1774180243",
             "thumb_key": "thumbs/kaytee-4436e5de9354.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "live_bóng_bàn",
-      "name": "🔴 Live 🏓 Bóng Bàn",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-5e794cfcf717",
-          "name": "🏓 Harju JK Laagri vs FC Flora Tallinn | 17:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5e794cfcf717.png?v=1774179735",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601320337",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601320337",
-                  "name": "Harju JK Laagri vs FC Flora Tallinn",
-                  "streams": [
-                    {
-                      "id": "st-601320337",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a4ada16f49",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/2993edf77deff2b99b10ebd34b86bf64/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/harju-jk-laagri-vs-fc-flora-tallinn-1730-22-03-2026/601320337"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Estonian Premium Liiga",
-            "team_a": "Harju JK Laagri",
-            "team_b": "FC Flora Tallinn",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/af5fce895d7dd7c7344204174b071bc1.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/5b9c9b4f40414f2be603cf1dac1bdad6.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-5e794cfcf717.png?v=1774179735",
-            "thumb_key": "thumbs/kaytee-5e794cfcf717.webp"
           }
         }
       ]
@@ -588,7 +803,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-62b3fcad7e82.png?v=1774179742",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-62b3fcad7e82.png?v=1774180245",
             "width": 1600,
             "height": 1200
           },
@@ -646,23 +861,6 @@
                               "value": "Mozilla/5.0"
                             }
                           ]
-                        },
-                        {
-                          "id": "lnk-d48bac9075",
-                          "name": "Link 3",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/57f9f1b295cdd3a4bdec4faaaa1e3222/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/newcastle-united-vs-sunderland-1900-22-03-2026/601320550"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
                         }
                       ]
                     }
@@ -677,7 +875,7 @@
             "team_b": "Sunderland",
             "logo_a": "https://cdn.rapid-api.icu/football/team/5dbe320855e3ba772dbce54f940c6fa5.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/957bdc50c307e2a9b526b34b3792da1a.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-62b3fcad7e82.png?v=1774179742",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-62b3fcad7e82.png?v=1774180245",
             "thumb_key": "thumbs/kaytee-62b3fcad7e82.webp"
           }
         }
