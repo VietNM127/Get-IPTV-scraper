@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-22T03:55:35.716048",
+  "updated_at": "2026-03-22T05:04:11.400551",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,385 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-80fdc3c3f332",
-          "name": "⚽ Phoenix Rising FC vs Oakland Roots | 09:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-80fdc3c3f332.png?v=1774151724",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601320007",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601320007",
-                  "name": "Phoenix Rising FC vs Oakland Roots",
-                  "streams": [
-                    {
-                      "id": "st-601320007",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-483fc2fc5c",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bf448b326da_124958/index.m3u8?expire=1774747403&sign=b43906151610b7a4791bee812a035fd8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/phoenix-rising-fc-vs-oakland-roots-0900-22-03-2026/601320007"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-53dbdb1bae",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/34a7faec660d2392b3a1b82edcd77eef/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/phoenix-rising-fc-vs-oakland-roots-0900-22-03-2026/601320007"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "USL Championship",
-            "team_a": "Phoenix Rising FC",
-            "team_b": "Oakland Roots",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/d3700266512d9e222ed3a87c49876fc9.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/0e877d710876c7518aed3d5b2c721aab.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-80fdc3c3f332.png?v=1774151724",
-            "thumb_key": "thumbs/kaytee-80fdc3c3f332.webp"
-          }
-        },
-        {
-          "id": "kaytee-13ccd3570bf7",
-          "name": "⚽ Herediano vs Alajuelense | 09:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-13ccd3570bf7.png?v=1774151726",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601320001",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601320001",
-                  "name": "Herediano vs Alajuelense",
-                  "streams": [
-                    {
-                      "id": "st-601320001",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0ef20122d7",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/2773c15b7b1a31d95310de1aa476f907/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/herediano-vs-alajuelense-0900-22-03-2026/601320001"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Costa Rica Primera Division",
-            "team_a": "Herediano",
-            "team_b": "Alajuelense",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/a507b1509e1f640108395b0580b46976.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-13ccd3570bf7.png?v=1774151726",
-            "thumb_key": "thumbs/kaytee-13ccd3570bf7.webp"
-          }
-        },
-        {
-          "id": "kaytee-67faca3b8d27",
-          "name": "⚽ Orange County Blues FC vs Colorado Springs Switchbacks FC | 09:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-67faca3b8d27.png?v=1774151728",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601320004",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601320004",
-                  "name": "Orange County Blues FC vs Colorado Springs Switchbacks FC",
-                  "streams": [
-                    {
-                      "id": "st-601320004",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d1289b12eb",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/4b4a307979cecd34a77c25a6cc837d80/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/orange-county-blues-fc-vs-colorado-springs-switchbacks-fc-0900-22-03-2026/601320004"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "USL Championship",
-            "team_a": "Orange County Blues FC",
-            "team_b": "Colorado Springs Switchbacks FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/e2f7aa9acaea085ee66204e753fc9560.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/75da1b4c0c787b6e7b1ef320e71af80c.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-67faca3b8d27.png?v=1774151728",
-            "thumb_key": "thumbs/kaytee-67faca3b8d27.webp"
-          }
-        },
-        {
-          "id": "kaytee-851be27dd096",
-          "name": "⚽ Sacramento Republic FC vs Monterey Bay FC | 09:10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-851be27dd096.png?v=1774151730",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601320010",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601320010",
-                  "name": "Sacramento Republic FC vs Monterey Bay FC",
-                  "streams": [
-                    {
-                      "id": "st-601320010",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8c74894968",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/3c497dc394d17299045aae4c6b69fcbd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/sacramento-republic-fc-vs-monterey-bay-fc-0910-22-03-2026/601320010"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "USL Championship",
-            "team_a": "Sacramento Republic FC",
-            "team_b": "Monterey Bay FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/3b1eedbf7ab45c8c57b3eeb7c7ade1c6.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/c58609c3e4b548fdf8e9947bd56ce9c4.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-851be27dd096.png?v=1774151730",
-            "thumb_key": "thumbs/kaytee-851be27dd096.webp"
-          }
-        },
-        {
-          "id": "kaytee-4f2e25b973ee",
-          "name": "⚽ Canberra United (w) vs Adelaide United Women | 10:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4f2e25b973ee.png?v=1774151732",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601320019",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601320019",
-                  "name": "Canberra United (w) vs Adelaide United Women",
-                  "streams": [
-                    {
-                      "id": "st-601320019",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-71a3ccb0a9",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bf52c2326da_95554/index.m3u8?expire=1774751042&sign=cca23c150b742116e5435bc088c38de9",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/canberra-united-w-vs-adelaide-united-women-1000-22-03-2026/601320019"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-23db5f54c0",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/62f0539e36c8ba004cff0f98f913647a/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/canberra-united-w-vs-adelaide-united-women-1000-22-03-2026/601320019"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Australia W-League",
-            "team_a": "Canberra United (w)",
-            "team_b": "Adelaide United Women",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/fd8ad42f4f7a3b8cbe094e6d166a0b2c.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/0a79a11cfb91e468fed7174e9a6b58f3.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4f2e25b973ee.png?v=1774151732",
-            "thumb_key": "thumbs/kaytee-4f2e25b973ee.webp"
-          }
-        },
         {
           "id": "kaytee-7c90b745a7ed",
           "name": "⚽ Pumas U.N.A.M. vs Club America | 10:10",
@@ -406,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7c90b745a7ed.png?v=1774151734",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7c90b745a7ed.png?v=1774155843",
             "width": 1600,
             "height": 1200
           },
@@ -478,91 +99,13 @@
             "team_b": "Club America",
             "logo_a": "https://cdn.rapid-api.icu/football/team/7654a95374767f93f6bec6a3d4819f76.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/775a930b77d31e8f8a6d6ba8afc17c03.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7c90b745a7ed.png?v=1774151734",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7c90b745a7ed.png?v=1774155843",
             "thumb_key": "thumbs/kaytee-7c90b745a7ed.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "live_bóng_rổ",
-      "name": "🔴 Live 🏀 Bóng Rổ",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-47fbbbfaeb8e",
-          "name": "🏀 Utah Jazz vs Philadelphia 76ers | 08:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-47fbbbfaeb8e.png?v=1774151722",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601325593",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601325593",
-                  "name": "Utah Jazz vs Philadelphia 76ers",
-                  "streams": [
-                    {
-                      "id": "st-601325593",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-85ccc1b14b",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bf4521326da_72787/index.m3u8?expire=1774747553&sign=0576112b344c4aaca7ee0caa848c25a8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/utah-jazz-vs-philadelphia-76ers-0830-22-03-2026/601325593"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "NBA",
-            "team_a": "Utah Jazz",
-            "team_b": "Philadelphia 76ers",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/457b7c6f4725217747436c334085dfb5.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/0f99bfb04f15e140367c7014698a2cd0.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-47fbbbfaeb8e.png?v=1774151722",
-            "thumb_key": "thumbs/kaytee-47fbbbfaeb8e.webp"
           }
         },
         {
-          "id": "kaytee-146760e1a84c",
-          "name": "🏀 Phoenix Suns vs Milwaukee Bucks | 09:00",
+          "id": "kaytee-288c10e567f7",
+          "name": "⚽ Kingborough Lions (w) vs Launceston United (w) | 10:30",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -570,7 +113,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-146760e1a84c.png?v=1774151728",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-288c10e567f7.png?v=1774155846",
             "width": 1600,
             "height": 1200
           },
@@ -584,27 +127,27 @@
           ],
           "sources": [
             {
-              "id": "src-601325596",
+              "id": "src-601327384",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601325596",
-                  "name": "Phoenix Suns vs Milwaukee Bucks",
+                  "id": "ct-601327384",
+                  "name": "Kingborough Lions (w) vs Launceston United (w)",
                   "streams": [
                     {
-                      "id": "st-601325596",
+                      "id": "st-601327384",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-020eb00019",
+                          "id": "lnk-bb77b49b3d",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bf540570a6a_112310/index.m3u8?expire=1774751365&sign=01a2f209e59c611d9bbc41fbe36c798c",
+                          "url": "https://live.alilicloud.com/live/ddbcf24cc38ca6748de728ca78d6fe20/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/phoenix-suns-vs-milwaukee-bucks-0900-22-03-2026/601325596"
+                              "value": "https://bunchatv1.net/truc-tiep/kingborough-lions-w-vs-launceston-united-w-1030-22-03-2026/601327384"
                             },
                             {
                               "key": "User-Agent",
@@ -620,24 +163,101 @@
             }
           ],
           "org_metadata": {
-            "league": "NBA",
-            "team_a": "Phoenix Suns",
-            "team_b": "Milwaukee Bucks",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/4eacc3f1b4114a379187c9c2892a4d8a.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/bf9a265694807935ea3714ba60fd0121.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-146760e1a84c.png?v=1774151728",
-            "thumb_key": "thumbs/kaytee-146760e1a84c.webp"
+            "league": "Australia TSAmania Women's Super League",
+            "team_a": "Kingborough Lions (w)",
+            "team_b": "Launceston United (w)",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/50ec1aebce2876b68e3d56167f3a8ed3.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/7b54394048705e70285e82c9ef82c276.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-288c10e567f7.png?v=1774155846",
+            "thumb_key": "thumbs/kaytee-288c10e567f7.webp"
           }
-        }
-      ]
-    },
-    {
-      "id": "upcoming_bóng_đá",
-      "name": "⏳ Sắp Live ⚽ Bóng Đá",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
+        },
+        {
+          "id": "kaytee-027d58fbe2fe",
+          "name": "⚽ Shimizu S-Pulse vs Sanfrecce Hiroshima | 11:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-027d58fbe2fe.png?v=1774155847",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601320052",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601320052",
+                  "name": "Shimizu S-Pulse vs Sanfrecce Hiroshima",
+                  "streams": [
+                    {
+                      "id": "st-601320052",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-87898f188d",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bf5c0c326da_44731/index.m3u8?expire=1774753420&sign=8824fa85e106f511cfe7d1a19cfab90e",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/shimizu-spulse-vs-sanfrecce-hiroshima-1100-22-03-2026/601320052"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-3ac5c94b21",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/80e94e9f7ba349e48f5c9bceced27b1f/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/shimizu-spulse-vs-sanfrecce-hiroshima-1100-22-03-2026/601320052"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Japanese J1 League",
+            "team_a": "Shimizu S-Pulse",
+            "team_b": "Sanfrecce Hiroshima",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/fa4105f0408ef893d941e70ae003ab4c.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/c81d5ff7a33a4f6a9312a8703f619352.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-027d58fbe2fe.png?v=1774155847",
+            "thumb_key": "thumbs/kaytee-027d58fbe2fe.webp"
+          }
+        },
         {
           "id": "kaytee-7e8cbf6dcd33",
           "name": "⚽ Sydney FC vs Newcastle Jets | 11:00",
@@ -648,16 +268,16 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7e8cbf6dcd33.png?v=1774151735",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7e8cbf6dcd33.png?v=1774155849",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "⏳ Sắp Live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -689,6 +309,23 @@
                               "value": "Mozilla/5.0"
                             }
                           ]
+                        },
+                        {
+                          "id": "lnk-5e61ec03b2",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/e486245c3083af060248a71638dc2249/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/sydney-fc-vs-newcastle-jets-1100-22-03-2026/601320049"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
                         }
                       ]
                     }
@@ -703,8 +340,103 @@
             "team_b": "Newcastle Jets",
             "logo_a": "https://cdn.rapid-api.icu/football/team/a0c772584c00e1b6efd1c421344cd005.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/296c68ac5ad3ff621c10c6ebfb9954ca.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7e8cbf6dcd33.png?v=1774151735",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7e8cbf6dcd33.png?v=1774155849",
             "thumb_key": "thumbs/kaytee-7e8cbf6dcd33.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_bóng_đá",
+      "name": "⏳ Sắp Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-7b37f774aff7",
+          "name": "⚽ Tokyo Verdy vs FC Tokyo | 12:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7b37f774aff7.png?v=1774155851",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601320091",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601320091",
+                  "name": "Tokyo Verdy vs FC Tokyo",
+                  "streams": [
+                    {
+                      "id": "st-601320091",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e3ab1111f8",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bf6fc3326da_133172/index.m3u8?expire=1774758467&sign=8fa4bc78e7eac0acda3b0e790909ec84",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/tokyo-verdy-vs-fc-tokyo-1200-22-03-2026/601320091"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-c2e021aeb3",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/806d6f609e34d644ad213797e6490acc/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/tokyo-verdy-vs-fc-tokyo-1200-22-03-2026/601320091"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Japanese J1 League",
+            "team_a": "Tokyo Verdy",
+            "team_b": "FC Tokyo",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/2a8adb34e764602183a7bee8f51726e4.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/333df39860930a21cf72b4e9664723ab.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-7b37f774aff7.png?v=1774155851",
+            "thumb_key": "thumbs/kaytee-7b37f774aff7.webp"
           }
         }
       ]
