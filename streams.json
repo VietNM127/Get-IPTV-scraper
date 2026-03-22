@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-22T18:02:34.380152",
+  "updated_at": "2026-03-22T18:31:10.127868",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -18,8 +18,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-f931a39c2957",
-          "name": "⚽ Zamalek SC vs AS Otoho | 23:00",
+          "id": "kaytee-22c41ab76289",
+          "name": "⚽ Mosul FC vs Zakho SC | 23:30",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f931a39c2957.png?v=1774202544",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-22c41ab76289.png?v=1774204270",
             "width": 1600,
             "height": 1200
           },
@@ -41,27 +41,27 @@
           ],
           "sources": [
             {
-              "id": "src-601321723",
+              "id": "src-601323424",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601321723",
-                  "name": "Zamalek SC vs AS Otoho",
+                  "id": "ct-601323424",
+                  "name": "Mosul FC vs Zakho SC",
                   "streams": [
                     {
-                      "id": "st-601321723",
+                      "id": "st-601323424",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-44486d8d33",
+                          "id": "lnk-a6da59cf05",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live.alilicloud.com/live/5dcdfa375e47cacbca028b662c09ccb2/playlist.m3u8",
+                          "url": "https://live.alilicloud.com/live/8cecc907c4d573a0d0db06be7a63815c/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/zamalek-sc-vs-as-otoho-2300-22-03-2026/601321723"
+                              "value": "https://bunchatv1.net/truc-tiep/mosul-fc-vs-zakho-sc-2330-22-03-2026/601323424"
                             },
                             {
                               "key": "User-Agent",
@@ -77,546 +77,13 @@
             }
           ],
           "org_metadata": {
-            "league": "CAF Confederation Cup",
-            "team_a": "Zamalek SC",
-            "team_b": "AS Otoho",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/6ad4e821a96f050ba29f431fbf57801e.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/1cce92d94ac459d04202f8e8c1b3a1dd.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f931a39c2957.png?v=1774202544",
-            "thumb_key": "thumbs/kaytee-f931a39c2957.webp"
-          }
-        },
-        {
-          "id": "kaytee-41c14e956ff7",
-          "name": "⚽ Glasgow Rangers (w) vs Glasgow City (w) | 23:10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-41c14e956ff7.png?v=1774202545",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601321735",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601321735",
-                  "name": "Glasgow Rangers (w) vs Glasgow City (w)",
-                  "streams": [
-                    {
-                      "id": "st-601321735",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a9a308bcee",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/d3ae8cf71cd106099e4d4ee09824a09e/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/glasgow-rangers-w-vs-glasgow-city-w-2310-22-03-2026/601321735"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Scottish Women's Premier League",
-            "team_a": "Glasgow Rangers (w)",
-            "team_b": "Glasgow City (w)",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/3ebfa9ac8a3dd9c8afc21515769e33e4.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/4f5b576862995070934f920bd87fa1f7.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-41c14e956ff7.png?v=1774202545",
-            "thumb_key": "thumbs/kaytee-41c14e956ff7.webp"
-          }
-        },
-        {
-          "id": "kaytee-49696ada9a97",
-          "name": "⚽ Marseille vs LOSC Lille | 23:15",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-49696ada9a97.png?v=1774202547",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601321738",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601321738",
-                  "name": "Marseille vs LOSC Lille",
-                  "streams": [
-                    {
-                      "id": "st-601321738",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7c3c7898da",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69c00809326da_18754/index.m3u8?expire=1774797449&sign=2f0faa5cfa873688551e5fbabae7f1b1",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/marseille-vs-losc-lille-2315-22-03-2026/601321738"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-40a20fbc68",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/653bddfb904c5a364c353515f242312a/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/marseille-vs-losc-lille-2315-22-03-2026/601321738"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "French Ligue 1",
-            "team_a": "Marseille",
-            "team_b": "LOSC Lille",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/a450173b3d636ba2c86d3d7c5bdc4026.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/28e94925fdcc848f86a544a1cedcceed.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-49696ada9a97.png?v=1774202547",
-            "thumb_key": "thumbs/kaytee-49696ada9a97.webp"
-          }
-        },
-        {
-          "id": "kaytee-2eb6402c8a29",
-          "name": "⚽ Paris FC vs Havre Athletic Club | 23:15",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2eb6402c8a29.png?v=1774202549",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601321741",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601321741",
-                  "name": "Paris FC vs Havre Athletic Club",
-                  "streams": [
-                    {
-                      "id": "st-601321741",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2546191483",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69c01480326da_124958/index.m3u8?expire=1774800640&sign=0b49a587422189205163126d8169b286",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/paris-fc-vs-havre-athletic-club-2315-22-03-2026/601321741"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-441e58fd20",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/e68b5615714617e13d108acd12fdfe0e/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/paris-fc-vs-havre-athletic-club-2315-22-03-2026/601321741"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "French Ligue 1",
-            "team_a": "Paris FC",
-            "team_b": "Havre Athletic Club",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/83a982f8219a768e7cd29d1ac765b199.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/8fd50a53dad5ea4fd2d32bd3ce727f58.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2eb6402c8a29.png?v=1774202549",
-            "thumb_key": "thumbs/kaytee-2eb6402c8a29.webp"
-          }
-        },
-        {
-          "id": "kaytee-e8b69168210c",
-          "name": "⚽ Stade Rennais FC vs Metz | 23:15",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e8b69168210c.png?v=1774202551",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601321744",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601321744",
-                  "name": "Stade Rennais FC vs Metz",
-                  "streams": [
-                    {
-                      "id": "st-601321744",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f262b9c5b0",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69c010cb70a6a_6308/index.m3u8?expire=1774799691&sign=f392ac5bb8dd42ff4f0dd746ef3362be",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/stade-rennais-fc-vs-metz-2315-22-03-2026/601321744"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-e2118ff950",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/664418c406ff3f113a1e45bd02a7cf85/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/stade-rennais-fc-vs-metz-2315-22-03-2026/601321744"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "French Ligue 1",
-            "team_a": "Stade Rennais FC",
-            "team_b": "Metz",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/eab8f0e847742fd328bb581299bd99ca.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/16fd214da24aef0bbb775e44fe7e79f2.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e8b69168210c.png?v=1774202551",
-            "thumb_key": "thumbs/kaytee-e8b69168210c.webp"
-          }
-        },
-        {
-          "id": "kaytee-8b787d0ea085",
-          "name": "⚽ Arsenal vs Manchester City | 23:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8b787d0ea085.png?v=1774202552",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601321774",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601321774",
-                  "name": "Arsenal vs Manchester City",
-                  "streams": [
-                    {
-                      "id": "st-601321774",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ef94b4d99d",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69c0096270a6a_4908/index.m3u8?expire=1774797794&sign=a567701bab0c1e4ddef397d29c55255c",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/arsenal-vs-manchester-city-2330-22-03-2026/601321774"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-c7bbadd76f",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69c0111770a6a_28/index.m3u8?expire=1774799767&sign=84a6d2bdcc9afbc7863b01676a876ebb",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/arsenal-vs-manchester-city-2330-22-03-2026/601321774"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-93863825d8",
-                          "name": "Link 3",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bffd0c326da_85514/index.m3u8?expire=1774794636&sign=110096350c56c33518bc1fed1e01f740",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/arsenal-vs-manchester-city-2330-22-03-2026/601321774"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-620a68574c",
-                          "name": "Link 4",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/8126b791cad458a96ddcac5ea15725b3/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/arsenal-vs-manchester-city-2330-22-03-2026/601321774"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "English Football League Cup",
-            "team_a": "Arsenal",
-            "team_b": "Manchester City",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/d6f5debc456da1119256ab66462ab510.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/c4a6528a2ee147b99c9885ef24385a4e.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8b787d0ea085.png?v=1774202552",
-            "thumb_key": "thumbs/kaytee-8b787d0ea085.webp"
-          }
-        },
-        {
-          "id": "kaytee-0651e73d8eaa",
-          "name": "⚽ FC St. Pauli vs SC Freiburg | 23:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0651e73d8eaa.png?v=1774202554",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601321753",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601321753",
-                  "name": "FC St. Pauli vs SC Freiburg",
-                  "streams": [
-                    {
-                      "id": "st-601321753",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ffbbe1076c",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69c01462326da_72787/index.m3u8?expire=1774800610&sign=2a273d0e14f12b25e52b228399032a24",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/fc-st-pauli-vs-sc-freiburg-2330-22-03-2026/601321753"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-38942955bc",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/19b40d99aecadbea57b7fd37e725b92a/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/fc-st-pauli-vs-sc-freiburg-2330-22-03-2026/601321753"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Bundesliga",
-            "team_a": "FC St. Pauli",
-            "team_b": "SC Freiburg",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/65503b155488a643de688e8dfa849b1f.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/6508946c9a5fe22a8784b905b25e8c79.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-0651e73d8eaa.png?v=1774202554",
-            "thumb_key": "thumbs/kaytee-0651e73d8eaa.webp"
+            "league": "Iraq Stars League",
+            "team_a": "Mosul FC",
+            "team_b": "Zakho SC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/8f84110d37d2128a8001eaab351e3a26.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/b91a30ad7ae7390c8c7d39e8c292fcc4.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-22c41ab76289.png?v=1774204270",
+            "thumb_key": "thumbs/kaytee-22c41ab76289.webp"
           }
         }
       ]
