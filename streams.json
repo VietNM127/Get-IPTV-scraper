@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-22T08:25:46.980540",
+  "updated_at": "2026-03-22T08:54:57.636675",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,144 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-67686ff4dcec",
-          "name": "⚽ Hills United (W) vs WS Wanderers B (W) | 13:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-67686ff4dcec.png?v=1774167936",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601315462",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601315462",
-                  "name": "Hills United (W) vs WS Wanderers B (W)",
-                  "streams": [
-                    {
-                      "id": "st-601315462",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-cf4868ab55",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/32008cf1acf9f5ae0f11fea62263a1bf/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/hills-united-w-vs-ws-wanderers-b-w-1330-22-03-2026/601315462"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Australia New South Wales Women's League",
-            "team_a": "Hills United (W)",
-            "team_b": "WS Wanderers B (W)",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/b9fc872b5035c84b0d38b39e12b5110c.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/3a4d8f1bb2920df73a527995eb45e41f.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-67686ff4dcec.png?v=1774167936",
-            "thumb_key": "thumbs/kaytee-67686ff4dcec.webp"
-          }
-        },
-        {
-          "id": "kaytee-025abf58a308",
-          "name": "⚽ Sydney Olympic FC (w) vs University of Sydney (w) | 13:40",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-025abf58a308.png?v=1774167937",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601315465",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601315465",
-                  "name": "Sydney Olympic FC (w) vs University of Sydney (w)",
-                  "streams": [
-                    {
-                      "id": "st-601315465",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f83e5670fa",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/20a435650127cf99a61bc530fbe04c57/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/sydney-olympic-fc-w-vs-university-of-sydney-w-1340-22-03-2026/601315465"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Australia New South Wales Women's League",
-            "team_a": "Sydney Olympic FC (w)",
-            "team_b": "University of Sydney (w)",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/f21ef6d5de0deacf68805f3caab283a4.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/b32f69c8921e63c3225e048be361c7db.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-025abf58a308.png?v=1774167937",
-            "thumb_key": "thumbs/kaytee-025abf58a308.webp"
-          }
-        },
         {
           "id": "kaytee-b411f39a9d68",
           "name": "⚽ Urawa Red Diamonds vs Machida Zelvia | 14:00",
@@ -165,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b411f39a9d68.png?v=1774167938",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b411f39a9d68.png?v=1774169685",
             "width": 1600,
             "height": 1200
           },
@@ -237,7 +99,7 @@
             "team_b": "Machida Zelvia",
             "logo_a": "https://cdn.rapid-api.icu/football/team/ca15e36551392e8c99b53b5b2f8531d3.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b411f39a9d68.png?v=1774167938",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b411f39a9d68.png?v=1774169685",
             "thumb_key": "thumbs/kaytee-b411f39a9d68.webp"
           }
         },
@@ -251,7 +113,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-afda3eeb8728.png?v=1774167940",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-afda3eeb8728.png?v=1774169687",
             "width": 1600,
             "height": 1200
           },
@@ -323,7 +185,7 @@
             "team_b": "Mito Hollyhock",
             "logo_a": "https://cdn.rapid-api.icu/football/team/d272859d78eb8ca7a14753f4293fbf45.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/9ead844240532c4e12d3eb45d2087924.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-afda3eeb8728.png?v=1774167940",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-afda3eeb8728.png?v=1774169687",
             "thumb_key": "thumbs/kaytee-afda3eeb8728.webp"
           }
         },
@@ -337,7 +199,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a2a53e0d0b3f.png?v=1774167941",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a2a53e0d0b3f.png?v=1774169689",
             "width": 1600,
             "height": 1200
           },
@@ -392,13 +254,13 @@
             "team_b": "Zhaotong Team",
             "logo_a": "https://cdn.rapid-api.icu/football/team/da18a47b02a25b2d4d9b8998d67f7c1e.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/cb52e1dde5ebb54ae7ca106dd296e95c.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a2a53e0d0b3f.png?v=1774167941",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-a2a53e0d0b3f.png?v=1774169689",
             "thumb_key": "thumbs/kaytee-a2a53e0d0b3f.webp"
           }
         },
         {
-          "id": "kaytee-bcc9a9d0f8e7",
-          "name": "⚽ Biu Chun Rangers vs Tai Po | 14:00",
+          "id": "kaytee-b3879301c35e",
+          "name": "⚽ Kwoon Chung Southern vs North District | 14:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -406,7 +268,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bcc9a9d0f8e7.png?v=1774167943",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b3879301c35e.png?v=1774169691",
             "width": 1600,
             "height": 1200
           },
@@ -420,27 +282,27 @@
           ],
           "sources": [
             {
-              "id": "src-601320175",
+              "id": "src-601320178",
               "name": "Bánh Bao TV",
               "contents": [
                 {
-                  "id": "ct-601320175",
-                  "name": "Biu Chun Rangers vs Tai Po",
+                  "id": "ct-601320178",
+                  "name": "Kwoon Chung Southern vs North District",
                   "streams": [
                     {
-                      "id": "st-601320175",
+                      "id": "st-601320178",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-bc54c9d9ce",
+                          "id": "lnk-87ffb50c9c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live.alilicloud.com/live/ae1c544cd0723ebd61f085b9c6b8ebfe/playlist.m3u8",
+                          "url": "https://live.alilicloud.com/live/45a80120f4103584a1a7e9a21536e686/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/biu-chun-rangers-vs-tai-po-1400-22-03-2026/601320175"
+                              "value": "https://bunchatv1.net/truc-tiep/kwoon-chung-southern-vs-north-district-1400-22-03-2026/601320178"
                             },
                             {
                               "key": "User-Agent",
@@ -457,12 +319,81 @@
           ],
           "org_metadata": {
             "league": "Chinese Hong Kong Premier League",
-            "team_a": "Biu Chun Rangers",
-            "team_b": "Tai Po",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/a45fcbb226031590b88f7751ed755e0c.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/df5e92ce4493d63214e8036ad15c1915.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-bcc9a9d0f8e7.png?v=1774167943",
-            "thumb_key": "thumbs/kaytee-bcc9a9d0f8e7.webp"
+            "team_a": "Kwoon Chung Southern",
+            "team_b": "North District",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/32f2ba807df5414fff97d85fe8221577.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/13a16c993e82e2185b2d869cf5aa0973.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b3879301c35e.png?v=1774169691",
+            "thumb_key": "thumbs/kaytee-b3879301c35e.webp"
+          }
+        },
+        {
+          "id": "kaytee-80089eb3a64b",
+          "name": "⚽ Capalaba Bulldogs vs Broadbeach United | 14:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-80089eb3a64b.png?v=1774169693",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601320184",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601320184",
+                  "name": "Capalaba Bulldogs vs Broadbeach United",
+                  "streams": [
+                    {
+                      "id": "st-601320184",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-302b14d34a",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/c624c0a7fcfbb1cffc799085522dcbd9/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/capalaba-bulldogs-vs-broadbeach-united-1400-22-03-2026/601320184"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Australia Queensland State League 1",
+            "team_a": "Capalaba Bulldogs",
+            "team_b": "Broadbeach United",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/d96a55f33e54d2493db363f6e1498e89.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/40e331bba4de0186e268d8ba8e10f1d4.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-80089eb3a64b.png?v=1774169693",
+            "thumb_key": "thumbs/kaytee-80089eb3a64b.webp"
           }
         },
         {
@@ -475,7 +406,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-75ab61ad8f46.png?v=1774167944",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-75ab61ad8f46.png?v=1774169694",
             "width": 1600,
             "height": 1200
           },
@@ -547,7 +478,7 @@
             "team_b": "Incheon United Club",
             "logo_a": "https://cdn.rapid-api.icu/football/team/cda2e60a4e984dc6f4ed091ec44fc5bb.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/36559689046e7d1d4f597c1a0bf9c5d6.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-75ab61ad8f46.png?v=1774167944",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-75ab61ad8f46.png?v=1774169694",
             "thumb_key": "thumbs/kaytee-75ab61ad8f46.webp"
           }
         },
@@ -561,7 +492,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d7f915aa3370.png?v=1774167945",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d7f915aa3370.png?v=1774169696",
             "width": 1600,
             "height": 1200
           },
@@ -616,7 +547,7 @@
             "team_b": "Jeju SK FC",
             "logo_a": "https://cdn.rapid-api.icu/football/team/771a93ae7f62b1a47a71c3d62b89dca3.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/2d2abe914435bb9b7140cf2154c50de9.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d7f915aa3370.png?v=1774167945",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-d7f915aa3370.png?v=1774169696",
             "thumb_key": "thumbs/kaytee-d7f915aa3370.webp"
           }
         },
@@ -630,7 +561,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-de0ca7c24e67.png?v=1774167946",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-de0ca7c24e67.png?v=1774169697",
             "width": 1600,
             "height": 1200
           },
@@ -702,7 +633,7 @@
             "team_b": "Bucheon FC 1995",
             "logo_a": "https://cdn.rapid-api.icu/football/team/6f05c460789939ac83282bd0686446f1.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/640f8c62cb294e1cc308a44ed2a62891.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-de0ca7c24e67.png?v=1774167946",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-de0ca7c24e67.png?v=1774169697",
             "thumb_key": "thumbs/kaytee-de0ca7c24e67.webp"
           }
         }
