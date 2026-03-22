@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-22T13:56:02.281960",
+  "updated_at": "2026-03-22T14:19:06.546846",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,247 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-62b3fcad7e82",
-          "name": "⚽ Newcastle United vs Sunderland | 19:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-62b3fcad7e82.png?v=1774187746",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601320550",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601320550",
-                  "name": "Newcastle United vs Sunderland",
-                  "streams": [
-                    {
-                      "id": "st-601320550",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-27a7724875",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bfcb11326da_79/index.m3u8?expire=1774781841&sign=10ee15f49370686e7915fe52ddae4cf0",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/newcastle-united-vs-sunderland-1900-22-03-2026/601320550"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-8c726a92d8",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bfd04370a6a_44731/index.m3u8?expire=1774783171&sign=0b85b4fdebdfc3ae62c5a8411d7345d0",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/newcastle-united-vs-sunderland-1900-22-03-2026/601320550"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-d48bac9075",
-                          "name": "Link 3",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/57f9f1b295cdd3a4bdec4faaaa1e3222/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/newcastle-united-vs-sunderland-1900-22-03-2026/601320550"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "English Premier League",
-            "team_a": "Newcastle United",
-            "team_b": "Sunderland",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/5dbe320855e3ba772dbce54f940c6fa5.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/957bdc50c307e2a9b526b34b3792da1a.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-62b3fcad7e82.png?v=1774187746",
-            "thumb_key": "thumbs/kaytee-62b3fcad7e82.webp"
-          }
-        },
-        {
-          "id": "kaytee-3f082aab3a48",
-          "name": "⚽ Rodina Moskva II vs Irtysh 1946 Omsk | 19:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3f082aab3a48.png?v=1774187750",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601320493",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601320493",
-                  "name": "Rodina Moskva II vs Irtysh 1946 Omsk",
-                  "streams": [
-                    {
-                      "id": "st-601320493",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c68f3cc63c",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/fec5efba6f988937252167733f7c8c51/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/rodina-moskva-ii-vs-irtysh-1946-omsk-1900-22-03-2026/601320493"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "RUS D3A",
-            "team_a": "Rodina Moskva II",
-            "team_b": "Irtysh 1946 Omsk",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/091b62ea38705019589736ed09230332.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/38203c8aee248f4d129501388efcaaa9.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-3f082aab3a48.png?v=1774187750",
-            "thumb_key": "thumbs/kaytee-3f082aab3a48.webp"
-          }
-        },
-        {
-          "id": "kaytee-9e2d679d95c7",
-          "name": "⚽ Inter Milan U20 vs Lazio Youth | 19:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9e2d679d95c7.png?v=1774187752",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601320556",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601320556",
-                  "name": "Inter Milan U20 vs Lazio Youth",
-                  "streams": [
-                    {
-                      "id": "st-601320556",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b2660b55fa",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/e64de25395c0f267bde9a013e955a48f/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/inter-milan-u20-vs-lazio-youth-1900-22-03-2026/601320556"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Italian Campionato Primavera 1",
-            "team_a": "Inter Milan U20",
-            "team_b": "Lazio Youth",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/6ddaee2ef625140617089308645a29eb.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/325ada043edc25d44d3e82c6b20088dd.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-9e2d679d95c7.png?v=1774187752",
-            "thumb_key": "thumbs/kaytee-9e2d679d95c7.webp"
-          }
-        },
         {
           "id": "kaytee-69d6379e5514",
           "name": "⚽ Fortuna Dusseldorf vs Hertha Berlin | 19:30",
@@ -268,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-69d6379e5514.png?v=1774187754",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-69d6379e5514.png?v=1774189135",
             "width": 1600,
             "height": 1200
           },
@@ -340,8 +99,215 @@
             "team_b": "Hertha Berlin",
             "logo_a": "https://cdn.rapid-api.icu/football/team/15820ab793d530ee9d101bde619a013f.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/1f74843bf2ffff474d23d387fa240102.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-69d6379e5514.png?v=1774187754",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-69d6379e5514.png?v=1774189135",
             "thumb_key": "thumbs/kaytee-69d6379e5514.webp"
+          }
+        },
+        {
+          "id": "kaytee-673252c52415",
+          "name": "⚽ FC Vilkhivtsi vs Nyva Ternopil B | 19:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-673252c52415.png?v=1774189136",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601318669",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601318669",
+                  "name": "FC Vilkhivtsi vs Nyva Ternopil B",
+                  "streams": [
+                    {
+                      "id": "st-601318669",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-51474fc32e",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/e1da76c585950cf599357442a6a83f08/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/fc-vilkhivtsi-vs-nyva-ternopil-b-1930-22-03-2026/601318669"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ukrainian Second League",
+            "team_a": "FC Vilkhivtsi",
+            "team_b": "Nyva Ternopil B",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/13917280ef1cad8b3c400c631346cfcb.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/ae980a2cd3bb6b8e542f175a6fcad41e.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-673252c52415.png?v=1774189136",
+            "thumb_key": "thumbs/kaytee-673252c52415.webp"
+          }
+        },
+        {
+          "id": "kaytee-8435d8ebf0b5",
+          "name": "⚽ Dundee United vs Celtic FC | 19:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8435d8ebf0b5.png?v=1774189137",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601320622",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601320622",
+                  "name": "Dundee United vs Celtic FC",
+                  "streams": [
+                    {
+                      "id": "st-601320622",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1502849d2f",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/0da39bffd0b25239cbeaa6157d405d03/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/dundee-united-vs-celtic-fc-1930-22-03-2026/601320622"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Scottish Premiership",
+            "team_a": "Dundee United",
+            "team_b": "Celtic FC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/39a72341d47b12221f9f959e52725d63.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/4952d00987ef86afeda3204d66ac3fd6.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8435d8ebf0b5.png?v=1774189137",
+            "thumb_key": "thumbs/kaytee-8435d8ebf0b5.webp"
+          }
+        },
+        {
+          "id": "kaytee-fed7b4bef6ba",
+          "name": "⚽ VfL Bochum 1848 vs Holstein Kiel | 19:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fed7b4bef6ba.png?v=1774189139",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601320625",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601320625",
+                  "name": "VfL Bochum 1848 vs Holstein Kiel",
+                  "streams": [
+                    {
+                      "id": "st-601320625",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-277215f09f",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/e3f22f299557f0d3bffd67cde08a6781/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/vfl-bochum-1848-vs-holstein-kiel-1930-22-03-2026/601320625"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "German Bundesliga 2",
+            "team_a": "VfL Bochum 1848",
+            "team_b": "Holstein Kiel",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/51e1cbc15a7ae90e176b1c1dfb096928.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/a285cb29d36e8d0e6fb35def1fbf442c.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-fed7b4bef6ba.png?v=1774189139",
+            "thumb_key": "thumbs/kaytee-fed7b4bef6ba.webp"
           }
         },
         {
@@ -354,7 +320,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cb82e57a3b1c.png?v=1774187756",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cb82e57a3b1c.png?v=1774189140",
             "width": 1600,
             "height": 1200
           },
@@ -426,175 +392,10 @@
             "team_b": "Rayo Vallecano",
             "logo_a": "https://cdn.rapid-api.icu/football/team/f378eb1ea04e53999b89051aa3244de6.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/5005d8feab109ce64e40beb98073cc1f.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cb82e57a3b1c.png?v=1774187756",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-cb82e57a3b1c.png?v=1774189140",
             "thumb_key": "thumbs/kaytee-cb82e57a3b1c.webp"
           }
-        }
-      ]
-    },
-    {
-      "id": "live_bóng_rổ",
-      "name": "🔴 Live 🏀 Bóng Rổ",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-4ce0ddd69e01",
-          "name": "🏀 Rebel Kyiv vs FC Trostianets | 19:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4ce0ddd69e01.png?v=1774187748",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601318666",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601318666",
-                  "name": "Rebel Kyiv vs FC Trostianets",
-                  "streams": [
-                    {
-                      "id": "st-601318666",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b4d3e4d07f",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/ec99d85ea8cb37f841a4f3f823eaf6de/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/rebel-kyiv-vs-fc-trostianets-1900-22-03-2026/601318666"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Ukrainian Second League",
-            "team_a": "Rebel Kyiv",
-            "team_b": "FC Trostianets",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/5a2d42d197e74347a81c157d7a0680e8.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/474f5818911cc1ac9a54a26ae27a926e.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4ce0ddd69e01.png?v=1774187748",
-            "thumb_key": "thumbs/kaytee-4ce0ddd69e01.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "live_cầu_lông",
-      "name": "🔴 Live 🏸 Cầu Lông",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-4436e5de9354",
-          "name": "🏸 Thom GICQUEL / Delphine DELRUE vs Mathias CHRISTIANSEN /  Alexandra BØJE | 20:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4436e5de9354.png?v=1774187758",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601329085",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601329085",
-                  "name": "Thom GICQUEL / Delphine DELRUE vs Mathias CHRISTIANSEN /  Alexandra BØJE",
-                  "streams": [
-                    {
-                      "id": "st-601329085",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6a4d5af3e6",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bfbc1970a6a_18754/index.m3u8?expire=1774778009&sign=ac66b04e54890a06c5537212f495ce64",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/thom-gicquel--delphine-delrue-vs-mathias-christiansen---alexandra-bje-2030-22-03-2026/601329085"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Orleans Masters Badminton 2026",
-            "team_a": "Thom GICQUEL / Delphine DELRUE",
-            "team_b": "Mathias CHRISTIANSEN /  Alexandra BØJE",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/5c6941aace9528826b2807b9d67b681e.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/35e0fb2c048b9546ec7f72d6017bb5fb.jpg",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4436e5de9354.png?v=1774187758",
-            "thumb_key": "thumbs/kaytee-4436e5de9354.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "upcoming_bóng_đá",
-      "name": "⏳ Sắp Live ⚽ Bóng Đá",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
+        },
         {
           "id": "kaytee-ef77791a13f7",
           "name": "⚽ Atalanta vs Hellas Verona | 21:00",
@@ -605,16 +406,16 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ef77791a13f7.png?v=1774187760",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ef77791a13f7.png?v=1774189143",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "⏳ Sắp Live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -646,6 +447,23 @@
                               "value": "Mozilla/5.0"
                             }
                           ]
+                        },
+                        {
+                          "id": "lnk-1cb6218779",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/b28109b9463aad826f1763fd905e364c/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/atalanta-vs-hellas-verona-2100-22-03-2026/601320979"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
                         }
                       ]
                     }
@@ -660,8 +478,94 @@
             "team_b": "Hellas Verona",
             "logo_a": "https://cdn.rapid-api.icu/football/team/45c9647899b8bf2fb6f988c6c33b964c.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/b8e39abb18bb1c69396c59ff73ecf124.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ef77791a13f7.png?v=1774187760",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ef77791a13f7.png?v=1774189143",
             "thumb_key": "thumbs/kaytee-ef77791a13f7.webp"
+          }
+        },
+        {
+          "id": "kaytee-72a405346c1d",
+          "name": "⚽ Bologna vs Lazio | 21:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-72a405346c1d.png?v=1774189145",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601320982",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601320982",
+                  "name": "Bologna vs Lazio",
+                  "streams": [
+                    {
+                      "id": "st-601320982",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-97b2bcffac",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bfe63070a6a_28/index.m3u8?expire=1774788784&sign=cece589972d54ad22371fffa1567617c",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/bologna-vs-lazio-2100-22-03-2026/601320982"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-2aba5d6751",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/0390862267bc63a66a089dfe60b9c57b/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/bologna-vs-lazio-2100-22-03-2026/601320982"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Italian Serie A",
+            "team_a": "Bologna",
+            "team_b": "Lazio",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/bd12298fc3920bc20b7ad43b16ad9624.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/5a2ff46efa33abc6b2908eb6279dfbf8.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-72a405346c1d.png?v=1774189145",
+            "thumb_key": "thumbs/kaytee-72a405346c1d.webp"
           }
         },
         {
@@ -674,16 +578,16 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f5fd27f95bb5.png?v=1774187762",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f5fd27f95bb5.png?v=1774189146",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "⏳ Sắp Live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -763,8 +667,164 @@
             "team_b": "West Ham United",
             "logo_a": "https://cdn.rapid-api.icu/football/team/a3c32d6a906083118cac2cb796edaab3.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/d71ebda5c7fbca9093a1c2978c46f619.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f5fd27f95bb5.png?v=1774187762",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f5fd27f95bb5.png?v=1774189146",
             "thumb_key": "thumbs/kaytee-f5fd27f95bb5.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_bóng_rổ",
+      "name": "🔴 Live 🏀 Bóng Rổ",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-4ce0ddd69e01",
+          "name": "🏀 Rebel Kyiv vs FC Trostianets | 19:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4ce0ddd69e01.png?v=1774189133",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601318666",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601318666",
+                  "name": "Rebel Kyiv vs FC Trostianets",
+                  "streams": [
+                    {
+                      "id": "st-601318666",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b4d3e4d07f",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/ec99d85ea8cb37f841a4f3f823eaf6de/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/rebel-kyiv-vs-fc-trostianets-1900-22-03-2026/601318666"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ukrainian Second League",
+            "team_a": "Rebel Kyiv",
+            "team_b": "FC Trostianets",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/5a2d42d197e74347a81c157d7a0680e8.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/474f5818911cc1ac9a54a26ae27a926e.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4ce0ddd69e01.png?v=1774189133",
+            "thumb_key": "thumbs/kaytee-4ce0ddd69e01.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_cầu_lông",
+      "name": "🔴 Live 🏸 Cầu Lông",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-4436e5de9354",
+          "name": "🏸 Thom GICQUEL / Delphine DELRUE vs Mathias CHRISTIANSEN /  Alexandra BØJE | 20:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4436e5de9354.png?v=1774189142",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601329085",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601329085",
+                  "name": "Thom GICQUEL / Delphine DELRUE vs Mathias CHRISTIANSEN /  Alexandra BØJE",
+                  "streams": [
+                    {
+                      "id": "st-601329085",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6a4d5af3e6",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bfbc1970a6a_18754/index.m3u8?expire=1774778009&sign=ac66b04e54890a06c5537212f495ce64",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/thom-gicquel--delphine-delrue-vs-mathias-christiansen---alexandra-bje-2030-22-03-2026/601329085"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Orleans Masters Badminton 2026",
+            "team_a": "Thom GICQUEL / Delphine DELRUE",
+            "team_b": "Mathias CHRISTIANSEN /  Alexandra BØJE",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/5c6941aace9528826b2807b9d67b681e.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/35e0fb2c048b9546ec7f72d6017bb5fb.jpg",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4436e5de9354.png?v=1774189142",
+            "thumb_key": "thumbs/kaytee-4436e5de9354.webp"
           }
         }
       ]
