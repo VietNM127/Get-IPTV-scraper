@@ -8,6 +8,930 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-22T23:38:42.673690",
-  "groups": []
+  "updated_at": "2026-03-23T00:00:44.816627",
+  "groups": [
+    {
+      "id": "live_bóng_đá",
+      "name": "🔴 Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-8d4a5ad75740",
+          "name": "⚽ Portuguesa FC vs Rayo Zuliano | 05:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8d4a5ad75740.png?v=1774224027",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601319716",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601319716",
+                  "name": "Portuguesa FC vs Rayo Zuliano",
+                  "streams": [
+                    {
+                      "id": "st-601319716",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-da6ca9cffa",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/0c68f750d955f3b4dbd296777c93a547/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/portuguesa-fc-vs-rayo-zuliano-0530-23-03-2026/601319716"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Venezuela Primera Division",
+            "team_a": "Portuguesa FC",
+            "team_b": "Rayo Zuliano",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/8fbc742f43887294db63c7063486c82b.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/9ddddbf0ce5965f3da83e304f4c7b18e.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-8d4a5ad75740.png?v=1774224027",
+            "thumb_key": "thumbs/kaytee-8d4a5ad75740.webp"
+          }
+        },
+        {
+          "id": "kaytee-f3c10b2dfa79",
+          "name": "⚽ Santos Laguna vs Puebla | 06:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f3c10b2dfa79.png?v=1774224029",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601323886",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601323886",
+                  "name": "Santos Laguna vs Puebla",
+                  "streams": [
+                    {
+                      "id": "st-601323886",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-caa9f474b5",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69c06cc670a6a_88642/index.m3u8?expire=1774823238&sign=cf42c069831f71c7864d0541d9bf0180",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/santos-laguna-vs-puebla-0600-23-03-2026/601323886"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-9f49a2278f",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/2b2f70dc55beaf524926d957b244e6fe/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/santos-laguna-vs-puebla-0600-23-03-2026/601323886"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Mexico Liga MX",
+            "team_a": "Santos Laguna",
+            "team_b": "Puebla",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/2552214027525015c3545cff636f5e03.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/a98bd615308472b65dc82bcc3a2d54fb.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f3c10b2dfa79.png?v=1774224029",
+            "thumb_key": "thumbs/kaytee-f3c10b2dfa79.webp"
+          }
+        },
+        {
+          "id": "kaytee-4193cc7c1821",
+          "name": "⚽ Pachuca vs Toluca | 06:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4193cc7c1821.png?v=1774224031",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601323883",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601323883",
+                  "name": "Pachuca vs Toluca",
+                  "streams": [
+                    {
+                      "id": "st-601323883",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-44de516b11",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69c0729670a6a_124958/index.m3u8?expire=1774824726&sign=2e284c1e8a11ba829e826edb94ee684d",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/pachuca-vs-toluca-0600-23-03-2026/601323883"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-a61e6d0a0a",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/357ce818a80f629e49c67ff5a3baaf10/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/pachuca-vs-toluca-0600-23-03-2026/601323883"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Mexico Liga MX",
+            "team_a": "Pachuca",
+            "team_b": "Toluca",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/cff411edceeeb7c1677d9db65ce47164.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/725ccd5793be6b4f8dd917170dd17d04.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-4193cc7c1821.png?v=1774224031",
+            "thumb_key": "thumbs/kaytee-4193cc7c1821.webp"
+          }
+        },
+        {
+          "id": "kaytee-b8e191759516",
+          "name": "⚽ Boca Juniors vs Instituto de Córdoba | 06:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b8e191759516.png?v=1774224032",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601323880",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601323880",
+                  "name": "Boca Juniors vs Instituto de Córdoba",
+                  "streams": [
+                    {
+                      "id": "st-601323880",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1ac5732e4f",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/7b89acaaf3dffe5c339c04dfcc6cf03f/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/boca-juniors-vs-instituto-de-cordoba-0600-23-03-2026/601323880"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Argentine Division 1",
+            "team_a": "Boca Juniors",
+            "team_b": "Instituto de Córdoba",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/9ed2c4f6adc51975cdbd2a93093e6a43.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/a01279fdf6589b3c11529ca1ab4201fc.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-b8e191759516.png?v=1774224032",
+            "thumb_key": "thumbs/kaytee-b8e191759516.webp"
+          }
+        },
+        {
+          "id": "kaytee-893fbbc98284",
+          "name": "⚽ Sport Boys vs Sport Huancayo | 06:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-893fbbc98284.png?v=1774224035",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601323898",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601323898",
+                  "name": "Sport Boys vs Sport Huancayo",
+                  "streams": [
+                    {
+                      "id": "st-601323898",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0e4a6d70d7",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/2f2cbed74d88c95e4552597acb3d618a/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/sport-boys-vs-sport-huancayo-0600-23-03-2026/601323898"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Peruvian Liga 1",
+            "team_a": "Sport Boys",
+            "team_b": "Sport Huancayo",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/a50c3c04722ce6ef1516f6b984b94e07.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/5467a13f0c1c7b3a862587f64ba0a6ed.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-893fbbc98284.png?v=1774224035",
+            "thumb_key": "thumbs/kaytee-893fbbc98284.webp"
+          }
+        },
+        {
+          "id": "kaytee-f731af960e70",
+          "name": "⚽ Saint Louis Athletica (w) vs Tigres(w) | 06:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f731af960e70.png?v=1774224037",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601323895",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601323895",
+                  "name": "Saint Louis Athletica (w) vs Tigres(w)",
+                  "streams": [
+                    {
+                      "id": "st-601323895",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-dbd386fb85",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/844b0c7e8e189686488ea9f280d8a348/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/saint-louis-athletica-w-vs-tigresw-0600-23-03-2026/601323895"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Mexico Liga MX Femenil",
+            "team_a": "Saint Louis Athletica (w)",
+            "team_b": "Tigres(w)",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/f4cea9ea6b13a776e6b560ad2bf0bbe4.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/652f72cf824d752d94375426a432e86d.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-f731af960e70.png?v=1774224037",
+            "thumb_key": "thumbs/kaytee-f731af960e70.webp"
+          }
+        },
+        {
+          "id": "kaytee-35d4af99fccd",
+          "name": "⚽ Tampico Madero vs Tlaxcala FC | 06:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-35d4af99fccd.png?v=1774224039",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601323892",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601323892",
+                  "name": "Tampico Madero vs Tlaxcala FC",
+                  "streams": [
+                    {
+                      "id": "st-601323892",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-977d674e1c",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/c2e7a4a78c4f7308d09bb4767503ba93/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/tampico-madero-vs-tlaxcala-fc-0600-23-03-2026/601323892"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Mexico Ascenso MX",
+            "team_a": "Tampico Madero",
+            "team_b": "Tlaxcala FC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/8ca7ce17e1edd9f9e517060d10cb0680.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/92b3930be1795a5c2b97a7e19f46a277.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-35d4af99fccd.png?v=1774224039",
+            "thumb_key": "thumbs/kaytee-35d4af99fccd.webp"
+          }
+        },
+        {
+          "id": "kaytee-e8830c00bf4c",
+          "name": "⚽ San Diego FC vs Real Salt Lake | 06:10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e8830c00bf4c.png?v=1774224042",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601323877",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601323877",
+                  "name": "San Diego FC vs Real Salt Lake",
+                  "streams": [
+                    {
+                      "id": "st-601323877",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-81f5edcf53",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69c06ed170a6a_128756/index.m3u8?expire=1774823761&sign=448c7b808d0b8048a68a246af3dbc8ca",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/san-diego-fc-vs-real-salt-lake-0610-23-03-2026/601323877"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-b52b592082",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/13db99cae6b119c96ac03168d99f1d20/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/san-diego-fc-vs-real-salt-lake-0610-23-03-2026/601323877"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "United States Major League Soccer",
+            "team_a": "San Diego FC",
+            "team_b": "Real Salt Lake",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/4431a6b60ebf9369297717921a290687.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/88620f5162fd07e31d46b44f848bd9e5.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-e8830c00bf4c.png?v=1774224042",
+            "thumb_key": "thumbs/kaytee-e8830c00bf4c.webp"
+          }
+        },
+        {
+          "id": "kaytee-15324ba5fb52",
+          "name": "⚽ Corinthians Paulista (SP) vs CR Flamengo | 06:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-15324ba5fb52.png?v=1774224043",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601323925",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601323925",
+                  "name": "Corinthians Paulista (SP) vs CR Flamengo",
+                  "streams": [
+                    {
+                      "id": "st-601323925",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6ca225818f",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69c0744c326da_133172/index.m3u8?expire=1774825164&sign=26e6f47e16687459ff936f55ec2b5710",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/corinthians-paulista-sp-vs-cr-flamengo-0630-23-03-2026/601323925"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-f0e9781288",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/69593c45c0de1e592b273e0f6c74a9b2/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/corinthians-paulista-sp-vs-cr-flamengo-0630-23-03-2026/601323925"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Brazilian Serie A",
+            "team_a": "Corinthians Paulista (SP)",
+            "team_b": "CR Flamengo",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/aa4d61da1df31972e52e1e62f90ec558.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/f19b2f9fa5b0c72acc262bc4f0d2cd77.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-15324ba5fb52.png?v=1774224043",
+            "thumb_key": "thumbs/kaytee-15324ba5fb52.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_bóng_rổ",
+      "name": "🔴 Live 🏀 Bóng Rổ",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-6f68e33438f0",
+          "name": "🏀 Sacramento Kings vs Brooklyn Nets | 05:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6f68e33438f0.png?v=1774224025",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601326679",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601326679",
+                  "name": "Sacramento Kings vs Brooklyn Nets",
+                  "streams": [
+                    {
+                      "id": "st-601326679",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-37a057127c",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69c0608170a6a_72787/index.m3u8?expire=1774820097&sign=f94b5a12f0febe0b9e3a86b764c6a30f",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/sacramento-kings-vs-brooklyn-nets-0500-23-03-2026/601326679"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NBA",
+            "team_a": "Sacramento Kings",
+            "team_b": "Brooklyn Nets",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/1c1bdb90a0592bc8f82c42c0448fc4d2.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/5415962da94fa796f30cf36dcaab4898.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6f68e33438f0.png?v=1774224025",
+            "thumb_key": "thumbs/kaytee-6f68e33438f0.webp"
+          }
+        },
+        {
+          "id": "kaytee-6b83706ae2db",
+          "name": "🏀 New York Knicks vs Washington Wizards | 06:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6b83706ae2db.png?v=1774224044",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601326682",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601326682",
+                  "name": "New York Knicks vs Washington Wizards",
+                  "streams": [
+                    {
+                      "id": "st-601326682",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-23c03f2097",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69c07774326da_145690/index.m3u8?expire=1774825972&sign=252a0dbc7bb7b97baae137dfb9749cc1",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/new-york-knicks-vs-washington-wizards-0630-23-03-2026/601326682"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NBA",
+            "team_a": "New York Knicks",
+            "team_b": "Washington Wizards",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/c970d7df9c0cf1411c1322724ca253d9.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/c40200654bbbf3f99c058cea77120aaf.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-6b83706ae2db.png?v=1774224044",
+            "thumb_key": "thumbs/kaytee-6b83706ae2db.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_tennis",
+      "name": "🔴 Live 🎾 Tennis",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-ce591b3df3ec",
+          "name": "🎾 A. Sabalenka vs Caty McNally | 06:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ce591b3df3ec.png?v=1774224040",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601329289",
+              "name": "Bánh Bao TV",
+              "contents": [
+                {
+                  "id": "ct-601329289",
+                  "name": "A. Sabalenka vs Caty McNally",
+                  "streams": [
+                    {
+                      "id": "st-601329289",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-147ee8f9f0",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69c0744f326da_110198/index.m3u8?expire=1774825167&sign=8948755647c238b6ed1882b11a21ff3f",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/a-sabalenka-vs-caty-mcnally-0600-23-03-2026/601329289"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ATP MIAMI 2026",
+            "team_a": "A. Sabalenka",
+            "team_b": "Caty McNally",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/3f63a20d578d6a1172703cbaf46fc3dd.webp",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/164e66c01f007e3ad7a64a2525d241b4.png",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-ce591b3df3ec.png?v=1774224040",
+            "thumb_key": "thumbs/kaytee-ce591b3df3ec.webp"
+          }
+        }
+      ]
+    }
+  ]
 }
