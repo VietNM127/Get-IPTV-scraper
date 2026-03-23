@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/banhbao_logo.jpg"
   },
-  "updated_at": "2026-03-23T03:18:05.445639",
+  "updated_at": "2026-03-23T03:23:23.799392",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,92 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-539c2d2d03fc",
-          "name": "⚽ Argentinos Juniors vs CA Platense | 08:15",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-539c2d2d03fc.png?v=1774235882",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601323955",
-              "name": "Bánh Bao TV",
-              "contents": [
-                {
-                  "id": "ct-601323955",
-                  "name": "Argentinos Juniors vs CA Platense",
-                  "streams": [
-                    {
-                      "id": "st-601323955",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c9ea75589c",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69c08fed326da_73445/index.m3u8?expire=1774832237&sign=1bc6555b235e93665bbda802a837cc46",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/argentinos-juniors-vs-ca-platense-0815-23-03-2026/601323955"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-68b55b4eaf",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/d4d921027921e187589f81e6c77888d1/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/argentinos-juniors-vs-ca-platense-0815-23-03-2026/601323955"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Argentine Division 1",
-            "team_a": "Argentinos Juniors",
-            "team_b": "CA Platense",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/5d8f8c8c289dbb2d67203988c8275cbc.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/df9d41a492e324ad411a3e39c7935352.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-539c2d2d03fc.png?v=1774235882",
-            "thumb_key": "thumbs/kaytee-539c2d2d03fc.webp"
-          }
-        },
         {
           "id": "kaytee-72caeda07fad",
           "name": "⚽ Real Cartagena vs Union Magdalena | 08:30",
@@ -113,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-72caeda07fad.png?v=1774235884",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-72caeda07fad.png?v=1774236202",
             "width": 1600,
             "height": 1200
           },
@@ -168,7 +82,7 @@
             "team_b": "Union Magdalena",
             "logo_a": "https://cdn.rapid-api.icu/football/team/043a70a1b54a7fcc970fbe3053996fa0.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/d2c9d435710709d0be9a6dc06ff78a29.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-72caeda07fad.png?v=1774235884",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-72caeda07fad.png?v=1774236202",
             "thumb_key": "thumbs/kaytee-72caeda07fad.webp"
           }
         },
@@ -182,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2653803d4a22.png?v=1774235885",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2653803d4a22.png?v=1774236203",
             "width": 1600,
             "height": 1200
           },
@@ -237,7 +151,7 @@
             "team_b": "Austin FC II",
             "logo_a": "https://cdn.rapid-api.icu/football/team/ff0d0739c041ad09fdc99db4c355a932.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/711b58aca949c7b98ae560b5d9f17c55.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2653803d4a22.png?v=1774235885",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-2653803d4a22.png?v=1774236203",
             "thumb_key": "thumbs/kaytee-2653803d4a22.webp"
           }
         }
@@ -260,7 +174,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-745be640f018.png?v=1774235881",
+            "url": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-745be640f018.png?v=1774236201",
             "width": 1600,
             "height": 1200
           },
@@ -315,7 +229,7 @@
             "team_b": "Toronto Raptors",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/4eacc3f1b4114a379187c9c2892a4d8a.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/37dcfa88b83f00183d5fd92eac098699.png",
-            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-745be640f018.png?v=1774235881",
+            "thumb": "https://raw.githubusercontent.com/VietNM127/Get-IPTV-scraper/main/thumbs/kaytee-745be640f018.png?v=1774236201",
             "thumb_key": "thumbs/kaytee-745be640f018.webp"
           }
         }
